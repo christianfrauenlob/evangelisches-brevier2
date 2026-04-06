@@ -1,0 +1,277 @@
+{
+  "id": "karwoche",
+  "titel": "Die Karwoche",
+  "kirchenzeit": "karwoche",
+  "reihe": 1,
+  "seiten": [628, 661],
+  "status": "fertig",
+  "tage": [
+    {
+      "id": "palmarum_so",
+      "titel": "Sonntag Palmarum",
+      "wochentag": "Sonntag",
+      "seiten": [628, 632],
+      "stunden": {
+        "morgen": [
+          { "typ": "leitwort", "zeilen": ["HErr, sei nicht fern, meine Stärke;", "Eile, mir zu helfen."] },
+          { "typ": "psalm", "nummern": [22, 10] },
+          { "typ": "lied", "titel": "Der an dem Kreuze ist wahrer Gott", "melodie": "5", "strophen": [{ "links": ["Der an dem Kreuze ist wahrer Gott.", "Würden wir gleich aller Welt zum Spott:", "Das ist unsre Losung, daran man spüret.", "Ob uns der Name der Brüder gebühret:", "Das Schibboleth."], "rechts": ["Jesum verloren am Kreuzesholz,", "Wo Er aus Liebe für uns zerschmolz,", "Jesum aus den Augen und aus dem Herzen", "Machet die Seele voll Höllenschmerzen;", "Ja, das weiß Gott."] }] },
+          { "typ": "spruch", "zeilen": ["Siehe: ich komme; im Buch ist von mir geschrieben.", "Deinen Willen, mein Gott, tue ich gerne."] },
+          { "typ": "lesung", "ref": "Evangelium S. Johannis 12, 12–18.", "text": "Des andern Tages, da viel Volks, das aufs Fest kommen war, hörete, daß Jesus käme gen Jerusalem, nahmen sie Palmenzweige, und gingen hinaus Ihm entgegen, und schrieen: Hosianna! Gelobet sei, Der da kommt in dem Namen des HErrn, der König von Israel! Jesus aber überkam ein Eselein, und ritt drauf; wie denn geschrieben stehet: Fürchte dich nicht, du Tochter Zion; siehe: dein König kommt reitend auf einem Eselsfüllen. Solches aber verstunden Seine Jünger zuvor nicht; sondern da Jesus verkläret ward, da dachten sie dran, daß solches war von Ihm geschrieben, und sie solches Ihm getan hatten. Das Volk aber, das mit Ihm war, da Er Lazarus aus dem Grabe rief und von den Toten auferweckte, rühmete die Tat. Darum ging Ihm auch das Volk entgegen, daß sie höreten, Er hätte solches Zeichen getan." },
+          { "typ": "vaeterstimme", "quelle": "Löbe", "text": "Dem willigen, liebevollen, mächtigen, hilfreichen Helfer sei am Anfang der Gedächtniswoche Seiner Todesleiden Lob und Preis gesagt! Er, Dem Sein Volk Hosianna gesungen hat, Dem nun ewig zu singen bereitet ist, bereite uns durch Seinen östlichen Hallelujah! Und ein Gebet steige von uns zu Ihm auf in dieser Woche, ein Gebet, über dem wir, treue Brüder, eins werden wollen, wie uns der HErr befohlen hat, eins zu werden über allem, das wir bitten wollen. Hosianna Ihm — und uns, wenn wir Sein Wort hören. Hosianna, wenn wir zum Sakrament geben. Hosianna, wenn wir in Versuchung zu Sünden stehen. Hosianna, wenn wir sterben. Hosianna, wenn wir eingehen ins ewige Leben. Hosianna, wenn wir auferstehen, und im jüngsten Gericht." },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Hosianna dem Sohne Davids!", "Gelobt sei Der da kommt im Namen des HErrn."] },
+          { "typ": "gebet", "text": "HErr Gott himmlischer Vater, Der Du uns arme Menschen zu erlösen Deinen Sohn in die Welt kommen lassen, Welcher Sich auch, als Seine Zeit herbeigenaht, williglig Sich für uns zu opfern in Jerusalem eingestellete: Wir bitten Dich, laß uns solches Sein Leiden in unsern Sündennot zu statten kommen, und gib, daß wir alles Leiden, so Du über uns kommen lässest, willigich anstehen; um Jesu Christi . .", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "leitwort", "zeilen": ["Errette meine Seele von dem Schwerte, und meine Einsame von den Hunden.", "Hilf mir aus dem Rachen des Löwen, und errette mich von den Einbörnern."] },
+          { "typ": "sondertext", "titel": "Dominica in palmis", "untertitel": "Gloria laus et honor", "absätze": ["Gloria laus et honor tibi sit rex Christe redemptor, / Cui puerile decus prompsit Hosanna pium. / Israel es tu rex, Davidis et inclyta proles, / Nomine qui in Domini rex benedicte venis. || Ruhm und Lob und Ehre sei Dir Christus, König, Erlöser, / Welchem die kindliche Schar frommes Hosanna gebracht. / Du bist Israels König und Davids herrlicher Sprößling, / Der Du im Namen des HErrn als ein Gesegneter kommst.", "Coetus in excelsis te laudat coelicus omnis / Et mortalis homo, cuncta creata simul. || Dir lobsingt in der Höhe die Menge der himmlischen Heerschar, / Dir der sterbliche Mensch, alle Geschöpfe zumal. / Dir ging einst das hebräische Volk mit Palmen entgegen; / Sieh: mit Gebet und Gesang nahen, o König, auch wir."] },
+          { "typ": "psalm", "nummern": [118] },
+          { "typ": "lesung", "ref": "Sacharja 9, 8–12.", "text": "Und Ich will Selbst um Mein Haus das Lager sein wider Kriegsvolk, daß es nicht dürfe hin und herziehen, daß nicht mehr über sie fahre der Treiber; denn Ich habe es nun angesehen mit Meinen Augen. Aber du, Tochter Zion, freue dich sehr, und du, Tochter Jerusalem, jauchze; siehe: dein König kommt zu dir, ein Gerechter und ein Helfer, arm, und reitet auf einem Esel und auf einem jungen Füllen der Eselin. Denn Ich will die Wagen abtun von Ephraim und die Rosse von Jerusalem, und der Streitbogen soll zerbrochen werden. Denn Er wird Frieden lehren unter den Heiden, und Seine Herrschaft wird sein von einem Meer bis ans andre und vom Strom bis an der Welt Ende. Auch lasse Ich durchs Blut deines Bundes los deine Gefangenen aus der Grube, da kein Wasser innen ist." },
+          { "typ": "antwort", "absätze": [{ "art": "text", "inhalt": "Da der HErr zur heiligen Stadt eintrat, machte das Volk der Hebräer einen Aufstand mit Palmenzweigen und riefen: Hosianna! Da sie gehöret hatten, daß Jesus komme nach Jerusalem, gingen sie Ihm entgegen mit Palmenzweigen und riefen: Hosianna." }] }
+        ],
+        "abend": [
+          { "typ": "leitwort", "zeilen": ["Errette mich, o mein Gott, von den Uebeltätern.", "Errette mich, HErr, von den bösen Menschen, behüte mich vor den freveln Leuten."] },
+          { "typ": "psalm", "nummern": [114, 115] },
+          { "typ": "lesung", "ref": "Brief S. Pauli an die Philipper 2, 5–11.", "text": "Ein Jeglicher sei gesinnet, wie Jesus Christus auch war, Welcher ob Er wohl in göttlicher Gestalt war, hielt Er's nicht für einen Raub, Gott gleich sein, sondern äußerte Sich Selbst, und nahm Knechtsgestalt an, ward gleichwie ein andrer Mensch, und an Gebärden als ein Mensch erfunden; erniedrigte Sich Selbst, und ward gehorsam bis zum Tode, ja, zum Tode am Kreuz. Darum hat Ihm auch Gott erhöhet, und hat Ihm einen Namen gegeben, der über alle Namen ist, daß in dem Namen Jesu sich beugen sollen alle Derer Kniee, die im Himmel und auf Erden und unter der Erde sind, und alle Zungen bekennen sollen, daß Jesus Christus der HErr sei, zur Ehre Gottes, des Vaters." },
+          { "typ": "lied", "titel": "Der an dem Kreuze ist wahrer Gott", "fortsetzung": true, "strophen": [{ "links": ["Wollt ihr Posaunen der Gnade sein:", "Räumt euch der Gnade erst selber ein;", "Werdet durch die Wunder, die ihr verkündigt,", "Selbst mit Gott ausgesöhnt und entsündigt:", "Darnach bekennt!"], "rechts": ["Lebt man, so zeugt man mit einer Kraft,", "Die mit Widerhaken im Herzen haft.", "Geht man aus der Hütte, das Lamm zu küssen,", "Wird noch der letzte Blick zeugen müssen,", "Daß wir geglaubt."] }] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Ich will den Hirten schlagen, und die Schafe der Herde werden sich zerstreuen.", "Wenn Ich aber auferstehe, will Ich vor euch hingehen nach Galiläa."] },
+          { "typ": "gebet", "text": "Allmächtiger ewiger Gott, Der Du für das menschliche Geschlecht, dem Beispiel der Demut nachzufolgen, unsern Heiland Fleisch und Blut annehmen und ans Kreuz hast schlagen lassen: Verleihe uns gnädiglich, daß wir von Ihm beide: eine Unterweisng der Geduld und auch die Gemeinschaft Seiner fröhlichen Auferstebung erlangen mögen, durch Denselben . .", "amen": "Amen." }
+        ]
+      }
+    },
+    {
+      "id": "palmarum_mo",
+      "titel": "Montag nach Palmarum",
+      "wochentag": "Montag",
+      "seiten": [632, 636],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": [17] },
+          { "typ": "lied", "titel": "Preis Lob Ehr Ruhm", "strophen": [{ "links": ["Preis Lob Ehr Ruhm Dank Kraft und Macht", "Sei dem erwürgten Lamm gesungen,", "Das uns zu Seinem Reich gebracht", "Und teur erkauft aus allen Zungen;", "In Ihm sind wir zur Seligkeit bedacht,", "Eh noch der Grund der ganzen Welt gemacht."], "rechts": ["Wie heilig heilig heilig ist", "Der HErr der Herren und Heerscharen,", "Der uns geliebet in Jesu Christ,", "Da wir noch Seine Feinde waren;", "Und Seinen Sohn zu eigen uns geschenkt,", "Sein Herz der Lieb in unser Herz versenkt."] }] },
+          { "typ": "lesung", "ref": "Evangelium S. Johannis 12, 1–8.", "text": "Sechs Tage vor den Ostern kam Jesus gen Bethanien, da Lazarus war, der Verstorbene, welchen Jesus auferwecket hatte von den Toten. Daselbst machten sie Ihm ein Abendmahl, und Martha aber war Der einer, die mit Ihm zu Tische saßen. Da nahm Maria ein Pfund Salbe von ungefälschter, köstlicher Narde, und salbete die Füße Jesu, und trocknete mit ihrem Haare Seine Füße; das Haus aber ward voll vom Geruch der Salbe. Da sprach Seiner Jünger einer: Judas, Simons Sohn, Ischarioth, der Ihn hernach verriet: Warum ist diese Salbe nicht verkauft um dreihundert Groschen, und den Armen gegeben? Das sagte er aber nicht, daß er nach den Armen fragte, sondern er war ein Dieb, und hatte den Beutel, und trug, was gegeben ward. Da sprach Jesus: Laß sie mit Frieden; solches hat sie behalten zum Tage Meiner Begräbnis. Denn Arme habt ihr allezeit bei euch; Mich aber habt ihr nicht allezeit." },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Verkläre mich nun, o Vater, bei Dir Selbst", "Mit der Klarheit, die Ich bei Dir hatte, ehe die Welt war."] },
+          { "typ": "gebet", "text": "Allmächtiger Gott, wir bitten Dich: verleihe uns, da wir in so mancherlei Gefahren um unserer Schwachheit willen nicht bestehen können, daß wir durch das sieghafte Leiden Deines Eingeborenen Sohnes wieder aufatmen können; durch . .", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "lied", "titel": "Preis Lob Ehr Ruhm", "fortsetzung": true, "strophen": [{ "links": ["Ihm, Der da lebt in Ewigkeit,", "Sei Lob Ehr Preis und Dank gesungen", "Von Seiner Braut, der Christenheit;", "Ihn loben Mensch- und Engelzungen.", "Es jauchze Ihm der Himmel Himmelsheer", "Und was das Wort je ausgesprochen mehr."], "rechts": null }] },
+          { "typ": "psalm", "nummern": [32] },
+          { "typ": "lesung", "ref": "2. Buch Mose 6, 1–9.", "text": "Der HErr sprach zu Mose: Nun sollst du sehen, was Ich Pharao tun werde; denn durch eine starke Hand muß er sie lassen ziehen, er muß sie noch durch eine starke Hand aus seinem Lande von sich treiben. Und Gott redete mit Mose und sprach zu ihm: Ich bin der HErr, und bin erschienen Abraham, Isaak und Jakob als der allmächtige Gott; aber Mein Name: HErr ist ihnen nicht offenbaret worden. Auch hab Ich Meinen Bund mit ihnen aufgerichtet, daß Ich ihnen geben will das Land Kanaan, das Land ihrer Wallfahrt, darinnen sie Fremdlinge gewesen sind. Auch hab Ich gehöret die Wekklage der Kinder Israel, welche die Aegypter mit Frönen beschweren, und habe an Meinen Bund gedacht. Darum sage den Kindern Israel: Ich bin der HErr, und will euch ausführen von euren Lasten in Aegypten, und will euch erretten von eurem Frönen, und will euch erlösen durch einen ausgereckten Arm und große Gerichte; und will euch annehmen zum Volk, und will euer Gott sein." }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": [120] },
+          { "typ": "lesung", "ref": "Brief an die Hebräer 12, 1–6.", "text": "Darum auch wir, dieweil wir eine solche Wolke von Zeugen um uns haben, lasset uns ablegen die Sünde, so uns immer anklebt und träge macht, und lasset uns laufen durch Geduld in dem Kampf, der uns verordnet ist, und aufsehen auf Jesum, den Anfänger und Vollender des Glaubens; Welcher ob Er wohl hätte mögen Freude haben, erduldete Er das Kreuz, und achtete der Schande nicht, und ist gesessen zur Rechten auf dem Stuhl Gottes. Gedenket an Den, Der ein solches Widersprechen von den Sündern wider Sich erduldet hat, daß ihr nicht matt werdet in eurem Mut und ablasset." },
+          { "typ": "lied", "titel": "Preis Lob Ehr Ruhm", "fortsetzung": true, "strophen": [{ "links": ["Die höchstgelobte Majestät", "Der heilgen Einheit sei erhoben,", "Die in Sich Selber wohnt und steht;", "Sie müssen alle Dinge loben.", "In Ihr bestehet das Freudenlebenslicht,", "Von dessen Blick die düstre Welt zerbricht."], "rechts": ["Des Stadt, die schönste Zion, ist", "Mit Edelstein und Perlenthoren", "Erbaut zum Lobe Jesu Christ", "für uns, die Er Sich auserkoren.", "Wir jauchzen Dir mit Dank Lob Preis und Ruhm.", "O Freund, o Lust, o Licht, o Lebensblum!"] }] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Du bättest keine Macht über Mich,", "Wenn sie dir nicht wäre von oben herab gegeben."] },
+          { "typ": "gebet", "text": "Steh uns bei, HErr unser Heil, und laß uns freudig zum Empfang jener Wohltaten gelangen, durch welche Du uns gnädig hast erneuern wollen.", "amen": "Amen." }
+        ]
+      }
+    },
+    {
+      "id": "palmarum_di",
+      "titel": "Dienstag nach Palmarum",
+      "wochentag": "Dienstag",
+      "seiten": [636, 639],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": [31] },
+          { "typ": "lied", "titel": "Christus, Der uns selig macht", "melodie": "26", "strophen": [
+              { "links": ["Christus, Der uns selig macht,", "Kein Bös hat begangen,", "Ward für uns zur Mitternacht", "Als ein Dieb gefangen,", "Geführt vor gottlose Leut", "Und fälschlich verklaget,", "Verlacht, verhöhnt und verspeit,", "Wie denn die Schrift saget."], "rechts": ["Um drei (9 Uhr) ward der Gottessohn", "Mit Geißeln geschmissen", "Und Sein Haupt mit einer Kron", "Von Dornen zerrissen,", "Gekleidet zu Hohn und Spott", "Ward Er sehr geschlagen,", "Und das Kreuz zu Seinem Tod", "Mußt Er Selber tragen."] },
+              { "links": ["In der ersten (6 Uhr) Tagessund", "Ward Er unbescheiden", "Als ein Mörder dargestellt", "Pilato dem Heiden,", "Der Ihn unschuldig befand", "Ohn Ursach des Todes,", "Ihn derhalben von sich sandt", "Zum König Herodes."], "rechts": ["Um sechs (12 Uhr) ward Er nackt und bloß", "An das Kreuz geschlagen,", "An dem Er Sein Blut vergoß,", "Betet mit Webklagen,", "Die Zuseher spotten Sein,", "Auch die bei Ihm hingen,", "Bis die Sonn auch ihren Schein", "Entzog solchen Dingen."] }
+            ]
+          },
+          { "typ": "lesung", "ref": "Evangelium S. Marci 14, 43–50.", "text": "Und alsbald, da Er noch redete, kam herzu Judas, der Zwölfe einer, und eine große Schar mit ihm, mit Schwertern und mit Stangen, von den Hohenpriestern und Schriftgelehrten und Aeltesten. Und der Verräter hatte ihnen ein Zeichen gegeben, und gesagt: Welchen ich küssen werde, Der ist's; Den greifet, und führet Ihn sicher. Und da er kam, trat er alsbald zu Ihm, und sprach zu Ihm: Rabbi, Rabbi! und küßte Ihn. Die aber legten ihre Hände an Ihn, und griffen Ihn. Einer aber von denen, die dabei stunden, zog sein Schwert aus, und schlug des Hohenpriesters Knecht, und hieb ihm ein Ohr ab. Und Jesus antwortete und sprach zu ihnen: Ihr seid ausgegangen, als zu einem Mörder, mit Schwertern und mit Stangen, Mich zu faben; Ich bin täglich bei euch im Tempel gewesen, und habe gelehret, und ihr habt Mich nicht gegriffen; aber auf daß die Schrift erfüllet werde. Und die Jünger verließen Ihn Alle, und flohen." },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Wie Er die Seinen geliebet hatte,", "So liebte Er sie bis zuletzt."] },
+          { "typ": "gebet", "text": "Allmächtiger ewiger Gott, laß uns die heilige Feier der Leiden unseres HErrens so begehen, daß wir gewürdigt werden, Verzeihung zu erlangen.", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "lied", "titel": "Christus, Der uns selig macht", "melodie": "26", "fortsetzung": true, "strophen": [{ "links": ["Jesus schrie zur neunten Stund (3 Uhr),", "Klaget Sich verlassen;", "Bald ward Gall in Seinen Mund", "Mit Essig gelassen;", "Da gab Er auf Seinen Geist,", "Und die Erd erhebet;", "Des Tempels Vorhang zerreißt,", "Und manch Fels zerstöbet."], "rechts": null }] },
+          { "typ": "psalm", "nummern": [44] },
+          { "typ": "lesung", "ref": "Jeremia 18, 11–14.", "text": "So sprich nun zu Denen in Juda und zu den Bürgern zu Jerusalem: So spricht der HErr: Siebe, Ich bereite euch ein Unglück zu, und habe Gedanken wider euch; darum kehre sich ein Jeglicher von seinem bösen Wesen, und bessert euer Wesen und Tun. Aber sie sprechen: Da wird nichts aus; wir wollen nach unsern Gedanken wandeln, und ein Jeglicher tun nach Gedünken seines bösen Herzens. Darum spricht der HErr: Fragt doch unter den Heiden, wer hat je desgleichen gehört? Daß die Jungfrau Israel sich gar greulich Ding tut! Bleibt doch der Schnee länger auf den Steinen im Felde, wenn's vom Libanon herabschneiet, und das Regenwasser verschießt nicht so bald, als mein Volk Mein vergiset." }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": [12] },
+          { "typ": "lesung", "ref": "Brief S. Pauli an die Römer 9, 30–33.", "text": "Was wollen wir nun hie sagen? Das wollen wir sagen: Die Heiden, die nicht haben nach der Gerechtigkeit getrachtet, haben die Gerechtigkeit erlanget; ich sage aber von der Gerechtigkeit, die aus dem Glauben kommt. Israel aber hat dem Gesetz der Gerechtigkeit nachgetrachtet, und hat das Gesetz der Gerechtigkeit nicht erreicht. Warum das? Darum, daß sie es nicht aus dem Glauben, sondern als aus den Werken des Gesetzes suchen. Denn sie haben sich gestoßen an den Stein des Anlaufens; und wer an ihn glaubet, der soll nicht zu Schanden werden." },
+          { "typ": "lied", "titel": "Christus, Der uns selig macht", "melodie": "26", "fortsetzung": true, "strophen": [{ "links": ["Da man hat zur Vesperzeit", "Die Schächer zerbrochen,", "Ward Jesus in Seine Seit", "Mit ein'm Speer gestochen;", "Daraus Blut und Wasser rann,", "Die Schrift zu erfüllen,", "Wie Johannes zeiget an,", "Nur um unsertwillen."], "rechts": ["Da der Tag sein Ende nahm,", "Der Abend war kommen,", "Ward Jesus vons Kreuzes Stamm", "Durch Joseph genommen;", "Herrlich nach jüdischer Art", "In ein Grab geleget,", "Allda mit Hütern verwahrt,", "Wie Matthäus zeuget."] }] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Ich habe Macht, Mein Leben zu lassen,", "Und habe Macht, es wiederzunehmen."] },
+          { "typ": "gebet", "text": "Deine Barmherzigkeit, o HErr, reinige uns völlig von allen verborgenen Resten des alten Adam und mache uns tüchtig für das neue heilige Leben.", "amen": "Amen." }
+        ]
+      }
+    },
+    {
+      "id": "palmarum_mi",
+      "titel": "Mittwoch nach Palmarum",
+      "wochentag": "Mittwoch",
+      "seiten": [639, 642],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": [49] },
+          { "typ": "lied", "titel": "O hilf, Christe Gottes Sohn", "melodie": "81 u. 82", "strophen": [
+              { "links": ["Da Jesus an dem Kreuze stund", "Und Ihm Sein Leichnam ward verwundt", "So gar mit bittern Schmerzen:", "Die sieben Wort, die Jesus sprach,", "Betracht in deinem Herzen."], "rechts": null },
+              { "links": ["Zum Ersten sprach Er füßiglich", "Zu Seinem Vater im Himmelreich", "Mit Kräften und mit Sinnen:", "Vergib ihn'n, Vater, sie wissen nicht,", "Was sie an Mir beginnen."], "rechts": ["Zum Andern gedenk der großen Gnad,", "Die Gott dem Schächer bewiesen hat,", "Sprach Gott gar gnädiglich:", "Fürwahr, du wirst heut bei Mir sein", "In Meines Vaters Reiche."] },
+              { "links": ["Zum dritten gedenk Seiner großen Not,", "Laß dir die Red nicht sein ein Spott:", "Weib, schau dein'n Sohn gar eben;", "Johannes, nimm deiner Mutter wahr,", "Sollst ihr gar eben pflegen."], "rechts": null }
+            ]
+          },
+          { "typ": "lesung", "ref": "Evangelium S. Lucae 23, 1–12.", "text": "Und der ganze Haufe stund auf, und führeten Ihn vor Pilatus; und fingen an, Ihn zu verklagen, und sprachen: Diesen finden wir, daß Er das Volk abwendet, und verbietet, dem Schoß dem Kaiser zu geben, und spricht: Er sei Christus, ein König. Pilatus aber fragte Ihn und sprach: Bist Du der Juden König? Er antwortete ihm und sprach: Du sagts's. Pilatus sprach zu den Hohenpriestern und zum Volk: Ich finde keine Ursache an diesem Menschen. Sie aber hielten an, und sprachen: Er hat das Volk erregt, damit daß Er lehret durch das ganze jüdische Lande, und hat in Galiläa angefangen bis hieher. Da aber Pilatus Galiläa hörete, fragete er, ob Er aus Galiläa wäre. Und als er vernahm, daß Er unter Herodes' Obrigkeit gehörte, übersandte er Ihn zu Herodes. Da aber Herodes Jesum sah, ward er sehr froh; und er fragte Ihn mancherlei; Er antwortete ihm aber nichts. Die Hohenpriester aber und Schriftgelehrten stunden, und verklagten Ihn hart. Aber Herodes mit seinem Hofgesinde verachtete und verspottete Ihn, legte Ihm ein weiß Kleid an, und sandte Ihn wieder zu Pilatus." },
+          { "typ": "gebet", "text": "Verleihe uns — wir bitten Dich, allmächtiger Gott — daß wir, die wir ob unserer Sünden ständig in Not sind, durch das Leiden Deines Eingeborenen Sohnes davon befreit werden.", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "lied", "titel": "O hilf, Christe Gottes Sohn", "fortsetzung": true, "strophen": [{ "links": ["Nun merket was das viert Wort was:", "Mich dürst so hart ohn Unterlaß!", "Schrie Gott mit lauter Stimme.", "Das menschlich Heil tät Er begehren,", "Der Nägel ward Er empfinden."], "rechts": null }] },
+          { "typ": "psalm", "nummern": [59] },
+          { "typ": "lesung", "ref": "Jeremia 9, 16–21.", "text": "So spricht der HErr Zebaoth: Schaffset und bestellet Klageweibern, daß sie kommen, und schickt nach Denen, die es wohl können, und eilend uns klagen, daß unsre Augen mit Thränen rinnen, und unsre Augenlider mit Wasser fließen; daß man ein kläglich Geschrei höre zu Zion: Ach, wie sind wir so gar verstöret, und zu Schanden worden! Wir müssen das Land räumen, denn sie haben unsre Wohnungen geschleift. So höret nun, ihr Weiber, des HErrn Wort, und nehmet zu Ohren Seines Mundes Rede; lehret eure Töchter weinen, und Eine lehre die Andere klagen: Der Tod ist zu unsern Fenstern hereingefallen, und in unsre Paläste kommen, die Kinder zu würgen auf der Gasse und die Jünglinge auf der Straße." }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": [54] },
+          { "typ": "lesung", "ref": "Brief an die Hebräer 9, 23–28.", "text": "So mußten nun der himmlischen Dinge Vorbilder mit solchem gereiniget werden; aber sie selbst, die himmlischen, müssen bessere Opfer haben, denn jene waren. Denn Christus ist nicht eingegangen in das Heilige, so mit Händen gemacht ist, sondern in den Himmel selbst, nun zu erscheinen vor dem Angesichte Gottes für uns. Nun aber, am Ende der Welt, ist Er einmal erschienen, durch Sein eigen Opfer die Sünde aufzuheben. Und wie den Menschen ist gesetzt, einmal zu sterben, darnach aber das Gericht: Also ist Christus einmal geopfert, wegzunehmen Vieler Sünden; zum andernmal wird Er ohne Sünde erscheinen Denen, die Ihn warten, zur Seligkeit." },
+          { "typ": "lied", "titel": "O hilf, Christe Gottes Sohn", "fortsetzung": true, "strophen": [{ "links": ["O hilf, Christe Gottes Sohn,", "Durch Dein bitter Leiden,", "Daß wir Dir stets untertan", "All Untugend meiden,", "Deinen Tod und sein Ursach", "Fruchtbarlich bedenken,", "Dafür — wiewohl arm und schwach —", "Dir Dankopfer schenken."], "rechts": null }] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Ich habe Macht, Mein Leben zu lassen,", "Und habe Macht, es wiederzunehmen."] },
+          { "typ": "gebet", "text": "Deine Barmherzigkeit, o HErr, reinige uns völlig von allen verborgenen Resten des alten Adam und mache uns tüchtig für das neue heilige Leben.", "amen": "Amen." }
+        ]
+      }
+    },
+    {
+      "id": "palmarum_do",
+      "titel": "Donnerstag nach Palmarum",
+      "untertitel": "Gründonnerstag",
+      "wochentag": "Donnerstag",
+      "seiten": [642, 649],
+      "stunden": {
+        "morgen": [
+          { "typ": "leitwort", "zeilen": ["Er wird den Armen erretten, der da schreit,", "Und den Elenden, der keinen Helfer hat."] },
+          { "typ": "psalm", "nummern": [67, 70] },
+          { "typ": "lied", "titel": "Erbarm Dich mein", "strophen": [{ "links": ["Erbarm Dich mein, o HErre Gott,", "Nach Deiner großn Barmherzigkeit;", "Wasch ab, mach rein mein Missetat:", "Ich kenn mein Sünd, und ist mir leid.", "Allein ich Dir gesündigt hab,", "Das ist wider mich stetiglich!", "Das Bös vor Dir mag nicht bestahn,", "Du bleibst gerecht, ob Du urteilest mich."], "rechts": ["Sieh, HErr, in Sünd bin ich geborn,", "In Sünd empfing mich mein Mutter.", "Die Wahrheit liebst, tust offenbarn", "Deiner Weisheit heimlich Güter.", "Bespreng mich, HErr, mit Nsopo,", "Rein werd ich, so Du wäschest mich,", "Weißer denn Schnee, mein Ghör wird froh,", "All mein Gebein wird freuen sich."] }] },
+          { "typ": "lesung", "ref": "Evangelium S. Johannis 13, 1–15.", "text": "Vor dem Fest aber der Ostern, da Jesus erkannte, daß Seine Zeit kommen war, daß Er aus dieser Welt ginge zum Vater, wie Er hatte geliebet die Seinen, die in der Welt waren, so liebte Er sie bis ans Ende. Und bei dem Abendessen, da schon der Teufel hatte dem Judas, Simons Sohn, dem Ischarioth, ins Herz gegeben, daß er Ihn verrriete, und Jesus wußte, daß Ihm der Vater hatte alles in Seine Hände gegeben, und daß Er von Gott kommen war, und zu Gott ging: stund Er vom Abendmahl, legte Seine Kleider ab, und nahm einen Schurz, und umgürtete Sich. Darnach goß Er Wasser in ein Becken, hub an, den Jüngern die Füße zu waschen. Da kam Er zu Simon Petrus; und derselbige sprach zu Ihm: HErr, solltset Du mir meine Füße waschen? Jesus antwortete und sprach zu ihm: Was Ich tue, das weißt du jetzt nicht; du wirst's aber hernach erfahren. Da sprach Petrus zu Ihm: Nimmermehr sollst Du mir die Füße waschen. Jesus antwortete ihm: Werde Ich dich nicht waschen, so hast du kein Teil mit Mir. Spricht zu Ihm Simon Petrus: HErr, nicht die Füße allein, sondern auch die Hände und das Haupt. Spricht Jesus zu ihm: Wer gewaschen ist, der bedarf nichts, denn die Füße waschen, sondern er ist ganz rein. Und ihr seid rein, aber nicht Alle. So nun Ich, euer HErr und Meister, euch die Füße gewaschen habe, so sollt ihr auch euch untereinander die Füße waschen. Ein Beispiel habe Ich euch gegeben, daß ihr tut, wie Ich euch getan habe." },
+          { "typ": "antwort", "absätze": [{ "art": "text", "inhalt": "Am Oelberg betete Jesus und sprach zu Seinem Vater: Vater, ist's möglich, so gebe dieser Leidenskelch an Mir vorüber. Willig ist zwar des Menschen Geist, schwach dagegen ist sein Fleisch. O HErr, Dein Wille geschehe! O HErr, Dein Wille geschehe!" }] },
+          { "typ": "vaeterstimme", "quelle": "Löhe", "text": "Brüder in dem HErrn Jesu Christo, Glieder an dem einen Leibe, dessen Haupt Er ist! Sehet hin auf den Altar unsers HErrn und auf Seine heilige Zier! Schon ist alles bereit — und Er Selbst ist bereit, das die größte aller Wunder vollziehe: Seinen Leib und Blut mit Brot und Wein zu vereinigen und so Seine Menschheit uns zum Teil zu geben. Schon wartet Er nur auf unser Hosianna, gelobet sei, Der da kommt, mit dem wir Ihn zum Vollzug des Wunders einholen. Auf, meine Brüder! Wäre es euch, wie mir, so grissen wir in die Saiten, so stimmten wir die Seelen zum Gesang, so sängen wir das Liebeslied der Kirche: Wie schön leuchtet uns der Morgenstern!" },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Und der Verräter hatte ihnen ein Zeichen gegeben, und gesagt:", "Welchen ich küssen werde, Der ist's, Den greifet."] },
+          { "typ": "gebet", "text": "O HErr, barmherziger, gnädiger Gott! Auch ich, auch meine Seele singt ein Hosianna. Aus den Tiefen ruf ichs zu Dir! Ich will am Tage Deines Fronleichtnams zu Deinem heiligen Mahle kommen, meine Sünden ablegen, Deine Gnade fassen, Deinen Frieden empfangen samt Deinem Leib und Blute. Hosianna! Laß mich ganz nur Deinem Willen leben und wohl und fröhlich vollenden und selig! Hosianna!", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "sondertext", "titel": "Pange lingua gloriosi", "untertitel": "Hymnus zum Gründonnerstag", "absätze": ["Pange, lingua, gloriosi / Corporis mysterium / Sanguinisque pretiosi. || Preis ein Wunder ohne Gleichen! / Preis den Leib der Herrlichkeit / Und des teuren Blutes Zeichen, / Das der Welt zur Seligkeit / Er, der Sohn der Gnadenreichen, / Zu vergießen war bereit.", "In supremae nocte coenae / Recumbens cum fratribus. || In des letzten Abends Stunde, / Lagernd mit der Brüder Schar / Um die heiligen Tafel Runde, / Wie es Mosis Satzung war, / Reicbet Er zum neuen Bunde / Sich den Zwölfen Selber dar.", "Tantum ergo sacramentum / Veneremur cernui. || Laßt uns schauen, uns verehren / Solch erhabnes Sakrament! / Weichet nun, ihr alten Lehren, / Diesem neuen Testament! / Was die Sinne uns verwehren, / Ist dem Glauben doch vergönnt."] },
+          { "typ": "leitwort", "zeilen": ["Ich will den Kelch des Heils nehmen", "Und des HErrn Namen predigen."] },
+          { "typ": "psalm", "nummern": [111] },
+          { "typ": "lesung", "ref": "2. Buch Mose 12, 1–14.", "text": "Der HErr aber sprach zu Mose und Aaron in Aegyptenland: Dieser Monat soll bei euch der erste Monat sein. Am zehnten Tage dieses Monats nehme ein Jeglicher ein Lamm, wo ein Hausvater ist, je ein Lamm zu einem Haus. Ihr sollt aber ein solch Lamm nehmen, da kein Fehl an ist, ein Männlein und eines Jahrs alt. Und sollt's behalten bis auf den vierzehnten Tag des Monats. Und sollt seines Bluts nehmen, und beide Pfosten an der Thür und die obere Schwelle damit bestreichen an den Häusern, da sie es innen essen. Und sollt also das Fleisch essen in derselben Nacht, am Feuer gebraten, und ungesäuert Brot, und sollt es mit bittern Kräutern essen. Denn Ich will in derselbigen Nacht durch Aegyptenland gehen, und alle Erstgeburt schlagen in Aegyptenland. Und das Blut soll euer Zeichen sein an den Häusern, darin ihr seid, daß, wenn Ich das Blut sehe, Ich an euch vorübergehe, und euch nicht die Plage widerfähre, die euch verderbe, wenn Ich Aegyptenland schlage. Und sollt diesen Tag haben zum Gedächtnis, und sollt ihn feiern dem HErrn zum Fest, ihr und alle eure Nachkommen, zur ewigen Weise." }
+        ],
+        "abend": [
+          { "typ": "leitwort", "zeilen": ["Die Könige im Lande lehnen sich auf, und die Herren ratschlagen mit einander", "Wider den HErrn und Seinen Gesalbten."] },
+          { "typ": "psalm", "nummern": [116, 142] },
+          { "typ": "lesung", "ref": "1. Brief S. Pauli an die Korinther 11, 23–32.", "text": "Ich habe es von dem HErrn empfangen, das ich euch gegeben habe. Denn der HErr Jesus, in der Nacht, da Er verraten ward, nahm das Brot, dankte, und brach's, und sprach: Nehmet, esset, das ist Mein Leib, der für euch gebrochen wird; solches tut zu Meinem Gedächtnis. Desglejchengleichen auch den Kelch nach dem Abendmahl, und sprach: Dieser Kelch ist das neue Testament in Meinem Blut; solches tut, so oft ihr's trinket, zu Meinem Gedächtnis. Denn so oft ihr von diesem Brot esset, und von diesem Kelch trinket, sollt ihr des HErrn Tod verkündigen, bis daß Er kommt. Welcher nun unwürdig von diesem Brot isset, oder von dem Kelch des HErrn trinket, der ist schuldig an dem Leib und Blut des HErrn. Der Mensch prüfe aber sich selbst, und also esse er von diesem Brot, und trinke von diesem Kelch. Denn welcher unwürdig isset und trinket, der isset und trinket ihm selber zum Gericht." },
+          { "typ": "lied", "titel": "Erbarm Dich mein", "fortsetzung": true, "strophen": [{ "links": ["Die Gottlosen will Ich Deine Weg,", "Die Sünder auch dazu lehren,", "Daß sie von bösem falschem Steg", "Zu Dir durch Dich sich bekehren.", "Mein Zung verkündge Dein rechtes Gebot;", "Schafft, daß mein Mund Dein Lob ausbreit."], "rechts": ["Kein leiblich Opfer von mir beischfst,", "Ich hätt Dir das auch gegeben;", "So nimm nun den zerknirschen Geist,", "Betrübts und trauriges Herz daneben;", "Dem Berg Zion, da Christen sein,", "Die opfern Dir Gerechtigkeit."] }] },
+          { "typ": "antwort", "absätze": [
+              { "art": "text", "inhalt": "Wie ein unschuldig Lamm war Ich, das zur Schlachtbank hingeführt wird, und nicht davon weiß. Es haben Meine Feinde einen Rat gegen Mich beschlossen: Kommt, lasset uns Ihn ans Kreuz schlagen, Ihn zur Speise, und Ihn austilgen aus dem Lande der Lebendigen." },
+              { "art": "zeilen", "inhalt": ["Kommt, lasset . . Lebendigen."] }
+          ]},
+          { "typ": "leitwort_lobgesang", "zeilen": ["Da sie aber aßen, nahm Jesus das Brot,", "Dankte und brachs und gabs den Jüngern."] },
+          { "typ": "gebet", "text": "Wir danken Dir, allmächtiger HErr Gott, daß Du uns durch den Leib und das Blut Deines lieben Sohns lässest erquiden und bitten Dich: Daß Du uns solches gedeiben lassest zu starkem Glauben gegen Dich und zu brünstiger Liebe unter uns allen; durch Denselben Deinen Sohn, Jesum Christum, unsern HErrn.", "amen": "Amen." }
+        ]
+      }
+    },
+    {
+      "id": "karfreitag",
+      "titel": "Karfreitag",
+      "wochentag": "Freitag",
+      "seiten": [649, 657],
+      "stunden": {
+        "morgen": [
+          { "typ": "leitwort", "zeilen": ["Der HErr ward wie ein Schaf zur Schlachtbank geführt;", "Und Er tat Seinen Mund nicht auf."] },
+          { "typ": "psalm", "nummern": [22, 2] },
+          { "typ": "lied", "titel": "Herzliebster Jesu, was hast Du verbrochen", "melodie": "70", "strophen": [
+              { "links": ["Herzliebster Jesu, was hast Du verbrochen,", "Daß man ein solch scharf Urteil hat gesprochen?", "Was ist die Schuld, in was für Missetaten", "Bist Du geraten?"], "rechts": ["Was ist die Ursach aller solcher Plagen?", "Ach, meine Sünden haben Dich geschlagen!", "Ich, ach HErr Jesu, habe dies verschuldet", "Was Du erduldet."] },
+              { "links": ["Du wirst verspeit geschlagen und verhöhnet,", "Gegeißelt und mit Dornen scharf gekrönet;", "Mit Essig, als man Dich ans Kreuz gehenket,", "Wirst Du getränket."], "rechts": ["Wie wunderbarlich ist doch diese Strafe:", "Der gute Hirte leidet für die Schafe;", "Die Schuld bezahlet der HErr, der Gerechte", "Für Seine Knechte!"] }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Mir hast du Arbeit gemacht mit deinen Sünden", "Und hast Mir Mühe gemacht mit deinen Missetaten."] },
+          { "typ": "lesung", "ref": "Evangelium S. Johannis 19, 28–37.", "text": "Darnach, da Jesus wußte, daß schon alles vollbracht war, daß die Schrift erfüllet würde, spricht Er: Mich dürstet. Da stund ein Gefäß voll Essigs. Sie aber fülleten einen Schwamm mit Essig, und legeten ihn um einen Njop, und hielten es Ihm dar zum Munde. Da nun Jesus den Essig genommen hatte, sprach Er: Es ist vollbracht; und neigte das Haupt, und verschied. Die Juden aber, dieweil es der Rüsttag war, daß nicht die Leichname am Kreuze blieben den Sabbath über, baten sie Pilatus, daß ihre Beine gebrochen würden. Da kamen die Kriegsknechte, und brachen dem Ersten die Beine, und dem Andern, der mit Ihm gekreuziget war. Als sie aber zu Jesu kamen, da sie sahen, daß Er schon gestorben war, brachen sie Ihm die Beine nicht; sondern der Kriegsknechte einer öffnete Seine Seite mit einem Speer, und alsbald ging Blut und Wasser heraus. Und der das gesehen hat, der hat es bezeuget, und sein Zeugnis ist wahr; auf daß auch ihr glaubet. Denn solches ist geschehen, daß die Schrift erfüllet würde: Ihr sollt Ihm kein Bein zerbrechen. Und abermal: Sie werden sehen, in Welchen sie gestochen haben." },
+          { "typ": "antwort", "absätze": [
+              { "art": "text", "inhalt": "Alle Meine Freunde sind weit von Mir entflohen, und in Meiner Feinde Gewalt bin Ich geraten. Es verriet Mich der, den Ich lieb hatte. Grausam durchbohrten sie Mir Hände und Füße; unter Mörderblichen tränkten sie mich mit Galle Mich." },
+              { "art": "zeilen", "inhalt": ["Unter die Uebeltäter zählten sie Mich, und achteten nicht Meines Lebens.", "Grausam . . . Galle Mich."] }
+          ]},
+          { "typ": "vaeterstimme", "quelle": "Löhe", "text": "Das ist's, meine Brüder, dieser Tod ist's, betrachtet in der Stunde, wo er erfolgte, was einem den Mund schließt, was einem Prediger die alte Sitte zurück wünschen läßt, am Karfreitag nichts Selbstgedachtes vor der Gemeinde reden zu müssen. Es ist nicht der Mangel, sondern die Unlänglichkeit der Gedanken, weshalb man schweigen möchte. Es ist alles so hehr, so heilig — es umweht einen so wunderbar, fast wie wenn man selbst außer dem Leibe sollte wallen gehen und die Seele dabingehen in Gottes Hände. Es ist eine gewaltige Wirkung, welche von diesem Tode, in dieser Stunde auf den betrachtenden Geist eindringt; und an der eigenen Erfahrung kann man es glaublich finden, wie von dem Kreuze Wirkung und mächtige Kraft in engere und immer fernere Kreise ausgeht." },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Oben zu Seinen Häupten setzten sie die Ursache Seines Todes;", "Und war geschrieben: Jesus von Nazareth, der Juden König."] },
+          { "typ": "gebet", "text": "HErr meines Todes, meines Grabes, weil Du für mich verlassen wurdest, so gib, daß ich ewig nicht von Dir weiche, nicht von Deiner Seite gehe. Daß ich Dich nicht verlasse, verlaß mich nie! Weil Du für mich gestorben bist, so gib mir Lust zu sterben, und mache mich fröhlich in meiner Stunde. Für Deinen Karfreitag laß mich Dir ewig danken.", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "sondertext", "titel": "Hymnus ad faciem Christi", "untertitel": "Salve caput cruentatum", "absätze": [
+              "Salve, caput cruentatum, / Totum spinis coronatum, / Conquassatum, vulneratum. / Salve, cuius dulcis vultus / Totus versus in pallorem, / Quem coeli tremit curia. || Gruß Dir, Haupt, mit Blut belossen, / Von der Dornen Kranz umschlossen, / Voller Plagen, nicht zu sagen. / Gruß Dir, Dessen süße Wangen / Ganz verwandelt, ganz vergangen, / Dessen Blüte ganz erblichen / Und dem blassen Tod gewichen — / Dir, Dem der Himmel Heer erschrickt.",
+              "In hac tua passione / Me agnosce, pastor bone, / Cuius sumpsi mel ex ore. || Schau aus Deinen Leiden nieder / Und erkenne, treuer Hüter, / Mich, dem Deines Mundes Gabe: / Milch und Honig, ward zur Labe. / Nicht mich Schuldigen verschmähe, / Den Unwürdigen erhöbe! / Wenn Du wirst zum Tod erblassen, / Laß Dich meinen Arm umfassen / Und neig Dein Haupt an meine Brust.",
+              "Dum me mori est necesse, / Noli mihi tunc deesse, / Veni, Jesu, absque mora. || Wenn ich muß den Tod erleiden, / Wolle Dich nicht von mir scheiden; / Laß mich in des Todes harten / Stunden nicht vergebens warten: / Beschütze mich, mein Bräutigam! / Gib, Geliebter, voll Erbarmen / Dann Dich Selbst mir zu umarmen / Am segenvollen Kreuzesstamm!"
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Gott hat Seines Einigen Sohnes nicht verschonet,", "Sondern hat Ihn für uns Alle dahingegeben."] },
+          { "typ": "psalm", "nummern": [51] },
+          { "typ": "lesung", "ref": "Jesaja 53.", "text": "Aber wer glaubt unsrer Predigt? Und wem wird der Arm des HErrn offenbaret? Er schoß auf vor Ihm wie ein Reis und wie eine Wurzel aus dürrem Erdreich. Er hatte keine Gestalt noch Schöne; wir sahen Ihn, aber da war keine Gestalt, die uns gefallen hätte. Er war der Allerverachtetste und Unwerteste, voller Schmerzen und Krankheit. Fürwahr: Er trug unsre Krankheit, und lud auf Sich unsre Schmerzen. Wir aber hielten Ihn für Den, der geplaget, und von Gott geschlagen und gemartert wäre. Aber Er ist um unsrer Missetat willen verwundet, und um unsrer Sünde willen zerschlagen. Die Strafe liegt auf Ihm, auf daß wir Frieden hätten; und durch Seine Wunden sind wir geheilet. Wir gingen Alle Irre wie Schafe; aber der HErr warf unser aller Sünde auf Ihn. Da Er gestraft und gemartert ward, tat Er Seinen Mund nicht auf wie ein Lamm, das zur Schlachtbank geführt wird, und wie ein Schaf, das verstummet vor seinem Scherer. Er ist aus der Angst und Gericht genommen: Denn Er ist aus dem Lande der Lebendigen wegegerissen, da Er um die Missetat Meines Volks geplagt ward. Und man gab Ihm bei Gottlosen Sein Grab, und bei Reichen, da Er gestorben war, wiewohl Er Niemand unrecht getan hat, noch Betrug in Seinem Munde gewesen ist. Aber der HErr wollte Ihn also zerschlagen mit Krankheit. Durch Seine Erkenntnis wird Er, Mein Knecht, der Gerechte, Viele gerecht machen; denn Er trägt ihre Sünden. Darum will Ich Ihm große Menge zur Beute geben, darum daß Er Sein Leben in den Tod gegeben hat, und den Uebeltätern gleich gerechnet ist, und Er vieler Sünde getragen hat, und für die Uebeltäter gebeten." }
+        ],
+        "abend": [
+          { "typ": "sondertext", "titel": "Die Improperien mit Trishagion", "untertitel": "Improperia", "absätze": [
+              "Popule meus, quid feci tibi? / Aut in quo contristavi te? / Responde mihi! / Quia eduxi te de terra Aegypti: / Parasti crucem Salvatori tuo. || O Mein Volk, was Ich dir getan, / Und womit habe Ich dich beleidigt? / Das sage Mir. / Habe Ich dich doch aus Aegyptenland geführet: / Und du hast das Kreuz bereitet Deinem Heilande!",
+              "Agios o theos — Sanctus Deus; / Agios ischyros — Sanctus fortis, / Agios athanatos, eleison imas — / Sanctus immortalis, miserere nobis. || Heiliger Gott! / Heiliger Starker! / Heiliger Unsterblicher: / Erbarme Dich unser!",
+              "Ego te pavi manna per desertum: / Et tu me cecidisti alapis et flagellis. || Habe Ich dich doch gespeist mit Manna / Und getränket vom Wasser / Des Felsen in der Wüste: / Und du hast Mich getränket / Mit Galle und Essig!"
+            ]
+          },
+          { "typ": "leitwort", "zeilen": ["Mein Gott, mein Gott,", "Warum hast Du mich verlassen?"] },
+          { "typ": "psalm", "nummern": [140, 141] },
+          { "typ": "lesung", "ref": "2. Brief S. Pauli an die Korinther 5, 14–21.", "text": "Denn die Liebe Christi dringet uns also: sintemal wir halten, daß so Einer für Alle gestorben ist, so sind sie Alle gestorben; und Er ist darum für Alle gestorben, auf daß Die, so da leben, hinfort nicht ihnen selbst leben, sondern Dem, Der für sie gestorben und auferstanden ist. Darum: ist Jemand in Christo, so ist er eine neue Kreatur; das Alte ist vergangen, siehe: es ist alles neu worden. Aber das alles von Gott, Der uns mit Ihm Selber versöhnet hat durch Jesum Christum, und das Amt gegeben, die Versöhnung zu predigen. Denn Gott war in Christo, und rechnete ihnen ihre Sünden nicht zu, und hat unter uns aufgerichtet das Wort von der Versöhnung. So sind wir nun Botschafter an Christi statt; denn Gott vermahnet durch uns; so bitten wir nun an Christi statt: Lasset euch versöhnen mit Gott. Denn Er hat Den, von keiner Sünde wußte, für uns zur Sünde gemacht, auf daß wir in Ihm die Gerechtigkeit, die vor Gott gilt." },
+          { "typ": "lied", "titel": "Herzliebster Jesu", "fortsetzung": true, "strophen": [{ "links": ["O große Lieb, o Lieb ohn alle Maße,", "Die Dich gebracht auf diese Marterstraße!", "Ich lebte mit der Welt in Lust und Freuden,", "Und Du mußt leiden!"], "rechts": ["Ich kanns mit meinen Sinnen nicht erreichen,", "Mit was doch Dein Erbarmen zu vergleichen.", "Wie kann ich Dir denn Deine Liebestaten", "Im Werk erstatten?"] }] },
+          { "typ": "spruch", "zeilen": ["Christus ward gehorsam bis zum Tode,", "Ja, bis zum Tode am Kreuz."] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Da nun Jesus den Essig genommen hatte, sprach Er: Es ist vollbracht!", "Und neigte Sein Haupt, und verschied."] },
+          { "typ": "gebet", "text": "Das diakonische Gebet.", "amen": "(S. 91–93.)" }
+        ]
+      }
+    },
+    {
+      "id": "palmarum_sa",
+      "titel": "Sonnabend nach Palmarum",
+      "untertitel": "Großer Sabbath",
+      "wochentag": "Sonnabend",
+      "seiten": [657, 661],
+      "stunden": {
+        "morgen": [
+          { "typ": "leitwort", "zeilen": ["Ich liege und schlafe ganz mit Frieden,", "Denn allein Du, HErr, hilfst mir, daß ich sicher wohne."] },
+          { "typ": "psalm", "nummern": [4, 16] },
+          { "typ": "lied", "titel": "So ruhest Du.", "melodie": "131", "strophen": [{ "links": ["So ruhest Du,", "O meine Ruh,", "In Deines Grabes Höhle", "Und erweckest durch den Tod", "Meine tote Seele."], "rechts": ["Man senkt Dich ein.", "Nach vieler Pein,", "Du meines Lebens Leben;", "Dich hat jetzt ein Felsengrab,", "Fels des Heils, umgeben."] }] },
+          { "typ": "lesung", "ref": "Evangelium S. Matthäi 27, 57–66.", "text": "Am Abend aber kam ein reicher Mann von Arimathia, der hieß Joseph, welcher auch ein Jünger Jesu war. Der ging zu Pilatus, und bat ihn um den Leib Jesu. Da befahl Pilatus, man sollte ihm Ihn geben. Und Joseph nahm den Leib, und wickelte Ihn in reine Leinwand; und legte Ihn in sein eigen, neu Grab, welches er hatte lassen in einen Fels hauen, und wälzte einen großen Stein vor die Thür des Grabes, und ging davon. Es war aber allda Maria Magdalena und die andre Maria, die setzten sich gegen das Grab.\n\nDes andern Tages, der da folget nach dem Rüsttage, kamen die Hohenpriester und Pharisäer sämtlich zu Pilatus, und sprachen: HErr, wir haben gedacht, daß dieser Verführer sprach, da Er noch lebte: Ich will nach dreien Tagen auferstehen. Darum befiehl, daß man das Grab verwahre bis an den dritten Tag, auf daß nicht Seine Jünger kommen, und stehlen Ihn, und sagen zum Volk: Er ist auferstanden von den Toten; und werde der letzte Betrug ärger denn der erste. Pilatus sprach zu ihnen: Da habt ihr die Hüter; gehet hin, und verwahret, wie ihr wisset. Sie gingen hin, und verwahreten das Grab mit Hütern, und versiegelten den Stein." },
+          { "typ": "antwort", "absätze": [
+              { "art": "text", "inhalt": "Weine wie eine Jungfrau, mein Volk, und weklaget, ihr Hirten, in Sack und in Asche vor dem HErrn. Bald wird kommen der große Tag des HErrn, der gewaltige Tag voll Schrecken." },
+              { "art": "text", "inhalt": "Umgürtet euch, ihr Priester, und weinet, ihr Diener des Altars;" },
+              { "art": "zeilen", "inhalt": ["Besprenget mit Asche euer Haupt.", "Bald wird kommen . . Schrecken."] }
+          ]},
+          { "typ": "leitwort_lobgesang", "zeilen": ["Die Frauen setzten sich gegen das Grab", "Und klagten weinend um den HErrn."] },
+          { "typ": "gebet", "text": "Allmächtiger Vater, ewiger Gott, Der Du für uns hast Deinen Sohn des Kreuzes Pein lassen leiden, auf daß Du von uns des Feindes Gewalt treibest: verleihe uns also zu begehen und zu danken Seinem Leiden, daß wir dadurch der Sünden Vergebung und vom ewigen Tod Erlösung erlangen; durch . .", "amen": "Amen." }
+        ],
+        "mittag": [
+          { "typ": "leitwort", "zeilen": ["Ich liege und schlafe und erwache;", "Denn der HErr hält mich."] },
+          { "typ": "lied", "titel": "So ruhest Du.", "melodie": "131", "fortsetzung": true, "strophen": [{ "links": ["O Lebensfürst,", "Ich weiß, Du wirst", "Mich wieder auferwecken:", "Sollte denn mein gläubig Herz", "Vor der Gruft erschrecken?"], "rechts": ["Sie wird mir sein", "Ein Kämmerlein,", "Da ich auf Rosen liege,", "Weil ich nun durch Deinen Tod", "Tod und Grab besiege."] }] },
+          { "typ": "psalm", "nummern": [64] },
+          { "typ": "lesung", "ref": "Klagelieder Jeremiä (Lamentationes) 1, 1–10.", "text": "Wie liegt die Stadt so wüste, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden; und die eine Königin in den Ländern war, muß nun dienen. Sie weinet des Nachts, daß ihr die Thränen über die Backen laufen; es ist Niemand unter allen ihren Freunden, der sie tröste; alle ihre Nächsten sind ihr untreu und ihre Feinde worden. Juda ist gefangen in Elend und schwerem Dienst; sie wohnet unter den Heiden, und findet keine Ruh; alle ihre Verfolger halten sie übel.\n\nDie Straßen gen Zion liegen wüst, weil Niemand auf kein Fest kommet; alle ihre Thore stehen öde; ihre Priester seufzen, ihre Jungfrauen sehen jämmerlich, und sie ist betrübt. Ihre Widersacher schweben empor, ihren Feinden gehet's wohl; denn der HErr hat sie voll Jammers gemacht um ihrer großen Sünden willen, und sind ihre Kinder gefangen vor dem Feinde bin gezogen.\n\nJerusalem denkt in dieser Zeit, wie elend und verlassen sie ist, und wie viel Gutes sie von alters her gehabt hat, weil all ihr Volk darniederlieget unter dem Feinde, und ihr Niemand hilft; ihre Feinde sehen ihre Lust an ihr, und spotten ihrer Sabbath. Jerusalem hat sich versündigt, darum muß sie sein wie ein unrein Weib. Ach, HErr, siehe an mein Elend; denn der Feind pranget sehr! Der Feind hat seine Hand an alle ihre Kleinode gelegt; denn sie mußte zusehen, daß die Heiden in ihr Heiligtum gingen, davon du geboten hast, sie sollten nicht in deine Gemeine kommen." },
+          { "typ": "antwort", "absätze": [
+              { "art": "text", "inhalt": "Siehe: wie der Gerechte dahinstirbt, und Niemand nimmt es zu Herzen. Fromme raffet der Tod hin; und Niemand ist, ders betracht. Von allem sündgen Tun und Wesen ist Er nun erlöset. Sein Name wird bleiben und gar nicht vergeben." },
+              { "art": "zeilen", "inhalt": ["In Frieden ruht Er nun in der Erden;", "Aber Zion wird zur Wohnung Ihm zuteil."] }
+          ]},
+          { "typ": "gebet", "text": "Barmherziger ewiger Gott, Der Du Deines einigen Sohnes nicht verschonet hast, sondern Ihn für uns Alle dahingegeben, daß Er unsre Sünde am Kreuz tragen sollte: Verleihe uns gnädiglich, daß unser Herz in solchem Glauben nimmermehr erschrecke noch verzage; durch . .", "amen": "Amen." }
+        ],
+        "abend": [
+          { "typ": "halleluja", "text": "Halleluja! Halleluja! Halleluja!" },
+          { "typ": "spruch", "zeilen": ["Christus hat dem Tode die Macht genommen, Halleluja!", "Und das Leben und ein unvergängliches Wesen ans Licht gebracht. Halleluja!"] },
+          { "typ": "psalm", "nummern": [117, 150] },
+          { "typ": "lesung", "ref": "Apostelgeschichte 3, 11–16.", "text": "Als aber dieser Lahme, der nun gesund war, sich zu Petrus und Johannes hielt, lief alles Volk zu ihnen in die Halle, die da heißet Salomos, und wunderten sich. Als Petrus das sah, antwortete er dem Volk: Ihr Männer von Israel, was wundert ihr euch darüber? Der Gott Abrahams und Isaaks und Jakobs, der Gott unsrer Väter, hat Seinen Knecht Jesum verkläret, Welchen ihr überantwortet und verleugnetet habt vor Pilatus, da derselbe urteilte, Ihn loszulassen. Ihr aber verleugnetet den Heiligen und Gerechten, und batet, daß man euch den Mörder schenkte; aber den Fürsten des Lebens habt ihr getötet. Den hat Gott auferwecket von den Toten; des sind wir Zeugen. Und durch den Glauben an Seinen Namen hat diesem, den ihr sehet und kennet, Sein Name stark gemacht, und der Glaube durch Ihn hat diesem gegeben diese Gesundheit vor euren Augen." },
+          { "typ": "lied", "titel": "So ruhest Du.", "melodie": "131", "fortsetzung": true, "strophen": [{ "links": ["Gar nichts verdirbt:", "Der Leib mir stirbt;", "Doch wird er auferstehen", "Und in ganz verklärter Zier", "Aus dem Grabe gehen."], "rechts": ["Indes will ich,", "Mein Jesu Dich", "In meine Seele senken", "Und an Deinen bittern Tod", "Bis in Tod gedenken."] }] },
+          { "typ": "leitwort_lobgesang", "zeilen": ["Als der Sabbath um war, und der erste Tag der Woche anbrach,", "Kam Maria Magdalena und die andre Maria, das Grab zu besehen. Halleluja!"] },
+          { "typ": "gebet", "text": "Gieße uns, HErr, den Geist Deiner Liebe ein; und wie Du uns mit den österlichen Heiltümern gesättigt hast, so mache uns in Deiner Huld auch eines Herzens; durch . .", "amen": "Lasset uns benedeien den HErrn! Hallelujah. Hallelujah! · Gott sei ewiglich Dank! Hallelujah, Hallelujah!" },
+          { "typ": "trennlinie" },
+          { "typ": "dialogus", "zeilen": [
+              { "sprecher": "Diac.", "text": "Empor die Herzen!" },
+              { "sprecher": "Gem.", "text": "Wir erheben sie zum HErrn." },
+              { "sprecher": "Diac.", "text": "Lasset uns danksagen dem HErrn unserm Gott." },
+              { "sprecher": "Gem.", "text": "Das ist würdig und recht." }
+          ]},
+          { "typ": "sondertext", "titel": "Osterlob", "untertitel": "Praeconium paschale: Exsultet", "absätze": [
+              "Wahrhaft würdig und recht ist es, den unsichtbaren Gott, den allmächtigen Vater, und Seinen Eingeborenen Sohn, unsern HErrn Jesum Christum, mit ganzer Hingabe des Herzens und Sinnes und mit williger Stimme laut zu preisen: Der an unsrer Statt dem ewigen Vater Adams Schuld bezahlt und den Schuldbrief alter Missetat mit heiligem Herzenssaft ausgelöscht hat. Denn dies sind die festlichen Ostern, wo jenes wahre Lamm geopfert wird, mit Dessen Blut die Thürpfosten der Gläubigen geweihet werden.",
+              "**Dies ist die Nacht**, in der Christus, nachdem Er die Bande des Todes zerrissen, aus dem Totenreich siegreich emporstieg. Denn es hätte uns nichts genützt, geboren zu werden, wenn wir nicht auch erlöset worden wären. Wie wunderbar hat sich Deine Liebe zu uns herabgeneigt! O Du unschätzbare Liebeserweisung: um uns Knechte zu erlösen, hast Du den Sohn dahingegeben! O sicherlich notwendige Sünde Adams, die durch Christi Tod vernichtet wurde! O glückselige Schuld, die gewürdigt wurde, solch einen großen Erlöser zu haben!",
+              "**O du wahrhaft geweihte Nacht**, die allein gewürdigt wurde, Zeit und Stunde zu wissen, in der Christus von den Toten auferstand! Dies ist die Nacht, von der geschrieben steht: Die Nacht leuchtet wie der Tag, Finsternis ist wie das Licht. Die Heiligung dieser Nacht verscheucht die Vergehen, wäscht ab die Schuldbefleckungen, gibt den Gefallenen ihre Unschuld zurück und Freude den Trauernden; sie verscheucht Gehässigkeiten, schafft Eintracht, und beugt die Trotzigen. O du wahrhaft geweihte Nacht, in der Himmlisches mit Irdischem und Göttliches mit Menschlichem vereint wird.",
+              "Lasset uns beten: O Gott, Der Du diese hochheilige Nacht durch die Gloria der Auferstehung des HErrn erleuchtest: erhalte in dem Nachwuchs Deiner Hausgenossen den Geist der Kindschaft, den Du gegeben hast, damit sie, an Leib und Seele erneuert, Dir reine Dienste leisten; durch Denselben . . Amen."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

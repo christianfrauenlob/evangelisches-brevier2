@@ -1,0 +1,1389 @@
+{
+  "id": "ostern_1",
+  "titel": "Osterwoche",
+  "kirchenzeit": "ostern",
+  "reihe": 1,
+  "tage": [
+    {
+      "id": "ostersonntag",
+      "titel": "Das hohe Osterfest",
+      "wochentag": "Sonntag",
+      "seiten": [
+        108,
+        113
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Eingang: s. Grundordnung."
+          },
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Der HErr ist wahrhaftig auferstanden, Hallelujah!",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "(Fortsetzung s. Grundordnung)."
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah, Hallelujah, Hallelujah! Der Engel des HErrn stieg herab vom Himmel, Trat herzu, und wälzte den Stein vom Grabe. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139",
+              "93"
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Wiederholung des Leitwortes."
+          },
+          {
+            "typ": "lied",
+            "titel": "Heut triumphieret Gottes Sohn",
+            "strophen": [
+              {
+                "links": [
+                  "Frühmorgens, da die Sonn aufgeht,",
+                  "Mein Heiland Christus aufersieht.",
+                  "Hallelujah, Hallelujah!",
+                  "Vertrieben ist der Sünden Nacht,",
+                  "Licht, Heil und Leben wiederbracht.",
+                  "Hallelujah, Hallelujah!"
+                ],
+                "rechts": [
+                  "Nicht mehr als nur drei Tage lang",
+                  "Bleibt mein Heiland in Todeszwang,",
+                  "Hallelujah, Hallelujah!",
+                  "Den dritten Tag durchs Grab Er dringt,",
+                  "Mit Ehren Seine Siegsfahn schwingt.",
+                  "Hallelujah, Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Dies ist der Tag, den der HErr macht: lasset uns freuen und fröhlich darinnen sein!",
+              "O HErr, hilf! O HErr, laß wohlgelingen!"
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Segnung: s. Grundordnung."
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Marci 16, 1—8.",
+            "text": "Und da der Sabbath vergangen war, kauften Maria Magdalena und Maria, des Jakobus Mutter, und Salome Spezerei, auf daß sie kämen, und salbeten Jhn. Und sie kamen zum Grabe am ersten Tage der Woche sehr frühe, da die Sonne aufging. Und sie sprachen untereinander: Wer wälzet uns den Stein von des Grabes Thür? Und sie sahen dahin, und wurden gewahr, daß der Stein abgewälzet war; denn er war sehr groß. Und sie gingen hinein in das Grab, und sahen einen Jüngling zur rechten Hand sitzen, der hatte ein lang weiß Kleid an; und sie entsetzten sich. Er aber sprach zu ihnen: Entsetzet euch nicht. Jhr suchet Jesum von Nazareth, den Gekreuzigten; Er ist auferstanden, und ist nicht hie; siehe da die Stätte, da sie Jhn hin gelegt. Gehet aber hin, und sagt's Seinen Jüngern und Petrus, daß Er vor euch hin geben wird nach Galiläa; da werdet ihr Jhn sehen, wie Er euch gesagt hat. Und sie gingen schnell heraus, und flohen von dem Grabe; denn es war sie Zittern und Entsetzen ankommen; und sagten Niemand nichts; denn sie fürchteten sich."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Christe, Sohn des lebendigen Gottes, erbarme Dich unser! Hallelujah, Hallelujah! Der Du erstanden bist vom Tode. Ehre sei Gott dem Vater und dem Sohne und dem Heiligen Geiste."
+              },
+              {
+                "art": "text",
+                "inhalt": "Stehe auf, Christe, und hilf uns! Hallelujah, Hallelujah! Und errette uns um Deines Namens willen! Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Gregor von Nazianz.",
+            "text": "Ostern des HErrn, Ostern, und abermals will ich Ostern sagen, der Dreieinigkeit zu Ehren. Das ist für uns das Fest der Feste und der Feiern hohe Feier, so sehr allen übrigen voranlechtend, wie den Sternen die Sonne. Gestern wurde das Lamm geschlachtet, und die Thürpfosten mit Seinem Blute bestrichen. Aegypten beweinte seine Erstgeburt; aber an uns ging der Würgengel vorüber, und wir wurden durch Sein kostbares Blut beschützt. Heute sind wir Aegypten ganz und gar entronnen. Und Niemand hindert uns, unserm HErrn und Gott das Fest des Auszuges zu feiern; nicht mit dem alten Sauerteig der Bosheit und Schalkheit, sondern mit dem Süßteig der Lauterkeit und der Wahrheit. Gestern litt ich noch mit Christo Qual am Kreuze: heute werde ich mit Jhm verherrlichet. Gestern starb ich mit Jhm: heute erhalte ich in Jhm das Leben. Gestern ward ich mit Jhm ins Grab gelegt: heute erstehe ich auf mit Jhm."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie kamen zum Grabe am ersten Tage der Woche sehr frühe, da die Sonne aufging."
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Der Ambrosianische Lobgesang: s. Grundordnung."
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Wiederholung des Leitwortes."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, Der Du durch den Tod Deines Sohnes die Sünde und den Tod zunichte gemacht, und durch Sein Auferstehen Unschuld und ewiges Leben wiedergebracht hast; auf daß wir, von der Gewalt des Teufels erlöset, in Deinem Reiche leben: verleihe uns, daß wir solches von ganzem Herzen glauben und, in solchem Glauben beständig, Dich allezeit loben und Dir danken; durch Denselben . . ."
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Beschluß: s. Grundordnung."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Eingang: s. Grundordnung."
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Hymnus paschalis.",
+            "untertitel": "Aurora lucis rutilat.",
+            "absätze": [
+              "Aurora lucis rutilat, / Coelum laudibus intonat, / Mundus exultans jubilat, / Gemens infernus ululat. || Des holden Tages Schein erglimmt, / Zu seinem Preis der Himmel stimmt; / Die Hölle heult, da sie Jhn schaut, / Aufhüpft die Welt und jubelt laut.",
+              "Cum rex ille fortissimus / Mortis confractis viribus / Pede conculcans tartara / Solvit a poena miseros. || Des starken Königs Siegerschaft / Bewältigte des Todes Kraft; / Sein Fuß zertrat der Hölle Thor, / Und die Gefangnen gehn hervor.",
+              "Ille qui clausus lapide / Custoditur sub milite, / Triumphans pompa nobili / Victor surgit de funere. || Den eingesargt im Felsenschacht / Ein Haufen Söldner hielt bewacht: / Er schwang Sich auf aus Grabesnacht / Wie Morgenlicht in Siegespracht.",
+              "Sermone blando angelus / Praedixit mulieribus: / In Galilaea Dominus / Videndus est quantocyus. || Hellglänzend rief ein Engel aus: / Bezwungen ist der Hölle Graus! / All irdisch Leid ist abbestellt, / Erstanden bist Du, HErr der Welt!",
+              "Rex Christe clementissime, / Tu corda nostra posside, / Ut tibi laudes debitas / Reddamus omni tempore. || O gnadenreichster König Christe, / Im Herzen wohn uns alle Frist, / Daß schuldgen Dank die gläubge Schar / Dir zolle heut und immerdar."
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Der Tod ist verschlungen in den Sieg, Hallelujah!",
+              "Gott sei Dank, Der uns den Sieg gegeben hat. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah, Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Wiederholung des Leitwortes."
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Segnung: s. Grundordnung."
+          },
+          {
+            "typ": "lesung",
+            "ref": "Hiob 19, 23—27.",
+            "text": "Ach, daß meine Reden geschrieben würden! Ach, daß sie in ein Buch gestellet würden! Mit einem eisernen Griffel auf Blei und zu ewigem Gedächtnis in einen Fels gehauen würden! Aber ich weiß, daß mein Erlöser lebet; und als der letzte wird Er über dem Staube Sich erheben. Und nachdem diese meine Haut zerschlagen ist, werde ich ohne mein Fleisch Gott sehen. Denselben werde ich mir sehen, und meine Augen werden Jhn schauen, und kein Fremder."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Christus, der Auferstandene von den Toten, wird nicht abermal sterben, sondern leben; der Tod wird fortan nicht wieder über Jhn herrschen. Dieweil was Er lebet, das lebet Er Gott. Hallelujah, Hallelujah, Hallelujah!"
+              },
+              {
+                "art": "text",
+                "inhalt": "Christus ist um unsrer Sünden willen dahingegeben, und auferwecket um unserer Gerechtigkeit willen. Ehre sei dem Vater und dem Sohne und dem Heiligen Geiste."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du am heutigen Tage durch Deinen Eingeborenen den Tod besiegt und uns den Zugang zur Ewigkeit erschlossen hast: begleite mit Deinem Beistand unsre Gebete, die Du Selber zuvorkommend uns ins Herz gibst; durch Denselben . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Eingang: s. Grundordnung."
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah, Hallelujah! Christ ist erstanden!",
+              "Er ist wahrhaftig auferstanden. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Wiederholung des Leitwortes."
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Segnung: s. Grundordnung."
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 5, 7—8.",
+            "text": "Denn wir haben auch ein Osterlamm, das ist Christus, für uns geopfert. Darum lasset uns Ostern halten, nicht im alten Sauerteig, auch nicht im Sauerteig der Bosheit und Schalkheit, sondern in dem Süßteig der Lauterkeit und der Wahrheit."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "König Christe, wir freuen uns Alle in Dir, Hallelujah! Denn Du hast wahrlich: den Tod, den Du für uns getragen — Hallelujah, Hallelujah! — hast Du auferstehend bezwungen, Hallelujah, Hallelujah! Behüte uns vor Sünden, HErr Eingeborner Sohn Gottes, Der Du geboren bist von der Jungfrau. Denn Dir gebühret Lob und Ehre, o HErr, Der Du das Haupt bist Deiner Kirche. Laß uns mit Dir auferstehn. Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christ ist erstanden",
+            "strophen": [
+              {
+                "links": [
+                  "Christ ist erstanden",
+                  "Von der Marter alle.",
+                  "Des sollen wir Alle froh sein:",
+                  "Christ will unser Trost sein.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Wär Er nicht erstanden,",
+                  "So wär die Welt vergangen.",
+                  "Seit daß Er erstanden ist,",
+                  "Lobn wir den Vater Jesu Christ.",
+                  "Kyrieleis."
+                ]
+              }
+            ],
+            "melodie": "23"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus ist um unsrer Sünden willen dahingegeben, Hallelujah.",
+              "Und um unsrer Gerechtigkeit willen auferwecket. Hallelujah."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie sahen dahin, und wurden gewahr, daß der Stein abgewälzt war;",
+              "denn er war sehr schwer."
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Lobgesang: s. Grundordnung."
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Wiederholung des Leitwortes."
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, Der Du Deinen Eingebornen Sohn um unsrer Sünde willen hast dahingegeben, und um unsrer Gerechtigkeit willen auferwecket: wir bitten Dich, Du wollest Deinen heiligen Geist uns schenken, durch Denselben uns regieren und führen, in rechtem wahrhaftigen Glauben erhalten und vor allen Sünden in einem neuen Leben behüten, und nach diesem Leben auferwecken zum ewigen Leben; durch Denselben . . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ostermontag",
+      "titel": "Ostermontag",
+      "wochentag": "Montag",
+      "seiten": [
+        114,
+        120
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Engel sprach zu den Frauen: Fürchtet euch nicht!",
+              "Ich weiß, ihr suchet Jesum. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105",
+              "47"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christ lag in Todesbanden",
+            "strophen": [
+              {
+                "links": [
+                  "Christ lag in Todesbanden,",
+                  "Für unser Sünd gegeben;",
+                  "Der ist wieder erstanden",
+                  "Und hat uns bracht das Leben.",
+                  "Des wir sollen fröhlich sein,",
+                  "Gott loben und dankbar sein,",
+                  "Und singen: Hallelujah!",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Es war ein wunderlich Krieg,",
+                  "Da Tod und Leben rungen;",
+                  "Das Leben behielt den Sieg:",
+                  "Es hat den Tod verschlungen.",
+                  "Die Schrift hat verkündet das,",
+                  "Wie ein Tod den andern fraß:",
+                  "Ein Spott aus dem Tod ist worden.",
+                  "Hallelujah!"
+                ]
+              }
+            ],
+            "melodie": "24"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus ist gestorben und auferstanden, Hallelujah!",
+              "Daß Er über Tote und Lebendige HErr sei. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 24, 13—35.",
+            "text": "Und siehe: Zweeen aus ihnen gingen an demselben Tage in einen Flecken, der war von Jerusalem sechzig Feld Wegs weit, des Name heißt Emmaus. Und sie redeten miteinander von allen diesen Geschichten. Und es geschah, da sie so redeten, und befragten sich miteinander, nahte Jesus zu ihnen, und wandelte mit ihnen. Aber ihre Augen wurden gehalten, daß sie Jhn nicht kannten. Er sprach aber zu ihnen: Was sind das für Reden, die ihr zwischen euch handelt unterwegen, und seid traurig? Da antwortete einer, mit Namen Kleophas, und sprach zu Jhm: Bist Du allein unter den Fremdlingen zu Jerusalem, der nicht wisse, was in diesen Tagen darinnen geschehen ist? Und Er sprach zu ihnen: Welches? Sie aber sprachen zu Jhm: Das von Jesu von Nazareth, welcher war ein Prophet, mächtig von Taten und Worten, vor Gott und allem Volk; wie Jhn unsre Hohenpriester und Obersten überantwortet haben zur Verdammnis des Todes, und gekreuziget. Wir aber hoffeten, Er sollte Israel erlösen. Und über das alles ist heute der dritte Tag, daß solches geschehen ist. Auch haben uns etliche Weiber der Unsern erschreckt; die sind frühe bei dem Grabe gewesen, haben Seinen Leib nicht gefunden, kommen, und sagen, sie haben ein Gesicht der Engel gesehen, welche sagen, Er lebe. Und etliche unter uns gingen hin zum Grabe, und fanden's also, wie die Weiber sagten; aber Jhn sahen sie nicht. Und Er sprach zu ihnen: O ihr Toren und träges Herzens, zu glauben alle dem, das die Propheten geredet haben: Mußte nicht Christus solches leiden, und zu Seiner Herrlichkeit eingehen? Und fing an von Moses und allen Propheten, und legte ihnen alle Schriften aus, die von Jhm gesagt waren. Und sie kamen nahe zum Flecken, da sie hingingen; und Er stellte sich, als wollt Er fürder gehen. Und sie nötigten Jhn und sprachen: Bleib bei uns; denn es will Abend werden, und der Tag hat sich geneiget. Und Er ging hinein, bei ihnen zu bleiben. Und es geschah, da Er mit ihnen zu Tische saß, nahm Er das Brot, dankte, brach's, und gab's ihnen. Da wurden ihre Augen geöffnet, und erkannten Jhn. Und Er verschwand vor Jhnen. Und sie sprachen untereinander: Brannte nicht unser Herz in uns, da Er mit uns redete auf dem Wege, als Er uns die Schrift öffnete? Und sie stunden auf zu derselben Stunde, kehreten wieder gen Jerusalem und fanden die Elf versammelt, und die bei ihnen waren, welche sprachen: Der HErr ist wahrhaftig auferstanden und Simon erschienen. Und sie erzähleten ihnen, was auf dem Wege geschehen war, und wie Er von ihnen erkannt wäre an dem, da Er das Brot brach."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Die Jünger wurden froh, Hallelujah, Hallelujah! Da sie den HErrn sahen. Hallelujah, Hallelujah! Ehre sei . . . Bleibe bei uns, o HErr, Hallelujah, Hallelujah! Denn es will Abend werden. Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe.",
+            "text": "Die Kirche hatte in den ersten Zeiten, wo sie am strengsten war, den größten Ruhm der Liebe; und in den Zeiten, wo sie zuchtlos geworden ist, ist ihr mit der Liebe fast alles Verständnis für Liebe verloren gegangen. — »Euer Ruhm ist nicht fein!« ruft Paulus den lasen Korinthern zu. Was würde er zu unserer lieblosigen Lärheit? Ach, wir müssen uns schämen. Zu einem österlichen Leben werden wir ermuntert. Ist der HErr auferstanden, genießen wir die Frucht Seiner Auferstehung, ist unser Leben eine immer vollere Teilnahme an unserm Osterlamm: so wollen wirs beweisen! Ist Einer durch die Sünde gestorben, Christus, so seien wir Alle für die Sünde gestorben. Es helfe uns dazu der HErr und die Kraft Seiner Auferstehung! Amen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O ihr Toren und träges Herzens, zu glauben alle dem, das die Propheten geredet haben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr Jesu Christe, wahrer Gott und Mensch, Der Du für unsre Sünde am Kreuz bist gestorben und wiederum vom Tode auferstanden, lebest und regierest in Ewigkeit, und bist zum Mittler und Gnadenstuhl verordnet: wir bitten Dich, Du wollest uns gnädiglich unsere Sünden vergeben und für uns arme Sünder Fürbitter sein und uns gerecht machen und mit Deinem heiligen Geist zum ewigen Leben heiligen und regieren; Du wollest auch zu allen Zeiten in diesen Landen Dir eine ewige Kirche sammeln und gut Regiment geben, und uns wider des bösen Feindes Gewalt bewahren; Der Du . . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "sondertext",
+            "titel": "Sequentia.",
+            "untertitel": "Victimae paschali.",
+            "absätze": [
+              "Victimae paschali laudes / Immolent Christiani. || Dem österlichen Schlachtopfer sollen / Die Christen Lob und Dank zollen.",
+              "Agnus redemit oves: / Christus innocens / Patri reconciliavit peccatores. || Das Lamm erlöste die Schafe: / Christus der Unschuldige / Hat dem Vater die Sünder versöhnt.",
+              "Mors et vita duello / Conflixere mirando: / Dux vitae mortuus / Regnat vivus. || Tod und Leben im Zweikampf / Stritten — ein Wunder zu schauen: / Der Herzog des Lebens, gestorben, / Lebt und regiert unverdorben.",
+              "Dic nobis, Maria, / Quid vidisti in via? || Sag uns doch, Magdalen, / Was Du auf dem Wege gesehn.",
+              "Sepulchrum Christi viventis, / Et gloriam vidi resurgentis; || \"Das Grabmal Christi, des Lebenden, / Und die Glorie des Sich Erhebenden;",
+              "Angelicos testes, / Sudarium et vestes. || Ich schaute die Engel drinnen, / Das Schweißtuch und Linnen.",
+              "Surrexit Christus, spes mea; / Praecedet vos in Galilaeam. || Erstanden ist Christus, mein Hoffen, ja; / Er geht auch voran nach Galiläa\".",
+              "Scimus Christum surrexisse / a mortuis vere: / Tu nobis, victor Rex, miserere. / Amen. Alleluja. || Wir wissens: Christ ist wahrhaftig erstanden / aus Todesarmen: / Du siegreicher König, schenk uns Dein Erbarmen. / Amen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich bin Der Ich bin,",
+              "Und habe Lust zum Gesetz des HErrn. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Hesekiel 37, 1—14.",
+            "text": "Und des HErrn Hand kam über mich, und führte mich hinaus im Geist des HErrn, und stellte mich auf ein weit Feld, das voller Totenbeine lag. Und Er führte mich allenthalben dadurch. Und siehe: des Gebeines lag sehr viel auf dem Felde; und siehe: sie waren sehr verdorret. Und Er sprach zu mir: Du Menschenkind, meinst du auch, daß diese Beine wieder lebendig werden? Und ich sprach: HErr, HErr, das weißt Du wohl. Und Er sprach zu mir: Weissage von diesen Beinen, und sprich zu ihnen: Ihr verdorreten Beine, höret des HErrn Wort! So spricht der HErr HErr von diesen Gebeinen: Siehe, Ich will einen Odem in euch bringen, daß ihr wieder lebendig werdet. Ich will euch Adern geben, und Fleisch lassen über euch wachsen, und mit Haut überziehen, und will euch Odem geben, daß ihr wieder lebendig werdet; und sollt erfahren, daß Ich der HErr bin. Und ich weissagte, wie mir befohlen war; und siehe: da rauschete es, als ich weissagte, und siehe: es regte sich, und die Gebeine kamen wieder zusammen, ein Jegliches zu seinem Gebein. Und ich sah, und siehe: es wuchsen Adern und Fleisch drauf, und wurden mit Haut überzogen; es war aber noch kein Odem in ihnen. Und Er sprach zu mir: Weissage zum Winde; weissage, du Menschenkind, und sprich zum Wind: So spricht der HErr HErr: Wind, komm herzu aus den vier Winden, und blase diese Getöteten an, daß sie wieder lebendig werden! Und ich weissagte, wie Er mir befohlen hatte. Da kam Odem in sie, und sie wurden wieder lebendig, und richteten sich auf ihre Füße. Und ihrer war ein sehr groß Heer. Und Er sprach zu mir: Du Menschenkind, diese Beine sind das ganze Haus Israel. Siebe: jetzt sprechen sie: Unsre Beine sind verdorret, und unsre Hoffnung ist verloren, und ist aus mit uns. Darum weissage und sprich zu ihnen: So spricht der HErr HErr: Siebe, Ich will eure Gräber auftun, und will euch, Mein Volk, aus denselben herausholn, und euch ins Land Israel bringen; Und sollt erfahren, daß Ich der HErr bin, wenn Ich eure Gräber geöffnet, und euch, Mein Volk, aus denselben gebracht habe. Und Ich will Meinen Geist in euch geben, daß ihr wieder leben sollet; und will euch in euer Land setzen; und sollt erfahren, daß Ich der HErr bin. Ich rede es, und tue es auch, spricht der HErr."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Auferstanden ist der gute Hirte, Der Sein Leben gab für Seine Schafe, und für Seine Herde starb."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Hallelujah, Hallelujah, Hallelujah!",
+                  "Ja, unser Osterlamm ist geopfert: Christus, Hallelujah!",
+                  "Hallelujah, Hallelujah, Hallelujah!",
+                  "Ehre sei . . . Hallelujah, Hallelujah, Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: verleihe, daß wir, die wir das Auferstehungsfest unseres HErrn feiern, durch Erneuerung des heiligen Geistes vom Tod der Seelen auferstehen; durch Denselben Jesum Christum, unsern HErrn."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich habe den HErrn gesehen, Hallelujah!",
+              "Und solches hat Er mir gesagt. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116",
+              "112"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 10, 34—41.",
+            "text": "Petrus aber tat seinen Mund auf und sprach: Nun erfahre ich mit der Wahrheit, daß Gott die Person nicht ansiehbet; sondern in allerlei Volk, wer Jhn fürchtet, und recht tut, der ist Jhm angenehm. Jhr wisset wohl von der Predigt, die Gott zu den Kindern Israel gesandt hat, und verkündigen lassen den Frieden durch Jesum Christum, (Welcher ist ein HErr über alles,) die durchs ganze jüdische Land geschehen ist, und angegangen in Galiläa nach der Taufe, die Johannes predigte: Wie Gott Denselben Jesum von Nazareth gesalbet hat mit dem heiligen Geiste und Kraft; Der umbergezogen ist, und hat wohlgetan, und gesund gemacht Alle, die vom Teufel überwältigt waren; denn Gott war mit Jhm. Und wir sind Zeugen alles des, das Er getan hat im jüdischen Lande und zu Jerusalem. Den haben sie getötet, und an ein Holz gehangen. Denselben hat Gott auferwecket am dritten Tage, und Jhn lassen offenbar werden, nicht allem Volk, sondern uns, den vorerwähleten Zeugen von Gott, die wir mit Jhm gegessen und getrunken haben, nachdem Er auferstanden war von den Toten."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Es ist erstanden der HErr vom Grabe, Hallelujah, Hallelujah!",
+                  "Der für uns gehangen am Holze. Hallelujah, Hallelujah!",
+                  "Ehre sei . . .",
+                  "Der HErr ist wahrhaftig auferstanden, Hallelujah, Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zween der Jünger gehn mit Sehnen",
+            "strophen": [
+              {
+                "links": [
+                  "Zween der Jünger gehn mit Sehnen",
+                  "Ueber Feld nach Emmaus;",
+                  "Jhre Augen sind voll Thränen,",
+                  "Jhre Seele voll Verdruß.",
+                  "Und sie wechseln Klageworte;",
+                  "Doch es ist von ihrem Orte",
+                  "Unser Jesus gar nicht weit",
+                  "Und vertreibt die Traurigkeit."
+                ],
+                "rechts": [
+                  "Ach, es gehn noch manche Herzen",
+                  "Jhrem stillen Kummer nach;",
+                  "Sie bejammern voller Schmerzen",
+                  "Jhre Not, ihr Ungemach.",
+                  "Manches wandert gar alleine,",
+                  "Daß es nur zur Gnüge weine;",
+                  "Doch mein Jesus ist dabei,",
+                  "Fragt, was man so traurig sei."
+                ]
+              }
+            ],
+            "melodie": "87"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Halt im Gedächtnis Jesum Christ, Hallelujah!",
+              "Der von den Toten auferstanden ist. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Was sind das für Reden, die ihr zwischen euch handelt unterwegen,",
+              "Und seid traurig? Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, verleihe uns, die wir uns der Auferstehung unseres HErrn Jesu Christi freuen, daß wir wahrhaftiglich unser Teil empfangen mit allen Heiligen und Auserwählten; durch Denselben, Deinen lieben Sohn, Jesum Christum, unsern HErrn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag_ostern",
+      "titel": "Dienstag nach Ostern",
+      "wochentag": "Dienstag",
+      "seiten": [
+        121,
+        125
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Was suchet ihr den Lebendigen bei den Toten?",
+              "Er ist auferstanden! Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Erschienen ist der herrlich Tag",
+            "strophen": [
+              {
+                "links": [
+                  "Erschienen ist der herrlich Tag,",
+                  "Dran sich Niemand gnug freuen mag;",
+                  "Christi, unser HErr, heut triumphiert,",
+                  "All Sein Feind Er gefangen führt.",
+                  "Hallelujah!",
+                  "Sein Raub der Tod muß fahren lan,",
+                  "Das Leben siegt und g'wann ihm an;",
+                  "Zerstöret ist nun all sein Macht,",
+                  "Christ hat das Leben wiederbracht.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Die Sonn, die Erd, all Kreatur,",
+                  "Alls, was betrübet war zuvor,",
+                  "Das freut sich heut an diesem Tag,",
+                  "Da der Welt Fürst darniederlag.",
+                  "Hallelujah!",
+                  "Drum wir auch billig fröhlich sein,",
+                  "Singen das Hallelujah sein;",
+                  "Und loben Dich, HErr Jesu Christ:",
+                  "Zu Trost Du uns erstanden bist.",
+                  "Hallelujah!"
+                ]
+              }
+            ],
+            "melodie": "44"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ich weiß, daß mein Erlöser lebt, Hallelujah!",
+              "Und Er wird mich hernach aus der Erde auferwecken. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Matthäi 28, 1—10.",
+            "text": "Als aber der Sabbath um war, und der erste Tag der Woche anbrach, kam Maria Magdalena und die andre Maria, das Grab zu besehen. Und siebe: es geschah ein groß Erdbeben. Denn der Engel des HErrn kam vom Himmel herab, trat hinzu, und wälzte den Stein von der Thür, und setzte sich drauf. Und Seine Gestalt war wie der Blitz, und Sein Kleid weiß als der Schnee. Die Hüter aber erschraken vor Furcht, und wurden, als wären sie tot. Aber der Engel antwortete und sprach zu den Weibern: Fürchtet euch nicht; ich weiß, daß ihr Jesum, den Gekreuzigten, suchet. Er ist nicht hie; Er ist auferstanden, wie Er gesagt hat. Kommet her, und sehet die Stätte, da der HErr gelegen hat; und gehet eilend hin, und saget es Seinen Jüngern, daß Er auferstanden sei von den Toten. Und siebe: Er wird vor euch hingehen nach Galiläa; da werdet ihr Jhn sehen. Siebe: Ich habe es euch gesagt. Und sie gingen eilend vom Grabe mit Furcht und großer Freude, und liefen, daß sie es Seinen Jüngern verkündigten. Und da sie gingen, Seinen Jüngern zu verkündigen, siebe: da begegnete ihnen Jesus, und sprach: Seid gegrüßet! Und sie traten zu Jhm, und griffen an Seine Füße, und fielen vor Jhm nieder. Da sprach Jesus zu ihnen: Fürchtet euch nicht; gehet hin, und verkündiget es Meinen Brüdern, daß sie gehen nach Galiläa; daselbt werden sie Mich sehen."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Mit großer Kraft gaben die Apostel Zeugnis von der Auferstehung des HErrn Jesu Christi, unseres HErrn, Hallelujah, Hallelujah! Voll des Heiligen Geistes verkündigten sie zuverlässig Gottes Wort. Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus trat mitten unter Seine Jünger und sprach zu ihnen:",
+              "Friede sei mit euch. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O ewiger Gott, Der Du uns durch Deinen Einigen Sohn eröffnet hast den Zugang zum ewigen Leben, nachdem Er den Sieg des Todes behalten hat: erwecke die Begierde unserer Herzen zur schönen Ewigkeit, und hilf sie uns vollführen; durch Jesum Christum, unsern HErrn."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Also heilig ist dieser Tag",
+            "strophen": [
+              {
+                "links": [
+                  "Also heilig ist dieser Tag,",
+                  "Daß ihn Niemand mit Lob erfüllen mag;",
+                  "Denn der Einig Gottesfohn,",
+                  "Der die Hölle überwand"
+                ],
+                "rechts": [
+                  "Und den leidigen Teufel darinnen band:",
+                  "Damit erlöst der HErr die Christenheit;",
+                  "Das war Christus Selber",
+                  "Kyrieleis."
+                ]
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus hat dem Tode die Macht genommen, Hallelujah!",
+              "Und das Leben und ein unvergängliches Wesen ans Licht gebracht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 26, 13—20.",
+            "text": "HErr, unser Gott, es herrschen wohl andre Herren über uns denn Du; aber wir gedenken doch allein Dein und Deines Namens. Die Toten werden nicht lebendig, die Verstorbenen stehen nicht auf; denn Du hast sie heimgesucht, und vertiget, und zunichte gemacht all ihr Gedächtnis. Aber Du, HErr, fährest fort unter den Heiden, Du fährest immer fort unter den Heiden, beweisest Deine Herrlichkeit, und kommest ferne bis an der Welt Enden. HErr, wenn Trübsal da ist, so suchet man Dich; wenn Du sie züchtigest, so rufen sie ängstlich. Gleichwie eine Schwangere, wenn sie schier gebären soll, so ist ihr ang, schreit sie in ihren Schmerzen: so ist Gott's uns auch, HErr, vor Deinem Angesicht. Da sind wir auch schwanger, und ist uns bange, daß wir kaum Odem holen; doch können wir dem Lande nicht helfen, die Einwohner auf dem Erdboden wollen nicht fallen. Aber Deine Toten werden leben, meine Leichnäme werden auferstehen. Wacht auf, und rühmet, die ihr liegt unter der Erde! Denn Dein Tau ist ein Tau des grünen Feldes; aber das Land der Toten wirst Du stürzen. Gehe hin, Mein Volk, in deine Kammer, und schleuß die Thür nach dir zu; verbirg dich einen kleinen Augenblick, bis der Zorn vorübergehe."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, verleihe uns, die wir uns der Auferstehung unsers HErrn Jesu Christi freuen, daß wir wahrhaftiglich unser Teil empfangen mit allen Heiligen und Auserwählten; durch Denselben, Deinen lieben Sohn, Jesum Christum, unsern HErrn."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah! Ich habe den HErrn allezeit vor Augen, Hallelujah!",
+              "Denn Er ist mir zur Rechten. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 15, 12—20.",
+            "text": "So aber Christus geprediget wird, daß Er sei von den Toten auferstanden, wie sagen denn Etliche unter euch: die Auferstehung der Toten sei nichts? Ist aber die Auferstehung der Toten nichts, so ist auch Christus nicht auferstanden. Ist aber Christus nicht auferstanden, so ist unsre Predigt vergeblich, so ist auch euer Glaube vergeblich. Wir würden aber auch erfunden falsche Zeugen Gottes, daß wir wider Gott gezeuget hätten, Er hätte Christum auferwecket, Den Er nicht auferwecket hätte, sintemal die Toten nicht auferstehen. Denn so die Toten nicht auferstehen, so ist Christus auch nicht auferstanden. Ist aber Christus nicht auferstanden, so ist euer Glaube eitel, so seid ihr noch in euren Sünden; so sind auch Die, so in Christo entschlafen sind, verloren. Hoffen wir allein in diesem Leben auf Christum, so sind wir die elendesten unter allen Menschen. Nun aber ist Christus auferstanden von den Toten, und der Erstling worden unter Denen, die da schlafen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf auf, mein Herz, mit Freuden",
+            "strophen": [
+              {
+                "links": [
+                  "Auf auf, mein Herz, mit Freuden,",
+                  "Nimm wahr, was heut geschicht.",
+                  "Wie kommt nach großen Leiden",
+                  "Nun ein so großes Licht!",
+                  "Mein Heiland war gelegt,",
+                  "Da, wo man uns hinträgt,",
+                  "Wenn von uns unser Geist",
+                  "Gen Himmel ist gereist."
+                ],
+                "rechts": [
+                  "Das ist mir anzuschauen",
+                  "Ein rechtes Freudenspiel;",
+                  "Nun soll mir nicht mehr grauen",
+                  "Vor Allem, was mir will",
+                  "Entnehmen meinen Mut,",
+                  "Zuamt dem edlen Gut,",
+                  "So mir durch Jesum Christ",
+                  "Aus Lieb erworben ist."
+                ]
+              }
+            ],
+            "melodie": "13"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sehet Meine Hände und Meine Füße; Ich bin's Selber.",
+              "Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger, ewiger Gott, Der Du uns nach Deiner großen Barmherzigkeit wiedergeboren hast zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten: Wir bitten Dich, geleite Deine demütige Herde in die große Gemeinschaft der himmlischen Freuden, wohin vorangegangen ist ihr erhöheter Hirte; durch Denselben Jesum Christum, unsern HErrn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch_ostern",
+      "titel": "Mittwoch nach Ostern",
+      "wochentag": "Mittwoch",
+      "seiten": [
+        126,
+        129
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah! Christus, von den Toten erweckt, stirbt hinfort nicht mehr, Hallelujah!",
+              "Der Tod wird hinfort nicht über Jhn herrschen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wach auf, mein Herz, die Nacht ist hin",
+            "strophen": [
+              {
+                "links": [
+                  "Wach auf, mein Herz, die Nacht ist hin,",
+                  "Die Sonn ist aufgegangen;",
+                  "Ermuntre deinen Geist und Sinn,",
+                  "Den Heiland zu empfangen,",
+                  "Der heute durch des Todes Thür",
+                  "Gebrochen aus dem Grab herfür,",
+                  "Der ganzen Welt zur Wonne."
+                ],
+                "rechts": [
+                  "Steh aus dem Grab der Sünden auf,",
+                  "Und such ein neues Leben;",
+                  "Vollführe deinen Glaubenslauf,",
+                  "Und laß dein Herz sich heben",
+                  "Gen Himmel, da dein Jesus ist,",
+                  "Und such was droben, als ein Christ,",
+                  "Der geistlich auferstanden."
+                ]
+              }
+            ],
+            "melodie": "112"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ich liege und schlafe und erwache, Hallelujah!",
+              "Denn der HErr hält mich. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 20, 11—18.",
+            "text": "Maria aber stund vor dem Grabe, und weinte draußen. Als sie nun weinte, guckte sie in das Grab, und siehet zween Engel in weißen Kleidern sitzen: Einen zu den Häupten und den Andern zu den Füßen, da sie den Leichnam Jesu hin gelegt hatten. Und Dieselben sprachen zu ihr: Weib, was weinest du? Sie spricht zu ihnen: Sie haben meinen HErrn weggenommen, und ich weiß nicht, wo sie Jhn hingelegt haben. Und als sie das sagte, wandte sie sich zurück, und siehet Jesum stehen, und weiß nicht, daß es Jesus ist. Spricht Jesus zu ihr: Weib, was weinest du? Wen suchest du? Sie meinet, es sei der Gärtner, und spricht zu Jhm: HErr, hast Du Jhn weggetragen, so sage mir, wo hast Du Jhn hingelegt? so will ich Jhn holen. Spricht Jesus zu ihr: Maria! Da wandte sie sich um, und spricht zu Jhm: Rabbuni, das heißet: Meister. Spricht Jesus zu ihr: Rühre Mich nicht an; denn Ich bin noch nicht aufgefahren zu Meinem Vater. Gehe aber hin zu Meinen Brüdern und sage ihnen: Ich fahre auf zu Meinem Vater und zu eurem Vater, zu Meinem Gott und zu eurem Gott. Maria Magdalena kommt, und verkündiget den Jüngern: Ich habe den HErrn gesehen, und solches hat Er zu mir gesagt."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Freuet euch mit mir Alle, die ihr den HErrn liebet, denn Er, Den ich suchte, ist mir erschienen. Als ich am Grabe weinte, sah ich den HErrn. Hallelujah, Hallelujah! Die Jünger gingen fort, ich aber blieb. Ich brannte vor Liebe zu Jhm, erglühte vor Sehnsucht. Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: verleihe, daß wir, die wir das hohe Fest der Ostern gefeiert haben, Deinen Segen behalten und im Leben und Wandel durch Deine Gnade Früchte bringen; durch Deinen lieben Sohn, Jesum Christum, Der mit Dir in Einigkeit des Heiligen Geistes, ein wahrer Gott, lebet und herrschet in Ewigkeit."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wach auf, mein Herz",
+            "strophen": [
+              {
+                "links": [
+                  "Quält dich ein schwerer Sorgenstein,",
+                  "Dein Jesus wird ihn heben;",
+                  "Es kann ein Christ bei Kreuzespein",
+                  "In Freud und Wonne leben;",
+                  "Wirf dein Anliegen auf den HErrn,",
+                  "Und sorge nicht: Er ist nicht fern,",
+                  "Weil Er ist auferstanden."
+                ],
+                "rechts": null
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah! Der Stein ist weggewälzt, Hallelujah!",
+              "Von der Thür des Grabes. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "26"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus ist die Auferstehung und das Leben, Hallelujah!",
+              "Wer an Jhn glaubt, der wird leben, ob er gleich stürbe. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch Mose 15, 1—10.",
+            "text": "Da sang Mose und die Kinder Israel dies Lied dem HErrn und sprachen: Ich will dem HErrn singen; denn Er hat eine herrliche Tat getan, Roß und Mann hat Er ins Meer gestürzt. Der HErr ist meine Stärke und Lobgesang, und ist mein Heil. Das ist mein Gott, ich will Jhn preisen; Er ist meines Vaters Gott, ich will Jhn erheben. Der HErr ist der rechte Kriegsmann. HErr ist Sein Name. Die Wagen Pharaos und seine Macht warf Er ins Meer; seine auserwählten Hauptleute versanken im Schilfmeer. Die Tiefe hat sie bedeckt; sie fielen zu Grund wie die Steine. HErr, Deine rechte Hand tut große Wunder; HErr, Deine rechte Hand hat die Feinde zerschlagen. Und mit Deiner großen Herrlichkeit hast Du Deine Widersacher gestürzet; denn da Du Deinen Grimm ausließest, verzehrte er sie wie Stoppeln. Durch Dein Blasen taten sich die Wasser empor, und die Fluten stunden auf Haufen; die Tiefe wallte voneinander mitten im Meer. Der Feind gedachte: Ich will nachjaagen, und erhaschen, und den Raub austeilen, und meinen Mut an ihnen kühlen; ich will mein Schwert ausziehen, und meine Hand soll sie verderben. Da bliesest Du mit Deinem Wind, und das Meer bedeckte sie, und sanken unter wie Blei im mächtigen Wasser."
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns durch die alljährliche Feier der Auferstehung des HErrn erfreuest: verleihe uns gnädiglich, daß wir durch die zeitlichen Feste, die wir begehen, zu den ewigen Freuden gelangen mögen; durch . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah! Ich habe den HErrn gesehen, Hallelujah!",
+              "Und solches hat Er zu mir gesagt."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 15, 54—58.",
+            "text": "Wenn aber dies Verwesliche wird anziehen die Unverweslichkeit, und dies Sterbliche wird anziehen die Unsterblichkeit, dann wird erfüllet werden das Wort, das geschrieben stehet: Der Tod ist verschlungen in den Sieg. Tod, wo ist dein Stachel? Hölle, wo ist dein Sieg? Aber der Stachel des Todes ist die Sünde; die Kraft der Sünde ist das Gesetz. Gott aber sei Dank, der uns den Sieg gegeben hat durch unsern HErrn Jesum Christum. Darum, meine lieben Brüder, seid fest, unbeweglich, und nehmet immer zu in dem Werk des HErrn, sintemal ihr wisset, daß eure Arbeit nicht vergeblich ist in dem HErrn."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Martin Luther.",
+            "text": "Christen sind ein seliges Volk, die können sich freuen im Herzen und rühmen pochen tanzen und springen. Das gefällt Gott wohl und tut unserm Herzen sanft, wenn wir auf Gott trohen stolzieren und fröhlich sind. Was wollt ich nehmen für die Freude, daß mir mein HErr und Gott alle Engel hat zu Freunden gemacht, ja Himmel und Erde, ja meinen lieben Gott und Vater im Himmel? Da sollten wir springen und fröhlich sein, und sollt unser Leben nicht anders, denn ein Hallelujah sein, wie es denn auch ist. Der Welt Leben ist mir ein Awe; aber die Christenheit heißt Hallelujah; denn sie hat einen gnädigen Gott, und Er heißt Emanuel, Gott mit uns, ist ewig bei uns und hat gesagt: du sollst an Mich glauben, so soll dir die Sünde vergeben sein, Tod soll dir nichts tun, du sollst ein Erbe sein des Himmelreichs."
+          },
+          {
+            "typ": "lied",
+            "titel": "Wach auf, mein Herz",
+            "strophen": [
+              {
+                "links": [
+                  "Geh mit Maria Magdalen",
+                  "Und Salome zum Grabe,",
+                  "Die früh dahin aus Liebe gehn",
+                  "Mit ihrer Salbungsgabe:",
+                  "So wirst du sehn, daß Jesus Christ",
+                  "Vom Tod heut auferstanden ist,",
+                  "Und nicht im Grab zu finden."
+                ],
+                "rechts": [
+                  "Sei hochgelobt in dieser Zeit",
+                  "Von allen Gotteskindern,",
+                  "Und ewig in der Herrlichkeit",
+                  "Von allen Ueberwindern,",
+                  "Die überwunden durch Dein Blut;",
+                  "HErr Jesu, gib uns Kraft und Mut,",
+                  "Daß wir auch überwinden."
+                ]
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns in der Auferstehung Deines Sohnes zum ewigen Leben bereiteist, richte unsre Herzen zu dem Anfänger und Vollender unseres Glaubens, Der da sitzet zu Deiner Rechten, damit bei Seiner Wiederkunft zum Gericht uns begegne ein milder Jesus Christus, Der mit Dir in Einigkeit des Heiligen Geistes, ein wahrer Gott, lebet und herrschet in Ewigkeit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag_ostern",
+      "titel": "Donnerstag nach Ostern",
+      "wochentag": "Donnerstag",
+      "seiten": [
+        130,
+        133
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist aus dem Grabe erstanden, Hallelujah!",
+              "Der für uns am Kreuze gegangen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "98"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei fröhlich alles weit und breit",
+            "strophen": [
+              {
+                "links": [
+                  "Sei fröhlich alles weit und breit",
+                  "Was vormals war verloren,",
+                  "Weil heut der HErr der Herrlichkeit,",
+                  "Den Gott Selbst auserkoren",
+                  "Zum Sündenbüßer, Der Sein Blut",
+                  "Am Kreuz vergossen, uns zu gut,",
+                  "Vom Tod ist auferstanden."
+                ],
+                "rechts": [
+                  "Wie schön hast du durch deine Macht,",
+                  "Du wilder Feind des Lebens,",
+                  "Den Lebensfürsten umgebracht!",
+                  "Dein Stachel ist vergebens",
+                  "Durch Jhn geschossen, schnöder Feind;",
+                  "Du hättest wahrlich wohl gemeint:",
+                  "Er würd im Staube bleiben?"
+                ]
+              }
+            ],
+            "melodie": "112"
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 21, 1—14.",
+            "text": "Darnach offenbarte Sich Jesus abermal den Jüngern an dem Meer bei Tiberias. Er offenbarte Sich aber also. Es waren beieinander Simon Petrus und Thomas, der da heißet Zwilling, und Nathanael von Kana in Galiläa und die Söhne Zebedäus' und andere zween Seiner Jünger. Spricht Simon Petrus zu ihnen: Ich will hin fischen gehen. Sie sprechen zu ihm: So wollen wir mit dir gehen. Sie gingen hinaus und traten in das Schiff alsobald, und in derselben Nacht fingen sie nichts. Da es aber jetzt Morgen war, stund Jesus am Ufer; aber die Jünger wußten nicht, daß es Jesus war. Spricht Jesus zu ihnen: Kinder, habt ihr nichts zu essen? Sie antworteten Jhm: Nein. Er aber sprach zu ihnen: Werfet das Netz zur Rechten des Schiffs, so werdet ihr finden. Da warfen sie, und konnten's nicht mehr ziehen vor der Menge der Fische. Da spricht der Jünger, welchen Jesus lieb hatte, zu Petrus: Es ist der HErr. Da Simon Petrus hörete, daß es der HErr war, gürtete er das Hemd um sich, (denn er war nacket,) und warf sich ins Meer. Die andern Jünger aber kamen auf dem Schiffe, (denn sie waren nicht ferne vom Lande, sondern bei zweihundert Ellen,) und zogen das Netz mit den Fischen. Als sie nun austrieten auf das Land, sahen sie Kohlen geleget und Fische drauf, und Brot. Spricht Jesus zu ihnen: Bringet her von den Fischen, die ihr jetzt gefangen habt. Simon Petrus stieg hinein, und zog das Netz auf das Land voll großer Fische, hundertunddreiundfünfzig. Und wiewohl ihrer so viel waren, zerriß doch das Netz nicht. Spricht Jesus zu ihnen: Kommet, und haltet das Mahl. Niemand aber unter den Jüngern wagte Jhn zu fragen: Wer bist Du? denn sie wußten, daß es der HErr war. Da kommt Jesus, und nimmt das Brot, und gibt's ihnen, deselbigengleichen auch die Fische. Das ist nun das dritte Mal, daß Jesus offenbaret ward Seinen Jüngern, nachdem Er von den Toten auferstanden war."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Siehe: es hat überwunden der Löwe, Der da ist vom Geschlecht Juda, die Wurzel Davids, aufzutun das Buch, und zu brechen seine sieben Siegel. Hallelujah, Hallelujah, Hallelujah!"
+              },
+              {
+                "art": "text",
+                "inhalt": "Das Lamm, das erwürget ist, ist würdig zu nehmen Kraft und Reichtum und Weisheit und Stärke und Ehre und Preis und Lob. Hallelujah, Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, Der Du Deinen Sohn um unserer Sünde willen dargegeben und um unserer Gerechtigkeit willen auferwecket hast, wir bitten Dich: Du wollest Deinen heiligen Geist uns schenken, durch ihn uns regieren und führen, in wahrem Glauben erhalten und vor allen Sünden uns behüten, und endlich nach diesem Leben uns zum ewigen Leben auch wieder auferwecken; durch Denselben Deinen Sohn, Jesum Christum, unseren HErrn."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sei fröhlich alles",
+            "strophen": [
+              {
+                "links": [
+                  "Der Tod hat keine Kraft nicht mehr,",
+                  "Wir dürfen ihn nicht scheuen.",
+                  "Ich bin sein Siegsfürst und sein HErr,",
+                  "Des sollt ihr euch erfreuen;",
+                  "Dazu so bin Ich euer Haupt,",
+                  "Drum werdet ihr, wenn ihr Mir glaubt,",
+                  "Als Glieder mit Mir leben."
+                ],
+                "rechts": null
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus ist auferstanden von den Toten, Hallelujah!",
+              "Und der Erstling worden unter Denen, die da schlafen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wenn ich aufwache, bin ich noch bei Dir, Hallelujah!",
+              "Du hieltest Deine Hand über mir. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Sprüche 11, 2—8.",
+            "text": "Wo Stolz ist, da ist auch Schmach; aber Weisheit ist bei den Demütigen. Unschuld wird die Frommen leiten; aber die Bosheit wird die Verächter verstören. Gut hilft nicht am Tage des Zorns; aber Gerechtigkeit errettet vom Tod. Die Gerechtigkeit des Frommen macht seinen Weg eben; aber der Gottlose wird fallen durch sein gottlos Wesen. Die Gerechtigkeit der Frommen wird sie erretten; aber die Verächter werden gefangen in ihrer Bosheit. Wenn ein gottloser Mensch stirbet, ist seine Hoffnung verloren, und das Harren der Ungerechten wird zunichte. Der Gerechte wird aus der Not erlöset, und der Gottlose kommt an seine Statt."
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du die Mannigfaltigkeit der Völker im Bekenntnis Deines Namens vereinigt hast: gib, daß Allen, die durch den Quell der Taufe wiedergeboren sind, ein Glaube eigne, und dieselbe Frömmigkeit im Handeln; durch . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 15, 22—28.",
+            "text": "Denn gleichwie sie in Adam Alle sterben, also werden sie in Christo Alle lebendig gemacht werden; ein Jeglicher aber in seiner Ordnung: der Erstling Christus; darnach die Christo angehören, wenn Er kommen wird; darnach das Ende, wenn Er das Reich Gott und dem Vater überantworten wird, wenn Er aufheben wird alle Herrschaft und alle Obrigkeit und Gewalt. Er muß aber herrschen, bis daß Er alle Seine Feinde unter Seine Füße lege. Der letzte Feind, der aufgehoben wird, ist der Tod. Denn Er hat Jhm alles unter Seine Füße getan. Wenn Er aber saget, daß es alles untertan sei, ist's offenbar, daß er ausgenommen ist, Der Jhm alles untertan hat. Wenn aber alles Jhm untertan sein wird, alsdann wird auch der Sohn Selber untertan sein Dem, Der Jhm alles untergetan hat, auf daß Gott sei alles in Allem."
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei fröhlich alles",
+            "strophen": [
+              {
+                "links": [
+                  "Der Höllen Sieg der ist auch Mein,",
+                  "Ich habe sie zerstöret;",
+                  "Es darf nicht fürchten ihre Pein",
+                  "Wer Mich und Mein Wort höret.",
+                  "Und weil des Teufels Macht und List",
+                  "Gedämpft, sein Kopf zertreten ist,",
+                  "Mag er ihm auch nicht schaden."
+                ],
+                "rechts": [
+                  "Nun, Gott sei Dank, Der uns den Sieg",
+                  "Durch Jesum hat gegeben",
+                  "Und uns den Frieden für den Krieg",
+                  "Und für den Tod das Leben",
+                  "Erworben, Der die Sünd und Tod,",
+                  "Welt Teufel Höll, und was in Not",
+                  "Uns stürzet, überwunden."
+                ]
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger, ewiger Gott, Der Du Allen, die aus Wasser und Geist wiedergeboren sind, den Eingang auftust zu Deinem unbeweglichen Reiche: mehre über Deine Hausgenossenschaft die geschenkte Gnade, daß sie, gereinigt von ihren Sünden, Deiner herrlichen Verheißungen teilhaftig werde; durch Jesum Christum, unsern HErrn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag_ostern",
+      "titel": "Freitag nach Ostern",
+      "wochentag": "Freitag",
+      "seiten": [
+        134,
+        138
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErren preisen",
+            "strophen": [
+              {
+                "links": [
+                  "Lasset uns den HErren preisen,",
+                  "O ihr Christen überall;",
+                  "Kommet, daß wir Dank erweisen",
+                  "Unserm Gott mit süßem Schall.",
+                  "Es ist frei von Todesbanden",
+                  "Simson, Der vom Himmel kam,",
+                  "Und der Löw aus Judas Stamm:",
+                  "Christus Jesus, ist erstanden.",
+                  "Nun ist hin der lange Streit:",
+                  "Freue dich, o Christenheit!"
+                ],
+                "rechts": [
+                  "Christus Selbst hat überwunden",
+                  "Des ergrimmten Todes Macht;",
+                  "Der in Tüchern lag gebunden",
+                  "Hat die Schlange umgebracht.",
+                  "Satans Reich ist ganz verheeret:",
+                  "Christus hat es nach der Ruh",
+                  "Ausgetilget, und dazu",
+                  "Belial sein Schloß zerstöret,",
+                  "Daß wir haben frei Geleit:",
+                  "Freue dich, o Christenheit!"
+                ]
+              }
+            ],
+            "melodie": "93"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Sind wir mit Christo gestorben, Hallelujah!",
+              "So glauben wir, daß wir auch mit Jhm leben werden. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 24, 36—49.",
+            "text": "Da sie aber davon redeten, trat Er Selbst, Jesus, mitten unter sie, und sprach zu ihnen: Friede sei mit euch! Sie erschraken aber, und fürchteten sich, meineten, sie sähen einen Geist. Und Er sprach zu ihnen: Was seid ihr so erschrocken? und warum kommen solche Gedanken in euer Herz? Sehet Meine Hände und Meine Füße; Ich bin's Selber; fühlet Mich, und sehet; denn ein Geist hat nicht Fleisch und Bein, wie ihr sehet, daß Ich habe. Und da Er das sagte, zeigte Er ihnen Hände und Füße. Da sie aber noch nicht glaubeten vor Freuden, und sich verwunderten, sprach Er zu ihnen: Habt ihr hie etwas zu essen? Und sie legten ihm vor ein Stück von gebratenem Fisch und Honigseim. Und Er nahm's, und aß vor ihnen. Er sprach zu ihnen: Das sind die Reden, die Ich zu euch sagte, da Ich noch bei euch war; denn es muß alles erfüllet werden, was von Mir geschrieben ist im Gesetz Moses', in den Propheten und in den Psalmen. Da öffnete Er ihnen das Verständnis, daß sie die Schrift verstunden, und sprach zu ihnen: Also ist's geschrieben, und also mußte Christus leiden, und auferstehen von den Toten am dritten Tage, und predigen lassen in Seinem Namen Buße und Vergebung der Sünden unter allen Völkern, und anheben zu Jerusalem. Jhr aber seid des alles Zeugen. Und siebe: Ich will auf euch senden die Verheißung Meines Vaters. Jhr aber sollt in der Stadt Jerusalem bleiben, bis daß ihr angetan werdet mit Kraft aus der Höhe."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Elf Apostel sahen in Galiläa den HErrn",
+              "Und beteten Jhn an. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Sei gegrüßt, Du König der Barmherzigkeit; Leben Freude und Hoffnung unserer Seelen, sei gegrüßt! Zu Dir rufen wir elende Kinder Evas. Wir seufzen zu Dir, klagend und weinend in diesem Tal der Thränen. Eia, darum HErr Jesu Christe, Der Du uns vor Gott vertrittst, kehre zu uns Deine Augen, so voll Erbarmens, und zeige Dich uns, Du gebenedeieter Sohn Gottes und Marien nach diesem Elend. O gütiger, o milder, o süßer HErr Jesu Christe."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErren preisen",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, dies sind die edlen Früchte,",
+                  "Die Dein Auferstehung gibt,",
+                  "Daß wir treten vor Gerichte",
+                  "Ganz in Deine Gunst verliebt.",
+                  "HErr, dies sind die schönen Gaben:",
+                  "Gnad und Leben, Freud und Sieg,",
+                  "Trost und Friede nach dem Krieg;",
+                  "O, die sollen kräftig laben",
+                  "Leib und Seel in allem Leid:",
+                  "Freue dich, o Christenheit!"
+                ],
+                "rechts": null
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch der Makkabäer 7, 9—14.",
+            "text": "Da nahmen sie ihn, und marterten ihn wie den ersten. Als er nun jetzt in den letzten Zügen lag, sprach er: Du verruchter Mensch, du nimmst mir wohl das zeitliche Leben; aber der HErr aller Welt wird uns, die wir um Seines Gesetzes willen sterben, auferwecken zu einem ewigen Leben. Darnach nahmen sie den dritten, und trieben auch ihren Mutwillen mit ihm. Und da sie es von ihm forderten, reckte er die Zunge frei heraus, und streckte die Hände dar, und sprach getrost: Diese Gliedmaßen sind mir vom Himmel gegeben; darum will ich sie gerne fahren lassen um Seines Gesetzes willen; denn ich hoffe, Er werde mir sie wohl wiedergeben. Der König aber und seine Diener verwunderten sich, daß der Jüngling so freudig war, und die Marter so gar nichts achtete. Da dieser auch tot war, peinigten sie den vierten auch, und geißelten ihn. Da er aber jetzt sterben wollte, sprach er: Das ist ein großer Trost, daß wir hoffen, wenn uns die Menschen erwürgen, daß uns Gott wird wieder auferwecken; du aber wirst nicht auferwecket werden zum Leben."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Bleib bei uns, denn es will Abend werden,",
+              "Und der Tag hat sich geneiget."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 2, 22—32.",
+            "text": "Jhr Männer von Israel, höret diese Worte: Jesum von Nazareth, den Mann, von Gott unter euch mit Taten und Wundern und Zeichen erwiesen, welche Gott durch Jhn tat unter euch, (wie denn auch ihr selbst wisset,) Denselbigen (nachdem Er aus bedachtem Rat und Versehung Gottes übergeben war) habt ihr genommen durch die Hände der Ungerechten, und Jhn angeheftet und erwürget. Den hat Gott auferwecket, und aufgelöset die Schmerzen des Todes, wie es denn unmöglich war, daß Er sollte von ihm gehalten werden. Denn David spricht von Jhm: Ich habe den HErrn allezeit vorgesetzt vor Mein Angesicht; denn Er ist an Meiner Rechten, auf daß Ich nicht bewegt werde. Darum ist Mein Herz fröhlich, und Meine Zunge freuet sich; denn auch Mein Fleisch wird ruhen in der Hoffnung. Denn Du wirst Meine Seele nicht der Hölle lassen, auch nicht zugeben, daß Dein Heiliger die Verwesung sehe. Du hast Mir kundgetan die Wege des Lebens; Du wirst Mich erfüllen mit Freuden vor Deinem Angesichte. Jhr Männer, lieben Brüder, lasset mich frei reden zu euch von dem Erzvater David. Er ist gestorben und begraben, und sein Grab ist bei uns bis auf diesen Tag. Da er nun ein Prophet war, und wußte, daß ihm Gott verheißen hatte mit einem Eide, daß die Frucht seiner Lenden sollte auf seinem Stuhl sitzen, hat er's zuvor gesehen, und geredet von der Auferstehung Christi, daß Seine Seele nicht der Hölle gelassen ist, und Sein Fleisch die Verwesung nicht gesehen hat. Diesen Jesum hat Gott auferweckt; des sind wir alle Zeugen."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Cyrill von Jerusalem.",
+            "text": "Christus stieg zwar Allein in die Unterwelt, mit reichem Gefolge aber verließ Er sie. Er stieg in den Tod hinab, und viele Leiber der Heiligen, die entschlafen waren, wurden durch Jhn erweckt. Der Tod erschrak, als er sah, wie ein Neuer in die Unterwelt hinabkam, ohne von den Todesketten dieses Ortes gefesselt zu sein. Warum, ihr Thorwächter der Unterwelt, seid ihr bei Seinem Anblick erschrocken? Vor Wem habt ihr, des Fürchtens ungewohnt, euch gefürchtet? Der Tod floh und verriet durch sein Fliehen seine Furcht. Da eilten sie sich herbei: die heiligen Propheten, Moses der Gesetzgeber, Abraham Jsaak und Jakob, David und Samuel, Jesaja und Johannes der Täufer. Erlöst wurden alle Gerechten, die der Tod verschlungen hatte. Denn es geziemte sich, daß die herrlichen Herolde von dem König, Den sie verkündigt hatten, erlöst wurden. Damals sprachen alle Gerechten: Tod, wo ist dein Stachel? Hölle, wo ist dein Sieg? Der Siegesheld hat uns befreit."
+          },
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErren preisen",
+            "strophen": [
+              {
+                "links": [
+                  "Meinen Leib wird man vergraben,",
+                  "Aber gleichwohl ewig nicht:",
+                  "Bald werd ich das Leben haben;",
+                  "Wenn das letzte Weltgericht",
+                  "Alle Gräber wird entdecken,",
+                  "Und der Engel Feldgeschrei",
+                  "Zeigen was vorhanden sei:",
+                  "Dann wird mich mein Gott aufwecken",
+                  "Und beschließen all mein Leid:",
+                  "Freue dich, o Christenheit!"
+                ],
+                "rechts": [
+                  "Dann so werden meine Glieder,",
+                  "Die jetzt Staub und Asche sein,",
+                  "Unverweslich leben wieder",
+                  "Und verlangen solchen Schein,",
+                  "Dessen gleichen hier auf Erden",
+                  "Nimmermehr zu finden ist.",
+                  "Ja, mein Leib, HErr Jesu Christ,",
+                  "Soll dem Deinen ähnlich werden,",
+                  "Voller Pracht und Herrlichkeit:",
+                  "Freue dich, o Christenheit!"
+                ]
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Von Diesem zeugen alle Propheten, daß durch Seinen Namen Vergebung der Sünden empfangen sollen — Hallelujah! —",
+              "Alle, die an Jhn glauben. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Mir ist gegeben alle Gewalt im Himmel und auf Erden. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du das österliche Heiltum gestiftet hast als einen Bund zur Versöhnung der Menschheit: laß uns dem, was wir feiernd bekennen, in Wahrheit nacheifern; durch . . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend_ostern",
+      "titel": "Sonnabend nach Ostern",
+      "wochentag": "Sonnabend",
+      "seiten": [
+        138,
+        141
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "149"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Tod, wo ist dein Stachel nun",
+            "strophen": [
+              {
+                "links": [
+                  "O Tod, wo ist dein Stachel nun,",
+                  "Wo ist dein Sieg, o Hölle?",
+                  "Was kann uns jetzt der Teufel tun,",
+                  "Wie grausam er sich stelle?",
+                  "Gott sei gedankt, Der uns den Sieg",
+                  "So herrlich hat nach diesem Krieg",
+                  "Durch Jesum Christ gegeben!"
+                ],
+                "rechts": [
+                  "Lebendig Christus kommt herfür,",
+                  "Die Feind nimmt Er gefangen;",
+                  "Zerbricht der Höllen Schloß und Thür,",
+                  "Trägt weg den Raub mit Prangen.",
+                  "Nichts ist, das in dem Siegeslauf",
+                  "Den starken Held kann halten auf:",
+                  "Alls liegt da überwunden."
+                ]
+              }
+            ],
+            "melodie": "7"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Gelobt sei Gott in Ewigkeit, Der uns aus großer Gütigkeit",
+              "Hat durch Christum, Seinen Sohn, selig gemacht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Marci 16, 9—13.",
+            "text": "Jesus aber, da Er auferstanden war frühe am ersten Tage der Woche, erschien Er am ersten der Maria Magdalena, von welcher Er sieben Teufel ausgetrieben hatte. Und sie ging hin, und verkündigte es Denen, die mit Jhm gewesen waren, die da Leid trugen, und weineten. Und Dieselbigen, da sie hörten, daß Er lebete, und wäre ihr erschienen, glaubten sie nicht. Darnach, da Zweeen aus ihnen wandelten, offenbarte Er Sich unter einer andern Gestalt, da sie aufs Feld gingen. Und Dieselbigen gingen auch hin, und verkündigten das den Andern; denen glaubten sie auch nicht."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, Der Du Deinen Sohn um unserer Gerechtigkeit willen auferweckt hast: gib, daß wir Deiner und Seiner Wohltaten nimmermehr vergessen, sondern in Stärke und Schwachheit, in Freude und Leid, im Leben und im Tode daran gedenken, und in solchem Gedächtnis selig einschlafen und erwachen; durch Denselben . . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Tod, wo ist dein Stachel nun",
+            "strophen": [
+              {
+                "links": [
+                  "Es war getötet Jesus Christ,",
+                  "Und sieh: Er lebet wieder!",
+                  "Weil nun das Haupt erstanden ist,",
+                  "Stehn wir auch auf: die Glieder.",
+                  "So Jemand Christi Worten glaubt,",
+                  "Im Tod und Grabe er nicht bleibt;",
+                  "Er lebt, ob er gleich stirbet."
+                ],
+                "rechts": null
+              }
+            ],
+            "melodie": null
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Dies Verwesliche muß anziehen das Unverwesliche, Hallelujah!",
+              "Und dies Sterbliche muß anziehen die Unsterblichkeit. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 57, 15—21.",
+            "text": "Denn also spricht der Hohe und Erhabene, Der ewiglich wohnet, Des Name heilig ist: Der Ich in der Höhe und im Heiligtum wohne, und bei Denen, so zerschlagenes und demütigen Geistes sind, auf daß Ich erquicke den Geist der Gedemütigten, und das Herz der Zerschlagenen: Ich will nicht immerdar hadern, und nicht ewiglich zürnen, sondern es soll von Meinem Angesicht ein Geist wehen, und Ich will Odem machen. Ich war zornig über die Untugend ihres Geizes, und schlug sie, verbarg Mich, und zürnete; da gingen sie hin und her im Wege ihres Herzens. Aber da Ich ihre Wege ansah, heilte Ich sie, und leitete sie, und gab ihnen wieder Trost, und Denen, die über Jene Leid trugen. Ich will Frucht der Lippen schaffen, die da predigen: Friede, Friede, beide: Denen in der Ferne und Denen in der Nähe, spricht der HErr, und will sie heilen. Aber die Gottlosen sind wie ein ungestüm Meer, das nicht stille sein kann, und des Wellen Kot und Unflat auswerfen. Die Gottlosen haben nicht Frieden, spricht mein Gott."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah, Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 24, 14—21.",
+            "text": "Das bekenne ich aber dir, daß ich nach diesem Wege, den sie eine Sekte heißen, diene also dem Gott meiner Väter, daß ich glaube allem was geschrieben stehet im Gesetz und in den Propheten, und habe die Hoffnung zu Gott, auf welche auch sie selbst warten, nämlich, daß zukünftig sei die Auferstehung der Toten, beide: der Gerechten und Ungerechten. Dabei aber übe ich mich, zu haben ein unverletzt Gewissen allenthalben, beide: gegen Gott und die Menschen. Aber nach vielen Jahren bin ich kommen, und habe ein Almosen gebracht meinem Volk und Opfer. Darüber fanden sie mich, daß ich mich geheiligat hatte im Tempel, ohne allen Lärmen und Getümmel. Das waren aber etliche Juden aus Asien, welche sollten hie sein vor dir, und mich verklagen, so sie etwas zu mir hätten. Oder laß diese selbst sagen, ob sie etwas Unrechtes an mir gefunden haben, dieweil ich fund vor dem Rat, ohne um des einzigen Worts willen, da ich under ihnen fund, und rief: Ueber der Auferstehung der Toten werde ich von euch heute angeklaget."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Die neugeborenen Lämmlein bringen die Botschaft: Hallelujah, Hallelujah! Sie sind gekommen zu den Quellen, von Klarheit erfüllt. Hallelujah! Hallelujah!"
+              },
+              {
+                "art": "text",
+                "inhalt": "Sie stehen vor dem Lamm in weißen Kleidern, Palmen in den Händen, von Klarheit erfüllt. Hallelujah, Hallelujah!"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
