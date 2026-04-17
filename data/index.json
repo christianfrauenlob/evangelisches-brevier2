@@ -38,6 +38,13 @@
       "band": 2,
       "reihe": 2,
       "status": "fertig"
+    },
+    {"id":"misericordias_domini",
+      "datei":"misericordias_domini.json",
+      "titel":"2. Sonntag nach Ostern (Misericordias Domini / Hirtensonntag)",
+      "kirchenzeit":"Osterzeit",
+      "reihe":2,
+      "status":"fertig"
     }
   ]
 }
