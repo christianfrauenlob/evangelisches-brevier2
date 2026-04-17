@@ -1,0 +1,884 @@
+{
+  "id": "misericordias_domini",
+  "titel": "2. Sonntag nach Ostern (Misericordias Domini / Hirtensonntag)",
+  "kirchenzeit": "Osterzeit",
+  "reihe": 2,
+  "tage": [
+    {
+      "id": "misericordias_sonntag",
+      "titel": "2. Sonntag nach Ostern (Misericordias Domini / Hirtensonntag)",
+      "wochentag": "Sonntag",
+      "seiten": "166–169",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "inhalt": "Hallelujah! Der Güte des HErrn ist die Erde voll; der Himmel ist durchs Wort des HErrn gemacht, Hallelujah! freuet euch des HErrn, ihr Gerechten; die frommen sollen Jhn preisen. Hallelujah!"
+          },
+          {
+            "typ": "psalm",
+            "nummer": "33; 2"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr armen Sünder, kommt zu Hauf",
+            "mel": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Ihr armen Sünder, kommt zu Hauf,",
+                  "Kommt eilig, kommt, und macht euch auf,",
+                  "Mühselig und beladen.",
+                  "Hier öffnet sich das Jesusherz",
+                  "Für Alle, die in Reu und Schmerz",
+                  "Erkennen ihren Schaden."
+                ],
+                "rechts": [
+                  "Es heißt: Er nimmt die Sünder an,",
+                  "Drum komm; dein Jesus will und kann",
+                  "Dich retten und umarmen.",
+                  "Komm weinend, komm in wahrer Buß,",
+                  "Und fall im Glauben Ihm zu Fuß:",
+                  "Er wird Sich dein erbarmen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "inhalt": "Ueber Deine Auferstehung, o Christe, Hallelujah! freuen sich Himmel und Erde. Hallelujah!"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Johannis 10, 12–16",
+            "inhalt": "Ich bin der gute Hirte. Der gute Hirte lässet Sein Leben für die Schafe. Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, siehet den Wolf kommen, und verlässet die Schafe, und fleucht; und der Wolf erhaschet und zerstreuet die Schafe. Der Mietling aber fleucht; denn er ist ein Mietling, und achtet der Schafe nicht. Ich bin der gute Hirte, und erkenne die Meinen, und bin bekannt den Meinen, wie Mich Mein Vater kennet, und Ich kenne den Vater. Und Ich lasse Mein Leben für die Schafe. Und Ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muß Ich herführen, und sie werden Meine Stimme hören, und wird Eine Herde und Ein Hirte werden."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "inhalt": "Brüder! Wann werden auch wir Zuversicht und gut Gewissen haben, ohne Anmaßung, in tiefer Demut Jesu Wort von der Bekanntschaft mit den Seinigen zu hören und es mit der Stimme der Braut zu beantworten? — Die Kirche wird immer vollzähliger, es sammelt sich dicht um den Thron des Lammes, des guten Hirten. Wie lange wirds dauern, so fehlt von den tausend mal Tausenden, die S. Johannes gesehen hat, keiner mehr, und die Zahl der Auserwählten wird voll sein: werden wir dann fehlen? Werden wir dann ausgeschlossen sein . . .? Ach, HErr, barmherziger, gnädiger Heiland, Der Du gesagt hast: „Ihr habt Mich nicht erwählet, sondern Ich habe euch erwählet“, bekehre Du uns, so werden wir bekehret, heile Du uns, so sind wir geheilet — hilf Du uns, so ist uns geholfen!"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Ich bin der Hirte der Schafe; Ich bin der Weg und die Wahrheit und das Leben;\nIch bin der gute Hirte und kenne die Meinen. Hallelujah!"
+          },
+          {
+            "typ": "gebet",
+            "inhalt": "HErr Gott himmlischer Vater, Der Du uns elende Menschen väterlich bedacht und Deinen Sohn zum Hirten über uns gesetzet, daß Er nicht allein mit Seinem Wort uns weiden, sondern auch durch Seinen Schutz wider Sünde Tod und Teufel uns retten und erhalten solle: Wir bitten Dich, gib durch Deinen heiligen Geist, daß, gleichwie dieser Hirte uns kennet und unsrer Not Sich annimmt, wir wiederum in allerlei Anliegen Jhn auch erkennen, uns an Jhn halten und Seiner Stimme folgen; durch Jesum Christum . . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummer": "119, 1–32"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr armen Sünder (O Jesu, Deine Lieb ist groß)",
+            "mel": "91",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu, Deine Lieb ist groß;",
+                  "Ich komm mühselig nackt und bloß,",
+                  "Ach, laß mich Gnade finden!",
+                  "Ich bin ein Schaf, das sich verirrt;",
+                  "Ach, nimm mich auf, weil ich verwirrt",
+                  "In Strick und Netz der Sünden."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Hesekiel 34, 11–16",
+            "inhalt": "Denn so spricht der HErr HErr: Siehe, Ich will Mich Meiner Herde Selbst annehmen, und sie suchen. Wie ein Hirte seine Schafe suchet, wenn sie von seiner Herde verirret sind: also will Ich Meine Schafe suchen, und will sie erretten von allen Örtern, dahin sie zerstreuet waren zur Zeit, da es trüb und finster war. Ich will sie von allen Völkern ausführen, und aus allen Ländern versammeln, und will sie in ihr Land führen, und will sie weiden auf den Bergen Israels, und in allen Auen, und auf allen Angern des Landes. Ich will sie auf die beste Weide führen, und ihre Hürden werden auf den hohen Bergen in Israel stehen; daselbst werden sie in sanften Hürden liegen, und fette Weide haben auf den Bergen Israels. Ich will Selbst Meine Schafe weiden, und Ich will sie lagern, spricht der HErr HErr. Ich will das Verlorne wieder suchen, und das Verirrete wiederbringen, und das Verwundete verbinden, und des Schwachen warten; aber was fett und stark ist, will Ich vertilgen, und will es weiden mit Gericht."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "115; 110"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "1. Brief S. Petri 2, 21–25",
+            "inhalt": "Denn dazu seid ihr berufen; sintemal auch Christus gelitten hat für uns, und uns ein Vorbild gelassen, daß ihr sollt nachfolgen Seinen Fußtapfen; Welcher keine Sünde getan hat, ist auch kein Betrug in Seinem Munde erfunden; Welcher nicht wieder schalt, da Er gescholten ward, nicht dräute, da Er litt, Er stellte es aber Dem heim, Der da recht richtet; Welcher unsre Sünden Selbst hinaufgetragen hat an Seinem Leibe auf das Holz, auf daß wir, der Sünde abgestorben, der Gerechtigkeit leben; durch Welches Wunden ihr seid heil worden. Denn ihr waret wie die irrenden Schafe; aber ihr seid nun bekehret zu dem Hirten und Bischofe eurer Seelen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr armen Sünder (Laß mich Dein Schäflein ewig sein)",
+            "mel": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Laß mich Dein Schäflein ewig sein,",
+                  "Und Du mein treuer Hirt allein",
+                  "Im Leben und im Sterben;",
+                  "Laß mich vom eitlen Weltgesind",
+                  "Ausgehn und mich als Gottes Kind",
+                  "Um Dich, mein Schatz, bewerben."
+                ],
+                "rechts": [
+                  "Ich will von nun an sagen ab",
+                  "Der Sündenlust bis in mein Grab,",
+                  "Und in dem neuen Leben",
+                  "In Heilig- und Gerechtigkeit",
+                  "Dir dienen noch die kurze Zeit,",
+                  "Die mir zum Heil gegeben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Ich bin der gute Hirte, Der die Schafe weidet,\nUnd lasse Mein Leben für die Schafe. Hallelujah!"
+          },
+          {
+            "typ": "gebet",
+            "inhalt": "O Gott, Der Du das gefallene menschliche Geschlecht durch Deines Sohnes Demut wiederum aufgerichtet hast: Gib Deinen Gläubigen die ewige Fröhlichkeit, auf daß Diejenigen, so Du aus ewiger Todesgewalt errettet hast, sich auch mit Dir ewiglich freuen mögen; durch Denselben . . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_montag",
+      "titel": "Montag nach dem Hirtensonntag",
+      "wochentag": "Montag",
+      "seiten": "170–172",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "inhalt": "Ich bin der gute Hirte und kenne Meine Schafe;\nUnd Meine Schafe kennen Mich."
+          },
+          {
+            "typ": "psalm",
+            "nummer": "15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der HErr, Der aller Enden",
+            "mel": "115",
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr, Der aller Enden",
+                  "Regieret mit Seinen Händen,",
+                  "Der Brunn der ewgen Güter,",
+                  "Der ist mein Hirt und Hüter."
+                ],
+                "rechts": [
+                  "Er lässet mich mit Freuden",
+                  "Auf grüner Auen weiden,",
+                  "Führt mich zum frischen Quellen,",
+                  "Schafft Rat in schweren Fällen."
+                ]
+              },
+              {
+                "links": [
+                  "Solang ich diesen habe,",
+                  "Fehlt mirs an keiner Gabe:",
+                  "Der Reichtum Seiner Fülle",
+                  "Gibt mir die Füll und Hülle."
+                ],
+                "rechts": [
+                  "Wenn meine Seele zaget",
+                  "Und sich mit Sorgen plaget,",
+                  "Weiß Er sie zu erquicken,",
+                  "Aus aller Not zu rücken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Johannis 14, 1–6",
+            "inhalt": "Und Er sprach zu Seinen Jüngern: Euer Herz erschrecke nicht. Glaubet an Gott und glaubet an Mich. In Meines Vaters Hause sind viel Wohnungen. Wenn's nicht so wäre, so wollte Ich zu euch sagen: Ich gehe hin, euch die Stätte zu bereiten. Und wenn Ich hingehe, euch die Stätte zu bereiten, so will Ich wiederkommen und euch zu Mir nehmen, auf daß ihr seid, wo Ich bin. Und wo Ich hin gehe, das wisset ihr, und den Weg wisset ihr auch. Spricht zu Ihm Thomas: HErr, wir wissen nicht, wo Du hin gehest; und wie können wir den Weg wissen? Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben; Niemand kommt zum Vater denn durch Mich."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "inhalt": "Er will um jeden Preis ein Hirte der verlorenen Schafe, ein König der verlorenen Reiche, ein Priester der abgefallenen Welt, Er will mit einem Worte unser HErr werden. Das wollte Er, das erreichte Er, das ist Er, das bleibt Er — und darin sehen wir Seine göttliche Einfalt. Und wie Er in allen Leiden und in der Uebung aller Seiner Tugenden nichts anderes als Sein Reich im Auge behielt: so behielten die Apostel in allen ihren Leiden und Tugenden auch nur Sein Reich im Auge. Der HErr, die Knechte suchen eins — beide in der Weise, die sie haben. Er ist ganz HErr, sie ganz Knechte Seines Reiches. So sehen wir Jhn in den Jüngern! Wir sollten Jhn auch in uns erkennen und erkennen lassen, durch Leiden, mit Kraft nach Seinem Reiche ringen. Wir sollten wohl, aber mehr kann man von uns nicht sagen. Wir haben immerdar Bußtag, wenn wir auf uns schauen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Gehet hin in alle Welt, Hallelujah!\nUnd machet zu Meinen Jüngern alle Völker. Hallelujah!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der HErr, Der aller Enden",
+            "mel": "115",
+            "strophen": [
+              {
+                "links": [
+                  "Er lehrt mich tun und lassen,",
+                  "Führt mich auf rechter Straßen,",
+                  "Läßt Furcht und Angst sich stillen",
+                  "Um Seines Namens willen."
+                ],
+                "rechts": [
+                  "Und ob ich gleich vor Andern",
+                  "Im finstern Tal muß wandern,",
+                  "Fürcht ich doch keine Tücke,",
+                  "Bin frei vorm Ungelücke."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummer": "19"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Hesekiel 34, 23–31",
+            "inhalt": "Und ich will ihnen einen einigen Hirten erwecken, Der sie weiden soll, nämlich Meinen Knecht David. Der wird sie weiden, und soll ihr Hirte sein, und Ich, der HErr, will ihr Gott sein; aber Mein Knecht David soll der Fürst unter ihnen sein; das sage Ich, der HErr. Und Ich will einen Bund des Friedens mit ihnen machen, und alle böse Tiere aus dem Lande ausrotten, daß sie sicher wohnen sollen in der Wüste, und in den Wäldern schlafen. Ich will sie und alles, was um Meinen Hügel her ist, segnen, und auf sie regnen lassen zu rechter Zeit; das sollen gnädige Regen sein, daß die Bäume auf dem Felde ihre Früchte bringen, und das Land sein Gewächs geben wird; und sie sollen sicher auf dem Lande wohnen, und sollen erfahren, daß Ich der HErr bin, wenn Ich ihr Joch zerbrochen, und sie errettet habe von der Hand Derer, denen sie dienen mußten. Und sie sollen nicht mehr den Heiden zum Raub werden, und kein Tier auf Erden soll sie mehr fressen, sondern sollen sicher wohnen ohne alle Furcht. Und Ich will ihnen eine herrliche Pflanzung aufgehen lassen, daß sie nicht mehr sollen Hunger leiden im Lande, und ihre Schmach unter den Heiden nicht mehr tragen sollen. Und sollen erfahren, daß Ich, der HErr, ihr Gott, bei ihnen bin, und daß sie vom Haus Israel Mein Volk seien, spricht der HErr HErr. Ja, ihr Menschen sollt die Herde Meiner Weide sein, und Ich will euer Gott sein, spricht der HErr HErr."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "121"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Brief S. Pauli an die Epheser 2, 4–10",
+            "inhalt": "Aber Gott, Der da reich ist an Barmherzigkeit, durch Seine große Liebe, damit Er uns geliebet hat, da wir tot waren in den Sünden, hat Er uns samt Christo lebendig gemacht, (denn aus Gnade seid ihr selig worden,) und hat uns samt Ihm auferwecket, und samt Ihm in das himmlische Wesen gesetzt in Christo Jesu, auf daß Er erzeigete in den zukünftigen Zeiten den überschwenglichen Reichtum Seiner Gnade durch Seine Güte gegen uns in Christo Jesu. Denn aus Gnade seid ihr selig worden durch den Glauben, und dasselbe nicht aus euch: Gottes Gabe ist es; nicht aus den Werken, auf daß sich nicht Jemand rühme. Denn wir sind Sein Werk, geschaffen in Christo Jesu zu guten Werken, zu welchen Gott uns zuvor bereitet hat, daß wir darinnen wandeln sollen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Der HErr, Der aller Enden",
+            "mel": "115",
+            "strophen": [
+              {
+                "links": [
+                  "Ich will Dein Diener bleiben",
+                  "Und Dein Lob herrlich treiben",
+                  "Im Hause, da Du wohnest",
+                  "Und Frommsein wohl belohnest."
+                ],
+                "rechts": [
+                  "Ich will Dich hier auf Erden",
+                  "Und dort, da wir Dich werden",
+                  "Selbst schaun im Himmel droben,",
+                  "Hoch preisen, singn und loben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Der gute Hirte lässet Sein Leben für Seine Schafe. Hallelujah!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_dienstag",
+      "titel": "Dienstag nach dem Hirtensonntag",
+      "wochentag": "Dienstag",
+      "seiten": "173–176",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "inhalt": "freuet euch des HErrn, ihr Gerechten;\nDie frommen sollen Jhn preisen."
+          },
+          {
+            "typ": "psalm",
+            "nummer": "37"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie herrlich ist's",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "Wie herrlich ist's, ein Schäflein Christi werden",
+                  "Und in der Huld des treuen Hirten stehn!",
+                  "Kein höher Stand ist auf der ganzen Erden,",
+                  "Als unverrückt dem Lamme nachzugehn.",
+                  "Was alle Welt nicht geben kann,",
+                  "Das trifft ein solches Schaf bei seinem Hirten an."
+                ],
+                "rechts": [
+                  "Hier findet es die angenehmsten Auen,",
+                  "Hier wird ihm stets ein frischer Quell entdeckt;",
+                  "Kein Auge kann die Gaben überschauen,",
+                  "Die es allhier in reicher Menge schmeckt.",
+                  "Hier wird ein Leben mitgeteilt,",
+                  "Das unaufhörlich ist und nie vorübereilt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Johannis 6, 37–46",
+            "inhalt": "Alles, was Mir Mein Vater gibt, das kommt zu Mir; und wer zu Mir kommt, den werde Ich nicht hinausstoßen. Denn Ich bin vom Himmel kommen, nicht, daß ich Meinen Willen tue, sondern Des, Der Mich gesandt hat. Das ist aber der Wille des Vaters, der Mich gesandt hat, daß Ich nichts verliere von allem, das Er Mir gegeben hat, sondern daß Ich's auferwecke am jüngsten Tage. Denn das ist der Wille Des, Der Mich gesandt hat, daß, wer den Sohn siehet, und glaubet an Jhn, habe das ewige Leben; und Ich werde ihn auferwecken am jüngsten Tage. Da murreten die Juden darüber, daß Er sagte: Ich bin das Brot, das vom Himmel kommen ist, und sprachen: Ist dieser nicht Jesus, Josephs Sohn, Des Vater und Mutter wir kennen? Wie spricht Er denn: Ich bin vom Himmel kommen? Jesus antwortete und sprach zu ihnen: Murret nicht untereinander. Es kann Niemand zu Mir kommen, es sei denn, daß ihn ziehe der Vater, Der Mich gesandt hat; und Ich werde ihn auferwecken am jüngsten Tage. Es stehet geschrieben in den Propheten: „Sie werden Alle von Gott gelehret sein.“ Wer es nun höret vom Vater, und lernet's, der kommt zu Mir. Nicht, daß Jemand den Vater habe gesehen, ohne, Der vom Vater ist; Der hat den Vater gesehen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Gehet hin in alle Welt und lehret alle Völker;\nUnd taufet sie im Namen des Vaters und des Sohnes und des Heiligen Geistes. Hallelujah!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Welch ein Lied im höhern Ton",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "Welch ein Lied im höhern Ton",
+                  "Wird von den Erlösten allen",
+                  "Einst erschallen;",
+                  "Und wie wird sich Groß und Klein",
+                  "Drüber freun,",
+                  "Wenn bei allem Volk der Erde",
+                  "Nur ein Hirt und eine Herde",
+                  "Offenbar zu sehn wird sein!"
+                ],
+                "rechts": [
+                  "Amen, Jesu Wort ist wahr;",
+                  "Er wird Sein Versprechen halten:",
+                  "Laßt Ihn walten!",
+                  "Nehmt dran teil und helfet gern,",
+                  "Nah und fern",
+                  "Unter aller Art von Leuten",
+                  "Gottes Gnadenreich ausbreiten,",
+                  "Ihr Erlöseten des HErrn!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummer": "41"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "2. Buch Mose 15, 22–26",
+            "inhalt": "Mose ließ die Kinder Israel ziehen vom Schilfmeer hinaus zu der Wüste Sur. Und sie wanderten drei Tage in der Wüste, daß sie kein Wasser fanden. Da kamen sie gen Mara; aber sie konnten des Wassers zu Mara nicht trinken, denn es war sehr bitter. Daher hieß man den Ort Mara. Da murrte das Volk wider Mose, und sprach: Was sollen wir trinken? Er schrie zu dem HErrn, und der HErr wies ihm einen Baum; den tat er ins Wasser, da ward es süß. Daselbst stellte er ihnen ein Gesetz und ein Recht, und versuchte sie, und sprach: Wirst du der Stimme des HErrn, deines Gottes, gehorchen, und tun, was recht ist vor Jhm, und zu Ohren fassen Seine Gebote, und halten alle Seine Gesetze, so will Ich der Krankheiten keine auf dich legen, die Ich auf Aegypten gelegt habe; denn Ich bin der HErr, dein Arzt."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "124"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Brief S. Pauli an die Kolosser 2, 6–15",
+            "inhalt": "Wie ihr nun angenommen habt den HErrn Christum, so wandelt in Ihm, und seid gewurzelt und erbauet in Ihm, und fest im Glauben, wie ihr gelehret seid, und seid in Demselbigen reichlich dankbar. Sehet zu, daß euch Niemand beraube durch die Philosophie und lose Verführung nach der Menschen Lehre und nach der Welt Satzungen, und nicht nach Christo. Denn in Ihm wohnet die ganze Fülle der Gottheit leibhaftig, und ihr seid vollkommen in Jhm, Welcher ist das Haupt aller Fürstentümer und Obrigkeit; in Welchem ihr auch beschnitten seid mit der Beschneidung ohne Hände, durch Ablegung des sündlichen Leibes im Fleisch, nämlich mit der Beschneidung Christi, in dem, daß ihr mit Ihm begraben seid durch die Taufe; in Welchem ihr auch seid auferstanden durch den Glauben, den Gott wirket, Welcher Jhn auferweckt hat von den Toten; und hat euch auch mit Ihm lebendig gemacht, da ihr tot waret in den Sünden und in der Vorhaut eures Fleisches; und hat uns geschenkt alle Sünden, und ausgetilget die Handschrift, so wider uns war, welche durch Satzungen entstund, und uns entgegen war, und hat sie aus dem Mittel getan, und an das Kreuz geheftet; und hat ausgezogen die Fürstentümer und die Gewaltigen, und sie schaugetragen öffentlich, und einen Triumph aus ihnen gemacht durch Sich Selbst."
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie herrlich ist's (Wer leben will und gute Tage sehen)",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "Wer leben will und gute Tage sehen,",
+                  "Der wende sich zu dieses Hirten Stab;",
+                  "Hier wird sein Fuß auf süßer Weide gehen,",
+                  "Da ihm die Welt vorhin nur Träber gab;",
+                  "Hier wird nichts Gutes je vermißt,",
+                  "Dieweil der Hirt ein HErr der Schätze Gottes ist."
+                ],
+                "rechts": [
+                  "Doch ist dies nur der Vorschmack größrer Freuden:",
+                  "Es folget noch die lange Ewigkeit;",
+                  "Da wird das Lamm die Seinen herrlich weiden,",
+                  "Wo der kristallne Strom das Wasser beut.",
+                  "Da siehet man erst klar und frei,",
+                  "Wie schön und auserwählt ein Schäflein Christi sei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Der Mietling, dessen die Schafe nicht eigen sind, siehet den Wolf kommen und verläßt die Schafe, und flieht;\nIch gebe Mein Leben für die Schafe. Hallelujah!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_mittwoch",
+      "titel": "Mittwoch nach dem Hirtensonntag",
+      "wochentag": "Mittwoch",
+      "seiten": "176–179",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummer": "65"
+          },
+          {
+            "typ": "lied",
+            "titel": "O fröhliche Stunden (O Ursprung des Lebens)",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "O Ursprung des Lebens,",
+                  "O ewiges Licht,",
+                  "Da Niemand vergebens",
+                  "Sucht was ihm gebricht;",
+                  "Lebendige Quelle,",
+                  "So lauter und helle",
+                  "Sich aus Seinem heiligen Tempel ergießt",
+                  "Und in die begierigen Seelen einfließt."
+                ],
+                "rechts": [
+                  "Du sprichst: Wer begehret",
+                  "Zu trinken von Mir",
+                  "Was ewiglich nähret,",
+                  "Der komme: allhier",
+                  "Sind himmlische Gaben,",
+                  "Die sütziglich laben;",
+                  "Er trete im Glauben zur Quelle heran:",
+                  "Hier ist was ihn ewig beseligen kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Lucae 14, 12–15",
+            "inhalt": "Er sprach auch zu Dem, der Jhn geladen hatte: Wenn du ein Mittags- oder Abendmahl machest, so lade nicht deine Freunde, noch deine Brüder, noch deine Gefreundten, noch deine Nachbarn, die da reich sind, auf daß sie dich nicht etwa wieder laden, und dir vergolten werde; sondern, wenn du ein Mahl machest, so lade die Armen, die Krüppel, die Lahmen, die Blinden, so bist du selig; denn sie haben's dir nicht zu vergelten; es wird dir aber vergolten werden in der Auferstehung der Gerechten. Da aber solches hörte Einer, der mit zu Tisch saß, sprach er zu Jhm: Selig ist, der das Brot isset im Reich Gottes."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Gehet hin und saget es Meinen Brüdern, Hallelujah!\nAuf daß sie nach Galiäa gehen, Hallelujah!\nDaselbst werden sie Mich sehen. Hallelujah, Hallelujah, Hallelujah!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummer": "52"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Ursprung des Lebens",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "Drum gib mir zu trinken,",
+                  "Wies Dein Wort verheißt;",
+                  "Laß gänzlich versinken",
+                  "Den sehnenden Geist",
+                  "Im Meer Deiner Liebe,",
+                  "Laß heilige Triebe",
+                  "Mich immerfort treiben zum Himmlischen hin;",
+                  "Es werde mein Herze ganz trunken darin."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Hesekiel 37, 24–28",
+            "inhalt": "Und mein Knecht David soll ihr König und ihr Aller einiger Hirte sein. Und sollen wandeln in Meinen Rechten, und Meine Gebote halten, und darnach tun. Und sie sollen wieder im Lande wohnen, das Ich Meinem Knecht Jakob gegeben habe, darinnen eure Väter gewohnet haben. Sie und ihre Kinder und Kindeskinder sollen darin wohnen ewiglich; und Mein Knecht David soll ewiglich ihr Fürst sein. Und Ich will mit ihnen einen Bund des Friedens machen, das soll ein ewiger Bund sein mit ihnen; und will sie erhalten und mehren, und Mein Heiligtum soll unter ihnen sein ewiglich. Und Ich will unter ihnen wohnen, und will ihr Gott sein, und sie sollen Mein Volk sein; daß auch die Heiden erfahren sollen, daß Ich der HErr bin, der Israel heilig macht, wenn Mein Heiligtum ewiglich unter ihnen sein wird."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "130"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Offenbarung S. Johannis 2, 1–7",
+            "inhalt": "Dem Engel der Gemeine zu Ephesus schreibe: Das saget, Der da hält die sieben Sterne in Seiner Rechten, Der da wandelt mitten unter den sieben güldenen Leuchtern: Ich weiß deine Werke und deine Arbeit und deine Geduld, und daß du die Bösen nicht tragen kannst; und hast versucht Die, so da sagen, sie seien Apostel, und sind's nicht, und hast sie Lügner erfunden; und verträgest, und hast Geduld, und um Meines Namens willen arbeitest du, und bist nicht müde worden. Aber Ich habe wider dich, daß du die erste Liebe verlässest. Gedenke, wovon du gefallen bist, und tu Buße, und tu die ersten Werke. Wo aber nicht, werde Ich dir kommen bald, und deinen Leuchter wegstoßen von seiner Stätte, wo du nicht Buße tust. Aber das hast du, daß du die Werke der Nikolaiten hassest, welche Ich auch hasse. Wer Ohren hat, der höre, was der Geist den Gemeinen saget: Wer überwindet, dem will Ich zu essen geben von dem Holz des Lebens, das im Paradies Gottes ist."
+          },
+          {
+            "typ": "lied",
+            "titel": "O Ursprung des Lebens (Wenn Du auch vom Leiden)",
+            "mel": "",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn Du auch vom Leiden",
+                  "Was schenkest mir ein,",
+                  "So gib Dir mit Freuden",
+                  "Gehorsam zu sein.",
+                  "Denn alle Die welche",
+                  "Mit trinken vom Kelche,",
+                  "Den Du hast getrunken im Leide allhier,",
+                  "Die werden dort ewig sich freuen mit Dir."
+                ],
+                "rechts": [
+                  "Dann laß mich auch werden,",
+                  "Mein Jesu, erquickt,",
+                  "Da wo Deine Herden",
+                  "Kein Leiden mehr drückt,",
+                  "Wo Freude die Fülle,",
+                  "Wo liebliche Stille wohnt,",
+                  "Wo Wollust, wo Jauchzen, wo Herrlichkeit",
+                  "Wo heiliges Leben wird ewig belohnt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Wie Mich Mein Vater kennt, so kenne Ich den Vater,\nUnd Ich gebe Mein Leben für die Schafe. Hallelujah!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_donnerstag",
+      "titel": "Donnerstag nach dem Hirtensonntag",
+      "wochentag": "Donnerstag",
+      "seiten": "180–182",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummer": "66"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich will Dich lieben, meine Stärke",
+            "mel": "80",
+            "strophen": [
+              {
+                "links": [
+                  "Ich will Dich lieben, meine Stärke,",
+                  "Ich will Dich lieben, meine Zier;",
+                  "Ich will Dich lieben mit dem Werke",
+                  "Und immerwährender Begier;",
+                  "Ich will Dich lieben, schönstes Licht,",
+                  "Bis mir das Herze bricht."
+                ],
+                "rechts": [
+                  "Ich will Dich lieben, o mein Leben,",
+                  "Als meinen allerbesten Freund,",
+                  "Ich will Dich lieben und erheben,",
+                  "So lange mich Dein Glanz bescheint.",
+                  "Ich will Dich lieben, Gotteslamm,",
+                  "Als meinen Bräutigam."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Johannis 6, 70–71",
+            "inhalt": "Jesus antwortete ihnen: Hab Ich nicht euch Zwölfe erwählet? Und Euer einer ist ein Teufel. Er redete aber von dem Judas, Simons Sohn, Jscharioth; derselbige verriet Jhn hernach, Und war der Zwölfe einer."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Bist du der einzige Fremdling, der nicht gehört hat von Jesus,\nWie man Jhn überantwortet hat zur Verdammnis des Todes?\nHallelujah!"
+          },
+          {
+            "typ": "gebet",
+            "inhalt": "Verleihe uns, allmächtiger Gott, daß wir von Deiner ewigen Hirtentreue neu erweckt werden, die Stimme Deines lieben Sohnes täglich zu hören und ihr gern zu folgen, auch für Seine Herde zu beten und zu sorgen; durch Denselben . . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummer": "23"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich will Dich lieben (Ich lief verirrt)",
+            "mel": "80",
+            "strophen": [
+              {
+                "links": [
+                  "Ach, daß ich Dich so spät erkennet,",
+                  "Du hochgelobte Schönheit Du,",
+                  "Und Dich nicht eher mein genennet,",
+                  "Du höchstes Gut und wahre Ruh!",
+                  "Es ist mir leid und bin betrübt,",
+                  "Daß ich so spät geliebt."
+                ],
+                "rechts": [
+                  "Ich lief verirrt und war verblendet,",
+                  "Ich suchte Dich und fand Dich nicht;",
+                  "Ich hatte mich von Dir gewendet",
+                  "Und liebte das geschaffne Licht.",
+                  "Nun aber ist's durch Dich geschehn,",
+                  "Daß ich Dich hab ersehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Sprüche 22, 17–23",
+            "inhalt": "Neige deine Ohren, und höre die Worte der Weisen, und nimm zu Herzen meine Lehre. Denn es wird dir sanft tun, wo du sie wirst im Sinne behalten, und werden miteinander durch deinen Mund wohl geraten. Daß deine Hoffnung sei auf den HErrn, erinnere ich dich an solches heute dir zu gut. Hab ich dir's nicht manchfältiglich vorgeschrieben mit Raten und Lehren, daß ich dir zeigte einen gewissen Grund der Wahrheit, daß du recht antworten könntest Denen, die dich senden? Beraube den Armen nicht, ob er wohl arm ist, und unterdrücke den Elenden nicht im Thor. Denn der HErr wird ihre Sache führen, und wird ihre Untertreter untertreten."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "137"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "1. Brief S. Petri 3, 15–22",
+            "inhalt": "Seid allezeit bereit zur Verantwortung Jedermann, der Grund fordert der Hoffnung, die in euch ist, und das mit Sanftmütigkeit und Furcht; und habt ein gut Gewissen, auf daß Die, so von euch afterreden als von Uebeltätern, zu Schanden werden, daß sie geschmäht haben euren guten Wandel in Christo. Denn es ist besser, so es Gottes Wille ist, daß ihr von Wohltat wegen leidet denn von Uebeltat wegen. Sintemal auch Christus einmal für unsre Sünden gelitten hat, der Gerechte für die Ungerechten, auf daß Er uns zu Gott führete, und ist getötet nach dem Fleisch, aber lebendig gemacht nach dem Geist. In demselben ist Er auch hingegangen, und hat geprediget den Geistern im Gefängnis, die vor Zeiten nicht glaubten, da Gott harrte, und Geduld hatte zu den Zeiten Noahs, da man die Arche zurüstete, in welcher Wenige, das ist: acht Seelen, gerettet wurden durchs Wasser; welches nun auch uns selig macht in der Taufe, die durch jenes bedeutet ist, nicht das Abtun des Unflats am Fleisch, sondern der Bund eines guten Gewissens mit Gott, durch die Auferstehung Jesu Christi, Welcher ist zur Rechten Gottes in den Himmel gefahren, und sind Jhm untertan die Engel und die Gewaltigen und die Kräfte."
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich will Dich lieben (Ich danke Dir, Du wahre Sonne)",
+            "mel": "80",
+            "strophen": [
+              {
+                "links": [
+                  "Ich danke Dir, Du wahre Sonne,",
+                  "Daß mir Dein Glanz hat Licht gebracht;",
+                  "Ich danke Dir, Du Himmelswonne,",
+                  "Daß Du mich froh und frei gemacht;",
+                  "Ich danke Dir, Du güldner Mund,",
+                  "Daß Du mich machst gesund."
+                ],
+                "rechts": [
+                  "Erhalte mich auf Deinen Stegen",
+                  "Und laß mich nicht mehr irre gehn;",
+                  "Laß meinen Fuß in Deinen Wegen",
+                  "Nicht straucheln oder stille stehn;",
+                  "Erleucht mir Leib und Seele ganz,",
+                  "Du starker Himmelsglanz!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Ich habe noch andere Schafe, die sind nicht aus diesem Stalle;\nUnd dieselben muß Ich herführen, und sie werden Meine Stimme hören, und wird e i n e Herde und e i n Hirte werden. Hallelujah!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_freitag",
+      "titel": "Freitag nach dem Hirtensonntag",
+      "wochentag": "Freitag",
+      "seiten": "182–184",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummer": "79"
+          },
+          {
+            "typ": "lied",
+            "titel": "Eine Herde und ein Hirt!",
+            "mel": "88",
+            "strophen": [
+              {
+                "links": [
+                  "Eine Herde und ein Hirt!",
+                  "Wie wird dann dir sein, o Erde,",
+                  "Wenn Sein Tag erscheinen wird?",
+                  "Freue Dich, Du kleine Herde!",
+                  "Mach Dich auf und werde Licht —",
+                  "Jesus hält, was Er verspricht."
+                ],
+                "rechts": [
+                  "Hüter, ist der Tag noch fern?",
+                  "Schon ergrünt es auf den Weiden;",
+                  "Und die Herrlichkeit des HErrn",
+                  "Nahet dämmernd Sich den Heiden;",
+                  "Blinde Pilger flehn um Licht —",
+                  "Jesus hält, was Er verspricht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Matthäi 18, 12–14",
+            "inhalt": "Was dünket euch? Wenn irgend ein Mensch hundert Schafe hätte, und Eins unter denselbigen sich verirrte: läßt er nicht die neunundneunzig auf den Bergen, gehet hin, und suchet das verirrete? Und so sich's begibt, daß er's findet, wahrlich sage Ich euch: Er freuet sich darüber mehr denn über die neunundneunzig, die nicht verirret sind. Also auch ist's vor eurem Vater im Himmel nicht der Wille, daß jemand von diesen Kleinen verloren werde."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "inhalt": "Mußte nicht Christus solches leiden,\nUnd zu Seiner Herrlichkeit eingehen? Hallelujah!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummer": "82"
+          },
+          {
+            "typ": "lied",
+            "titel": "Eine Herde und ein Hirt (Sieh: das Heer der Nebel flieht)",
+            "mel": "88",
+            "strophen": [
+              {
+                "links": [
+                  "Sieh: das Heer der Nebel flieht",
+                  "Vor des Morgenrotes Helle,",
+                  "Und der Sohn der Wüste kniet",
+                  "Dürstend an der Lebensquelle;",
+                  "Ihn umleuchtet Morgenlicht —",
+                  "Jesus hält was Er verspricht."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Jesaia 40, 9–11",
+            "inhalt": "Zion, du Predigerin, steig auf einen hohen Berg; Jerusalem, du Predigerin, heb deine Stimme auf mit Macht, heb auf, und fürchte dich nicht; sage den Städten Judas: Siehe, da ist euer Gott! Denn siehe: der HErr HErr kommt gewaltiglich, und Sein Arm wird herrschen. Siehe: Sein Lohn ist bei Jhm, und Seine Vergeltung ist vor Jhm. Er wird Seine Herde weiden wie ein Hirte; Er wird die Lämmer in Seine Arme sammeln, und in Seinem Busen tragen, und die Schafmütter führen."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "141"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "1. Brief S. Pauli an Timotheus 3, 14–16",
+            "inhalt": "Solches schreibe ich dir, und hoffe, aufs schierste zu dir zu kommen; so ich aber verzöge, daß du wissest, wie du wandeln sollst in dem Hause Gottes, welches ist die Gemeine des lebendigen Gottes, ein Pfeiler und Grundveste der Wahrheit. Und kündlich groß ist das gottselige Geheimnis: Gott ist offenbaret im Fleisch, gerechtfertigt im Geist, erschienen den Engeln, geprediget den Heiden, geglaubet von der Welt, aufgenommen in die Herrlichkeit."
+          },
+          {
+            "typ": "lied",
+            "titel": "Eine Herde und ein Hirt (Gräber harren aufgetan)",
+            "mel": "88",
+            "strophen": [
+              {
+                "links": [
+                  "Gräber harren aufgetan:",
+                  "Rauscht, verdorrte Gebeine!",
+                  "Macht dem Bundesengel Bahn!",
+                  "Großer Tag des HErrn, erscheine!",
+                  "Jesus ruft: Es werde Licht!",
+                  "Jesus hält was Er verspricht."
+                ],
+                "rechts": [
+                  "O des Tags der Herrlichkeit!",
+                  "Jesus Christus, Du die Sonne,",
+                  "Und auf Erden weit und breit",
+                  "Licht und Wahrheit, Fried und Wonne!",
+                  "Mach Dich auf, es werde Licht!",
+                  "Jesus hält was Er verspricht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "inhalt": "Allmächtiger Gott, wir danken Dir für die Gründung Sammlung Mehrung und Erhaltung Deiner Herde. Gib Deinem Volke durch die ewige Hirtentreue Jesu Christi, daß diese Deine Herde durch Jhn, unsern erhöhten Hirten, auch herrlich vollendet werde."
+          }
+        ]
+      }
+    },
+    {
+      "id": "misericordias_sonnabend",
+      "titel": "Sonnabend nach dem Hirtensonntag",
+      "wochentag": "Sonnabend",
+      "seiten": "185–186",
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummer": "106"
+          },
+          {
+            "typ": "lied",
+            "titel": "früh am Morgen Jesus gehet",
+            "mel": "92",
+            "strophen": [
+              {
+                "links": [
+                  "Früh am Morgen Jesus gehet",
+                  "Und vor allen Thüren stehet,",
+                  "Klopfet an, wo man schläfet:",
+                  "Komm, HErr Jesu, unser Gast!"
+                ],
+                "rechts": [
+                  "Nun, so lasset Ihn nicht dorten,",
+                  "Tut Ihm auf des Herzens Pforten,",
+                  "Und ruft Ihn mit süßen Worten:",
+                  "Eile, Jesu, kehre ein!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Evangelium S. Lucae 6, 17–19",
+            "inhalt": "Und Er ging hernieder mit ihnen und trat auf einen Platz im Felde, und der Haufe Seiner Jünger und eine große Menge des Volks von allem jüdischen Lande und Jerusalem und Tyrus und Sidon, am Meer gelegen, die da kommen waren, Jhn zu hören, und daß sie geheilet würden von ihren Seuchen; und die von unsaubern Geistern umgetrieben wurden, die wurden gesund. Und alles Volk begehrte, Jhn anzurühren; denn es ging Kraft von Jhm, und heilte sie Alle."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "früh am Morgen (Wollest täglich bei uns bleiben)",
+            "mel": "92",
+            "strophen": [
+              {
+                "links": [
+                  "Wollet täglich bei uns bleiben,",
+                  "Alle Feinde von uns treiben,",
+                  "Uns ins Buch des Lebens schreiben",
+                  "Und der gute Hirte sein."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummer": "102"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Hesekiel 34, 17–22",
+            "inhalt": "Aber zu euch, meine Herde, spricht der HErr HErr also: Siehe, Ich will richten zwischen Schaf und Schaf und zwischen Widdern und Böcken. Ist's euch nicht genug, so gute Weide zu haben, daß ihr das Uebrige mit Füßen tretet, und so schöne Borne zu trinken, daß ihr auch noch dreintretet, und sie trübe machet? Daß Meine Schafe essen müssen, was ihr mit euren Füßen zertreten habt, und trinken, was ihr mit euren Füßen trüb gemacht habt. Darum so spricht der HErr HErr zu ihnen: Siehe, Ich will richten zwischen den fetten und mageren Schafen; darum daß ihr mit der Seite und Schulter dränget, und die Schwachen von euch stoßet mit euren Hörnern, bis ihr sie alle von euch zerstreuet. Und Ich will Meiner Herde helfen, daß sie nicht mehr sollen zum Raub werden, und will richten zwischen Schaf und Schaf."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummer": "88"
+          },
+          {
+            "typ": "lesung",
+            "quelle": "Brief S. Pauli an die Römer 11, 25–32",
+            "inhalt": "Ich will euch nicht verhalten, lieben Brüder, dieses Geheimnis, auf daß ihr nicht stolz seid. Blindheit ist Israel zum Teil widerfahren, so lange, bis die Fülle der Heiden eingegangen sei, und also das ganze Israel selig werde, wie geschrieben stehet: „Es wird kommen aus Zion, Der da erlöse, und abwende das gottlose Wesen von Jakob. Und dies ist Mein Testament mit ihnen, wenn Ich ihre Sünden werde wegnehmen.“ Nach dem Evangelium zwar sind sie Feinde um euretwillen; aber nach der Wahl sind sie Geliebte um der Väter willen. Gottes Gaben und Berufung mögen Jhn nicht gereuen. Denn gleicherweise, wie auch ihr weiland nicht habt geglaubet an Gott, nun aber habt ihr Barmherzigkeit überkommen über ihrem Unglauben: Also auch Jene haben jetzt nicht wollen glauben an der Barmherzigkeit, die euch widerfahren ist, auf daß sie auch Barmherzigkeit überkommen. Denn Gott hat Alle beschlossen unter den Unglauben, auf daß Er Sich Aller erbarme."
+          },
+          {
+            "typ": "lied",
+            "titel": "früh am Morgen (Weide uns auf grünen Auen)",
+            "mel": "92",
+            "strophen": [
+              {
+                "links": [
+                  "Weide uns auf grünen Auen,",
+                  "Daß wir Deine Fülle schauen",
+                  "Und auf Deinen Reichtum bauen,",
+                  "Mit Dir gehen aus und ein."
+                ],
+                "rechts": [
+                  "Amen, ja, es soll geschehen!",
+                  "Jesus wird heut mit uns gehen",
+                  "Und wir werden fröhlich sehen,",
+                  "Daß Er uns nicht läßt allein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
