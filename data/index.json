@@ -46,5 +46,13 @@
       "reihe":2,
       "status":"fertig"
     }
+    {
+      "id": "jubilate",
+      "datei": "jubilate.json",
+      "titel": "3. Sonntag nach Ostern (Jubilate — Jubelsonntag)",
+      "kirchenzeit": "Osterzeit",
+      "reihe": 3,
+      "status": "fertig"
+    }
   ]
 }
