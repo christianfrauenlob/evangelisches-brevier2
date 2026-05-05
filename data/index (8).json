@@ -1,0 +1,11 @@
+{
+  "wochen": [
+    { "id": "advent_1",            "band": 1, "kirchenzeit": "advent",   "reihe": 1, "status": "fertig" },
+    { "id": "karwoche",            "band": 1, "kirchenzeit": "karwoche",  "reihe": 1, "status": "fertig" },
+    { "id": "osterwoche",          "band": 2, "kirchenzeit": "ostern",    "reihe": 1, "status": "fertig" },
+    { "id": "quasimodogeniti",     "band": 2, "kirchenzeit": "ostern",    "reihe": 2, "status": "fertig" },
+    { "id": "misericordias_domini","band": 2, "kirchenzeit": "ostern",    "reihe": 3, "status": "fertig" },
+    { "id": "jubilate",            "band": 2, "kirchenzeit": "ostern",    "reihe": 4, "status": "fertig" },
+    { "id": "cantate",             "band": 2, "kirchenzeit": "ostern",    "reihe": 5, "status": "fertig" }
+  ]
+}
