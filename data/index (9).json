@@ -1,0 +1,46 @@
+{
+  "wochen": [
+    {
+      "id": "advent_1",
+      "titel": "1. Adventssonntag",
+      "datei": "advent_1.json",
+      "band": 1, "kirchenzeit": "advent", "reihe": 1, "status": "fertig"
+    },
+    {
+      "id": "karwoche",
+      "titel": "Karwoche",
+      "datei": "karwoche.json",
+      "band": 1, "kirchenzeit": "karwoche", "reihe": 1, "status": "fertig"
+    },
+    {
+      "id": "osterwoche",
+      "titel": "Osterwoche",
+      "datei": "osterwoche.json",
+      "band": 2, "kirchenzeit": "ostern", "reihe": 1, "status": "fertig"
+    },
+    {
+      "id": "quasimodogeniti",
+      "titel": "Quasimodogeniti (1. S. n. Ostern)",
+      "datei": "quasimodogeniti.json",
+      "band": 2, "kirchenzeit": "ostern", "reihe": 2, "status": "fertig"
+    },
+    {
+      "id": "misericordias_domini",
+      "titel": "Misericordias Domini (2. S. n. Ostern)",
+      "datei": "misericordias_domini.json",
+      "band": 2, "kirchenzeit": "ostern", "reihe": 3, "status": "fertig"
+    },
+    {
+      "id": "jubilate",
+      "titel": "Jubilate (3. S. n. Ostern)",
+      "datei": "jubilate.json",
+      "band": 2, "kirchenzeit": "ostern", "reihe": 4, "status": "fertig"
+    },
+    {
+      "id": "cantate",
+      "titel": "Cantate — Singesonntag (4. S. n. Ostern)",
+      "datei": "cantate.json",
+      "band": 2, "kirchenzeit": "ostern", "reihe": 5, "status": "fertig"
+    }
+  ]
+}
