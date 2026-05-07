@@ -1,0 +1,26 @@
+name: JSON validieren
+
+on:
+  push:
+    paths:
+      - 'data/**.json'
+      - 'validate.py'
+  pull_request:
+    paths:
+      - 'data/**.json'
+      - 'validate.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: JSON-Dateien validieren
+        run: python3 validate.py data/*.json
