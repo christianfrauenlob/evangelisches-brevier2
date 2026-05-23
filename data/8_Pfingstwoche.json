@@ -1,0 +1,1636 @@
+{
+  "id": "8_Pfingstwoche",
+  "titel": "Die Pfingstwoche",
+  "band": 2,
+  "kirchenzeit": "Pfingstwoche",
+  "seiten": [284, 315],
+  "abschnitte": [
+    {
+      "id": "pfingstfest",
+      "titel": "Das hohe Pfingstfest",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "einladung",
+              "zeilen": [
+                "Hallelujah! Der Geist des HErrn erfüllet den Erdkreis;",
+                "Kommt, lasset uns anbeten. Hallelujah, Hallelujah!"
+              ]
+            },
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Es geschah schnell ein Brausen vom Himmel,",
+                "Als eines gewaltigen Windes. Hallelujah, Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [68, 148]
+            },
+            {
+              "typ": "lied",
+              "titel": "Komm, Heiliger Geist, HErre Gott",
+              "melodie": "89",
+              "strophen": [
+                {
+                  "links": [
+                    "Komm, Heiliger Geist, HErre Gott,",
+                    "Erfüll mit Deiner Gnaden Gut",
+                    "Deiner Gläubgen Herz Mut und Sinn,",
+                    "Dein brünstig Lieb entzünd in ihn'n;",
+                    "O HErr, durch Deines Lichtes Glaft",
+                    "Zu dem Glauben versammelt haft",
+                    "Das Volk aus aller Welt Zungen:",
+                    "Das sei Dir, HErr, zu Lob gesungen.",
+                    "Hallelujah, Hallelujah!"
+                  ],
+                  "rechts": [
+                    "Du heiliges Licht, edler Hort,",
+                    "Laß uns leuchten des Lebens Wort,",
+                    "Und lehr uns Gott recht erkennen;",
+                    "Von Herzen Vater Jhn nennen;",
+                    "O HErr, behüt vor fremder Lehr,",
+                    "Daß wir nicht Meister suchen mehr",
+                    "Denn Jesum, mit rechtem Glauben,",
+                    "Und Jhm aus ganzer Macht vertrauen.",
+                    "Hallelujah, Hallelujah!"
+                  ]
+                },
+                {
+                  "links": [
+                    "Du heilige Brunst, süßer Trost,",
+                    "Nun hilf uns, fröhlich und getrost",
+                    "Jn Dein'm Dienst beständig bleiben,",
+                    "Die Trübsal uns nicht abtreiben;",
+                    "O HErr, durch Dein Kraft uns bereit,",
+                    "Und stärf des Fleisches Blödigkeit,",
+                    "Daß wir hie ritterlich ringen,",
+                    "Durch Tod und Leben zu Dir dringen.",
+                    "Hallelujah, Hallelujah!"
+                  ],
+                  "rechts": []
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Sie wurden Alle voll des Heiligen Geistes, Hallelujah!",
+                "Und fingen an, zu reden mit neuen Zungen. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Evangelium S. Johannis 14, 23—31",
+              "text": "Jesus antwortete und sprach zu ihm: Wer Mich liebet, der wird Mein Wort halten; und Mein Vater wird ihn lieben, und Wir werden zu ihm kommen, und Wohnung bei ihm machen. Wer aber Mich nicht liebt, der hält Meine Worte nicht. Und das Wort, das ihr höret, ist nicht Mein, sondern des Vaters, Der Mich gesandt hat. Solches hab Jch zu euch geredet, weil Jch bei euch gewesen bin. Aber der Tröster, der Heilige Geist, Welchen Mein Vater senden wird in Meinem Namen, Derselbe wird euch alles lehren, und euch erinnern alles des, das Jch euch gesagt habe. Den Frieden lasse Jch euch, Meinen Frieden gebe Jch euch. Nicht gebe Jch euch, wie die Welt gibt. Euer Herz erschrecke nicht, und fürchte sich nicht. Jhr habt gehöret, daß Jch euch gesagt habe: Jch gehe hin, und komme wieder zu euch. Hättet ihr Mich lieb, so würdet ihr euch freuen, daß Jch gesagt habe: Jch gehe zum Vater; denn der Vater ist größer denn Jch. Und nun hab Jch's euch gesaget, ehe denn es geschieht, auf daß, wenn es nun geschehen wird, ihr glaubet. Jch werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an Mir. Aber auf daß die Welt erkenne, daß Jch den Vater liebe, und Jch also tue, wie Mir der Vater geboten hat: stehet auf, und lasset uns von hinnen gehen."
+            },
+            {
+              "typ": "antwort",
+              "absätze": [
+                {
+                  "art": "prosa",
+                  "inhalt": "O wie süß ist, HErr, wie lieblich Dein Heiliger Geist, Der, damit Du Deine Süßigkeit gegen Deine Kinder erzeigeft, das süßeste Brot, Speise vom Himmel ihnen gebest, den Hungrigen füllet mit Gütern; aber die Reichen, die satt sind, lässet Er leer, daß sie darben."
+                }
+              ]
+            },
+            {
+              "typ": "vaeterstimme",
+              "quelle": "Löhe",
+              "text": "Die ganze Zeit und Geschichte der Kirche, heut ist sie entsprungen: Pfingsten ist heut noch wie damals, denn noch immer feiert man wie damals die Ausbreitung und Gründung der Kirche. Der erste Pfingsttag war ein Geburtstag der Kirche; und jeder, der seitdem entflohen, ist es nicht minder. Die Apostel, die Gläubigen der ersten Tage sind schlafen gegangen. Nicht mehr braust der Wind des ersten Pfingsttags; Flammen und geteilte Zungen und wunderbare Sprachen werden nicht mehr wahrgenommen. Jnsofern ist, was wir feiern, vorüber. Aber was durch die Apostel an den ersten Gläubigen wunderbar geschehen, das geschieht denn doch auch jetzt noch: durch der Zungen Gewalt werden die Völker aller Zungen zu einerlei Glauben gebracht; und siegreich, immer siegreicher dringt hindurch, was wir singen oder beten: „Komm, Heiliger Geist, erfüll die Herzen Deiner Gläubigen und entzünd in ihnen das Feuer Deiner göttlichen Liebe; Der Du durch Mannigfaltigkeit der Zungen die Völker der ganzen Welt versammelt haft in Einigkeit des Glaubens."
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Nehmet hin den Heiligen Geist;",
+                "Welchen ihr die Sünder erlasset, denen sind sie verlassen. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "HErr Gott, lieber Vater, Der Du Deiner Gläubigen Herzen durch Deinen heiligen Geist erleuchtet und gelehret haft: gib uns, daß wir auch durch denselben Geist rechten Verstand haben, und zu aller Zeit seines Trostes und seiner Kraft uns freuen, durch Deinen lieben Sohn, Jesum Christum, unsern HErrn.",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "Komm, Gott Schöpfer Heiliger Geist",
+              "titel_lateinisch": "Veni Creator Spiritus",
+              "melodie": "Veni creator Spiritus",
+              "strophen": [
+                {
+                  "links": [
+                    "Veni Creator Spiritus,",
+                    "Mentes tuorum visita,",
+                    "Imple superna gratia,",
+                    "Quae Tu creasti pectora."
+                  ],
+                  "rechts": [
+                    "Komm, Gott Schöpfer Heiliger Geist,",
+                    "Besuch das Herz der Menschen Dein;",
+                    "Mit Gnaden sie füll, wie Du weißt,",
+                    "Daß Dein Geschöpf vorhin sei."
+                  ]
+                },
+                {
+                  "links": [
+                    "Qui Paracletus diceris,",
+                    "Donum Dei altissimi,",
+                    "Fons vivus ignis caritas",
+                    "Et spiritalis unctio."
+                  ],
+                  "rechts": [
+                    "Denn Du bist der Tröster genannt,",
+                    "Des Allerhöchsten Gabe teur,",
+                    "Ein geistlich Salb an uns gewandt,",
+                    "Ein lebend Brunn Lieb und Feur."
+                  ]
+                },
+                {
+                  "links": [
+                    "Tu septiformis munere,",
+                    "Dextrae Dei Tu digitus,",
+                    "Tu rite promissum Patris,",
+                    "Sermone ditans guttura."
+                  ],
+                  "rechts": [
+                    "Du bist mit Gaben siebenfalt",
+                    "Der Finger an Gotts rechter Hand;",
+                    "Des Vaters Wort gibst Du gar bald",
+                    "Mit Zungen in alle Land."
+                  ]
+                },
+                {
+                  "links": [
+                    "Accende lumen sensibus",
+                    "Infunde amorem cordibus,",
+                    "Infirma nostri corporis",
+                    "Virtute firmans perpeti."
+                  ],
+                  "rechts": [
+                    "Zünd uns ein Licht an im Verstand,",
+                    "Gib uns ins Herz der Liebe Brunst;",
+                    "Das schwach Fleisch in uns, Dir bekannt,",
+                    "Erhalt fest Dein Kraft und Gunst."
+                  ]
+                },
+                {
+                  "links": [
+                    "Hostem repellas longius,",
+                    "Pacemque dones protinus;",
+                    "Ductore sic Te praevio",
+                    "Vitemus omne noxium."
+                  ],
+                  "rechts": [
+                    "Des Feindes List treib von uns fern,",
+                    "Den Fried schaff bei uns Deine Gnad,",
+                    "Daß wir Dein'm Leiten folgen gern,",
+                    "Und meiden der Seelen Schad."
+                  ]
+                },
+                {
+                  "links": [
+                    "Per Te sciamus da Patrem",
+                    "Noscamus atque Filium",
+                    "Te utriusque Spiritum",
+                    "Credamus omni tempore."
+                  ],
+                  "rechts": [
+                    "Lehr uns den Vater kennen wohl,",
+                    "Dazu Jesum Christ Seinen Sohn,",
+                    "Daß wir des Glaubens werden voll,",
+                    "Dich: Beider Geist zu verstehn."
+                  ]
+                },
+                {
+                  "links": [
+                    "Gloria Patri Domino,",
+                    "Natoque, qui e mortuis",
+                    "Surrexit, ac Paraclito",
+                    "In saeculorum saecula.",
+                    "Amen."
+                  ],
+                  "rechts": [
+                    "Gott Vater sei Lob und dem Sohn,",
+                    "Der von den Toten auferftund;",
+                    "Dem Tröster sei dasselb getan",
+                    "Jn Ewigkeit alle Stund."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Der HErr ist Gott, der uns erleuchtet, Hallelujah!",
+                "Schmücket das Fest mit Maien bis an die Hörner des Altars. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Hallelujah! Der Tröster, der Heilige Geist, Hallelujah!",
+                "Der wird euch alles lehren. Hallelujah! Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [87]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Hesekiel 36, 22—28",
+              "text": "Darum sollst du zum Hause Israel sagen: So spricht der HErr HErr: Jch tue es nicht um euretwillen, ihr vom Hause Israel, sondern um Meines heiligen Namens willen, welchen ihr entheiliget habt unter den Heiden, zu welchen ihr kommen seid. Denn Jch will Meinen großen Namen, der vor den Heiden entheiliget ist, den ihr unter denselbtgen entheiliget habt, heilig machen. Und die Heiden sollen erfahren, daß Jch der HErr sei, spricht der HErr HErr, wenn Jch Mich vor ihnen an euch erzeige, daß Jch heilig sei. Denn Jch will euch aus den Heiden holen, und euch aus allen Landen versammeln, und wieder in euer Land führen. Und will rein Wasser über euch sprengen, daß ihr rein werdet. Von all eurer Unreinigkeit und von allen euren Götzen will Jch euch reinigen. Und Jch will euch ein neu Herz, und einen neuen Geist in euch geben, und will das steinerne Herz aus eurem Fleisch wegnehmen, und euch ein fleischern Herz geben: Jch will Meinen Geist in euch geben, und will solche Leute aus euch machen, die in Meinen Geboten wandeln, und Meine Rechte halten, und darnach tun. Und ihr sollet wohnen im Lande, das Jch euren Vätern gegeben habe, und sollet Mein Volk sein, und Jch will euer Gott sein."
+            },
+            {
+              "typ": "melodie_rubrik",
+              "titel": "Veni sancte Spiritus, reple."
+            },
+            {
+              "typ": "antwort",
+              "absätze": [
+                {
+                  "art": "prosa",
+                  "inhalt": "Komm, Heiliger Geist, erfüll die Herzen Deiner Gläubigen, und entzünd in ihnen das Feuer Deiner göttlichen Liebe;"
+                },
+                {
+                  "art": "prosa",
+                  "inhalt": "Der Du durch Mannigfaltigkeit der Zungen die Völker der ganzen Welt versammelt haft in Einigkeit des Glaubens. Hallelujah, Hallelujah!"
+                }
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "Allmächtiger Gott, wir bitten Dich: Du wollest Deinen Heiligen Geist in unsere Herzen gben, daß Derselbe uns nach Deinem Willen regiere und führe und in allerlei Anfechtung und Unglück uns tröste und in Deiner Wahrheit wider allen Jrrtum uns leite, auf daß wir im Glauben fest bestehen, in der Liebe und allen guten Werken zunehmen und endlich selig werden; durch Jesum Christum, Deinen Sohn, unsern HErrn.",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Du läffest aus Deinen Odem, so werden sie geschaffen;",
+                "Und Du erneuerst die Gestalt der Erde. Hallelujah, Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [113, 114]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 2, 1—13",
+              "text": "Und als der Tag der Pfingsten erfüllet war, waren sie Alle einmütig beieinander. Und es geschah schnell ein Brausen vom Himmel, als eines gewaltigen Windes, und erfüllte das ganze Haus, da sie saßen. Und es erschienen ihnen Zungen zerteilt wie von Feuer; und Er setzte sich auf einen Jeglichen unter ihnen; und wurden Alle voll des Heiligen Geistes, und fingen an, zu predigen mit andern Zungen, nach dem der Geist ihnen gab auszusprechen. Es waren aber Juden zu Jerusalem wohnend, die waren gottesfürchtige Männer, aus allerlei Volk, das unter dem Himmel ist. Da nun diese Stimme geschah, kam die Menge zusammen, und wurden bestürzt; denn es hörte ein Jeglicher, daß sie mit seiner Sprache redeten. Sie entsetzten sich aber Alle, verwunderten sich, und sprachen untereinander: Siehe, sind nicht diese Alle, die da reden, aus Galiläa? Wie hören wir denn ein Jeglicher seine Sprache, darinnen wir geboren sind? Parther und Meder und Elamiter, und die wir wohnen in Mesopotamien und in Judäa und Kappadocien, Pontus und Asien, Phrygien und Pamphylien, Aegypten und an den Enden von Libyen bei Kyrene und Ausländer von Rom, Juden und Judengenossen, Kreter und Araber: wir hören sie mit unsern Zungen die großen Taten Gottes reden. Sie entsetzten sich aber Alle, und wurden irre, und sprachen Einer zu dem Andern: Was will das werden? Die Andern aber hatten's ihren Spott, und sprachen: Sie sind voll süßes Weins."
+            },
+            {
+              "typ": "antwort",
+              "absätze": [
+                {
+                  "art": "verse",
+                  "inhalt": "Komm, Du herzlicher Tröster, Gott Heilger Geist, Entzünd in uns Dein göttlich Lieb allermeist; Und geuß in uns Dein Gnade mit Gaben, Liebe Hoffnung und unerdichten Glauben, Welchen Du stets wollst mehren in uns mit Früchten zart, So daß zunehm die Liebe, wie ist des Geistes Art. Hallelujah, Hallelujah!"
+                }
+              ]
+            },
+            {
+              "typ": "lied",
+              "titel": "Heilger Geist, Du Tröster mein",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Heilger Geist, Du Tröster mein,",
+                    "Hoch vom Himmel uns erschein",
+                    "Mit dem Licht der Gnaden Dein.",
+                    "O Du süßer Herzensgast,",
+                    "Höchster Trost in aller Last,",
+                    "Unsrer Seelen süße Rast."
+                  ],
+                  "rechts": [
+                    "O Du selge Gnadensonn,",
+                    "Füll das Herz mit Freud und Wonn",
+                    "Aller die Dich rufen an.",
+                    "Ohn Dein Beistand Hilf und Gunst",
+                    "Ist all unser Tun und Kunst",
+                    "Vor Gott ganz und gar umfunst."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "HErr, lehr uns tun nach Deinem Wohlgefallen, denn Du bist unser Gott! Hallelujah!",
+                "Dein guter Geist führ uns auf ebner Bahn. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Heute sind erfüllet die Tage der Pfingsten, Hallelujah!",
+                "Heute ist der Heilige Geist in feurigen Zungen erschienen und hat den Jüngern Gaben der Gnade verliehen, und sie in alle Welt gesandt, zu verkündigen das Evangelium.",
+                "Wer da glaubet und getauft wird, der wird selig werden.",
+                "Hallelujah!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "O Heiliger Geist, wahrhaftiger allmächtiger Gott, Der Du Dich geoffenbaret haft, da Du über die Apostel sichtbarlich ausgegossen bist, Du Licht der Wahrheit und Trost der Seelen, Den der Sohn Gottes uns zu spenden versprochen hat: wir bitten Dich von Herzen, Du wollest Dich unser erbarmen und um des Heilandes Jesu Christi willen in uns recht Erkenntnis und Anrufung der göttlichen Majestät, des ewigen Vaters und des Sohns Jesu Christi samt Dir erwecken; Du wollest uns nicht in Versuchung und auf Jrrtum fallen lassen, unsre Herzen rein und heilig machen, Gottesfurcht, rechten Trost, Glauben, Hoffnung und Liebe gegen Dich in uns erwecken; Du wollest auch die heilige Christenheit für und für erhalten und mit rechter Lehre, gutem Rat und Einigkeit regieren, auch in weltlicher Regierung guten Rat, Friede und einen seligen Stand geben, daß wir der göttlichen Majestät, dem einigen Vater und dem Sohn Jesu Christo samt Dir in Ewigkeit mit fröhlichem Herzen danken und Lob sagen; durch unsern Mittler . .",
+              "amen": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfingstmontag",
+      "titel": "Am Pfingstmontag",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Der Tröster, der Heilige Geist, Hallelujah!",
+                "Wirds euch alles lehren. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [81, 30]
+            },
+            {
+              "typ": "lied",
+              "titel": "O Heilger Geist, kehr bei uns ein",
+              "melodie": "163",
+              "strophen": [
+                {
+                  "links": [
+                    "O Heilger Geist, kehr bei uns ein,",
+                    "Und laß uns Deine Wohnung sein;",
+                    "O komm, Du Herzenssonne!",
+                    "Du Himmelslicht, laß Deinen Schein",
+                    "Bei uns und in uns kräftig sein",
+                    "Zu steter Freud und Wonne!",
+                    "Sonne Wonne",
+                    "Himmlisch Leben",
+                    "Willst Du geben,",
+                    "Wenn wir beten:",
+                    "Zu Dir kommen wir getreten."
+                  ],
+                  "rechts": [
+                    "Du Quell, draus alle Weisheit fleußt,",
+                    "Die sich in fromme Seelen geußt:",
+                    "Laß Deinen Trost uns hören,",
+                    "Daß wir in Glaubenseinigkeit",
+                    "Auch können aller Christenheit",
+                    "Dein wahres Zeugnis lehren.",
+                    "Höre lehre,",
+                    "Daß wir können",
+                    "Herz und Sinnen",
+                    "Dir ergeben:",
+                    "Dir zum Lob und uns zum Leben."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Schaff in mir, Gott, ein rein Herz, Hallelujah!",
+                "Und gib mir einen neuen gewissen Geist. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Evangelium S. Johannis 3, 16—21",
+              "text": "Also hat Gott die Welt geliebet, daß Er Seinen Eingebornen Sohn gab, auf daß Alle, die an Jhn glauben, nicht verloren werden, sondern das ewige Leben haben. Denn Gott hat Seinen Sohn nicht gesandt in die Welt, daß Er die Welt richte, sondern daß die Welt durch Jhn selig werde. Wer an Jhn glaubet, der wird nicht gerichtet; wer aber nicht glaubet, der ist schon gerichtet: denn er glaubet nicht an den Namen des Eingebornen Sohns Gottes. Das ist aber das Gericht: daß das Licht in die Welt kommen ist, und die Menschen liebeten die Finsternis mehr denn das Licht; denn ihre Werke waren böse. Wer Arges tut, der hasset das Licht, und kommt nicht an das Licht, auf daß seine Werke nicht gestrafet werden. Wer aber die Wahrheit tut, der kommt an das Licht, daß seine Werke offenbar werden; denn sie sind in Gott getan."
+            },
+            {
+              "typ": "vaeterstimme",
+              "quelle": "Leo",
+              "text": "Wir wollen nun, Geliebteste, zu feierlicher Begehung des Pfingstfestes anfeuern, aufjubelnd in der Verehrung des Heiligen Geistes, durch Den die ganze tatholische Kirche geheiligt wird, Der eine jede vernünftige Seele erfüllt, Der den Glauben einhaucht, Der der Lehrer der Wissenschaft, die Quelle der Liebe, das Siegel der Keuschheit und der Grund jeglicher Tugend ist. Freuen mögen sich die Herzen aller Gläubigen, daß auf der ganzen Welt in dem Bekenntnis aller Zungen der Eine Gott: der Vater und der Sohn und der Heilige Geist gepriefen wird, und daß in der Wirkung und Gnadengabe fortdauert, was in der Gestalt der Feuerzungen erschienen. Denn der Geist der Wahrheit selber läßt das Haus Seiner Herrlichkeit durchleuchten von dem Glanze Seines Lichtes, und Er duldet in Seinem Tempel keine Finsternis und keine Lauheit."
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Also hat Gott die Welt geliebet, daß Er Seinen Eingebornen Sohn gab, Hallelujah!",
+                "Auf daß Alle, die an Jhn glauben, nicht verloren werden, sondern das ewige Leben haben. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "HErr Gott, himmlischer Vater, wir bitten Dich: Du wollest Deinen Heiligen Geist in unsre Herzen geben und uns in Deiner Gnade erhalten und in aller Anfechtung gnädiglich behüten, auf daß wir durch Hilfe Deines Geistes in Deinem Willen wandeln, und in aller Not uns Deiner Güte trösten mögen; durch Jesum Christum, unsern HErrn, Der mit Dir in Einigkeit Desfelben Heiligen Geistes lebet und herrschet immer und ewiglich.",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "Komm herab, o Heilger Geist",
+              "titel_lateinisch": "Veni sancte Spiritus",
+              "melodie": "De spiritu sancto",
+              "strophen": [
+                {
+                  "links": [
+                    "Veni sancte Spiritus",
+                    "Et emitte coelitus",
+                    "Lucis tuae radium."
+                  ],
+                  "rechts": [
+                    "Komm herab, o Heilger Geist,",
+                    "Geuß den Strahl, der Dir entleußt,",
+                    "Jn der Deinen Herzen ein."
+                  ]
+                },
+                {
+                  "links": [
+                    "Veni pater pauperum,",
+                    "Veni dator munerum,",
+                    "Veni lumen cordium."
+                  ],
+                  "rechts": [
+                    "Vater, hör der Armen Schrein,",
+                    "Komm, uns Gaben zu verleihn,",
+                    "Komm, der Seelenlichten Schein."
+                  ]
+                },
+                {
+                  "links": [
+                    "Consolator optime,",
+                    "Dulcis hospes animae,",
+                    "Dulce refrigerium."
+                  ],
+                  "rechts": [
+                    "Unsre Tröstung, unsre Rast,",
+                    "Du der Seelen süßer Gast,",
+                    "Süße Labung, zeuch herein."
+                  ]
+                },
+                {
+                  "links": [
+                    "In labore requies,",
+                    "In aestu temperies,",
+                    "In fletu solacium."
+                  ],
+                  "rechts": [
+                    "Du in Arbeit unsre Ruh,",
+                    "Jn der Hitze Kühlung Du,",
+                    "Hilf und Trost in aller Pein."
+                  ]
+                },
+                {
+                  "links": [
+                    "O lux beatissima,",
+                    "Reple cordis intima",
+                    "Tuorum fidelium."
+                  ],
+                  "rechts": [
+                    "Heilger Lichtquell, selge Lust,",
+                    "Fülle Deiner Gläubgen Brust",
+                    "Mit dem Licht der Gnaden Dein."
+                  ]
+                },
+                {
+                  "links": [
+                    "Lava quod est sordidum,",
+                    "Riga quod est aridum,",
+                    "Sana quod ist saucium."
+                  ],
+                  "rechts": [
+                    "Was befleckt ist mache rein,",
+                    "Was verwelkt ist woll erneun,",
+                    "Und den Wunden Heilung leihn."
+                  ]
+                },
+                {
+                  "links": [
+                    "Flecte quod est rigidum,",
+                    "Fove quod est frigidum,",
+                    "Rege quod est devium."
+                  ],
+                  "rechts": [
+                    "Mache weich was spröd und hart,",
+                    "Wärme was vom Frost erftarrt,",
+                    "Führ auf sichern Pfad uns ein."
+                  ]
+                },
+                {
+                  "links": [
+                    "Da tuis fidelibus",
+                    "In te confidentibus",
+                    "Sacrum septenarium."
+                  ],
+                  "rechts": [
+                    "Gib, HErr, Deiner Gläubgen Schar,",
+                    "Die auf Dich vertrauet gar,",
+                    "Deiner Gaben Siebenschein."
+                  ]
+                },
+                {
+                  "links": [
+                    "Da virtutis meritum,",
+                    "Da salutis exitum,",
+                    "Da perenne gaudium."
+                  ],
+                  "rechts": [
+                    "Woll der Tugend Lohn verleihn,",
+                    "Laß das Ende selig sein,",
+                    "Dort uns ewig Dein erfreun."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Wir haben einen kindlichen Geist empfangen, Hallelujah!",
+                "Durch welchen wir rufen: Abba, lieber Vater! Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [33]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Jesaja 44, 1—6",
+              "text": "So höre nun, Mein Knecht Jakob, und Israel, den Jch erwählet habe! So spricht der HErr, Der dich gemacht und bereitet hat, und Der dir beistehet von Mutterleibe an: Fürchte dich nicht, Mein Knecht Jakob und du Jesurun, den Jch erwählet habe! Denn Jch will Wasser gießen auf das Durstige und Ströme auf das Dürre; Jch will Meinen Geist auf deinen Samen gießen und Meinen Segen auf deine Nachkommen, daß sie wachsen sollen wie Gras, wie die Weiden an den Wasserbächen. Dieser wird sagen: Jch bin des HErrn, und Jener wird genannt werden mit dem Namen Jakob; und Dieser wird sich mit seiner Hand dem HErrn zuschreiben, und wird mit dem Namen Israel genannt werden. So spricht der HErr, der König Israels, und sein Erlöser, der HErr Zebaoth: Jch bin der Erste, und Jch bin der Letzte, und außer Mir ist kein Gott."
+            },
+            {
+              "typ": "gebet",
+              "text": "O Gott, Der Du Deinen Aposteln den heiligen Geist gegeben haft: gewähre Deinem Volke die Erhörung frommen Gebets, und schenk Allen, denen Du Glauben verliehen, auch Frieden; durch . .",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [115, 110]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 10, 42—48",
+              "text": "Und Er hat uns geboten, zu predigen dem Volk, und zu zeugen, daß Er ist verordnet von Gott ein Richter der Lebendigen und der Toten. Von Diesem zeugen alle Propheten, daß durch Seinen Namen Alle, die an Jhn glauben, Vergebung der Sünden empfaben sollen. Da Petrus noch diese Worte redete, fiel der Heilige Geist auf Alle, die dem Wort zuhöreten. Und die Gläubigen aus der Beschneidung, die mit Petrus kommen waren, entsetzten sich, daß auch auf die Heiden die Gabe des Heiligen Geistes ausgegossen ward; denn sie höreten, daß sie mit Zungen redeten, und Gott hoch priesen. Da antwortete Petrus: Mag auch Jemand das Wasser wehren, daß Diese nicht getauft werden, die den Heiligen Geist empfangen haben, gleichwie auch wir? Und befahl, sie zu taufen in dem Namen des HErrn. Da baten sie ihn, daß er etliche Tage dabliebe."
+            },
+            {
+              "typ": "antwort",
+              "absätze": [
+                {
+                  "art": "prosa",
+                  "inhalt": "Der heilige Geist, herniederkommend vom Himmelsthron, erfüllte die Herzen der Apostel unsichtbar mit neuem Feuer der Heiligung, damit in ihrem Munde jegliche Art von Zungen entstünde. Hallelujah!"
+                },
+                {
+                  "art": "prosa",
+                  "inhalt": "Es kam göttliches Feuer, nicht verzehrend, aber erleuchtend, und teilte ihnen die Gnadengaben mit,"
+                },
+                {
+                  "art": "prosa",
+                  "inhalt": "Damit . . Hallelujah! Ehre sei . ."
+                }
+              ]
+            },
+            {
+              "typ": "lied",
+              "titel": "O heilger Geist, kehr",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Du süßer Himmelstau, laß dich",
+                    "Jn unsre Herzen kräftiglich",
+                    "Und schenk uns deine Liebe;",
+                    "Daß unsre Sinne verbunden sei",
+                    "Dem Nächsten stets mit Liebestreu,",
+                    "Und sich darinnen übe.",
+                    "Kein Neid, kein Streit",
+                    "Dich betrübe; Fried und Liebe",
+                    "Müssen schweben,",
+                    "Fried und Freude wirft Du geben."
+                  ],
+                  "rechts": [
+                    "Gib, daß in reiner Heiligkeit",
+                    "Wir führen unsre Lebenszeit,",
+                    "Sei unfers Geiftes Stärke;",
+                    "Daß uns forthin sei unbewußt",
+                    "Die Eitelkeit, des Fleisches Luft",
+                    "Und seine toten Werke.",
+                    "Rühre, führe",
+                    "Unsre Sinnen",
+                    "Und Beginnen",
+                    "Von der Erden,",
+                    "Daß wir Himmelserben werden."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Jch will Meinen Geist ausgießen über alles Fleisch, Hallelujah!",
+                "Den Geist der Gnade und des Gebetes. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Wer Mich liebet, der wird Mein Wort halten, und Mein Vater wird ihn lieben;",
+                "Und Wir werden zu ihm kommen und Wohnung bei Jhm machen.",
+                "Hallelujah!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfingstdienstag",
+      "titel": "Am Pfingstdienstag",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Gebt Gott die Macht! Seine Herrlichkeit ist in Israel, und Seine Macht in den Wolken.",
+                "Er ist Gott Israel. Hallelujah, Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [78]
+            },
+            {
+              "typ": "lied",
+              "titel": "Heut ist das rechte Jubelfest",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Heut ist das rechte Jubelfest",
+                    "Der Kirchen angegangen,",
+                    "Daran ein Glanz sich sehen läßt",
+                    "Des Geistes, den empfangen",
+                    "Der Jünger Schar,",
+                    "Die offenbar",
+                    "Von diesem Himmelsregen",
+                    "Benetzet ist;",
+                    "Dies, o mein Christ,",
+                    "Kann Herz und Mut bewegen."
+                  ],
+                  "rechts": [
+                    "Heut hat der große Himmelsherr",
+                    "Herolde ausgesendet;",
+                    "Schaut: Seine tapfern Prediger,",
+                    "Die haben sich gewendet",
+                    "An manchen Ort,",
+                    "Da klingt ihr Wort:",
+                    "Tut Buß, ihr Leut auf Erden!",
+                    "Dies ist die Zeit,",
+                    "Welch euch befreit",
+                    "Und lässet selig werden."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Der Weltkreis ist voll Geiftes des HErrn, Hallelujah!",
+                "Aus Zion bricht an der schöne Glanz Gottes. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Evangelium S. Johannis 14, 15—21",
+              "text": "Liebet ihr Mich, so haltet Meine Gebote; und Jch will den Vater bitten, und Er soll euch einen andern Tröster geben, daß Er bei euch bleibe ewiglich: den Geist der Wahrheit, Welchen die Welt nicht kann empfaben; denn sie siehet Jhn nicht, und kennet Jhn nicht. Jhr aber kennet Jhn; denn Er bleibet bei euch, und wird in euch sein. Jch will euch nicht Waisen lassen; Jch komme zu euch. Es ist noch um ein Kleines, so wird Mich die Welt nicht mehr sehen; ihr aber sollt Mich sehen; denn Jch lebe, und ihr sollt auch leben. An demselbtgen Tage werdet ihr erkennen, daß Jch in Meinem Vater bin, und ihr in Mir, und Jch in euch. Wer Meine Gebote hat, und hält sie, der ist's, der Mich liebet. Wer Mich aber liebet, der wird von Meinem Vater geliebet werden, und Jch werde ihn lieben, und Mich ihm offenbaren."
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Jch bin die Thür; so Jemand durch Mich eingehet, der wird selig werden und wird ein- und ausgehen und Weide finden. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "Es stehe uns bei — wir bitten Dich, o HErr — die Kraft des Heiligen Geiftes, die unsre Herzen gnädiglich reinigen und vor allen Widerwärtigkeiten schützen möge; durch . .",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "Heilger Geist, Deß frohes Leuchten",
+              "titel_lateinisch": "Qui procedis ab utroque",
+              "melodie": "De festivitate Pentecostes",
+              "strophen": [
+                {
+                  "links": [
+                    "Qui procedis ab utroque:",
+                    "Genitore genitoque",
+                    "Pariter, Paraclite:",
+                    "Redde linguas eloquentes,",
+                    "Fac ferventes in te mentes",
+                    "Flamma tua divite."
+                  ],
+                  "rechts": [
+                    "Heilger Geist, Deß frohes Leuchten",
+                    "Vom Erzeuger und Erzeugten",
+                    "Ewiglich hervor uns bricht:",
+                    "Mach die Zungen redesprühend,",
+                    "Mach die Geifter freudegühend",
+                    "Durch Dein Feuer, durch Dein Licht!"
+                  ]
+                },
+                {
+                  "links": [
+                    "Lumen clarum, lumen carum",
+                    "Internarum tenebrarum",
+                    "Effugas caliginem;",
+                    "Per te mundi sunt mundati,",
+                    "Tu peccatum et peccati",
+                    "Destruis rubiginem."
+                  ],
+                  "rechts": [
+                    "Heilges Feuer hoch und teuer,",
+                    "Dessen Leuchten scheucht die Schleier,",
+                    "Die verdüftern das Gemüt:",
+                    "Durch Dich wird der Geift geläutert,",
+                    "Durch Dich wird die Brust erweitert,",
+                    "Rost der Seelen ausgeglüht."
+                  ]
+                },
+                {
+                  "links": [
+                    "Te docente nil obscurum,",
+                    "Te praesente nil impurum;",
+                    "Sub tua praesentia",
+                    "Gloriatur mens jucunda,",
+                    "Per te laeta, per te munda",
+                    "Gaudet conscientia."
+                  ],
+                  "rechts": [
+                    "Nichts bleibt dunkel, wenn Du lehrest,",
+                    "Unrein nichts, wo ein Du kehrest;",
+                    "Unter Deiner Nähe Strahl",
+                    "Jauchzet die beglückte Seele,",
+                    "Ganz befreit von allem Fehle",
+                    "Und von des Gewissens Qual."
+                  ]
+                },
+                {
+                  "links": [
+                    "O juvamen oppressorum,",
+                    "O solamen miserorum,",
+                    "Pauperum refugium:",
+                    "Da contemptum terrenorum,",
+                    "Ad amorem supernorum",
+                    "Trahe desiderium."
+                  ],
+                  "rechts": [
+                    "O Du Retter voll Erbarmen,",
+                    "Trost der Kranken und der Armen,",
+                    "Stärkung für den bangen Sinn:",
+                    "Lehr uns irdsches Gut verschmähen,",
+                    "Aber zu den selgen Höhen",
+                    "Senke das Verlangen hin!"
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Der Geift Gottes ist Gerechtigkeit und Friede, Hallelujah!",
+                "Und Freude im Heiligen Geift. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [42]
+            },
+            {
+              "typ": "lesung",
+              "ref": "2. Buch Mose 19, 16—25",
+              "text": "Als nun der dritte Tag kam, und Morgen war, da hub sich ein Donnern und Blitzen und eine dicke Wolke auf dem Berge und ein Ton einer sehr starken Posaune; das ganze Volk aber, das im Lager war, erschrak. Und Mose führte das Volk aus dem Lager Gott entgegen, und sie traten unten an den Berg. Der ganze Berg Sinai aber rauchte, darum daß der HErr herab auf den Berg fuhr mit Feuer; und sein Rauch ging auf wie ein Rauch vom Ofen, daß der ganze Berg sehr bebete Und der Posaune Ton ward immer stärker. Mose redete und Gott antwortete ihm laut. Als nun der HErr herniedergetkommen war auf den Berg Sinai, oben auf seine Spitze, forderte Er Mose oben auf die Spitze des Bergs, und Mose stieg hinauf. Da sprach der HErr zu ihm: Steig hinab, und bezeuge dem Volk, daß sie nicht durchbrechen zum HErrn, Jhn zu sehen, und Viele aus ihnen fallen. Dazu die Priester, die zum HErrn nahen, sollen sich heiligen, daß sie der HErr nicht zerschmettere. Mose aber sprach zum HErrn: Das Volk kann nicht auf den Berg Sinai steigen; denn Du haft uns bezeuget und gesagt: Mache ein Gehege um den Berg und heilige ihn. Und der HErr sprach zu ihm: Gehe hin, steige hinab! Du und Aaron mit dir sollt heraufsteigen; aber die Priester und das Volk sollen nicht durchbrechen, daß sie hinaufsteigen zu dem HErrn, daß Er sie nicht zerschmettere. Und Mose stieg herunter zum Volk, und sagte es ihnen."
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Wer Mich liebet, der wird Mein Wort halten, Hallelujah!",
+                "Hallelujah, Hallelujah!"
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [123]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Brief S. Pauli an die Epheser 2, 19—22",
+              "text": "So seid ihr nun nicht mehr Gäste und Fremdlinge, sondern Bürger mit den Heiligen und Gottes Hausgenossen, erbauet auf den Grund der Apostel und Propheten, da Jesus Christus der Eckftein ist; auf welchem der ganze Bau ineinander gefüget wächft zu einem heiligen Tempel in dem HErrn, auf welchem auch ihr mit erbauet werdet zu einer Behausung Gottes im Geist."
+            },
+            {
+              "typ": "lied",
+              "titel": "Heut ist das rechte Jubelfeft",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "O großer Tag, o güldner Tag,",
+                    "Desgleichen nie gesehen!",
+                    "O Tag, davon man sagen mag,",
+                    "Daß Wunder sind geschehen",
+                    "Jm Himmelreich,",
+                    "Als auch zugleich",
+                    "Hier unten auf der Erden;",
+                    "Gott fähret auf,",
+                    "Des Geiftes Lauf",
+                    "Muß uns hinieden werden."
+                  ],
+                  "rechts": [
+                    "O süßer Tag! Nun wird der Geift",
+                    "Vom Himmel ausgegossen,",
+                    "Der Geift, Der uns der Welt entreißt",
+                    "Und uns, als Reichsgenossen,",
+                    "Der Sterblichkeit",
+                    "So gar befreit,",
+                    "Zu Jesu lässet kommen.",
+                    "Ach, würd ich bald",
+                    "Auch dergestalt",
+                    "An diesen Ort genommen!"
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Jch will Wasser gießen auf die Durstigen, Hallelujah!",
+                "Und Ströme auf die Dürre. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Den Frieden gebe ich euch, Meinen Frieden laffe ich euch;",
+                "Nicht gebe Jch euch, wie die Welt gibt. Hallelujah!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quatember_mittwoch",
+      "titel": "Quatember-Mittwoch nach Pfingsten",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [6, 32, 38]
+            },
+            {
+              "typ": "lied",
+              "titel": "O Du allersüßte Freude",
+              "melodie": "162",
+              "strophen": [
+                {
+                  "links": [
+                    "O Du allersüßte Freude,",
+                    "O Du allerschönftes Licht,",
+                    "Der Du uns in Lieb und Leide",
+                    "Unbesuchet läffest nicht;",
+                    "Geift des Höchsten, höchfter Fürft,",
+                    "Der Du hälfst und halten wirft",
+                    "Obn Aufhören alle Dinge:",
+                    "Höre, höre, was ich singe."
+                  ],
+                  "rechts": [
+                    "Du bift ja die beste Gabe,",
+                    "Die ein Mensche nennen kann;",
+                    "Wenn ich Dich erwünsch und habe,",
+                    "Geb ich alles Wünschen an.",
+                    "Ach ergib Dich, komm zu mir",
+                    "Jn mein Herze, das Du Dir,",
+                    "Da ich in die Welt geboren,",
+                    "Selbft zum Tempel auserkoren."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Evangelium S. Johannis 15, 9—16",
+              "text": "Gleichwie Mich Mein Vater liebet, also liebe Jch euch auch. Bleibet in Meiner Liebe. So ihr Meine Gebote haltet, so bleibet ihr in Meiner Liebe, gleichwie Jch Meines Vaters Gebote halte, und bleibe in Seiner Liebe. Solches rede Jch zu euch, auf daß Meine Freude in euch bleibe und eure Freude vollkommen werde. Das ist Mein Gebot, daß ihr euch untereinander liebet, gleichwie Jch euch liebda. Niemand hat größere Liebe denn die, daß er sein Leben lässet für seine Freunde. Jhr seid Meine Freunde, so ihr tut, was Jch euch gebiete. Jch sage hinfort nicht, daß ihr Knechte seid; denn ein Knecht weiß nicht, was sein HErr tut. Euch aber habe Jch gesagt, daß ihr Freunde seid; denn alles, was Jch habe von Meinem Vater gehöret, hab Jch euch kundgetan. Jhr habt Mich nicht erwählet, sondern Jch habe euch erwählet und gesetzt, daß ihr hingehet, und Frucht bringet und eure Frucht bleibe; auf daß, so ihr den Vater bittet in Meinem Namen, Er's euch gebe."
+            },
+            {
+              "typ": "antwort",
+              "absätze": [
+                {
+                  "art": "prosa",
+                  "inhalt": "Zucht und Weisheit lehrte sie der HErr, Hallelujah!"
+                },
+                {
+                  "art": "prosa",
+                  "inhalt": "Er befestigte in ihnen die Gnade Seines Geiftes, Und mit Verstand erfüllte Er ihre Herzen. Hallelujah!"
+                },
+                {
+                  "art": "prosa",
+                  "inhalt": "Jn gewaltigem Brausen kam der Heilige Geift über sie, Und mit '. . . Hallelujah!"
+                }
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Jch bin das lebendige Brot, spricht der HErr,",
+                "Das vom Himmel kommen ift. Hallelujah!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "Allmächtiger barmherziger Gott, wir bitten Dich: gib, daß der Heilige Geift zu uns komme und durch Sein Einwohnen unsre Herzen zu einem Tempel Seiner Herrlichkeit mache; durch . . .",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "O du allersüßte Freude",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [],
+                  "rechts": [
+                    "Mein Hort, ich bin wohl zufrieden,",
+                    "Wenn Du mich nur nicht verftößt;",
+                    "Bleib ich von Dir ungeschieden,",
+                    "Ei, so bin ich gnug getröft.",
+                    "Laß mich sein Dein Eigentum,",
+                    "Jch versprecht hinwiederum,",
+                    "Hier und dort all mein Vermögen",
+                    "Dir zu Ehren anzulegen."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [51]
+            },
+            {
+              "typ": "lesung",
+              "ref": "4. Buch Mose 11, 24—30",
+              "text": "Und Mose ging heraus, und sagte dem Volk des HErrn Worte, und versammelte siebzig Männer unter den Aelteften des Volks, und ftellte sie um die Hütte her. Da kam der HErr hernieder in der Wolke, und redete mit ihm, und nahm des Geifts, der auf ihm war, und legte ihn auf die siebzig älfteften Männer. Und da der Geift auf ihnen ruhete, weisfagten sie, und höreten nicht auf. Es waren aber noch zween Männer im Lager geblieben; der eine hieß Eldad, der andre Medad, und der Geift ruhete auf ihnen; denn sie waren auch angeschrieben, und doch nicht hinausgegangen zu der Hütte, und sie weisfagten im Lager. Da lief ein Knabe hin, und sagte es Mose an und sprach: Eldad und Medad weisfagen im Lager. Da antwortete Josua, der Sohn Nuns, Moses Diener, den er erwählet hatte, und sprach: Mein Herr Mose, wehre ihnen. Aber Mose sprach zu ihm: Bist du der Eiferer für mich? Wollte Gott, daß all das Volk des HErrn weisfagte, und der HErr Seinen Geift über sie gäbe! Also sammelte sich Mose zum Lager und die Aelteften Israels."
+            },
+            {
+              "typ": "rubrik",
+              "text": "Die Litanei."
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [102, 130, 143]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Brief S. Pauli an die Ephefer 4, 11—16",
+              "text": "Und Er hat Etliche zu Aposteln gesetzt, Etliche aber zu Propheten, Etliche zu Evangeliften, Etliche zu Hirten und Lehrern, daß die Heiligen zugerichtet werden zum Werk des Amts, dadurch der Leib Chrifti erbauet werde, bis daß wir Alle hinankommen zu einerlei Glauben und Erkenntnis des Sohns Gottes und ein vollkommner Mann werden, der da sei im Maße des vollkommenen Alters Chrifti; auf daß wir nicht mehr Kinder seien, und uns wegen und wiegen lassen von allerlei Wind der Lehre durch Schalftheit der Menschen und Täuscherei, damit sie uns erschleichen, zu verführen. Lasset uns aber rechtschaffen sein in der Liebe, und wachsen in allen Stücken an Dem, der das Haupt ift: Chriftus, von Welchem aus der ganze Leib zusammengefüget ift, und ein Glied am andern hanget durch alle Gelenke, dadurch eins dem andern Handreichung tut nach dem Werk eines jeglichen Gliedes in seinem Maße, und machet, daß der Leib wächfet zu seiner selbst Befferung; und das alles in der Liebe."
+            },
+            {
+              "typ": "lied",
+              "titel": "O du allersüßte Freude",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Nur allein, daß Du mich stärkeft",
+                    "Und mir treulich fteheft bei;",
+                    "Hilf, mein Helfer, wo Du merkeft,",
+                    "Daß mir Hilfe nötig sei;",
+                    "Brich des bösen Fleisches Sinn,",
+                    "Nimm den alten Willen hin,",
+                    "Mach ihn allerdinges neue,",
+                    "Daß mein Gott Sich meiner freue."
+                  ],
+                  "rechts": [
+                    "Sei mein Retter, halt mich eben;",
+                    "Wenn ich sinke, sei mein Stab,",
+                    "Wenn ich sterbe, sei mein Leben,",
+                    "Wenn ich liege, sei mein Grab;",
+                    "Wenn ich wieder aufersteh,",
+                    "Ei, so hilf mir, daß ich geh",
+                    "Hin, da Du in ewgen Freuden",
+                    "Wirft Dein' Auserwählten weiden."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Jch bin das lebendige Brot, vom Himmel kommen. Wer von diesem Brot effen wird, der wird leben in Ewigkeit.",
+                "Und das Brot, das Jch geben werde, ift Mein Fleisch, welches Jch geben werde für das Leben der Welt."
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "Der Tröster, Der von Dir ausgeht, o HErr, Der erleuchte unsre Herzen und leite sie in alle Wahrheit, wie Dein lieber Sohn verheißen hat; Der mit Dir . . .",
+              "amen": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Am Donnerstag nach Pfingsten",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [147]
+            },
+            {
+              "typ": "lied",
+              "titel": "O Heiliger Geift, o heiliger Gott",
+              "melodie": "128",
+              "strophen": [
+                {
+                  "links": [
+                    "O Heiliger Geift, o heiliger Gott,",
+                    "Du Tröfter wert in aller Not:",
+                    "Du bift gesandt vons Himmels Thron,",
+                    "Von Gott dem Vater und dem Sohn.",
+                    "O Heiliger Geift, o heiliger Gott."
+                  ],
+                  "rechts": [
+                    "O Heiliger Geift, o heiliger Gott,",
+                    "Gib uns die Lieb zu Deinem Wort;",
+                    "Zünd an in uns der Liebe Flamm,",
+                    "Darnach zu lieben allesam.",
+                    "O Heiliger Geift, o heiliger Gott."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 23, 6—10",
+              "text": "Da aber Paulus wußte, daß ein Teil Sadducäer war, und das andre Teil Pharisäer, rief er im Rat: Jhr Männer, lieben Brüder, ich bin ein Pharisäer und eines Pharisäers Sohn; ich werde angekläget um der Hoffnung und Auferftehung willen der Toten. Da er aber das sagte, ward ein Aufruhr unter den Pharisäern und Sadducäern, und die Menge zerspaltete sich. Denn die Sadducäer sagen, es sei keine Auferftehung, noch Engel, noch Geift; die Pharisäer aber bekennen's beides. Es ward ein groß Geschrei; und die Schriftgelehrten von der Pharisäer Teil ftunden auf, ftritten und sprachen: Wir finden nichts Arges an diesem Menschen; hat aber ein Geift oder ein Engel mit ihm geredet, so können wir mit Gott nicht ftreiten. Da aber der Aufruhr groß ward, beforgte sich der oberfte Hauptmann, sie möchten Paulus zerreißen; und hieß das Kriegsvolk hinabgehen, und ihn von ihnen reißen, und in das Lager führen."
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Und Er rief Seine zwölf Jünger zu Sich, und gab ihnen Macht über die unfaubern Geifter, daß sie dieselbigen austrieben,",
+                "Und heileten allerlei Seuche und allerlei Krankheit. Hallelujah!"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "O Heiliger Geift, o heiliger Gott",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [],
+                  "rechts": [
+                    "O Heiliger Geift, o heiliger Gott,",
+                    "Erleucht uns durch Dein göttlich Wort:",
+                    "Lehr uns den Vater kennen schon,",
+                    "Dazu auch Seinen lieben Sohn.",
+                    "O Heiliger Geift, o heiliger Gott."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [72]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Jesaja 29, 9—12",
+              "text": "Erftarret und werdet bestürzt, verblendet euch und werdet blind; werdet trunken, doch nicht vom Wein, taumelt, doch nicht von ftarkem Getränke. Denn der HErr hat euch einen Geift des harten Schlafs eingeschenkt, und eure Augen zugetan; eure Propheten und Fürften samt den Sehern hat Er verhüllt; daß euch aller (Propheten) Gesichte sein werden wie die Worte eines versiegelten Buchs, welches man gäbe Einem, der lesen kann, und spräche: Lies doch das, und er spräche: Jch kann nicht, denn es ift versiegelt. Oder gleich als wenn man's gäbe Dem, der nicht lesen kann, und spräche: Lies doch das, und er spräche: Jch kann nicht lefen."
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [133]
+            },
+            {
+              "typ": "lesung",
+              "ref": "1. Brief S. Pauli an die Korinther 3, 1—10",
+              "text": "Und ich, lieben Brüder, konnte nicht mit euch reden als mit Geiftlichen, sondern als mit Fleischlichen, wie mit jungen Kindern in Chrifto. Milch hab ich euch zu trinken gegeben, und nicht Speise; denn ihr konntet noch nicht; auch könnt ihr noch jetzt nicht, dieweil ihr noch fleischlich seid. Denn, sintemal Eifer und Zank und Zwietracht unter euch sind, seid ihr nicht fleischlich, und wandelt nach menschlicher Weise? Denn so Einer saget: Jch bin Paulisch; der Andre aber: Jch bin Apollisch, — seid ihr nicht fleischlich? Wer ift nun Paulus? Wer ift Apollos? Diener sind sie, durch welche ihr seid gläubig worden; und dasfelbige, wie der HErr einem Jeglichen gegeben hat. Jch habe gepflanzet, Apollos hat begoffen; aber Gott hat das Gedeihen gegeben. So ift nun weder der da pflanzet, noch der da begeuhet, etwas, sondern Gott, Der das Gedeihen gibt. Der aber pflanzet, und der da begeuht, ift einer wie der andre. Ein Jeglicher aber wird seinen Lohn empfahen nach seiner Arbeit. Denn wir sind Gottes Ackerwerk und Gottes Gebäu. Jch nach Gottes Gnade, die mir gegeben ift, habe den Grund gelegt, als ein weiser Baumeiffer; ein Andrer bauet darauf. Ein Jeglicher aber sehe zu, wie er darauf baue."
+            },
+            {
+              "typ": "lied",
+              "titel": "Freuet euch, ihr Gotteskinder",
+              "melodie": "162",
+              "strophen": [
+                {
+                  "links": [
+                    "Freuet euch, ihr Gotteskinder,",
+                    "Freuet euch, ihr Menschen all;",
+                    "Freuet euch, ihr armen Sünder,",
+                    "Jauchzet Gott mit großem Schall!",
+                    "Euer Tröster kommt zu euch,",
+                    "Der euch in Sein Freudenreich",
+                    "Will aus diesem Jammer bringen,",
+                    "Helfen fröhlich siegen, ringen."
+                  ],
+                  "rechts": [
+                    "Unsers Herzens Trost ift kommen,",
+                    "Gottes Geift, das Freudenlicht,",
+                    "Der Beschirmer aller Frommen,",
+                    "Unser Schutz und Zuversicht.",
+                    "Preiset Seine Güt und Treu,",
+                    "Die noch alle Morgen neu;",
+                    "So wird Er euch Allen geben,",
+                    "Hier und dort mit Jhm zu leben."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Der Heilge Geift, Der vom Vater ausgehet, Hallelujah!",
+                "Der wird Mich verklären. Hallelujah!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quatember_freitag",
+      "titel": "Quatember-Freitag nach Pfingsten",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [6, 32, 38]
+            },
+            {
+              "typ": "lied",
+              "titel": "Nun bitten wir den Heiligen Geift",
+              "melodie": "109",
+              "strophen": [
+                {
+                  "links": [
+                    "Nun bitten wir den Heiligen Geift",
+                    "Um den rechten Glauben allermeift,",
+                    "Daß Er uns behüte an unserm Ende,",
+                    "Wenn wir heimfahrn aus diesem Elende.",
+                    "Kyrieleis."
+                  ],
+                  "rechts": [
+                    "Du süße Lieb, schenk uns Deine Gunft,",
+                    "Laß uns empfinden der Liebe Brunft,",
+                    "Daß wir uns von Herzen einander lieben",
+                    "Und in Frieden auf einem Sinn bleiben.",
+                    "Kyrieleis."
+                  ]
+                },
+                {
+                  "links": [
+                    "Du wertes Licht, gib uns Dein'n Schein,",
+                    "Lehr uns Jesum Chrift kennen Allein,",
+                    "Daß wir an Jhm bleiben, dem treuen Heiland,",
+                    "Der uns bracht hat zum rechten Vaterland.",
+                    "Kyrieleis."
+                  ],
+                  "rechts": [
+                    "Du höchfter Tröfter in aller Not,",
+                    "Hilf, daß wir nicht fürchten Schand noch Tod;",
+                    "Daß in uns die Sinne nicht verzagen,",
+                    "Wenn der Feind wird das Leben verklagen.",
+                    "Kyrieleis."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 7, 48—53",
+              "text": "Aber der Allerhöchfte wohnet nicht in Tempeln, die mit Händen gemacht sind, wie der Prophet spricht: „Der Himmel ift Mein Stuhl und die Erde Meiner Füße Schemel; was wollt ihr Mir denn für ein Haus bauen? spricht der HErr; oder welches ift die Stätte Meiner Ruhe? Hat nicht Meine Hand das alles gemacht?“ Jhr Halsftarrigen und Unbeschnittenen an Herzen und Ohren, ihr widerftrebet allezeit dem Heiligen Geift, wie eure Väter, also auch ihr. Welchen Propheten haben eure Väter nicht verfolget? Und sie haben getötet Die da zuvor verkündigten die Zukunft dieses Gerechten, Welches ihr nun Verräter und Mörder worden seid. Jhr habt das Gesetz empfangen durch der Engel Geschäfte, und habt's nicht gehalten."
+            },
+            {
+              "typ": "gebet",
+              "text": "Wir bitten Dich, barmherziger Gott: gib Deiner Kirche, daß sie, geeint durch den Heiligen Geift, durch den Anlauf der Feinde in keiner Weise beunruhigt werde; durch . . .",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "Sie ift mir lieb",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Sie ift mir lieb, die werte Magd,",
+                    "Und kann ihr nicht vergessen;",
+                    "Lob Ehr und Zucht von ihr man sagt,",
+                    "Sie hat mein Herz besessen;",
+                    "Jch bin ihr hold;",
+                    "Und wenn ich sollt"
+                  ],
+                  "rechts": [
+                    "Groß Unglück han,",
+                    "Da liegt nichts an:",
+                    "Sie will mich des ergetzen",
+                    "Mit ihrer Lieb und Treu an mir,",
+                    "Die sie zu mir will setzen",
+                    "Und tun all mein Begier."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [51]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Nehemia 8, 5—12",
+              "text": "Und Esra tat das Buch auf vor dem ganzen Volk; denn er ragte über alles Volk; und da er's auftat, ftund alles Volk. Und Esra lobte den HErrn, den großen Gott. Und alles Volk antwortete: Amen, Amen! mit ihren Händen empor, und neigeten sich, und beteten den HErrn an mit dem Antlitz zur Erde. Und Jesua, Bani, Serebja, Jamin, Akkub, Sabthai, Hodia, Maaseja, Kelita, Asarja, Josabad, Hanan, Pelaja und die Leviten machten, daß das Volk aufs Gesetz merkete; und das Volk ftund auf seiner Stätte. Und sie lafen im Gesetzbuch Gottes klärlich und verftändlich, daß man verftund, was gelefen ward. Und Nehemia, der da ift der Landpfleger, und Esra, der Priefter, der Schriftgelehrte, und die Leviten, die das Volk aufmerkfam machten, sprachen zu allem Volk: Dieser Tag ift heilig dem HErrn, eurem Gott; darum seid nicht traurig, und weinet nicht. Denn alles Volk weinte, da sie die Worte des Gesetzes höreten. Darum sprach er zu ihnen: Gehet hin, und effet das Fette, und trinket das Süße, und sendet Denen auch Teile, die nichts für sich bereitet haben; denn dieser Tag ift heilig unserm HErrn. Und bekümmert euch nicht; denn die Freude am HErrn ift eure Stärke. Und die Leviten ftilleten alles Volk, und sprachen: Seid ftill, denn der Tag ift heilig; bekümmert euch nicht. Und alles Volk ging hin, daß es äße, tränke und Teile sendete, und eine große Freude machte; denn sie hatten die Worte verftanden, die man ihnen hatte kundgetan."
+            },
+            {
+              "typ": "rubrik",
+              "text": "Die Litanei."
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [102, 130, 143]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 2, 33—41",
+              "text": "Nun Er durch die Rechte Gottes erhöhet ift, und empfangen hat die Verheißung des Heiligen Geifts vom Vater, hat Er ausgegossen dies, das ihr sehet und höret. Denn David ift nicht gen Himmel gefahren. Er spricht aber: „Der HErr hat gesagt zu meinem HErrn: Setze Dich zu Meiner Rechten, bis daß ich Deine Feinde lege zum Schemel Deiner Füße.“ So wisse nun das ganze Haus Israel gewiß, daß Gott diesen Jesum, Den ihr gekreuziget habt, zu einem HErrn und Chrift gemacht hat. Da sie aber das höreten, ging's ihnen durchs Herz, und sprachen zu Petrus und zu den andern Aposteln: Jhr Männer, lieben Brüder, was sollen wir tun? Petrus sprach zu ihnen: Tut Buße, und laffe sich ein Jeglicher taufen auf den Namen Jefu Chrifti zur Vergebung der Sünden, so werdet ihr empfaben die Gabe des Heiligen Geifts. Denn euer und euer Kinder ift diese Verheißung, und Aller, die ferne sind, welche Gott, unser HErr, herzurufen wird. Auch mit viel andern Worten bezeugte er, und ermahnte und sprach: Lasset euch erretten aus diesem verkehrten Geschlecht. Die nun sein Wort gerne annahmen, ließen sich taufen; und wurden hinzugetan an dem Tage bei dreitausend Seelen."
+            },
+            {
+              "typ": "lied",
+              "titel": "Sie ift mir lieb",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Sie trägt von Gold so rein ein Kron,",
+                    "Da leuchten in zwölf Sterne;",
+                    "Jhr Kleid ift wie die Sonne schön,",
+                    "Das glänzet hell und ferne.",
+                    "Und auf dem Mon(d)",
+                    "Jhr Füße ftahn —",
+                    "Sie ift die Braut,",
+                    "Dem HErrn vertraut,",
+                    "Jhr ift weh und muß gebären",
+                    "Ein schönes Kind, den edlen Sohn",
+                    "Und aller Welt ein HErren,",
+                    "Dem sie ift untertan."
+                  ],
+                  "rechts": [
+                    "Das tut dem alten Drachen Zorn,",
+                    "Und will das Kind verschlingen;",
+                    "Sein Toben ift doch ganz verlorn,",
+                    "Es kann ihm nicht gelingen:",
+                    "Das Kind ift doch",
+                    "Gen Himmel hoch",
+                    "Genommen hin",
+                    "Und lässet ihn",
+                    "Auf Erden fast sehr wüten.",
+                    "Die Mutter muß gar sein allein,",
+                    "Doch will sie Gott behüten,",
+                    "Und der recht Vater sein."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Der Tröster, der Heilige Geift, Den der Vater senden wird in Meinem Namen,",
+                "Derselbe wird euch alles lehren und euch erinnern alles, das Jch euch gesagt habe. Hallelujah!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quatember_sonnabend",
+      "titel": "Quatember-Sonnabend nach Pfingsten",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "psalm",
+              "nummern": [6, 32, 38]
+            },
+            {
+              "typ": "lied",
+              "titel": "Wach auf, Du Geift der erften Zeugen",
+              "melodie": "36",
+              "strophen": [
+                {
+                  "links": [
+                    "Wach auf, Du Geift der erften Zeugen,",
+                    "Die auf der Maur als treue Wächter ftehn,",
+                    "Die Tag und Nächte nimmer schweigen",
+                    "Und die getroft dem Feind entgegengehn,",
+                    "Ja Deren Schall die ganze Welt durchdringt",
+                    "Und aller Völker Scharen zu Dir bringt."
+                  ],
+                  "rechts": [
+                    "So gib Dein Wort mit großen Scharen,",
+                    "Die in der Kraft Evangeliften sein;",
+                    "Laß eilend Hilf uns widerfahren,",
+                    "Und brich in Satans Reich mit Macht hinein.",
+                    "O breite, HErr, auf weitem Erdenkreis",
+                    "Dein Reich bald aus zu Deines Namens Preis."
+                  ]
+                },
+                {
+                  "links": [
+                    "O daß Dein Feuer doch bald brennte,",
+                    "O möcht es doch in alle Lande gehn!",
+                    "Ach HErr, gib doch in Deine Ernte",
+                    "Viel Knechte, die in treuer Arbeit ftehn!",
+                    "O HErr der Ernt, ach siehe doch darein:",
+                    "Die Ernt ift groß, da wenig Knechte sein."
+                  ],
+                  "rechts": [
+                    "Ach daß die Hilf aus Zion käme! [fpricht,",
+                    "O daß Dein Geift so, wie Dein Wort ver-",
+                    "Dein Volk aus dem Gefängnis nähme!",
+                    "O würd es doch nur bald vor Abend Licht!",
+                    "Ach reiß, HErr, den Himmel bald entzwei,",
+                    "Und komm herab zur Hilf, und mach uns frei."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Apostelgeschichte 28, 23—29",
+              "text": "Und da sie ihm einen Tag beftimmt hatten, kamen Viele zu ihm in die Herberge, welchen er auslegte und bezeugte das Reich Gottes, und predigte ihnen von Jefu aus dem Gesetze des Mofes und aus den Propheten von früh morgens an bis an den Abend. Und Etliche fielen dem zu, das er sagte; Etliche aber glaubten nicht. Da sie aber untereinander mißhellig waren, gingen sie weg, als Paulus Ein Wort redete: Wohl hat der Heilige Geift gesagt durch den Propheten Jesaias zu unsern Vätern, und gesprochen: „Gehe hin zu diesem Volk, und sprich: Mit den Ohren werdet ihr's hören, und nicht verftehen, und mit den Augen werdet ihr's sehen, und nicht erkennen. Denn das Herz dieses Volks ift verftockt, und sie hören schwer mit den Ohren, und schlummern mit ihren Augen, auf daß sie nicht dermaleins sehen mit den Augen, und hören mit den Ohren, und verftändig werden im Herzen, und sich bekehren, daß Jch ihnen hülfe.“ So sei es euch kundgetan, daß den Heiden gesandt ift dies Heil Gottes; und sie werden's hören. Und da er solches redete, gingen die Juden hin, und hatten viel Fragens unter ihnen selbft."
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Die Liebe Gottes ift ausgegossen in unser Herz",
+                "Durch den Heiligen Geift, Welcher uns gegeben ift."
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "O HErr, wir bitten Dich: gieße gnädig in unsre Herzen den Heiligen Geift, Dessen Weisheit uns geschaffen hat, und Dessen Vorsehung uns leitet; durch . . .",
+              "amen": false
+            }
+          ]
+        },
+        {
+          "id": "mittagsgebet",
+          "titel": "Mittagsgebet",
+          "elemente": [
+            {
+              "typ": "lied",
+              "titel": "Wach auf, Du Geift",
+              "melodie": null,
+              "strophen": [
+                {
+                  "links": [
+                    "Ach laß Dein Wort recht schnelle laufen;",
+                    "Es sei kein Ort ohn dessen Glanz und Schein.",
+                    "Ach führe bald dadurch mit Haufen",
+                    "Der Heiden Füll in alle Thore ein.",
+                    "Ja wecke doch auch Israel bald auf:",
+                    "Und also segne Deines Wortes Lauf."
+                  ],
+                  "rechts": [
+                    "O befre Zions wüfte Stege;",
+                    "Und was Dein Wort im Laufe hindern kann,",
+                    "Das räum, ach räum aus jedem Wege,",
+                    "Vertilg, o HErr, den falschen Glaubenswahn,",
+                    "Und mach uns bald von jedem Mietling frei,",
+                    "Daß Kirch und Schul ein Garten Gottes sei."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [51]
+            },
+            {
+              "typ": "lesung",
+              "ref": "Jesaja 66, 10—15",
+              "text": "Freuet euch mit Jerusalem, und seid fröhlich über sie, Alle, die ihr sie lieb habet. Freuet euch mit ihr, Alle, die ihr über sie traurig gewesen seid. Denn dafür sollt ihr säugen, und satt werden von den Brüften ihres Troftes; ihr sollt dafür säugen, und euch ergetzen von der Fülle ihrer Herrlichkeit. Denn also spricht der HErr: Siehe, ich breite aus den Frieden bei ihr wie einen Strom, und die Herrlichkeit der Heiden wie einen ergosznen Bach; da werdet ihr säugen. Jhr sollet auf dem Arme getragen werden, und auf den Knieen wird man euch freundlich halten. Jch will euch tröften, wie Einen seine Mutter tröftet; ja, ihr sollet an Jerusalem ergetzen werden. Jhr werdet's sehen, und euer Herz wird sich freuen, und euer Gebein soll grünen wie Gras. Da wird man erkennen die Hand des HErrn an Seinen Knechten und den Zorn an Seinen Feinden. Denn siehe: der HErr wird kommen mit Feuer, und Seine Wagen wie ein Wetter, daß Er vergelte im Grimm Seines Zorns und mit Scheiten in Feuerflammen."
+            },
+            {
+              "typ": "rubrik",
+              "text": "Die Litanei."
+            }
+          ]
+        },
+        {
+          "id": "abendgebet",
+          "titel": "Abendgebet",
+          "elemente": [
+            {
+              "typ": "rubrik",
+              "text": "Die Litanei."
+            },
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Lob und ewiger Preis sei Dir, heilige Dreifaltigkeit, ungeteilte Einigkeit,",
+                "Jetzt und immerdar und von Ewigkeit zu Ewigkeit."
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [102, 130, 143]
+            },
+            {
+              "typ": "lesung",
+              "ref": "1. Brief S. Johannis 4, 7 und 8",
+              "text": "Jhr Lieben, lasset uns untereinander lieb haben; denn die Liebe ift von Gott, und wer lieb hat, der ift von Gott geboren, und kennet Gott. Wer nicht lieb hat, der kennet Gott nicht; denn Gott ift die Liebe."
+            },
+            {
+              "typ": "lied",
+              "titel": "Allein Gott in der Höh sei Ehr",
+              "melodie": "7",
+              "strophen": [
+                {
+                  "links": [
+                    "Allein Gott in der Höh sei Ehr",
+                    "Und Dank für Seine Gnade,",
+                    "Darum daß nun und nimmermehr",
+                    "Uns rühren kann kein Schade;",
+                    "Ein Wohlgefalln Gott an uns hat:",
+                    "Nun ift groß Fried ohn Unterlaß,",
+                    "All Fehd hat nun ein Ende."
+                  ],
+                  "rechts": [
+                    "O Jesu Chrift, Sohn Eingeborn",
+                    "Deines himmlischen Vaters,",
+                    "Verföhner Der die warn verlorn,",
+                    "Du Stiller unsers Haders,",
+                    "Lamm Gottes, heilger HErr und Gott,",
+                    "Nimm an die Bitt von unsrer Not:",
+                    "Erbarm Dich unser Aller."
+                  ]
+                },
+                {
+                  "links": [
+                    "Wir loben preifn anbeten Dich",
+                    "Für Deine Ehr; wir danken,",
+                    "Daß Du, Gott Vater, ewiglich",
+                    "Regierfst ohn alles Wanken.",
+                    "Ganz unermeffn ift Deine Macht,",
+                    "Fort gschieht, was Dein Will hat bedacht:",
+                    "Wohl uns des feinen HErren!"
+                  ],
+                  "rechts": [
+                    "O Heilger Geift, Du höchftes Gut,",
+                    "Du allerheilfamft Tröfter,",
+                    "Vors Teufels Gwalt fortan behüt,",
+                    "Die Jefus Chrift erlöfet",
+                    "Durch große Martr und bittern Tod;",
+                    "Abwend all unsern Jammr und Not;",
+                    "Dazu wir uns verlassen."
+                  ]
+                }
+              ]
+            },
+            {
+              "typ": "spruch",
+              "zeilen": [
+                "Lasset uns preisen den Vater und den Sohn und den Heilgen Geift,",
+                "Und loben Jhn und erheben in Ewigkeit."
+              ]
+            },
+            {
+              "typ": "leitwort_lobgesang",
+              "zeilen": [
+                "Dank sei Dir, o Gott, Dank sei Dir, Du wahre und einige Dreifaltigkeit, einige und höchfte Gottheit, heilige und einige Einheit!"
+              ]
+            },
+            {
+              "typ": "gebet",
+              "text": "Allmächtiger, ewiger Gott, Du haft uns gelehrt, im Glauben zu wissen und zu bekennen, daß Du in drei Personen gleicher Macht und Ehren ein Einiger ewiger Gott und dafür anzubeten bift: wir bitten Dich, Du wolleft uns bei solchem Bekenntnis Deiner Kirche allzeit feft erhalten wider alles was uns dagegen anfechten mag; Der Du lebeft und regierfest, Vater, Sohn und Heiliger Geift, hochgelobt in Ewigkeit.",
+              "amen": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sonntag_trinitatis",
+      "titel": "Sonntag nach Pfingsten",
+      "untertitel": "Fest der Heiligen Dreifaltigkeit",
+      "tageszeiten": [
+        {
+          "id": "morgengebet",
+          "titel": "Morgengebet",
+          "elemente": [
+            {
+              "typ": "einladung",
+              "zeilen": [
+                "Den wahren Gott, Der da Eins ift in Dreien und Drei in Einem —",
+                "Kommt, lasset uns anbeten!"
+              ]
+            },
+            {
+              "typ": "leitwort",
+              "zeilen": [
+                "Lob und Preis sei Gott: dem Vater, und dem Sohne,",
+                "Und dem Heiligen Geiste."
+              ]
+            },
+            {
+              "typ": "psalm",
+              "nummern": [8, 1]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
