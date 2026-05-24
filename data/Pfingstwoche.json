@@ -1,0 +1,403 @@
+{
+  "id": "8_pfingstwoche",
+  "titel": "Die Pfingstwoche",
+  "kirchenzeit": "pfingsten",
+  "reihe": 7,
+  "band": 2,
+  "tage": [
+    {
+      "id": "pfingstfest_sonntag",
+      "titel": "Das hohe Pfingstfest",
+      "wochentag": "Sonntag",
+      "seiten": [284, 287],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Hallelujah! Der Geist des HErrn erfüllet den Erdkreis;",
+              "Kommt, lasset uns anbeten. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es geschah schnell ein Brausen vom Himmel,",
+              "Als eines gewaltigen Windes. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["68", "148"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heiliger Geist, HErre Gott",
+            "melodie": "89",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, Heiliger Geist, HErre Gott,",
+                  "Erfüll mit Deiner Gnaden Gut",
+                  "Deiner Gläubgen Herz Mut und Sinn,",
+                  "Dein brünstig Lieb entzünd in ihn'n;",
+                  "HErr, durch Deines Lichtes Glast",
+                  "Zu dem Glauben versammelt hast",
+                  "Das Volk aus aller Welt Zungen:",
+                  "Das sei Dir, HErr, zu Lob gesungen.",
+                  "Hallelujah, Hallelujah!"
+                ],
+                "rechts": [
+                  "Du heiliges Licht, edler Hort,",
+                  "Laß uns leuchten des Lebens Wort,",
+                  "Und lehr uns Gott recht erkennen;",
+                  "Von Herzen Vater Jhn nennen;",
+                  "HErr, behüt vor fremder Lehr,",
+                  "Daß wir nicht Meister suchen mehr",
+                  "Denn Jesum, mit rechtem Glauben,",
+                  "Und Jhm aus ganzer Macht vertrauen.",
+                  "Hallelujah, Hallelujah!"
+                ]
+              },
+              {
+                "links": [
+                  "Du heilige Brunst, süßer Trost,",
+                  "Nun hilf uns, fröhlich und getrost",
+                  "In Dein'm Dienst beständig bleiben,",
+                  "Die Trübsal uns nicht abtreiben;",
+                  "HErr, durch Dein Kraft uns bereit,",
+                  "Und stärk des Fleisches Blödigkeit,",
+                  "Daß wir hie ritterlich ringen,",
+                  "Durch Tod und Leben zu Dir dringen.",
+                  "Hallelujah, Hallelujah!"
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Und es erschienen ihnen Zungen, zerteilet, wie sie feurig waren, Hallelujah!",
+              "Und Er saß auf einem jeglichen unter ihnen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 2, 1—13.",
+            "text": "Und als der Tag der Pfingsten erfüllet war, waren sie alle einmütig beieinander. Und es geschah schnell ein Brausen vom Himmel wie eines gewaltigen Windes, und erfüllet das ganze Haus, da sie saßen. Und es erschienen ihnen Zungen, zerteilet, wie sie feurig waren, und Er saß auf einem jeglichen unter ihnen; und sie wurden alle voll des Heiligen Geistes, und fingen an, zu predigen mit andern Zungen, nach dem der Geist ihnen gab, auszusprechen. Es waren aber Juden zu Jerusalem wohnend, die waren gottesfürchtige Männer aus allerlei Volk, das unter dem Himmel ist. Da nun diese Stimme geschah, kam die Menge zusammen, und wurden bestürzt; denn es höret ein jeglicher, daß sie mit seiner eigenen Sprache redeten. Sie entsetzten sich aber alle, verwunderten sich und sprachen untereinander: Siehe, sind nicht diese alle, die da reden, aus Galiläa? Wie hören wir denn ein jeglicher seine Sprache, darinnen wir geboren sind? Parther und Meder und Elamiter, und die wir wohnen in Mesopotamien und in Judäa und Kapadozien, Pontus und Asien, Phrygien und Pamphylien, Aegypten und an den Enden der Lybien bei Kyrenen, und Ausländer von Rom, Juden und Judengenossen, Kreter und Araber: wir hören sie mit unsern Zungen die großen Taten Gottes reden. Sie entsetzten sich aber alle und wurden irre, und sprach einer zum andern: Was will das werden? Die Andern aber hatten ihren Spott, und sprachen: Sie sind voll süßen Weins."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "V",
+                "inhalt": "Der Heilige Geist, Der vom Vater ausgehet, Hallelujah!"
+              },
+              {
+                "art": "A",
+                "inhalt": "Der wird euch verklären. Hallelujah, Hallelujah! Er wird euch alles lehren, und erinnern alles des, das Ich euch gesagt habe. Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Luther",
+            "text": "Daß der Heilige Geist am Pfingsttage sichtbarlich und mit einem großen Rauschen herabgekommen ist, das ist darum geschehen, daß wir wissen, der Heilige Geist sei kein Traum noch Gedanke, sondern ein lebendiges, kräftiges Wesen, Das in den Herzen der Gläubigen wohnet und wirket. Und Er kommt im Brausen des Windes, anzuzeigen, daß das Evangelium ein Wort ist, das nicht in Winkeln bleiben, sondern durch die ganze Welt dringen soll; und in feurigen Zungen, anzuzeigen, daß Er die Herzen entzünden und mit göttlicher Liebe erfüllen will, auf daß sie mit Freuden und Mut das Wort Gottes bekennen und predigen."
+          },
+          {
+            "typ": "gebet",
+            "text": "Gott, Der Du die Herzen Deiner Gläubigen durch die Erleuchtung des Heiligen Geistes gelehret hast: gib uns in demselbigen Geiste zu schmecken, was recht ist, und Seines Trostes uns allezeit zu freuen; durch Jesum Christum, Deinen Sohn, unsern HErrn, Der mit Dir und dem Heiligen Geiste lebet und regieret, ein wahrer Gott, von Ewigkeit zu Ewigkeit. Amen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Hallelujah!",
+              "Der Tröster, der Heilige Geist, Welchen der Vater senden wird in Meinem Namen, Der wird euch alles lehren. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": ["48"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heiliger Geist, HErre Gott",
+            "strophen": []
+          },
+          {
+            "typ": "lesung",
+            "ref": "Joel 3, 1—2.",
+            "text": "Und nach diesem will Ich Meinen Geist ausgießen über alles Fleisch, und eure Söhne und Töchter sollen weissagen; eure Ueltesten sollen Träume haben, und eure Jünglinge sollen Gesichte sehen; auch will Ich zur selbigen Zeit beides: über Knechte und Mägde Meinen Geist ausgießen."
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, Gott, Himmlischer Vater, wir bitten Dich, gieße Deinen Heiligen Geist reichlich aus in unsre Herzen, daß Er uns im wahren Glauben stärke, in aller Trübsal tröste und wider alle Anfechtung schütze, bis wir durch Jhn die ewige Seligkeit erlangen; durch . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["104"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 14, 23—31.",
+            "text": "Jesus antwortete und sprach zu ihm: Wer Mich liebet, der wird Mein Wort halten; und Mein Vater wird ihn lieben, und wir werden zu ihm kommen, und Wohnung bei ihm machen. Wer Mich aber nicht liebet, der hält Meine Worte nicht. Und das Wort, das ihr höret, ist nicht Mein, sondern des Vaters, Der Mich gesandt hat. Solches hab Ich zu euch geredet, dieweil Ich bei euch gewesen bin. Aber der Tröster, der Heilige Geist, Welchen Mein Vater senden wird in Meinem Namen, Der wird euch alles lehren, und euch erinnern alles des, das Ich euch gesagt habe. Den Frieden lasse Ich euch, Meinen Frieden gebe Ich euch. Nicht gebe Ich euch, wie die Welt gibt. Euer Herz erschrecke nicht, und fürchte sich nicht. Ihr habt gehöret, daß Ich euch gesagt habe: Ich gehe hin, und komme wieder zu euch. Hättet ihr Mich lieb, so würdet ihr euch freuen, daß Ich gesagt habe: „Ich gehe zum Vater“; denn der Vater ist größer denn Ich. Und nun hab Ich's euch gesagt, ehe denn es geschieht, auf daß, wenn es nun geschehen wird, ihr glaubet. Ich werde hernach nicht viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an Mir. Aber auf daß die Welt erkenne, daß Ich den Vater liebe, und ich also tue, wie Mir der Vater geboten hat: Stehet auf, und lasset uns von hinnen gehen!"
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Gott Schöpfer, Heiliger Geist",
+            "melodie": "144",
+            "strophen": []
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Frieden lasse Ich euch, Meinen Frieden gebe Ich euch;",
+              "nicht wie die Welt gibt, gebe Ich euch. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "pfingstmontag",
+      "titel": "Pfingstmontag",
+      "wochentag": "Montag",
+      "seiten": [287, 289],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er hat sie gespeiset mit dem fettesten Weizen, Hallelujah!",
+              "Und mit Honig aus dem Felsen gesättiget. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["81"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun bitten wir den Heiligen Geist",
+            "melodie": "147",
+            "strophen": []
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "So Jemand Christus liebhat, der wird Sein Wort halten, Hallelujah!",
+              "Und der Vater wird ihn lieben, und sie werden Wohnung bei ihm machen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 10, 42—48.",
+            "text": "Und Er hat uns geboten, zu predigen dem Volk, und zu zeugen, daß Er ist verordnet von Gott ein Richter der Lebendigen und der Toten. Von Diesem zeugen alle Propheten, daß durch Seinen Namen alle, die an Jhn glauben, Vergebung der Sünden empfangen sollen. Da Petrus noch diese Worte redete, fiel der Heilige Geist auf Alle, die dem Wort zuhöreten. Und die Gläubigen aus den Juden, die mit Petrus kommen waren, entsetzten sich, daß auch auf die Heiden die Gabe des Heiligen Geistes ausgegossen ward. Denn sie höreten, daß sie mit Zungen redeten, und Gott hoch priesen. Da antwortete Petrus: Mag auch Jemand das Wasser wehren, daß Diese nicht getauft würden, die den Heiligen Geist empfangen haben, gleichwie auch wir? Und befahl, sie zu taufen in dem Namen des HErrn. Da baten sie ihn, daß er etliche Tage bei ihnen bliebe."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "V",
+                "inhalt": "Wie der Vater Mich gesandt hat, so sende Ich euch. Nehmet hin den Heiligen Geist! Welchen ihr die Sünden erlasset, denen sind sie erlassen. Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Der Heilige Geist ist der Geist der Wahrheit. Er lehrt uns Gott erkennen, wie Er Sich geoffenbart hat im Worte Seiner Wahrheit. Er lehrt uns Jesum erkennen als unsern HErrn und Heiland, Der uns erlöset hat von Sünden, Tod und Teufel. Er lehrt uns uns selbst erkennen in unsrer Sünde und Verlorenheit, auf daß wir Buße tun und Vergebung suchen im Blute Christi. Er leitet uns in alle Wahrheit, daß wir nicht verführt werden durch den Geist des Irrtums, der in der Welt regieret. Er ist das Licht unsres Lebens, Das uns den Weg zum Himmel zeiget."
+          },
+          {
+            "typ": "gebet",
+            "text": "Gott, Der Du Deinen Heiligen Geist den Aposteln gegeben hast: erhöre gnädig unser Gebet, und verleihe Deinem Volke, das Du zum Glauben berufen hast, den wahren Frieden, den die Welt nicht geben kann; durch . . ."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Also hat Gott die Welt geliebt, daß Er Seinen eingebornen Sohn gab, auf daß Alle, die an Jhn glauben, nicht verloren werden, sondern das ewige Leben haben. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": ["19"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun bitten wir den Heiligen Geist",
+            "strophen": []
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaja 44, 1—3.",
+            "text": "So höre nun, mein Knecht Jakob, und Israel, den Ich erwählt habe! So spricht der HErr, Der dich gemacht und gebildet hat, und Der dir hilft von Mutterleibe an: Fürchte dich nicht, Mein Knecht Jakob, und du, Frommer, den Ich erwählt habe! Denn Ich will Wasser gießen auf das Dürre, und Ströme auf das Trockene; Ich will Meinen Geist auf deinen Samen gießen, und Meinen Segen auf deine Nachkommen."
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, wir bitten Dich, laß das Feuer Deines Heiligen Geistes unsre Herzen entzünden, daß wir Dir in Heiligkeit und Gerechtigkeit dienen, die Dir gefällig ist; durch . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["84"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 3, 16—21.",
+            "text": "Also hat Gott die Welt geliebt, daß Er Seinen eingebornen Sohn gab, auf daß Alle, die an Jhn glauben, nicht verloren werden, sondern das ewige Leben haben. Denn Gott hat Seinen Sohn nicht gesandt in die Welt, daß Er die Welt richte, sondern daß die Welt durch Jhn selig werde. Wer an Jhn glaubet, der wird nicht gerichtet; wer aber nicht glaubet, der ist schon gerichtet, denn er glaubet nicht an den Namen des eingebornen Sohnes Gottes. Das ist aber das Gericht, daß das Licht in die Welt kommen ist, und die Menschen liebten die Finsternis mehr denn das Licht; denn ihre Werke waren böse. Wer Argheit tut, der hasset das Licht, und kommt nicht an das Licht, auf daß seine Werke nicht gestraft werden. Wer aber die Wahrheit tut, der kommt an das Licht, daß seine Werke offenbar werden; denn sie sind in Gott getan."
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott Lob, der Frühling bricht herfür",
+            "melodie": "143",
+            "strophen": []
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer die Wahrheit tut, der kommt an das Licht, daß seine Werke offenbar werden;",
+              "denn sie sind in Gott getan. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "pfingstsonnabend",
+      "titel": "Sonnabend in der Pfingstwoche",
+      "wochentag": "Sonnabend",
+      "seiten": [313, 315],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Weise mir, HErr, Deinen Weg, daß ich wandle in Deiner Wahrheit;",
+              "erhalte mein Herz bei dem einen, daß ich Deinen Namen fürchte. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["86"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott heilger Geist, hilf uns bereit",
+            "melodie": "2",
+            "strophen": []
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Der Geist des HErrn ist's, Der da lebendig macht, Hallelujah!",
+              "Das Fleisch ist nütze nichts. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 2, 37—41.",
+            "text": "Da sie aber das hörten, ging's ihnen durchs Herz, und sprachen zu Petro und zu den andern Aposteln: Ihr Männer, liebe Brüder, was sollen wir tun? Petrus sprach zu ihnen: Tut Buße, und lasse sich ein jeglicher taufen auf den Namen Jesu Christi zur Vergebung der Sünden, so werdet ihr empfangen die Gabe des Heiligen Geistes. Denn euer und eurer Kinder ist diese Verheißung, und Aller, die ferne sind, welche Gott, unser HErr, herzu rufen wird. Auch mit vielen andern Worten bezeugte er, und ermahnete sie, und sprach: Lasset euch erretten aus diesem verkehrten Geschlecht! Die nun sein Wort gern annahmen, ließen sich taufen; und wurden an dem Tage hinzugetan bei dreitausend Seelen."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "V",
+                "inhalt": "Ihr werdet die Kraft des Heiligen Geistes empfangen, Der auf euch kommen wird, Hallelujah! Und werdet Meine Zeugen sein. Hallelujah, Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Gerhard",
+            "text": "Die dreitausend Seelen, die am Pfingsttage gläubig wurden, sind der Erstling der christlichen Kirche. Sie blieben beständig in der Apostel Lehre und in der Gemeinschaft und im Brotbrechen und im Gebet. Daran erkennen wir die wahre Kirche, daß sie bei diesen vier Stücken verharret und sich nicht davon abwenden läßt."
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, gieße Deinen Heiligen Geist über Deine ganze Kirche aus, daß Er das Werk, das Er am Pfingsttage angefangen hat, an allen Orten vollende und die Gläubigen in einem Sinne erhalte; durch . . ."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Lasset uns preisen den Vater und den Sohn und den Heilgen Geist, und loben Jhn und erheben in Ewigkeit. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": ["119"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott heilger Geist",
+            "strophen": []
+          },
+          {
+            "typ": "lesung",
+            "ref": "5. Buch Mose 26, 1—11.",
+            "text": "Wenn du ins Land kommst, das dir der HErr, dein Gott, zum Erbe geben wird, und es einnimmst, und darin wohnest: so sollst du nehmen die Erstlinge aller Früchte der Erde, die du bringest aus deinem Lande, das dir der HErr, dein Gott, gibt, und sollst sie in einen Korb tun, und gehen an die Stätte, die der HErr, dein Gott, erwählen wird, daß Sein Name daselbst wohne. Und du sollst fröhlich sein über allem Guten, das dir der HErr, dein Gott, gegeben hat, und deinem Hause, du und der Levit, und der Fremdling, der bei dir ist."
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, Gott, wir bringen Dir Dank für alle Deine Wohltaten an Leib und Seele, und bitten Dich, laß uns die Erstlinge Deines Geistes recht gebrauchen zu Deiner Ehre; durch . . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lied",
+            "titel": "Jesu Christ, Sohn Eingeborn",
+            "melodie": "7",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu Christ, Sohn Eingeborn",
+                  "Deines himmlischen Vaters,",
+                  "Versöhner Der die warn verlorn,",
+                  "Du Stiller unsers Haders,",
+                  "Lamm Gottes, heilger HErr und Gott,",
+                  "Nimm an die Bitt von unsrer Not:",
+                  "Erbarm Dich unser Aller."
+                ],
+                "rechts": [
+                  "Heilger Geist, Du höchstes Gut,",
+                  "Du allerheilsamst Tröster,",
+                  "Vors Teufels Gwalt fortan behüt,",
+                  "Die Jesus Christ erlöset",
+                  "Durch große Martr und bittern Tod;",
+                  "Abwend all unsern Jammr und Not;",
+                  "Dazu wir uns verlassen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Lasset uns preisen den Vater und den Sohn und den Heilgen Geist,",
+              "Und loben Jhn und erheben in Ewigkeit."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Dank sei Dir, o Gott, Dank sei Dir, Du wahre und einige Dreifaltigkeit, einige und höchste Gottheit, heilige und einige Einheit!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger, ewiger Gott, Du hast uns gelehrt, im Glauben zu wissen und zu bekennen, daß Du in drei Personen gleicher Macht und Ehren ein Einiger ewiger Gott und dafür anzubeten bist: wir bitten Dich, Du wollest uns bei solchem Bekenntnis Deiner Kirche allzeit fest erhalten wider alles was uns dagegen anfechten mag; Der Du lebest und regierest, Vater, Sohn und Heiliger Geist, hochgelobt in Ewigkeit."
+          }
+        ]
+      }
+    }
+  ]
+}

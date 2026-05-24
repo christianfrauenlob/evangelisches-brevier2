@@ -1,0 +1,9 @@
+{ 
+      "id": "8_pfingstwoche", 
+      "titel": "Die Pfingstwoche", 
+      "datei": "8_pfingstwoche.json", 
+      "band": 2, 
+      "kirchenzeit": "pfingsten", 
+      "reihe": 7, 
+      "status": "fertig" 
+    }
