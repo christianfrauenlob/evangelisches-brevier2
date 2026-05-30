@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evangelisches Brevier</title>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --parchment: #f5f0e8; --ink: #1c1810; --rubric: #7a2020; --rule: #b8a882; --bg-page: #ede7d9; --nav-bg: #2c2318; --nav-text: #d4c9a8; }
+  body { background: var(--bg-page); font-family: 'EB Garamond', Georgia, serif; color: var(--ink); min-height: 100vh; }
+  #sidebar { position: fixed; top: 0; left: 0; width: 260px; height: 100vh; background: var(--nav-bg); padding: 1.5rem; overflow-y: auto; }
+  #main { margin-left: 260px; padding: 3rem; }
+  .codex { max-width: 660px; margin: 0 auto; background: var(--parchment); border: 1px solid var(--rule); padding: 3.5rem; }
+  .woche-kopf { cursor: pointer; color: #c8a96e; margin-bottom: 0.5rem; }
+  .woche-tage { display: none; }
+  .woche-tage.open { display: block; }
+</style>
+</head>
+<body>
+<nav id="sidebar"><div id="nav-content">Lade Verzeichnis...</div></nav>
+<main id="main"><div id="content"></div></main>
+
+<script>
+  // ABSOLUTE BASIS-PFAD-LOGIK
+  // Wir suchen das Verzeichnis, in dem DIESE index.html liegt.
+  const pathParts = window.location.pathname.split('/');
+  pathParts.pop(); // Dateiname entfernen
+  const BASE_URL = window.location.origin + pathParts.join('/') + '/';
+
+  async function loadIndex() {
+    try {
+      const r = await fetch(BASE_URL + 'index.json');
+      const idx = await r.json();
+      let html = '';
+      idx.wochen.forEach(w => {
+        html += `<div><div class="woche-kopf" onclick="toggleWoche('${w.id}')">${w.titel}</div>
+                 <div class="woche-tage" id="tage-${w.id}">...</div></div>`;
+        prefillNav(w);
+      });
+      document.getElementById('nav-content').innerHTML = html;
+    } catch(e) { console.error("Index Fehler:", e); }
+  }
+
+  async function prefillNav(w) {
+    try {
+      // Wir bauen den Pfad explizit ohne "data/data/" Risiko:
+      const url = BASE_URL + 'data/' + w.pfad + w.datei;
+      const r = await fetch(url);
+      if(!r.ok) throw new Error("404 bei " + url);
+      const d = await r.json();
+      document.getElementById('tage-'+w.id).innerHTML = d.tage.map(t => 
+        `<button onclick="renderTagFromCache('${w.id}', '${t.id}')">${t.titel}</button>`).join('');
+      window._cache = window._cache || {};
+      window._cache[w.id] = d;
+    } catch(e) { console.error("Fehler bei " + w.datei + ":", e); }
+  }
+
+  function renderTagFromCache(wId, tId) {
+    const tag = window._cache[wId].tage.find(t => t.id === tId);
+    document.getElementById('content').innerHTML = `<div class="codex"><h1>${tag.titel}</h1></div>`;
+  }
+
+  function toggleWoche(id) { document.getElementById('tage-'+id).classList.toggle('open'); }
+  loadIndex();
+</script>
+</body>
+</html>
