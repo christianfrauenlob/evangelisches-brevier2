@@ -1,0 +1,1467 @@
+{
+  "id": "advent_1",
+  "titel": "Die erste Adventswoche",
+  "kirchenzeit": "advent",
+  "reihe": 1,
+  "seiten": [
+    108,
+    135
+  ],
+  "status": "fertig",
+  "tage": [
+    {
+      "id": "advent_1_so",
+      "titel": "Der erste Sonntag im Advent",
+      "wochentag": "Sonntag",
+      "seiten": [
+        108,
+        113
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König, Der da kommt, den HErrn,",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: des HErrn Name kommt von ferne,",
+              "Und Seine Klarheit erfüllet den Erdkreis."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              24,
+              100
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie soll ich Dich empfangen",
+            "melodie": "164",
+            "strophen": [
+              {
+                "links": [
+                  "Wie soll ich Dich empfangen",
+                  "Und wie begegn ich Dir,",
+                  "O aller Welt Verlangen,",
+                  "O meiner Seelen Zier?",
+                  "O Jesu, Jesu, setze",
+                  "Mir Selbst die Fackel bei,",
+                  "Damit was Dich ergötze",
+                  "Mir kund und wissend sei."
+                ],
+                "rechts": [
+                  "Was hast Du unterlassen",
+                  "Zu meinem Trost und Freud,",
+                  "Als Leib und Seele saßen",
+                  "In ihrem größten Leid?",
+                  "Als mir das Reich genommen,",
+                  "Da Fried und Freude lacht:",
+                  "Da bist Du mein Heil kommen",
+                  "Und hast mich froh gemacht."
+                ]
+              },
+              {
+                "links": [
+                  "Dein Zion streut Dir Palmen",
+                  "Und grüne Zweige hin;",
+                  "Und ich will Dir in Psalmen",
+                  "Ermuntern meinen Sinn:",
+                  "Mein Herze soll Dir grünen",
+                  "In stetem Lob und Preis",
+                  "Und Deinem Namen dienen,",
+                  "So gut es kann und weiß."
+                ],
+                "rechts": [
+                  "Ich lag in schweren Banden:",
+                  "Du kommst und machst mich los;",
+                  "Ich stund in Spott und Schanden:",
+                  "Du kommst und machst mich groß,",
+                  "Und hebst mich hoch zu Ehren,",
+                  "Und schenkst mir großes Gut,",
+                  "Das sich nicht läßt verzehren",
+                  "Wie irdisch Reichtum tut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Machet die Thore weit, und die Thüren in der Welt hoch, Hallelujah!",
+              "Daß der König der Ehren einziehe. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Matthäi 21, 1–9.",
+            "text": "Da sie nun nahe an Jerusalem kamen, gen Bethphage, an den Oelberg, sandte Jesus Seiner Jünger zween, und sprach zu ihnen: Gehet hin in den Flecken, der vor euch liegt; und alsbald werdet ihr eine Eselin finden angebunden und ein Füllen bei ihr; löset sie auf, und führet sie zu Mir. Und so euch Jemand etwas wird sagen, so sprechet: Der HErr bedarf ihrer; so bald wird er sie euch lassen. Das geschah aber alles, auf daß erfüllet würde das gesagt ist durch den Propheten, der da spricht: Saget der Tochter Zion: Siehe, dein König kommt zu dir sanftmütig, und reitet auf einem Esel und auf einem Füllen der lastbaren Eselin. Die Jünger gingen hin, und taten, wie ihnen Jesus befohlen hatte; und brachten die Eselin und das Füllen, und legten ihre Kleider drauf, und setzten Ihn drauf. Aber viel Volks breitete die Kleider auf den Weg; die Andern hieben Zweige von den Bäumen, und streueten sie auf den Weg. Das Volk aber, das vorging und nachfolgte, schrie und sprach: Hosianna dem Sohn Davids! Gelobet sei Der da kommt in dem Namen des HErrn! Hosianna in der Höhe!"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "In weite Fernen schau ich aus: Da sehe ich Gott in Seiner Macht kommen, und eine Wolke sich breiten über alles Land."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Gehet Ihm entgegen und sprecht: Sag uns an, ob Du es bist, Der da herrschen soll im Volke Israel!"
+                ]
+              },
+              {
+                "art": "text",
+                "inhalt": "Ihr Erdgeborenen alle, ihr Menschenkinder insgemein, Reiche wie Arme,"
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Gehet Ihm entgegen und sprecht:"
+                ]
+              },
+              {
+                "art": "text",
+                "inhalt": "Du Hirte Israels höre! Der Du Josephs hütest wie der Schafe,"
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Sage uns, ob Du es bist."
+                ]
+              },
+              {
+                "art": "text",
+                "inhalt": "Machet die Thore weit, und die Thüren in der Welt hoch, daß der König der Ehren einziehe."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Der da herrschen soll im Volke Israel.",
+                  "Ehre sei dem Vater, und dem Sohne, und dem Heiligen Geiste."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "M. Luther",
+            "text": "Er heißt Justus et Salvator: nicht ein reicher prächtiger herrlicher König vor der Welt, sondern ein Gerechter und ein Heiland, der Gerechtigkeit und Seligkeit mitbringen und Sünde und Tod angreifen und ein Sündenfeind und Todesfeind sein soll, der allen Denen von Sünden und Tod helfen will, die an Ihn glauben und Ihn als ihren König aufnehmen. Die solches tun, denen soll die Sünden vergeben sein und der Tod nicht schaden, sondern sollen das ewige Leben haben. Und ob sie schon leiblich einmal sterben und begraben werden, so soll es doch nicht ein Tod sein noch heißen, sondern nur ein Schlaf."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Das Volk der Hebräer, das vorging und nachfolgte, streute die Zweige der Oelbäume, schrie und sprach: Hosianna in der Höhe!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Erwecke uns, o HErr Gott, mit der Zukunft Deiner Gnaden; und wie Du uns gnädiglich unsere Sünden verzeihest, also bewahre und stärke uns vor aller Gefährlichkeit der zukünftigen Sünden, auf daß wir Dir mit reinem Gewissen dienen und unsern HErrn Jesum Christum, wenn Er in Seiner Herrlichkeit kommen wird, fröhlich empfangen mögen; Der mit Dir lebet und regieret, in Einigkeit des Heiligen Geistes, wahrer Gott, immer und ewiglich.",
+            "amen": "Amen."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wie soll ich Dich empfangen",
+            "melodie": "164",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nichts, nichts hat Dich getrieben",
+                  "Zu mir vom Himmelszelt",
+                  "Als das geliebte Lieben,",
+                  "Damit Du alle Welt",
+                  "In ihren tausend Plagen",
+                  "Und großen Jammerlast,",
+                  "Die kein Mund kann aussagen,",
+                  "So fest umfangen hast."
+                ],
+                "rechts": [
+                  "Das schreib dir in dein Herze,",
+                  "Du hochbetrübtes Heer,",
+                  "Bei denen Gram und Schmerze",
+                  "Sich häuft je mehr und mehr:",
+                  "Seid unverzagt! ihr habet",
+                  "Die Hilfe vor der Thür;",
+                  "Der euer Herzen labet",
+                  "Und tröstet steht allhier."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Hosianna dem Sohne Davids, Hallelujah!",
+              "Gelobet sei, Der da kommt im Namen des HErrn. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du, Tochter Zion, freue dich sehr;",
+              "Und du, Tochter Jerusalem, jauchze!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              119
+            ],
+            "zusatz": "1–32"
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jeremia 31, 31–34.",
+            "text": "Siehe, es kommt die Zeit, spricht der HErr, da will Ich mit dem Hause Israel und mit dem Hause Juda einen neuen Bund machen. Nicht wie der Bund gewesen ist, den Ich mit ihren Vätern machte, da Ich sie bei der Hand nahm, daß Ich sie aus Aegyptenland führete; welchen Bund sie nicht gehalten haben, spricht der HErr; sondern das soll der Bund sein, den Ich mit dem Hause Israel machen will nach dieser Zeit: Ich will mein Gesetz in ihr Herz geben, und in ihren Sinn schreiben; und sie sollen Mein Volk sein, so will Ich ihr Gott sein. Und wird keiner den andern lehren und sagen: Erkenne den HErrn, sondern sie sollen Mich Alle kennen: Klein und Groß, spricht der HErr. Denn Ich will ihnen ihre Missetat vergeben, und ihrer Sünde nimmermehr gedenken."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Komm uns zu erlösen, o HErr, Gott der Herrlichkeit;",
+                  "Laß leuchten Dein Antlitz, so werden wir genesen."
+                ]
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Es werden die Heiden fürchten den Namen des HErrn,",
+                  "Und alle Könige auf Erden Seine Ehre."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, HErr, erwecke Deine göttliche Kraft, und komm, auf daß wir von aller vorstehenden Fährlichkeit unserer Sünden durch Deine Beschirmung mögen errettet und durch Deine Erlösung selig werden; Der Du mit dem Vater in Einigkeit des Heiligen Geistes lebest und regierest, Gott von Ewigkeit zu Ewigkeit.",
+            "amen": "Amen."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Träufelt, ihr Himmel von oben, und die Wolken regnen Gerechtigkeit.",
+              "Die Erde tue sich auf und bringe Heil."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              110,
+              111
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief S. Pauli an die Römer 13, 11–14.",
+            "text": "Und weil wir solches wissen, nämlich die Zeit, daß die Stunde da ist, aufzustehen vom Schlaf; sintemal unser Heil jetzt näher ist, denn da wir gläubig wurden; die Nacht ist vorgerückt, der Tag aber nahe herbeikommen: so lasset uns ablegen die Werke der Finsternis, und anlegen die Waffen des Lichtes. Lasset uns ehrbarlich wandeln als am Tage: nicht in Fressen und Saufen, nicht in Kammern und Unzucht, nicht in Hader und Neid; sondern ziehet an den HErrn Jesum Christ, und wartet des Leibes, doch also, daß er nicht geil werde."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Des Heilands warten wir, des HErrn Jesu Christi, Welcher unsern nichtigen Leib verklären wird, daß er ähnlich werde Seinem verklärten Leibe."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Welcher unsern . . . Leibe.",
+                  "Ehre sei . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie soll ich Dich empfangen",
+            "melodie": "164",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ihr dürft euch nicht bemühen,",
+                  "Noch sorgen Tag und Nacht,",
+                  "Wie ihr Ihn wollet ziehen",
+                  "Mit eures Armes Macht:",
+                  "Er kommt, Er kommt mit Willen,",
+                  "Ist voller Lieb und Lust,",
+                  "All Angst und Not zu stillen,",
+                  "Die Ihm an euch bewußt."
+                ],
+                "rechts": [
+                  "Was fragt ihr nach dem Schreien",
+                  "Der Feind und ihrer Tück?",
+                  "Der HErr wird sie zerstreuen",
+                  "In einem Augenblick.",
+                  "Er kommt, Er kommt ein König,",
+                  "Dem wahrlich alle Feind",
+                  "Auf Erden viel zu wenig",
+                  "Zum Widerstande seind."
+                ]
+              },
+              {
+                "links": [
+                  "Auch dürft ihr nicht erschrecken",
+                  "Vor eurer Sündenschuld;",
+                  "Nein: Jesus will sie decken",
+                  "Mit Seiner Lieb und Huld.",
+                  "Er kommt, Er kommt: den Sündern",
+                  "Zu Trost und wahrem Heil,",
+                  "Schafft, daß bei Gottes Kindern",
+                  "Verbleib ihr Erb und Teil."
+                ],
+                "rechts": [
+                  "Er kommt zum Weltgerichte:",
+                  "Zum Fluch dem, der Ihm flucht;",
+                  "Mit Gnad und süßem Lichte dem,",
+                  "Der Ihn liebt und sucht.",
+                  "Ach komm, ach komm, o Sonne,",
+                  "Und hol uns allzumal",
+                  "Zum ewgen Licht und Wonne",
+                  "In Deinen Freudensaal."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Siehe: Dein König kommt zu Dir, Hallelujah!",
+              "Ein Gerechter und ein Helfer. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Heilige Geist wird über dich kommen;",
+              "Und die Kraft des Höchsten wird dich überschatten. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger und barmherziger Gott! Wir danken Dir von ganzem Herzen, daß Du uns noch ein Jahr der Gnade schenkst. Du willst uns nicht verderben, sondern uns noch ein Jahr stehen lassen, daß wir Frucht bringen. O habe Geduld mit uns, und werde nicht müde über unsere Sünde und Unart. Zieh uns in Deine Wahrheit und Gerechtigkeit! Erbarme Dich über unser Volk! Sei Deiner evangelischen Kirche gnädig; erwecke die Christenheit zu neuem Leben! Laß treue Zeugen aufstehen, die Dir von Herzen dienen und ihr Volk innerlich anfassen. Ja, laß das neue Kirchenjahr ein Jahr des Heils und des Segens werden.",
+            "amen": "Amen."
+          },
+          {
+            "typ": "trennlinie"
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Vesper-Hymnus in der Adventszeit",
+            "untertitel": "Conditor alme siderum",
+            "absätze": [
+              "Conditor alme siderum, / Aeterna lux credentium, / Christe, redemptor omnium, / Exaudi preces supplicum. || Schöpfer allgütger der Gestirn, / Du ewges Licht der Gläubigen, / Christe, Erlöser aller Welt, / Erhör das Flehn der Bittenden!",
+              "Vergente mundi vespere, / Uti sponsus de thalamo, / Egressus honestissima / Virginis matris clausula. || Als für die Erd der Abend naht, / Schrittst Du, gleich einem Bräutigam / Aus Deiner Mutter reinem Thor / Wie aus dem Brautgemach heraus.",
+              "Te deprecamur, hagie, / Venture judex saeculi: / Hostis a telo perfidi. / Conserva nos in tempore. || Dich flehn wir an, o Heiliger, / Zukünftger Richter dieser Welt: / Bewahre uns zur rechten Zeit / Vor dem Geschoß des bösen Feinds.",
+              "Laus honor virtus gloria / Deo Patri et Filio, / Sancto simul Paraclito, / In saeculorum saecula. Amen. || Lob Ehre Kraft und Herrlichkeit / Sei Gott dem Vater und dem Sohn, / Mitsammt dem lieben Heilgen Geist, / Jetzt und in alle Ewigkeit. Amen."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_mo",
+      "titel": "Montag nach dem 1. Advent",
+      "wochentag": "Montag",
+      "seiten": [
+        114,
+        119
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Aus Zion bricht an der schöne Glanz Gottes;",
+              "Unser Gott kommt und schweiget nicht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              14
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf, auf, ihr Reichsgenossen",
+            "melodie": "A.M. 17",
+            "strophen": [
+              {
+                "links": [
+                  "Auf auf, ihr Reichsgenossen,",
+                  "Eur König kommt heran:",
+                  "Empfahet unverdrossen",
+                  "Den großen Wundermann;",
+                  "Ihr Christen, geht herfür,",
+                  "Laßt uns vor allen Dingen",
+                  "Ihm Hosianna singen",
+                  "Mit heiliger Begier."
+                ],
+                "rechts": [
+                  "Auf auf, ihr Vielgeplagte,",
+                  "Der König ist nicht fern;",
+                  "Seid fröhlich, ihr Verzagte:",
+                  "Dort kommt der Morgenstern.",
+                  "Der HErr will in der Not",
+                  "Mit reichem Trost euch speisen,",
+                  "Er will euch Hilf erweisen,",
+                  "Ja, dämpfen gar den Tod."
+                ]
+              },
+              {
+                "links": [
+                  "Auf, ihr betrübten Herzen,",
+                  "Der König ist gar nah;",
+                  "Hinweg all Angst und Schmerzen,",
+                  "Der Helfer ist schon da.",
+                  "Seht: wie so mancher Ort",
+                  "Hochtröstlich ist zu nennen,",
+                  "Da wir Ihn finden können",
+                  "Im Nachtmahl Tauf und Wort."
+                ],
+                "rechts": [
+                  "Seid fromm, ihr Untertanen,",
+                  "Der König ist gerecht;",
+                  "Laßt uns die Weg ihm bahnen",
+                  "Und machen alles schlecht (= schlicht).",
+                  "Fürwahr: Er meint es gut;",
+                  "Drum lasset uns die Plagen,",
+                  "Die Er uns schickt, ertragen",
+                  "Mit unerschrocnem Mut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Bereitet den Weg dem HErrn, Hallelujah!",
+              "Machet Seine Steige richtig. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 1, 5–17.",
+            "text": "Zu der Zeit Herodes, des Königs in Judäa, war ein Priester von der Ordnung Abias, mit Namen Zacharias, und sein Weib von den Töchtern Aarons, welche hieß Elisabeth. Sie waren aber alle beide fromm vor Gott, und gingen in allen Geboten und Satzungen des HErrn untadelig. Und sie hatten kein Kind, denn Elisabeth war unfruchtbar, und waren beide wohl betaget. Und es begab sich, da er Priesteramts pflegte vor Gott zur Zeit seiner Ordnung, nach Gewohnheit des Priestertums, und an ihm war, daß er räuchern sollte, ging er in den Tempel des HErrn. Und die ganze Menge des Volks war draußen, und betete unter der Stunde des Räucherns. Es erschien ihm aber der Engel des HErrn, und stund zur rechten Hand am Räucheraltar. Und als Zacharias ihn sah, erschrak er, und es kam ihn eine Furcht an. Aber der Engel sprach zu ihm: Fürchte dich nicht, Zacharias, denn dein Gebet ist erhöret; und dein Weib Elisabeth wird dir einen Sohn gebären, des Namen sollst du Johannes heißen. Und du wirst des Freude und Wonne haben, und viele werden sich seiner Geburt freuen. Denn er wird groß sein vor dem HErrn; Wein und starke Getränke wird er nicht trinken; und wird noch in Mutterleibe erfüllet werden mit dem heiligen Geist. Und er wird der Kinder von Israel viel zu Gott ihrem HErrn bekehren. Und er wird vor Ihm her gehen im Geist und Kraft des Elias, zu bekehren die Herzen der Väter zu den Kindern und die Ungläubigen zu der Klugheit der Gerechten, zuzurichten dem HErrn ein bereitet Volk."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Jerusalem; bald kommt dein Heil; warum verzehrst du dich im Kummer? Ist dir kein Helfer zur Zeiten, weil der Schmerz dich bezwungen hat? Ich werde dein Heiland und dein Retter sein — fürchte dich nicht! Denn Ich bin der HErr, dein Gott, der Heilige in Israel, und dein Erlöser."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ich werde . . . fürchte dich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löbe",
+            "text": "Wir harren Seiner und freuen uns einstweilen in Hoffnung. Wir wissen, daß Er jetzt schon bei uns ist, und ohne Unterbrechung bei uns bleiben wird bis an unser Ende: es wird kein neues Kommen, aber eine neue Art des Kommens, eine zuvor nie gehabte Offenbarung Seiner gnädigen Nähe sein, wenn wir nun sterben werden. Wir wollen uns alle bereit halten und Hosianna dem sanftmütigen Könige singen, Der unsre Einsame heimsuchen wird und in Seine Stadt bringen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Erhebe, Jerusalem, Deine Augen, und sieh an die königliche Macht!",
+              "Siehe: Der Heiland kommt, Deine Bande zu lösen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, wir danken Dir von Herzen, daß Du uns armen Sündern zu Trost Deinen Sohn zum Messias verordnet und gesandt hast, daß Er als ein gerechter König und Heiland Sein Volk von Sünden erlösete und aus des Teufels Tyrannei und ewigem Tode errettete: Wir bitten Dich herzlich, Du wollest uns durch Deinen heiligen Geist also erleuchten regieren und führen, daß wir Ihn für unsern König und Heiland erkennen und uns allein an Ihn halten und in festem Vertrauen auf Ihn selig werden; durch Denselben . . .",
+            "amen": "Amen."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf, auf, ihr Reichsgenossen",
+            "melodie": "A.M. 17",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Frisch auf, ihr Hochbetrübten,",
+                  "Der König kommt mit Macht;",
+                  "An uns, Sein Herzgeliebten,",
+                  "Hat Er schon längst gedacht:",
+                  "Nun wird kein Angst noch Pein",
+                  "Noch Zorn hinfür uns schaden,",
+                  "Dieweil uns Gott aus Gnaden",
+                  "Läßt Seine Kinder sein."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Siehe: über eine kleine Weile wird kommen, Der da kommen soll;",
+              "Und wird nicht verziehen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              27
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Buch Mose 1, 26–2, 3.",
+            "text": "Und Gott sprach: Laßt Uns Menschen machen, ein Bild, das Uns gleich sei, die da herrschen über die Fische im Meer und über die Vögel unter dem Himmel und über das Vieh und über die ganze Erde und über alles Gewürm, das auf Erden kreucht. Und Gott schuf den Menschen Ihm zum Bilde, zum Bilde Gottes schuf Er ihn; und schuf sie einen Mann und ein Weib. Und Gott segnete sie und sprach zu ihnen: Seid fruchtbar und mehret euch, und füllet die Erde, und macht sie euch untertan. Und Gott sah an alles was Er gemacht hatte; und siehe da: es war sehr gut. Da ward aus Abend und Morgen der sechste Tag. Also ward vollendet Himmel und Erde mit ihrem ganzen Heer. Und also vollendete Gott am siebenten Tage Seine Werke, die Er machte, und ruhete am siebenten Tage von allen Seinen Werken. Und Gott segnete den siebenten Tag, und heiligte ihn, darum daß Er an demselben geruhet hatte von allen Seinen Werken, die Gott schuf und machte."
+          },
+          {
+            "typ": "gebet",
+            "text": "Erwecke Deine Gewalt — so bitten wir, HErr — und komm: Gefahren drohen uns ob unsrer Sünden. Schützest Du uns, so werden wir los davon; befreiest Du uns, so werden wir gerettet. Der Du mit dem Vater in Einheit mit dem Heiligen Geiste lebst und regierst, Gott von Ewigkeit zu Ewigkeit.",
+            "amen": "Amen."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Alle Tale sollen erhöhet werden;",
+              "Und alle Berge und Hügel sollen geniedrigt werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              116
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief an die Hebräer 10, 19–25.",
+            "text": "So wir denn nun haben, lieben Brüder, die Freidigkeit zum Eingang in das Heilige durch das Blut Jesu, welchen Er uns bereitet hat zum neuen und lebendigen Wege durch den Vorhang, das ist: durch Sein Fleisch, und haben einen Hohenpriester über das Haus Gottes: So lasset uns hinzugehen mit wahrhaftigem Herzen, in völligem Glauben, besprenget in unsern Herzen, und los von dem bösen Gewissen, und gewaschen am Leibe mit reinem Wasser; und lasset uns halten an dem Bekenntnis der Hoffnung, und nicht wanken; denn Er ist treu, Der sie verheißen hat; und lasset uns untereinander unser selbst wahrnehmen mit Reizen zur Liebe und guten Werken, und nicht verlassen unsere Versammlung, wie Etliche pflegen, sondern untereinander ermahnen; und das so viel mehr, soviel ihr sehet, daß sich der Tag nahet."
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf, auf, ihr Reichsgenossen",
+            "melodie": "A.M. 17",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der König will bedenken",
+                  "Die, die Er herzlich liebt,",
+                  "Mit köstlichen Geschenken,",
+                  "Als Der Sich Selbst uns gibt",
+                  "Durch Seine Gnad und Wort.",
+                  "Ja, König, hoch erhoben,",
+                  "Wir alle wollen loben",
+                  "Dich freudig hier und dort."
+                ],
+                "rechts": [
+                  "Nun, HErr, Du gibst uns reichlich,",
+                  "Wirst Selbst doch arm und schwach;",
+                  "Du liebest unvergleichlich,",
+                  "Du jagst den Sündern nach.",
+                  "Drum wollen wir allein",
+                  "Die Stimmen hoch erschwingen,",
+                  "Dir Hosianna singen",
+                  "Und ewig dankbar sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Von Zion wird ausgehen das Gesetz;",
+              "Und des HErrn Wort von Jerusalem."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Gebenedeit bist Du unter den Weibern,",
+              "Und gebenedeiet ist die Frucht Deines Leibes."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, wir danken Dir, daß Du uns wieder ein Kirchenjahr schenkst. Du hast uns im alten Jahr gesegnet, Du wirst auch im neuen Deine Gnadenhand über uns halten. Dein Wort war allezeit unsers Herzens Freude; laß es für die Kraft unsers Lebens sein. Stärke Du unsre Seelen in dieser heiligen Adventszeit mit Glauben und Anbetung, mit Kraft und Freudigkeit, daß wir das Eine das not ist nicht vergessen. HErr Jesus Christ, Du bist der Adventskönig für Herz und Haus, für Volk und Kirche. Nimm uns hin und bereite uns vor zu einer seligen Weihnachtsfeier, daß wir in Dir das Leben haben.",
+            "amen": "Amen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_di",
+      "titel": "Dienstag nach dem 1. Advent",
+      "wochentag": "Dienstag",
+      "seiten": [
+        120,
+        124
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Sende das Lamm, HErr, als Herrscher der Welt",
+              "Vom Felsen der Wüste zum Berge der Tochter Zion."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              35
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun jauchzet all ihr Frommen",
+            "melodie": "17",
+            "strophen": [
+              {
+                "links": [
+                  "Nun jauchzet, all ihr Frommen,",
+                  "Zu dieser Gnadenzeit,",
+                  "Weil unser Heil ist kommen,",
+                  "Der HErr der Herrlichkeit;",
+                  "Zwar ohne stolze Pracht,",
+                  "Doch mächtig zu verheeren",
+                  "Und gänzlich zu zerstören",
+                  "Des Teufels Reich und Macht."
+                ],
+                "rechts": [
+                  "Er kommt zu uns geritten",
+                  "Auf einem Eselein",
+                  "Und stellt Sich in die Mitten",
+                  "Für uns zum Opfer ein.",
+                  "Er bringt kein zeitlich Gut:",
+                  "Er will allein erwerben",
+                  "Durch Seinen Tod und Sterben",
+                  "Was ewig währen tut."
+                ]
+              },
+              {
+                "links": [
+                  "Kein Scepter, keine Krone",
+                  "Sucht Er auf dieser Welt:",
+                  "Im hohen Himmelstrone",
+                  "Ist Ihm Sein Reich bestellt;",
+                  "Er will hier Seine Macht",
+                  "Und Majestät verhüllen,",
+                  "Bis Er des Vaters Willen",
+                  "Im Leiden hat vollbracht."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, zeige uns Deine Wege, Hallelujah!",
+              "Und lehre uns Deine Steige. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 1, 18–25.",
+            "text": "Und Zacharias sprach zu dem Engel: Wobei soll ich das erkennen? Denn ich bin alt, und mein Weib ist betaget. Der Engel antwortete und sprach zu ihm: Ich bin Gabriel, der vor Gott stehet, und bin gesandt, mit dir zu reden, daß ich dir solches verkündigte. Und siehe, du wirst ersummen und nicht reden können bis auf den Tag, da dieses geschehen wird, darum daß du meinen Worten nicht geglaubet hast, welche sollen erfüllet werden zu ihrer Zeit. Und das Volk wartete auf Zacharias, und verwunderte sich, daß er so lange im Tempel verzog. Und da er herausging, konnte er nicht mit ihnen reden; und sie merkten, daß er ein Gesicht gesehen hatte im Tempel. Und er winkte ihnen, und blieb stumm. Und es begab sich, da die Zeit seines Amtes aus war, ging er heim in sein Haus. Und nach den Tagen ward sein Weib Elisabeth schwanger, und verbarg sich fünf Monate und sprach: Also hat mir der HErr getan in den Tagen, da er mich angesehen hat, daß er meine Schmach unter den Menschen von mir nähme."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Clemens",
+            "text": "Welchen Entgelt sollen wir Ihm denn zahlen oder welchen Zins, der dessen würdig wäre, was Er uns geschenkt hat? Wie große Gnadenerweise aber danken wir Ihm! Denn das Licht hat Er uns geschenkt, wie ein Vater hat er uns als Söhne angeredet, uns die Verlorenen hat Er gerettet. Denn Er erbarmte sich unser, und indem es Ihn jammerte, rettete Er uns, da Er bei uns viel Irrtum und Verderben sah und daß wir keine Hoffnung auf Errettung hätten, wenn nicht durch Ihn. Denn Er rief uns, die wir nicht waren, daß wir aus dem Nichtsein zum Dasein kämen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Suchet den HErrn, solange Er zu finden ist;",
+              "Rufet Ihn an, solange Er nahe ist. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Jesu, Du bist zu uns gekommen; wir kommen nun zu Dir. Du bist der Fürst aller Gnade; wir wollen von Deiner Gnade leben. Segne uns in diesem neuen Kirchenjahr. Mach uns die Zeit vor dem Christfest zu einer segensreichen Gnadenzeit, daß uns die Welt nicht verführe. Sei Du uns von allen Gaben die schönste Gabe, von allen Weihnachtslichtern das schönste Licht. Du bist es, Den unsere Seele liebt, weil Du uns geliebt hast und Dich für uns in den Tod gegeben. HErr, schließe Du mit uns ein neues Bündnis! Mache aller Sünde ein Ende; schenke uns einen neuen Geist!",
+            "amen": "Amen."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun jauchzet all ihr Frommen",
+            "melodie": "17",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ihr großen Potentaten,",
+                  "Nehmt diesen König an,",
+                  "Wenn ihr euch wollet raten",
+                  "Und gehn die rechte Bahn,",
+                  "Die zu dem Himmel führt;",
+                  "Sonst, wo ihr Ihn verachtet",
+                  "Und nur nach Hoheit trachtet,",
+                  "Euch Gottes Zornen rührt."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Siehe: Ich komme, spricht der HErr, Hallelujah!",
+              "Im Buch ist von Mir geschrieben. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Nach Dir, HErr, verlanget mich; mein Gott, ich hoffe auf Dich.",
+              "Laß mich nicht zu schanden werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              40
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Sprüche 8, 22–31.",
+            "text": "Der HErr hat mich gehabt im Anfang Seiner Wege; ehe Er etwas schuf, war ich da. Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde. Da die Tiefen noch nicht waren, da war ich schon geboren; da die Brunnen noch nicht mit Wasser quollen. Ehe denn die Berge eingesenkt waren, vor den Hügeln war ich geboren; da Er die Erde noch nicht gemacht hatte. Da Er die Himmel bereitete, war ich daselbst, da Er die Tiefe mit Seinem Ziel satzte. Da Er den Grund der Erde legte: Da war ich der Werkmeister bei Ihm, und hatte meine Lust täglich, und spielte vor Ihm allezeit: und spielte auf Seinem Erdboden, und meine Lust ist bei den Menschenkindern."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Geist des HErrn ist bei Mir;",
+              "Er hat Mich gesandt, zu verkündigen das Evangelium den Armen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              125
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief an die Römer 1, 21–25.",
+            "text": "Dieweil sie wußten, daß ein Gott ist, und haben Ihn nicht gepriesen als einen Gott, noch gedanket, sondern sind in ihrem Dichten eitel worden, und ihr unverständiges Herz ist verfinstert. Da sie sich für weise hielten, sind sie zu Narren worden; und haben verwandelt die Herrlichkeit des unvergänglichen Gottes in ein Bild, gleich dem vergänglichen Menschen, und der Vögel und der vierfüßigen und der kriechenden Tiere. Darum hat sie auch Gott dahingegeben in ihrer Herzen Gelüste, in Unreinigkeit, zu schänden ihre eigenen Leiber an ihnen selbst, sie, die Gottes Wahrheit haben verwandelt in die Lüge, und haben geehret und gedienet dem Geschöpfe mehr denn dem Schöpfer, Der da gelobet ist in Ewigkeit. Amen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun jauchzet all ihr Frommen",
+            "melodie": "17",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ihr Armen und Elenden",
+                  "Zu dieser bösen Zeit,",
+                  "Die ihr an allen Enden",
+                  "Müßt haben Angst und Leid:",
+                  "Seid dennoch wohlgemut,",
+                  "Laßt eure Lieder klingen",
+                  "Und tut dem König singen:",
+                  "Der ist eur höchstes Gut."
+                ],
+                "rechts": [
+                  "Er wird nun bald erscheinen",
+                  "In Seiner Herrlichkeit,",
+                  "Und all eur Klag und Weinen",
+                  "Verwandelen in Freud;",
+                  "Er ist Der helfen kann:",
+                  "Halt't eure Lampen fertig",
+                  "Und seid stets Sein gewärtig;",
+                  "Er ist schon auf der Bahn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Bevor sie zusammenkamen, fand sich,",
+              "Daß Maria empfangen hatte vom Heiligen Geist. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr unser Gott, Der Du am Anfang das Licht ließest aufgehen aus der Finsternis, Du gibst auch jetzt einen hellen Adventsschein in unsre Herzen, daß wir uns freuen im Glauben. Wir grüßen Dich, Du König aller Könige und HErr aller Völker, in Jauchzen und Anbetung, in Demut und Gehorsam. Und wie Du die reine Maria mit Deiner Herrlichkeit besucht hast, Du Aufgang aus der Höhe, so reinige Du auch unsre Herzen in Andacht und Keuschheit. HErr Jesu, sieh hernieder aus der Höhe auf die Schar Deiner Gläubigen, die Dich mit Dank und Preis als ihren Erlöser grüßen.",
+            "amen": "Amen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_mi",
+      "titel": "Mittwoch nach dem 1. Advent",
+      "wochentag": "Mittwoch",
+      "seiten": [
+        124,
+        127
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr wird ausgehen von Seiner heiligen Wohnung,",
+              "Er wird kommen, Sein Volk zu erlösen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              45
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Hosianna! Davids Sohn",
+            "melodie": "102",
+            "strophen": [
+              {
+                "links": [
+                  "Hosianna! Davids Sohn",
+                  "Kommt in Zion eingezogen.",
+                  "Bereitet Ihm den Thron,",
+                  "Setzt Ihm tausend Ehrenbogen,",
+                  "Streuet Palmen, machet Bahn,",
+                  "Daß Er Einzug halten kann."
+                ],
+                "rechts": [
+                  "Hosianna! Friedensfürst,",
+                  "Ehrenkönig, Held im Streite!",
+                  "Alles was Du schaffen wirst",
+                  "Das ist unsre Siegesbeute;",
+                  "Deine Rechte bleibt erhöht,",
+                  "Und Dein Reich allein besteht."
+                ]
+              },
+              {
+                "links": [
+                  "Hosianna! Sei gegrüßt!",
+                  "Komm, wir geben Dir entgegen;",
+                  "Unser Herz ist schon gerüsst,",
+                  "Will sich Dir zu Füßen legen.",
+                  "Zeuch zu unsern Thoren ein:",
+                  "Du sollst uns willkommen sein."
+                ],
+                "rechts": [
+                  "Hosianna! Lieber Gast,",
+                  "Wir sind Deine Reichsgenossen,",
+                  "Die Du Dir erwählt hast;",
+                  "Ach, so laß uns unverdrossen",
+                  "Deinem Scepter zinßbar sein,",
+                  "Herrsche Du in uns allein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 14, 7–14.",
+            "text": "Wenn ihr Mich kennetet, so kennetet ihr auch Meinen Vater. Und von nun an kennet ihr Ihn, und habt Ihn gesehen. Spricht zu ihm Philippus: HErr, zeige uns den Vater, so genüget uns. Jesus spricht zu ihm: So lang bin Ich bei euch, und du kennest Mich nicht, Philippus? Wer Mich siehet, der siehet den Vater; wie sprichst du denn: Zeige uns den Vater? Glaubest du nicht, daß Ich im Vater, und der Vater in Mir ist? Die Worte, die Ich zu euch rede, die rede Ich nicht von Mir selbst. Der Vater aber, Der in Mir wohnet, Derselbige tut die Werke. Glaubet mir, daß Ich im Vater, und der Vater in Mir ist; wo nicht, so glaubet Mir doch um der Werke willen. Wahrlich, wahrlich, Ich sage euch: Wer an Mich glaubet, der wird die Werke auch tun, die Ich tue, und wird größere denn diese tun; denn Ich gehe zum Vater. Und was ihr bitten werdet in Meinem Namen, das will Ich tun, auf daß der Vater geehret werde in dem Sohne."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Von Zion wird ausgehen das Gesetz,",
+              "Und des HErrn Wort von Jerusalem."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hosianna! Davids Sohn",
+            "melodie": "102",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Hosianna! Komme bald",
+                  "Laß uns Deine Sanftmut küssen;",
+                  "Wollet gleich die Knechtsgestalt",
+                  "Deine Majestät verschließen:",
+                  "Ei, so kennet Zion schon",
+                  "Gottes und auch Davids Sohn."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ihr Dürstenden alle, kommt zu den Wassern;",
+              "Suchet den HErrn, solange Er zu finden ist. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              54
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch der Chronika 20, 26–30.",
+            "text": "Am vierten Tage aber kamen sie zusammen im Lobetal; denn daselbst lobeten sie den HErrn. Daher heißt die Stätte Lobetal bis auf diesen Tag. Also kehrte Jedermann von Juda und Jerusalem wieder um, und Josaphat an der Spitze, daß sie gen Jerusalem zögen mit Freuden. Denn der HErr hatte ihnen eine Freude gegeben an ihren Feinden. Und zogen gen Jerusalem ein mit Psaltern Harfen und Drommeten zum Hause des HErrn. Und die Furcht Gottes kam über alle Königreiche in den Landen, da sie höreten, daß der HErr wider die Feinde Israels gestritten hatte. Also war das Königreich Josaphats stille, und Gott gab ihm Ruhe umher."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Stoßt in die Posaune zu Zion, denn der Tag ist nahe.",
+              "Siehe: Er wird kommen, uns zu erretten. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              128
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Offenbarung S. Johannis 1, 4–8.",
+            "text": "Johannes den sieben Gemeinen in Asien: Gnade sei mit euch, und Friede von Dem, Der da ist, und Der da war, und Der da kommt, und von den sieben Geistern, die da sind vor Seinem Stuhl, und von Jesu Christo, Welcher ist der treue Zeuge und Erstgeborne von den Toten und der Fürst der Könige auf Erden. Der uns geliebet hat und gewaschen von den Sünden mit Seinem Blut, und hat uns zu Königen und Priestern gemacht vor Gott und Seinem Vater: Demselben sei Ehre und Gewalt von Ewigkeit zu Ewigkeit! Amen. Siehe, Er kommt mit den Wolken, und es werden Ihn sehen alle Augen. Ich bin das A und das O, der Anfang und das Ende, spricht Gott der HErr, Der da ist, und Der da war, und Der da kommt, der Allmächtige."
+          },
+          {
+            "typ": "lied",
+            "titel": "Hosianna! Davids Sohn",
+            "melodie": "102",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Hosianna! Steh uns bei;",
+                  "O HErr hilf, laß wohl gelingen,",
+                  "Daß wir ohne Heuchelei",
+                  "Dir das Herz zum Opfer bringen.",
+                  "Du nimmst keinen Jünger an,",
+                  "Der Dir nicht gehorchen kann."
+                ],
+                "rechts": [
+                  "Hosianna! Laß uns hier",
+                  "An den Oelberg Dich begleiten,",
+                  "Bis wir einstens für und für",
+                  "Dir ein Psalmlied bereiten;",
+                  "Dort ist unser Bethphage:",
+                  "Hosianna in der Höh!"
+                ]
+              },
+              {
+                "links": [
+                  "Hosianna! Nah und fern,",
+                  "Eile bei uns einzugeben;",
+                  "Du Gesegneter des HErrn,",
+                  "Warum willst Du draußen stehen?",
+                  "Hosianna! Bist Du da?",
+                  "Ja, Du kommst, Hallelujah!"
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Nach mir wird kommen ein Stärkerer,",
+              "Dem ich nicht wert bin, die Schuhriemen zu lösen."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_do",
+      "titel": "Donnerstag nach dem 1. Advent",
+      "wochentag": "Donnerstag",
+      "seiten": [
+        127,
+        130
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Komm, o HErr, und verzeuch nicht;",
+              "Löse die Gefangenschaft Deines Volkes Israel."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              62
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Macht hoch die Thür",
+            "melodie": "101",
+            "strophen": [
+              {
+                "links": [
+                  "Macht hoch die Thür, die Thor macht weit!",
+                  "Es kommt der Herr der Herrlichkeit:",
+                  "Ein König aller Königreich,",
+                  "Ein Heiland aller Welt zugleich,",
+                  "Der Heil und Leben mit sich bringt;",
+                  "Derhalben jauchzt, mit Freuden singt:",
+                  "Gelobet sei mein Gott,",
+                  "Mein Schöpfer reich von Rat."
+                ],
+                "rechts": [
+                  "Er ist gerecht, ein Helfer wert,",
+                  "Sanftmütigkeit ist Sein Gefährt;",
+                  "Sein Königskron ist Heiligkeit,",
+                  "Sein Scepter ist Barmherzigkeit.",
+                  "All unsre Not zum End Er bringt;",
+                  "Derhalben jauchzt, mit Freuden singt:",
+                  "Gelobet sei mein Gott,",
+                  "Mein Heiland groß von Tat."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Matthäi 1, 1–17.",
+            "text": "Dies ist das Buch von der Geburt Jesu Christi, Der da ist ein Sohn Davids, des Sohns Abrahams. Abraham zeugete Isaak. Isaak zeugete Jakob. Jakob zeugete Juda und seine Brüder. Juda zeugete Perez und Serah von der Thamar. Perez zeugete Hezron. Hezron zeugete Ram. Ram zeugete Amminadab. Amminadab zeugete Nahesson. Nahesson zeugete Salma. Salma zeugete Boas von der Rahab. Boas zeugete Obed von der Ruth. Obed zeugete Jesse. Jesse zeugete den König David. Der König David zeugete Salomo von dem Weib des Uria. Salomo zeugete Rehabeam. Rehabeam zeugete Abia. Abia zeugete Asa. Asa zeugete Josaphat. Josaphat zeugete Joram. Joram zeugete Ufia. Ufia zeugete Jotham. Jotham zeugete Ahas. Ahas zeugete Hiskia. Hiskia zeugete Manasse. Manasse zeugete Amon. Amon zeugete Josia. Josia zeugete Jechonia und seine Brüder um die Zeit der babylonischen Gefangenschaft. Nach der babylonischen Gefangenschaft zeugete Jechonia Sealthiel. Sealthiel zeugete Serubabel. Serubabel zeugete Abiud. Abiud zeugete Eliakim. Eliakim zeugete Azor. Azor zeugete Zadok. Zadok zeugete Achim. Achim zeugete Elind. Elind zeugete Eleafar. Eleafar zeugete Matthan. Matthan zeugete Jakob. Jakob zeugete Joseph, den Mann Marias, von welcher ist geboren Jesus, Der da heißt Christus."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich will erwarten den HErrn, meinen Heiland;",
+              "Und Seiner harren, so lange Er nahe ist. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Macht hoch die Thür",
+            "melodie": "101",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O wohl dem Land, o wohl der Stadt,",
+                  "So diesen König bei sich hat!",
+                  "Wohl allen Herzen insgemein,",
+                  "Da dieser König ziehet ein!",
+                  "Er ist die rechte Freudensonn,",
+                  "Bringt mit Sich lauter Freud und Wonn:",
+                  "Gelobet sei mein Gott,",
+                  "Mein Tröster früh und spat!"
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              75
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaja 45, 11–15.",
+            "text": "So spricht der HErr, der Heilige in Israel und ihr Meister: Fraget Mich um das Zukünftige; weiset Meine Kinder und das Werk Meiner Hände zu mir! Ich habe die Erde gemacht, und den Menschen drauf geschaffen. Ich bins, Des Hände den Himmel ausgebreitet haben, und habe alle seinem Heer geboten. Ich habe ihn erweckt in Gerechtigkeit, und alle seine Wege will Ich eben machen. Er soll meine Stadt bauen, und meine Gefangnen loslassen, nicht um Geld noch um Geschenke, spricht der HErr Zebaoth."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Saget der Tochter Zion: Siehe: Dein König kommt zu Dir;",
+              "Zion, fürchte Dich nicht! Siehe: Dein König wird kommen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              133
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief S. Pauli an die Kolosser 1, 15–20.",
+            "text": "Welcher ist das Ebenbild des unsichtbaren Gottes, der Erstgeborne vor allen Kreaturen. Denn durch Ihn ist alles geschaffen, das im Himmel und auf Erden ist: das Sichtbare und Unsichtbare, es seien Thronen, oder Herrschaften, oder Fürstentümer, oder Obrigkeiten; es ist alles durch Ihn und zu Ihm geschaffen. Und Er ist vor Allen, und es bestehet Alles in Ihm. Und Er ist das Haupt des Leibes, nämlich der Gemeine; Er, welcher ist der Anfang und der Erstgeborne von den Toten. Denn es ist das Wohlgefallen gewesen, daß in Ihm alle Fülle wohnen sollte, und Alles durch Ihn versöhnet würde zu Ihm selbst, es sei auf Erden oder im Himmel, damit, daß Er Frieden machte durch das Blut an Seinem Kreuz, durch Sich Selbst."
+          },
+          {
+            "typ": "lied",
+            "titel": "Macht hoch die Thür",
+            "melodie": "101",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Macht hoch die Thür, die Thor macht weit;",
+                  "Eur Herz zum Tempel zubereitet;",
+                  "Die Zweiglein der Gerechtigkeit",
+                  "Steckt auf mit Andacht Luft und Freud!",
+                  "So kommt der König auch zu euch,",
+                  "Ja, Heil und Leben mit zugleich:",
+                  "Gelobet sei mein Gott,",
+                  "Doll Rat, voll Tat, voll Gnad."
+                ],
+                "rechts": [
+                  "Komm, o mein Heiland Jesu Christ,",
+                  "Meins Herzens Thür Dir offen ist;",
+                  "Ach zeuch mit Deiner Gnaden ein,",
+                  "Dein Freundlichkeit auch uns erschein;",
+                  "Dein heilger Geist uns führ und leit",
+                  "Den Weg zur ewgen Seligkeit.",
+                  "Dem Namen Dein, o HErr,",
+                  "Sei ewig Preis und Ehr!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Du bist gebenedeit unter den Weibern,",
+              "Und gebenedeiet ist die Frucht deines Leibes."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_fr",
+      "titel": "Freitag nach dem 1. Advent",
+      "wochentag": "Freitag",
+      "seiten": [
+        130,
+        133
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: es kommt der große Prophet;",
+              "Er Selber wird Jerusalem erneuern. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              78
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein König kommt in niedern Hüllen",
+            "melodie": "28",
+            "strophen": [
+              {
+                "links": [
+                  "Dein König kommt in niedern Hüllen,",
+                  "Ihn trägt der lastbarn Eslin Füllen:",
+                  "Empfang Ihn froh, Jerusalem!",
+                  "Trag Ihm entgegen Friedenspalmen,",
+                  "Bestreu den Pfad mit grünen Halmen!",
+                  "So ist's dem HErren angenehm."
+                ],
+                "rechts": [
+                  "O mächtger Herrscher ohne Heere,",
+                  "Gewaltger Kämpfer ohne Speere,",
+                  "O Friedensfürst von großer Macht:",
+                  "Es wollen Dir die Erde Herren",
+                  "Den Weg zu Deinem Thron versperren.",
+                  "Doch Du gewinnst ihn ohne Schlacht."
+                ]
+              },
+              {
+                "links": [
+                  "Dein Reich ist nicht von dieser Erden;",
+                  "Doch alle Erdenreiche werden",
+                  "Dem das Du gründest untertan:",
+                  "Bewaffnet mit des Glaubens Worten,",
+                  "Zieht Deine Schar nach den vier Orten",
+                  "Der Welt hinaus und macht Dir Bahn."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 1, 1–4.",
+            "text": "Sintemal sich's Viele unterwunden haben, zu stellen die Rede von den Geschichten, so unter uns ergangen sind, wie uns das gegeben haben, die es von Anfang selbst gesehen, und Diener des Wortes gewesen sind: habe ich's auch für gut angesehen, nachdem ich's alles von Anbeginne mit Fleiß erkundet habe, daß ich's dir, mein guter Theophilus, ordentlich schriebe, auf daß du gewissen Grund erfahrest der Lehre, in welcher du unterrichtet bist."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: es kommt der Gottmensch aus dem Hause Davids,",
+              "Und wird sitzen auf Seinem Thron. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Dein König kommt in niedern Hüllen",
+            "melodie": "28",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Und wo Du kommst hergezogen,",
+                  "Da ebnen sich des Meeres Wogen;",
+                  "Es schweigt der Sturm, von Dir bedroht.",
+                  "Du kommst, auf den empörten Triften",
+                  "Des Lebens neuen Bund zu stiften,",
+                  "Und schlägst in Fesseln Sünd und Tod!"
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              80
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaja 26, 1–9.",
+            "text": "Zu der Zeit wird man ein solch Lied singen im Lande Juda: Wir haben eine feste Stadt, Mauern und Wehre sind heil. Tut die Thore auf, daß hereingehede das gerechte Volk, das den Glauben bewahret! Du erhältst stets Frieden nach gewisser Zusage; denn man verlässet sich auf Dich. Verlasset euch auf den HErrn ewiglich; denn Gott der HErr ist ein Fels ewiglich. Und Er beuget die, so in der Höhe wohnen; die hohe Stadt niedriget Er, ja, Er stößet sie zur Erde. Denn wir warten auf Dich, HErr, des Herzens Weg und Deine Rechte; des Herzens Lust siehet zu Deinem Namen und Gedächtnis. Von Herzen begehre ich Dein des Nachts, dazu mit meinem Geist in mir wache ich frühe zu Dir. Denn wo Dein Recht im Lande gehet, so lernen die Bewohner des Erdbodens Gerechtigkeit."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              139
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief S. Pauli an die Römer 14, 10–19.",
+            "text": "Du aber, was richtest du deinen Bruder? Oder, du andrer, was verachtest du deinen Bruder? Wir werden alle vor den Richtstuhl Christi dargestellet werden; denn es steheth geschrieben: So wahr Ich lebe, spricht der Herr, Mir sollen alle Kniee gebeuget werden, und alle Zungen sollen Gott bekennen. So wird nun ein Jeglicher für sich selbst Gott Rechenschaft geben. Darum lasset uns nicht mehr Einer den Andern richten; sondern das richtet vielmehr, daß Niemand seinem Bruder einen Anstoß oder Aergernis darstelle. Ich weiß und bin's gewiß in dem HErrn Jesu, daß nichts gemein ist an ihm selbst. Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude in dem Heiligen Geiste. Wer darinnen Christo dienet, der ist Gott gefällig und den Menschen wert. Darum lasset uns dem nachstreben, das zum Frieden dienet, und was zur Besserung untereinander dienet."
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein König kommt in niedern Hüllen",
+            "melodie": "28",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O HErr von großer Huld und Treue,",
+                  "O komme Du auch jetzt aufs Neue",
+                  "Zu uns, die wir sind schwer verstört.",
+                  "Not ist es, daß Du Selbst binieden",
+                  "Kommst, zu erneuern Deinen Frieden,",
+                  "Dagegen sich die Welt empört."
+                ],
+                "rechts": [
+                  "O laß Dein Licht auf Erden siegen,",
+                  "Die Macht der Finsternis erliegen,",
+                  "Und lösch der Zwietracht Glimmen aus;",
+                  "Daß wir, die Völker und die Thronen,",
+                  "Vereint als Brüder wieder wohnen",
+                  "In Deines großen Vaters Haus."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Aus Aegypten habe ich Meinen Sohn gerufen;",
+              "Er kommt, Sein Volk selig zu machen."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_1_sa",
+      "titel": "Sonnabend nach dem 1. Advent",
+      "wochentag": "Sonnabend",
+      "seiten": [
+        134,
+        135
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              105
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Erweitert eure Pforten",
+            "strophen": [
+              {
+                "links": [
+                  "Erweitert eure Pforten,",
+                  "Erhöht des Herzens Thor,",
+                  "Und sucht an allen Orten",
+                  "Hier Gras, dort Blumen vor,",
+                  "Die Straßen mit zu zieren,",
+                  "Durch die der HErr soll ziehen:",
+                  "Baut prächtig Ehrenbühren,",
+                  "Besteckt mit Wintergrün."
+                ],
+                "rechts": [
+                  "Wer ist — so frag ein Jeder —",
+                  "Wer ist der große Held,",
+                  "Auf Den jetzt hin und wieder",
+                  "Der Einzug wird bestellt?",
+                  "Er heißt — ihr sollt's bald hören —",
+                  "Er heißet Zebaoth;",
+                  "Es ist der HErr der Ehren,",
+                  "Und beides: Mensch und Gott."
+                ]
+              },
+              {
+                "links": [
+                  "Willkommen, großer König!",
+                  "Willkommen, Jesulein!",
+                  "Mein Haus ist zwar zu wenig,",
+                  "Mein Raum ist viel zu klein,",
+                  "Dich HErren zu bewirten;",
+                  "Doch weil Du Deinen Zug",
+                  "Auch nimmst zu schlechten Hirten,",
+                  "So ist hier Raum genug."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 1, 68–75.",
+            "text": "Gelobet sei der HErr, der Gott Israels; denn Er hat besucht und erlöset Sein Volk; und hat uns aufgerichtet ein Horn des Heils in dem Hause Seines Dieners David, wie Er vor Zeiten geredet hat durch den Mund Seiner heiligen Propheten; daß Er uns errettete von unsern Feinden und von der Hand Aller, die uns hassen, und Barmherzigkeit erzeigte unsern Vätern, und gedächte an Seinen heiligen Bund und an den Eid, den Er geschworen hat unserm Vater Abraham; uns zu geben, daß wir, erlöset aus der Hand unserer Feinde, Ihm dieneten ohne Furcht unser Leben lang in Heiligkeit und Gerechtigkeit, die Ihm gefällig ist."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Fürchte dich nicht, Zion;",
+              "Siehe: Dein Gott kommt. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Erweitert eure Pforten",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Laß ab vor meiner Treppen",
+                  "Die schwere Kreuzeslast,",
+                  "Die Du pflegst mit zu schleppen;",
+                  "Laß ab, Du lieber Gast!",
+                  "Ist sie gleich schwer zu heben,",
+                  "Doch bin ich übergewißt,",
+                  "Daß auch viel Trost daneben",
+                  "In dieser Bürde ist."
+                ],
+                "rechts": null
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              102
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "3. Buch Mose 19, 1–5.",
+            "text": "Und der HErr redete mit Mose und sprach: Rede mit der ganzen Gemeine der Kinder Israel und sprich zu ihnen: Ihr solt heilig sein, denn Ich bin heilig, der HErr, euer Gott. Ein jeglicher fürchte seine Mutter und seinen Vater. Haltet meine Feiertage; denn Ich bin der HErr, euer Gott."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              144
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief an die Hebräer 11, 8–10.",
+            "text": "Durch den Glauben ward gehorsam Abraham, da er berufen ward, auszugehen in das Land, das er ererben sollte; und ging aus, und wußte nicht, wo er hin käme. Durch den Glauben ist er ein Fremdling gewesen in dem verheißenen Lande als in einem fremden, und wohnte in Hütten mit Isaak und Jakob, den Miterben derselben Verheißung; denn er wartete auf eine Stadt, die einen Grund hat, deren Baumeister und Schöpfer Gott ist."
+          },
+          {
+            "typ": "lied",
+            "titel": "Erweitert eure Pforten",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, wer allhier Dich beget",
+                  "Im Glauben und Geduld,",
+                  "Wer Deiner treulich pfleget,",
+                  "Und trauet Deiner Huld:",
+                  "Dem hast Du schon versprochen",
+                  "Das Haus der Ewigkeit,",
+                  "Wird gleich allhier zerbrochen",
+                  "Die Hütte dieser Zeit."
+                ],
+                "rechts": [
+                  "Jetzt pflegst Du einzukehren",
+                  "Durchs Wort und Sakrament,",
+                  "Und wirst durchs Kreuzes Zähren",
+                  "An Deinem Zug erkennt;",
+                  "Dann aber wirst Du kommen",
+                  "Mit großer Pracht und Ruhm,",
+                  "Und führen Deine Frommen",
+                  "Ins himmlisch Eigentum."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Komm, o HErr, uns heimzusuchen in Frieden;",
+              "Auf daß wir getrosten Herzens uns freuen vor Dir."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

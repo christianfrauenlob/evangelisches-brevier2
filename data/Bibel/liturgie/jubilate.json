@@ -1,0 +1,1094 @@
+{
+  "id": "jubilate",
+  "titel": "3. Sonntag nach Ostern (Jubilate — Jubelsonntag)",
+  "kirchenzeit": "Osterzeit",
+  "reihe": 3,
+  "tage": [
+    {
+      "id": "jubilate_sonntag",
+      "titel": "3. Sonntag nach Ostern (Jubilate — Jubelsonntag)",
+      "wochentag": "Sonntag",
+      "seiten": [
+        187,
+        190
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Jauchzet Gott, alle Lande, Hallelujah!",
+              "Lobsinget zu Ehren Seinem Namen, Hallelujah!",
+              "Rühmet Ihn herrlich! Hallelujah, Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66",
+              "8"
+            ]
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Hallelujah!",
+                  "Hallelujah!",
+                  "Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meine Freude",
+            "melodie": "86",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, meine Freude,",
+                  "Meines Herzens Weide,",
+                  "Jesu, meine Zier;",
+                  "Ach wie lang, ach lange",
+                  "Ist dem Herzen bange",
+                  "Und verlangt nach Dir!",
+                  "Gottes Lamm",
+                  "Mein Bräutigam,",
+                  "Außer Dir soll mir auf Erden",
+                  "Nichts sonst Liebers werden."
+                ],
+                "rechts": [
+                  "Unter Deinem Schirmen",
+                  "Bin ich vor den Stürmen",
+                  "Aller Freude frei.",
+                  "Laß den Satan wittern,",
+                  "Laß den Feind erbittern —",
+                  "Mir steht Jesus bei.",
+                  "Ob es itzt",
+                  "Gleich kracht und blitzt,",
+                  "Ob gleich Sünd und Hölle schrecken:",
+                  "Jesus will mich decken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Eingang: s. Grundordnung."
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 16, 16–23",
+            "text": "Ueber ein kleines, so werdet ihr Mich nicht sehen; und aber über ein kleines, so werdet ihr Mich sehen; denn Ich gehe zum Vater. Da sprachen etliche unter Seinen Jüngern untereinander: Was ist das, das Er saget zu uns: über ein kleines, so werdet ihr Mich nicht sehen, und aber über ein kleins, so werdet ihr Mich sehen, und: Ich gehe zum Vater? Da sprachen sie: Was ist das, das Er saget: Ueber ein kleines? Wir wissen nicht, was Er redet. Da merkte Jesus, daß sie Ihn fragen wollten, und sprach zu ihnen: Davon fraget ihr untereinander, daß Ich gesagt habe: über ein kleines, so werdet ihr Mich nicht sehen, und aber über ein kleines, so werdet ihr Mich sehen. Wahrlich, wahrlich, Ich sage euch: Ihr werdet weinen und heulen, aber die Welt wird sich freuen; ihr aber werdet traurig sein; doch eure Traurigkeit soll in Freude verkehret werden. Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist kommen. Wenn sie aber das Kind geboren hat, denket sie nicht mehr an die Angst um der Freude willen, daß der Mensch zur Welt geboren ist. Und ihr habt auch nun Traurigkeit; aber Ich will euch wiedersehen, und euer Herz soll sich freuen, und eure Freude soll Niemand von euch nehmen. Und an demselbigen Tage werdet ihr Mich nichts fragen."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Sehet auf: jenseits ist eure Heimat! Wer wird in der Fremde Hütten bauen und mit Midian buhlen, statt nach Kanaan zu ziehen! Euer Leben ist ein Eingang zum Vater und zum Sohne, euer Leid ist ein Kleines, eure Freude, wenn ihr sie recht gefaßt, ist ewig. Diese Gedanken laßt in euch lebendig werden. Diese Gedanken lasset euch durchdringen, euch beleben. In ihnen und ihnen gemäß leben ist seliges Leben und vorwärts Dringen zum Heile. — Ach, daß ich euch vermahnen könnte! Ach, daß ihr den Ruf vernähmet, für die Ewigkeit zu leben! Ach, daß ihr den Heiligen Geist, Der, wenn ich ausgeredet, in euch die Vermahnung fortsetzt, nicht widerstrebtet! Daß Er euch lehren und leiten könnte zur Gemeinschaft aller Heiligen, zur Stadt Gottes, zu Christo, zum Vater!"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ueber ein Kleines, so werdet ihr Mich nicht sehen, und aber über ein Kleines, so werdet ihr Mich sehen;",
+              "denn Ich gehe zum Vater. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, getreuer Vater, Der Du züchtigest Alle die Du lieb hast, auf daß sie nicht samt der Welt verdammet werden: Wir bitten Dein treues Vaterherz, Du wollest uns in unserm Kreuze mit Deinem Geiste und Worte trösten, daß wir das kleine Stündlein dieses Elends in Geduld überwinden, und fest glauben und hoffen, Du werdest unser Leid und Traurigkeit bald in ewige Freude und Herrlichkeit verwandeln; durch . . .",
+            "amen": ""
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Beschluß: s. Grundordnung."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, meine Freude (Trotz dem alten Drachen)",
+            "melodie": "86",
+            "strophen": [
+              {
+                "links": [
+                  "Trotz dem alten Drachen,",
+                  "Trotz dem Todesrachen,",
+                  "Trotz der Furcht dazu!",
+                  "Tobe, Welt, und springe,",
+                  "Ich steh hier und singe",
+                  "In gar sichler Ruh.",
+                  "Gottes Macht hält mich in acht;",
+                  "Erd und Abgrund muß verstummen,",
+                  "Ob sie noch so brummen."
+                ],
+                "rechts": [
+                  "Weg mit allen Schätzen!",
+                  "Du bist mein Ergötzen,",
+                  "Jesu, meine Lust.",
+                  "Weg, ihr eitlen Ehren,",
+                  "Ich mag euch nicht hören,",
+                  "Bleibt mir unbewußt!",
+                  "Elend, Not, Kreuz, Schmach und Tod",
+                  "Soll mich, ob ich viel muß leiden,",
+                  "Nicht von Jesu scheiden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33–80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 40, 26–31",
+            "text": "Hebet eure Augen in die Höhe, und sehet! Wer hat solche Dinge geschaffen, und führet ihr Heer bei der Zahl heraus? Er rufet sie alle mit Namen; Sein Vermögen und starke Kraft ist so groß, daß es nicht an Einem fehlen kann. Warum sprichst du denn, Jakob, und du, Israel, sagest: Mein Weg ist dem HErrn verborgen, und mein Recht gehet vor meinem Gott vorüber? Weißt du nicht? Hast du nicht gehört? Der HErr, der ewige Gott, Der die Enden der Erde geschaffen hat, wird nicht müde noch matt; Sein Verstand ist unausforschlich. Er gibt dem Müden Kraft und Stärke genug dem Unvermögenden. Die Knaben werden müde und matt, und die Jünglinge fallen; aber Die auf den HErrn harren, kriegen neue Kraft, daß sie auffahren mit Flügeln wie Adler, daß sie laufen, und nicht matt werden, daß sie wandeln, und nicht müde werden."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "111",
+              "112"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Petri 2, 11–20",
+            "text": "Lieben Brüder, ich ermahne euch, als die Fremdlinge und Pilgrime: Enthaltet euch von fleischlichen Lüsten, welche wider die Seele streiten, und führet einen guten Wandel unter den Heiden, auf daß Die, so von euch afterreden als von Uebeltätern, eure guten Werke sehen, und Gott preisen, wenn's nun an den Tag kommen wird. Seid untertan aller menschlicher Ordnung um des HErrn willen, es sei dem Könige, als dem Obersten, oder den Hauptleuten, als die von ihm gesandt sind zur Rache über die Uebeltäter und zu Lobe den Frommen. Denn das ist der Wille Gottes, daß ihr mit Wohltum verstopfet die Unwissenheit der törichten Menschen, als die Freien, und nicht, als hättet ihr die Freiheit zum Deckel der Bosheit, sondern als die Knechte Gottes. Tut Ehre Jedermann. Habt die Brüder lieb. Fürchtet Gott. Ehret den König. Ihr Knechte, seid untertan mit aller Furcht den Herren, nicht allein den gütigen und gelinden, sondern auch den wunderlichen. Denn das ist Gnade, so Jemand um des Gewissens willen zu Gott das Uebel verträgt, und leidet das Unrecht. Denn was ist das für ein Ruhm, so ihr um Missetat willen Streiche leidet? Aber wenn ihr um Wohltat willen leidet und erduldet: das ist Gnade bei Gott."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Martin Luther",
+            "text": "Ein Christenmensch ist ein freier Herr über alle Dinge, und Niemand untertan; ein Christenmensch ist ein dienstbarer Knecht aller Dinge, und Jedermann untertan. Diese zwei Sätze sind klar S. Paulus 1. Korinther 9: „Ich bin frei in allen Dingen und habe mich eines Jeden Knecht gemacht“; ferner Römer 13: „Ihr sollt Niemand in etwas verpflichtet sein, denn daß ihr euch untereinander liebet.“ Liebe aber, die ist dienstbar und untertan dem, das sie lieb hat. — So nehmen wir vor uns den inwendigen geistlichen Menschen, zu sehen, was dazu gehöre, daß er ein frommer freier Christenmensch sei und heiße. So ist offenbar, daß kein äußerliches Ding ihn frei noch fromm machen kann, wie es immer genannt werden mag. Denn seine Frömmigkeit und Freiheit, wiederum seine Bosheit und Gefängnis sind nicht leiblich noch äußerlich. Was hilft es der Seele, daß der Leib ungefangen, frisch und gesund ist, ißt trinkt lebt, wie er will? Wiederum: was schadet das der Seele, daß der Leib gefangen, krank und matt ist, hungert durstet und leidet, wie er nicht gerne wollte? Dieser Dinge reicht keines bis an die Seele, sie zu befreien oder zu fangen, fromm oder böse zu machen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meine Freude (Gute Nacht, o Wesen)",
+            "melodie": "86",
+            "strophen": [
+              {
+                "links": [
+                  "Gute Nacht, o Wesen,",
+                  "Das die Welt erlesen!",
+                  "Mir gefällst Du nicht.",
+                  "Gute Nacht, ihr Sünden,",
+                  "Bleibet weit dahinten,",
+                  "Kommt nicht mehr ans Licht.",
+                  "Gute Nacht",
+                  "Du Stolz und Pracht!",
+                  "Dir sei ganz, du Lasterleben,",
+                  "Gute Nacht gegeben."
+                ],
+                "rechts": [
+                  "Weicht, ihr Trauergeister,",
+                  "Denn mein Freudenmeister:",
+                  "Jesus, tritt herein.",
+                  "Denen, die Gott lieben,",
+                  "Muß auch ihr Betrüben",
+                  "Lauter Zucker sein.",
+                  "Duld ich schon",
+                  "Hier Spott und Hohn:",
+                  "Dennoch bleibst Du auch im Leide,",
+                  "Jesu, meine Freude."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr werdet traurig sein;",
+              "doch eure Traurigkeit soll in Freude verkehret werden. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gott, Der Du den Irrenden das Licht Deiner Wahrheit zeigst, auf daß sie nun zum Wege der Gerechtigkeit wiederum kommen mögen: Gib allen Denen die da Christen heißen, daß sie verwerfen was diesem Namen zuwider, und dem nachfolgen, was ihm gemäß und eben ist; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_montag",
+      "titel": "Montag nach dem Jubelsonntag",
+      "wochentag": "Montag",
+      "seiten": [
+        191,
+        193
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "17"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, o meine Seele",
+            "melodie": "96",
+            "strophen": [
+              {
+                "links": [
+                  "Lobe den HErren, o meine Seele,",
+                  "Ich will Ihn loben bis in Tod;",
+                  "Weil ich noch Stunden auf Erden zähle,",
+                  "Will ich lobsingen meinem Gott.",
+                  "Der Leib und Seel gegeben hat,",
+                  "Werde gepriesen früh und spat.",
+                  "Hallelujah! Hallelujah!"
+                ],
+                "rechts": [
+                  "Selig, ja selig ist Der zu nennen,",
+                  "Des Hilfe der Gott Jakobs ist,",
+                  "Welcher vom Glauben sich nicht läßt trennen",
+                  "Und hofft getrost auf Jesum Christ.",
+                  "Wer diesen HErrn zum Beistand hat,",
+                  "Findet am besten Rat und Tat.",
+                  "Hallelujah! Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 12, 20–26",
+            "text": "Es waren aber etliche Griechen unter Denen, die hinaufkommen waren, daß sie anbeteten auf das Fest. Die traten zu Philippus, der von Bethsaida aus Galiläa war, baten ihn und sprachen: HErr, wir wollten Jesum gerne sehen. Philippus kommt, und saget's Andreas, und Philippus und Andreas sagten's weiter Jesu. Jesus aber antwortete ihnen und sprach: Die Zeit ist kommen, daß des Menschen Sohn verkläret werde. Wahrlich, wahrlich, Ich sage euch: Es sei denn, daß das Weizenkorn in die Erde falle, und ersterbe, so bleibt's allein; wo es aber erstirbt, so bringet's viel Früchte. Wer sein Leben lieb hat, der wird's verlieren; und wer sein Leben auf dieser Welt hasset, der wird's erhalten zum ewigen Leben. Wer Mir dienen will, der folge Mir nach; und wo Ich bin, da soll Mein Diener auch sein. Und wer Mir dienen wird, den wird Mein Vater ehren."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Und Er fing an von Mose und allen Propheten, und legte ihnen alle Schrift aus, die von Ihm handelte. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, o meine Seele (Zeigen sich Welche)",
+            "melodie": "96",
+            "strophen": [
+              {
+                "links": [
+                  "Zeigen sich Welche die Unrecht leiden:",
+                  "Er ist's, Der ihnen Recht verschafft.",
+                  "Hungrigen will Er zur Speis bescheiden",
+                  "Was ihnen dient zur Lebenskraft;",
+                  "Die hart Gebundnen macht Er frei,",
+                  "Seine Genad ist mancherlei.",
+                  "Hallelujah! Hallelujah!"
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 49, 14–16",
+            "text": "Zion aber spricht: Der HErr hat mich verlassen, der HErr hat mein vergessen. Kann auch ein Weib ihres Kindleins vergessen, daß sie sich nicht erbarme über den Sohn ihres Leibes? Und ob sie desselbigen vergäße, so will Ich doch dein nicht vergessen. Siehe: in die Hände hab Ich dich gezeichnet; deine Mauern sind immerdar vor Mir."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Johannis 4, 9–14",
+            "text": "Daran ist erschienen die Liebe Gottes gegen uns, daß Gott Seinen Eingebornen Sohn gesandt hat in die Welt, daß wir durch Ihn leben sollen. Darinnen stehet die Liebe: nicht, daß wir Gott geliebet haben, sondern, daß Er uns geliebet hat, und gesandt Seinen Sohn zur Versöhnung für unsre Sünden. Ihr Lieben, hat uns Gott also geliebet, so sollen wir uns auch untereinander lieben. Niemand hat Gott jemals gesehen. So wir uns untereinander lieben, so bleibet Gott in uns, und Seine Liebe ist völlig in uns. Daran erkennen wir, daß wir in Ihm bleiben und Er in uns, daß Er uns von Seinem Geist gegeben hat. Und wir haben gesehen und zeugen, daß der Vater den Sohn gesandt hat zum Heiland der Welt."
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, o meine Seele (Sehende Augen)",
+            "melodie": "96",
+            "strophen": [
+              {
+                "links": [
+                  "Sehende Augen gibt Er den Blinden,",
+                  "Erhebt Die tief gebeuget gehn;",
+                  "Wo Er kann einige Fromme finden,",
+                  "Die läßt Er Seine Liebe sehn.",
+                  "Sein Aufsicht ist des Fremden Trutz,",
+                  "Witwen und Waisen hält Er Schutz.",
+                  "Hallelujah! Hallelujah!"
+                ],
+                "rechts": [
+                  "Rühmet, ihr Menschen, den hohen Namen",
+                  "Des Der so große Wunder tut.",
+                  "Alles was Odem hat rufe Amen,",
+                  "Und bringe Lob mit frohem Mut.",
+                  "Ihr Kinder Gottes, lobt und preist",
+                  "Vater und Sohn und Heilgen Geist!",
+                  "Hallelujah! Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Eure Traurigkeit wird in Freude verkehrt werden, Hallelujah!",
+              "Und eure Freude wird Niemand von euch nehmen. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_dienstag",
+      "titel": "Dienstag nach dem Jubelsonntag",
+      "wochentag": "Dienstag",
+      "seiten": [
+        194,
+        196
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun lob, mein Seel, den HErren",
+            "melodie": "116",
+            "strophen": [
+              {
+                "links": [
+                  "Nun lob, mein Seel, den HErren,",
+                  "Was in mir ist den Namen Sein;",
+                  "Sein Wohltat tut Er mehren,",
+                  "Vergiß es nicht, o Herze mein.",
+                  "Hat dir dein Sünd vergeben",
+                  "Und heilt dein Schwachheit groß;",
+                  "Errett dein armes Leben,",
+                  "Nimmt dich in Seinen Schoß;",
+                  "Mit reichem Trost beschüttet,",
+                  "Verjüngt dem Adler gleich;",
+                  "Der König schafft Recht, behütet",
+                  "Die leidn in Seinem Reich."
+                ],
+                "rechts": [
+                  "Er hat uns wissen lassen",
+                  "Sein heilig Recht und Sein Gericht;",
+                  "Dazu Sein Güt ohn Maßen,",
+                  "Es manglt an Seinr Erbarmung nicht.",
+                  "Sein Zorn läßt Er wohl fahren,",
+                  "Straft nicht nach unsrer Schuld;",
+                  "Die Gnad tut Er nicht sparen,",
+                  "Den Blöden ist Er hold;",
+                  "Sein Güt ist hoch erhaben",
+                  "Ob Den, die fürchten Ihn;",
+                  "So fern der Ost vom Abend,",
+                  "Ist unsre Sünd dahin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Marci 8, 34–38",
+            "text": "Und Er rief zu Sich das Volk samt Seinen Jüngern, und sprach zu ihnen: Wer Mir will nachfolgen, der verleugne sich selbst, und nehme sein Kreuz auf sich, und folge Mir nach. Denn wer sein Leben will behalten, der wird's verlieren; und wer sein Leben verlieret um Meinet- und des Evangeliums willen, der wird's behalten. Was hülfe es den Menschen, wenn er die ganze Welt gewönne, und nähme an seiner Seele Schaden? Oder was kann der Mensch geben, damit er seine Seele löse? Wer sich aber Mein und Meiner Worte schämet unter diesem ehebrecherischen und sündigen Geschlecht, des wird sich auch des Menschen Sohn schämen, wenn Er kommen wird in der Herrlichkeit Seines Vaters mit den heiligen Engeln."
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, Du hast vierzig Tage lang nach Deiner Auferstehung Dich Deinen Jüngern als den lebendigen Freudenquell erwiesen; wir bitten Dich: würdige auch uns Deiner seligen Gemeinschaft, daß unsre Freude Niemand von uns nehme; Der Du lebest und regierest mit Deinem Vater in Einigkeit des Heiligen Geistes, von Ewigkeit zu Ewigkeit.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun lob, mein Seel (Wie sich ein Vatr erbarmet)",
+            "melodie": "116",
+            "strophen": [
+              {
+                "links": [
+                  "Wie sich ein Vatr erbarmet",
+                  "Uebr seine jungen Kindlein klein:",
+                  "So tut der HErr uns Armen,",
+                  "So wir Ihn kindlich fürchten rein.",
+                  "Er kennt das arm Gemächte,",
+                  "Gott weiß: wir sind nur Staub,",
+                  "Gleichwie das Gras von Rechte:",
+                  "Ein Blum und fallend Laub;",
+                  "Der Wind nur drüber wehet,",
+                  "So ist es nimmer da:",
+                  "Also der Mensch vergehet,",
+                  "Sein End das ist ihm nah."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch Mose 16, 9–15",
+            "text": "Und Mose sprach zu Aaron: Sage der ganzen Gemeine der Kinder Israel: Kommt herbei vor den HErrn, denn Er hat euer Murren gehöret. Und da Aaron also redete zu der ganzen Gemeine der Kinder Israel, wandten sie sich gegen die Wüste; und siehe: die Herrlichkeit des HErrn erschien in einer Wolke. Und der HErr sprach zu Mose: Ich habe der Kinder Israel Murren gehöret. Sage ihnen: Zwischen abends sollt ihr Fleisch zu essen haben, und am Morgen Brotes satt werden, und inne werden, daß Ich der HErr, euer Gott, bin. Und am Abend kamen Wachteln herauf, und bedeckten das Heer. Und am Morgen lag der Tau um das Heer her. Und als der Tau weg war, siehe: da lag's in der Wüste rund und klein wie der Reif auf dem Lande. Und da es die Kinder Israel sahen, sprachen sie untereinander: Man hu (d. h. was ist das?); denn sie wußten nicht, was es war. Mose aber sprach zu ihnen: Es ist das Brot, das euch der HErr zu essen gegeben hat."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Brief S. Pauli an die Korinther 4, 7–11",
+            "text": "Wir haben aber solchen Schatz in irdenen Gefäßen, auf daß die überschwengliche Kraft sei Gottes, und nicht von uns. Wir haben allenthalben Trübsal; aber wir ängsten uns nicht. Uns ist bange; aber wir verzagen nicht. Wir leiden Verfolgung; aber wir werden nicht verlassen. Wir werden unterdrückt; aber wir kommen nicht um; und tragen um allezeit das Sterben des HErrn Jesu an unserm Leibe, auf daß auch das Leben des HErrn Jesu an unserm Leibe offenbar werde. Denn wir, die wir leben, werden immerdar in den Tod gegeben um Jesu willen, auf daß auch das Leben Jesu offenbar werde an unserm sterblichen Fleische."
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun lob, mein Seel (Die Gottesgnad alleine)",
+            "melodie": "116",
+            "strophen": [
+              {
+                "links": [
+                  "Die Gottesgnad alleine",
+                  "Steht fest und bleibt in Ewigkeit",
+                  "Bei Seiner liebn Gemeine,",
+                  "Die steht in Seiner Furcht bereit,",
+                  "Die Seinen Bund behalten;",
+                  "Er herrcht im Himmelreich.",
+                  "Ihr starken Engel, waltet",
+                  "Seins Lobs und dient zugleich",
+                  "Dem großen HErrn zu Ehren",
+                  "Und treibt Sein heilges Wort.",
+                  "Mein Seel soll auch vermehren",
+                  "Sein Lob an allem Ort."
+                ],
+                "rechts": [
+                  "Sei Lob und Preis mit Ehren",
+                  "Gott Vater, Sohn, Heiligem Geist;",
+                  "Der woll in uns vermehren",
+                  "Was Er aus Gnaden uns verheißt,",
+                  "Daß wir Ihm fest vertrauen,",
+                  "Gänzlich verlassn auf Ihn,",
+                  "Von Herzen auf Ihn bauen,",
+                  "Stets unsre Herz Mut und Sinn",
+                  "Ihm kindlich tun anhangen.",
+                  "Drauf singen wir zur Stund:",
+                  "Amen, wir werdns erlangen,",
+                  "Glaubens von Herzensgrund."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Von Traurigkeit ist euer Herz erfüllt, aber eure Freude wird Niemand von euch nehmen. Hallelujah, Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_mittwoch",
+      "titel": "Mittwoch nach dem Jubelsonntag",
+      "wochentag": "Mittwoch",
+      "seiten": [
+        197,
+        199
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "46"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gelobet sei der HErr",
+            "melodie": "110",
+            "strophen": [
+              {
+                "links": [
+                  "Gelobet sei der HErr,",
+                  "Mein Gott, mein Licht, mein Leben,",
+                  "Mein Schöpfer, Der mir hat",
+                  "Mein Leib und Seel gegeben,",
+                  "Mein Vater, Der mich schützt",
+                  "Von Mutterleibe an,",
+                  "Der alle Augenblick",
+                  "Viel Guts an mir getan."
+                ],
+                "rechts": [
+                  "Gelobet sei der HErr,",
+                  "Mein Gott, mein Heil, mein Leben,",
+                  "Des Vaters liebster Sohn,",
+                  "Der Sich für mich gegeben,",
+                  "Der mich erlöset hat",
+                  "Mit Seinem teuren Blut,",
+                  "Der mir im Glauben schenkt",
+                  "Das allerhöchste Gut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 15, 17–25",
+            "text": "Das gebiete Ich euch, daß ihr euch untereinander liebet. So euch die Welt hasset, so wisset, daß sie Mich vor euch gehasset hat. Wäret ihr von der Welt, so hätte die Welt das Ihre lieb; dieweil ihr aber nicht von der Welt seid, sondern Ich habe euch von der Welt erwählet, darum hasset euch die Welt. Gedenket an Mein Wort, das Ich euch gesagt habe: Der Knecht ist nicht größer denn sein Herr. Haben sie Mich verfolget, sie werden euch auch verfolgen; haben sie Mein Wort gehalten, so werden sie eures auch halten. Aber das alles werden sie euch tun um Meines Namens willen; denn sie kennen Den nicht, Der Mich gesandt hat. Wenn Ich nicht kommen wäre, und hätte es ihnen gesaget, so hätten sie keine Sünde; nun aber können sie nichts vorwenden, ihre Sünde zu entschuldigen. Wer Mich hasset, der hasset auch Meinen Vater. Hätte Ich nicht die Werke getan unter ihnen, die kein Anderer getan hat, so hätten sie keine Sünde; nun aber haben sie es gesehen, und hassen doch beide: Mich und Meinen Vater. Doch daß erfüllet werde der Spruch, in ihrem Gesetze geschrieben: „Sie hassen Mich ohne Ursache.“"
+          },
+          {
+            "typ": "gebet",
+            "text": "Du läßt uns, o HErr, vor Dir frohlocken in österlicher Freude; wir bitten Dich: laß uns ewig froh werden in himmlischer Verklärung durch Den, Der dem Tode die Macht genommen und hat Leben und ein unvergängliches Wesen an das Licht gebracht, und lebet und regieret in Ewigkeit.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gelobet sei der HErr (Mein Gott, mein Trost)",
+            "melodie": "110",
+            "strophen": [
+              {
+                "links": [
+                  "Gelobet sei der HErr,",
+                  "Mein Gott, mein Trost, mein Leben,",
+                  "Des Vaters werter Geist,",
+                  "Den mir der Sohn gegeben,",
+                  "Der mir mein Herz erquickt,",
+                  "Der mir gibt neue Kraft,",
+                  "Der mir in aller Not",
+                  "Rat Trost und Hilfe schafft."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Hosea 2, 18–23",
+            "text": "Und Ich will zur selbigen Zeit ihnen einen Bund machen mit den Tieren auf dem Felde, mit den Vögeln unter dem Himmel und mit dem Gewürm auf Erden, und will Bogen, Schwert und Krieg vom Lande zerbrechen, und will sie sicher wohnen lassen. Ich will Mich mit dir verloben in Ewigkeit; Ich will Mich mit dir vertrauen in Gerechtigkeit und Gericht, in Gnade und Barmherzigkeit. Ja, im Glauben will Ich Mich mit dir verloben; und du wirst den HErrn erkennen. Zur selbigen Zeit, spricht der HErr, will Ich erhören: Ich will den Himmel erhören, und der Himmel soll die Erde erhören; und die Erde soll Korn, Most und Oel erhören, und dieselbigen sollen Jesreel erhören. Und Ich will Mir sie auf Erden zum Samen behalten, und Mich erbarmen über Die, so in Ungnaden war, und sagen zu Dem, das nicht Mein Volk war: Du bist Mein Volk; und es wird sagen: Du bist mein Gott."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "131"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Offenbarung S. Johannis 3, 1–6",
+            "text": "Und dem Engel der Gemeine zu Sardes schreibe: Das saget, Der die sieben Geister Gottes hat und die sieben Sterne: Ich weiß deine Werke, denn du hast den Namen, daß du lebest, und bist tot. Werde wacker, und stärke das Andere, das sterben will; denn Ich habe deine Werke nicht völlig erfunden vor Gott. So gedenke nun, wie du empfangen und gehöret hast, und halte es, und tu Buße. So du nicht wirst wachen, werde Ich über dich kommen wie ein Dieb, und wirst nicht wissen, welche Stunde Ich über dich kommen werde. Aber du hast etliche Namen zu Sardes, die nicht ihre Kleider besudelt haben; und sie werden mit Mir wandeln in weißen Kleidern; denn sie sind's wert. Wer überwindet, der soll mit weißen Kleidern angelegt werden, und Ich werde seinen Namen nicht austilgen aus dem Buch des Lebens, und Ich will seinen Namen bekennen vor Meinem Vater und vor Seinen Engeln. Wer Ohren hat, der höre, was der Geist der Gemeinen saget."
+          },
+          {
+            "typ": "lied",
+            "titel": "Gelobet sei der HErr (Mein Gott, Der ewig lebet)",
+            "melodie": "110",
+            "strophen": [
+              {
+                "links": [
+                  "Gelobet sei der HErr,",
+                  "Mein Gott, Der ewig lebet,",
+                  "Den alles alles lobt",
+                  "Was in den Lüften schwebet;",
+                  "Gelobet sei der HErr,",
+                  "Des Name heilig heißt:",
+                  "Gott Vater, Gott der Sohn,",
+                  "Und Gott der werte Geist."
+                ],
+                "rechts": [
+                  "Dem wir das Heilig jetzt",
+                  "Mit Freuden lassen klingen,",
+                  "Und mit der Engelchar",
+                  "Das Heilig Heilig singen;",
+                  "Den herzlich lobt und preist",
+                  "Die ganze Christenheit.",
+                  "Gelobet sei mein Gott",
+                  "In alle Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Eure Traurigkeit, Hallelujah!",
+              "Wird in Freude verkehret werden. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_donnerstag",
+      "titel": "Donnerstag nach dem Jubelsonntag",
+      "wochentag": "Donnerstag",
+      "seiten": [
+        200,
+        202
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErrn preisen",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Lasset uns den HErren preisen",
+                  "Und vermehren Seinen Ruhm;",
+                  "Stimmet an die süßen Weisen,",
+                  "Die ihr seid Sein Eigentum.",
+                  "Ewig währet Sein Erbarmen,",
+                  "Ewig will Er uns umarmen",
+                  "Mit der süßen Liebeshuld,",
+                  "Nicht gedenken unsrer Schuld;",
+                  "Preiset ewig Seinen Namen,",
+                  "Die ihr seid von Abrams Samen.",
+                  "Rühmet ewig Seine Werke",
+                  "Gebet Ihm Lob Ehr und Stärke."
+                ],
+                "rechts": [
+                  "Ja, wir wollen nur mit Freuden",
+                  "Zu dem lieben Vater gehn,",
+                  "Uns in Seiner Liebe weiden,",
+                  "Wie Die tun, so vor Ihm stehn:",
+                  "Heilig heilig heilig singen;",
+                  "Hallelujah! soll erklingen",
+                  "Unserm Gotte und dem Lamm,",
+                  "Unserm holden Bräutigam.",
+                  "Lasset Seinen Ruhm erschallen,",
+                  "Und erzählt Sein Werk vor Allen,",
+                  "Daß Er ewig uns erwählet",
+                  "Und zu Seinem Volk gezählet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 21, 20–24",
+            "text": "Petrus wandte sich um, und sah den Jünger folgen, welchen Jesus lieb hatte, der auch an Seiner Brust am Abendessen gelegen war, und gesaget hatte: HErr, wer ist's, der Dich verrät? Da Petrus diesen sah, spricht er zu Jesu: HErr, was soll aber dieser? Jesus spricht zu ihm: So Ich will, daß er bleibe, bis Ich komme, was gehet es dich an? Folge du Mir nach! Da ging eine Rede aus unter den Brüdern: Dieser Jünger stirbt nicht. Und Jesus sprach nicht zu ihm: Er stirbet nicht, sondern: So Ich will, daß er bleibe, bis Ich komme, was gehet es dich an? Dies ist der Jünger, der von diesen Dingen zeuget, und hat dies geschrieben; und wir wissen, daß sein Zeugnis wahrhaftig ist."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErrn preisen (Tretet nur getrost)",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Tretet nur getrost zum Throne,",
+                  "Da der Gnadenstuhl zu sehn;",
+                  "Es kann euch von Gottes Sohne",
+                  "Nichts als Lieb und Huld geschehn.",
+                  "Er erwartet mit Verlangen,",
+                  "Bis Er könne uns umfangen",
+                  "Und das allerhöchste Gut",
+                  "Uns mitteilen durch Sein Blut.",
+                  "Große Gnad ist da zu finden:",
+                  "Er will Sich mit uns verbinden,",
+                  "Und soll niemals etwas können",
+                  "Uns von Seiner Liebe trennen."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 61, 10–11",
+            "text": "Ich freue mich im HErrn, und meine Seele ist fröhlich in meinem Gott; denn Er hat mich angezogen mit Kleidern des Heils, und mit dem Rock der Gerechtigkeit gekleidet, wie einen Bräutigam, mit priesterlichem Schmuck gezieret, und wie eine Braut, die in ihrem Geschmeide pranget. Denn gleichwie Gewächs aus der Erde wächst, und Same im Garten aufgehet: also wird Gerechtigkeit und Lob vor allen Heiden aufgehen aus dem HErrn HErrn."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Apostelgeschichte 4, 13–20",
+            "text": "Sie sahen aber an die Freudigheit des Petrus und Johannes, und verwunderten sich; denn sie waren gewiß, daß es ungelehrte Leute und Laien waren, und kannten sie auch wohl, daß sie mit Jesu gewesen waren. Sie sahen aber den Menschen, der gesund war worden, bei ihnen stehen, und hatten nichts dawider zu reden. Da hießen sie sie hinausgehen aus dem Rat, und handelten miteinander, und sprachen: Was wollen wir diesen Menschen tun? Denn das Zeichen, durch sie geschehen, ist kund, offenbar Allen, die zu Jerusalem wohnen, und wir können's nicht leugnen. Aber auf daß es nicht weiter einreiße unter das Volk, lasset uns ernstlich sie bedräuen, daß sie hinfort keinem Menschen von diesem Namen sagen. Und riefen ihnen, und geboten ihnen, daß sie sich allerdings nicht hören ließen, noch lehreten in dem Namen Jesu. Petrus aber und Johannes antworteten und sprachen zu ihnen: Richtet ihr selbst, ob's vor Gott recht sei, daß wir euch mehr gehorchen denn Gott. Wir können's ja nicht lassen, daß wir nicht reden sollten, was wir gesehen und gehöret haben."
+          },
+          {
+            "typ": "lied",
+            "titel": "Lasset uns den HErrn preisen (Er hat nunmehr Selbst)",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Er hat nunmehr Selbst die Fülle",
+                  "Seiner Gottheit aufgetan,",
+                  "Und es ist Sein ernster Wille,",
+                  "Daß nun komme Jedermann.",
+                  "Keiner soll sich hierbei schämen,",
+                  "Sondern Gnad um Gnade nehmen;",
+                  "Wer ein hungrig Herze hat,",
+                  "Wird aus Seiner Fülle satt.",
+                  "Ewig solche Fülle währet,",
+                  "Die uns soviel Guts bescheret;",
+                  "Wollust, die uns ewig tränket,",
+                  "Wird uns daraus eingeschenket."
+                ],
+                "rechts": [
+                  "Nun, Du Liebster, unser Fallen,",
+                  "Damit wir Dir dankbar sein,",
+                  "Laß Dir gnädig wohlgefallen,",
+                  "Bis wir alle insgemein",
+                  "Ewig Deine Gütigkeiten",
+                  "Mit gesamtem Lob ausbreiten,",
+                  "Da wir werden Gloria",
+                  "Singen und Hallelujah.",
+                  "Preis Ehr Ruhm Dank Macht und Stärke",
+                  "Und, was rühmet Seine Werke,",
+                  "Werde unserm Gott gegeben;",
+                  "Laßt uns Ihm zu Ehren leben!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wahrlich, wahrlich, Ich sage euch: Ich werde euch wiedersehen, und euer Herz wird sich freuen, und eure Freude wird Niemand von euch nehmen. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_freitag",
+      "titel": "Freitag nach dem Jubelsonntag",
+      "wochentag": "Freitag",
+      "seiten": [
+        203,
+        205
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobet Gott unsern HErren",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "Lobet Gott unsern HErren",
+                  "In Seinem Heiligtum,",
+                  "Zu Lobe Seiner Ehren",
+                  "Macht herrlich Seinen Ruhm;",
+                  "Lobt Ihn am Firmamente;",
+                  "Da Seine groß Gewalt",
+                  "Und Sein stark Regimente",
+                  "Zu sehn ist mannigfalt."
+                ],
+                "rechts": [
+                  "Lobet Ihn fröhlich Alle",
+                  "Mit der Posaunen Klang,",
+                  "Dem HErren zu Gefallen",
+                  "Macht ein lieblich Gesang",
+                  "Mit Psalter Harf und Geigen",
+                  "Samt andern Instrument;",
+                  "Mit Pauken Pfeifn und Reigen",
+                  "Preiset Sein Lob behend."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 10, 1–11",
+            "text": "Wahrlich, wahrlich, Ich sage euch: Wer nicht zur Thür hineingehet in den Schafstall, sondern steiget anderswo hinein, der ist ein Dieb und ein Mörder. Der aber zur Thür hineingehet, der ist ein Hirte der Schafe. Demselbi gen tut der Thürhüter auf, und die Schafe hören seine Stimme; und er rufet seinen Schafen mit Namen, und führet sie aus. Und wenn er seine Schafe hat ausgelassen, gehet er vor ihnen hin, und die Schafe folgen ihm nach; denn sie kennen seine Stimme. Einem Fremden aber folgen sie nicht nach, sondern fliehen von ihm; denn sie kennen der Fremden Stimme nicht. Diesen Spruch sagte Jesus zu ihnen; sie vernahmen aber nicht, was es war, das Er zu ihnen sagte. Da sprach Jesus wieder zu ihnen: Wahrlich, wahrlich, Ich sage euch: Ich bin die Thür zu den Schafen. Alle, die vor Mir kommen sind, die sind Diebe und Mörder; aber die Schafe haben ihnen nicht gehorchet. Ich bin die Thür; so Jemand durch Mich eingehet, der wird selig werden, und wird ein und aus gehen, und Weide finden. Ein Dieb kommt nicht, denn daß er stehle, würge und umbringe. Ich bin kommen, daß sie das Leben und volle Genüge haben sollen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie erkannten den HErrn Jesum, Hallelujah!",
+              "An dem, da Er das Brot brach. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lobet Gott unsern HErren (Es soll den HErrn loben)",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "Es soll den HErren loben",
+                  "Und preisen immerdar",
+                  "Im Himmel hoch dort oben",
+                  "Die engelische Schar;",
+                  "Desgleichen auch auf Erden:",
+                  "Alles was Odem hat",
+                  "Soll Seines Ruhms voll werden,",
+                  "Preisn Seine Wundertat."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Sirach 51, 1–17",
+            "text": "Ein Gebet Jesu, des Sohns Sirachs. Ich danke Dir, HErr, mein König, und lobe Dich, Gott, meinen Heiland. Ich danke Deinem Namen, daß Du mein Schutz und Hilfe bist, und meinen Leib aus dem Verderben, vom Strick der falschen Zunge und den Lügenmäulern erlöset hast; und hast mir geholfen wider die Feinde, und hast mich errettet nach Deiner großen und hochgerühmten Barmherzigkeit von dem Brüllen Derer, die mich fressen wollten; aus der Hand Derer, die mir nach dem Leben stunden, aus vielen Trübsalen, darin ich lag; aus dem Brande, der mich umgeben hatte, mitten aus dem Feuer, das ich nicht angezündet hatte, aus dem tiefen Rachen der Hölle; von den falschen Kläffern und Lügnern vor dem Könige und von ungerechtem Urteil. Ich war dem Tod nahe, und mein Leben war schier zur Hölle gesunken; ich war umringet, und Niemand half mir; ich suchte Hilfe bei den Menschen, und fand keine. Da gedachte ich, HErr, an Deine Barmherzigkeit, und wie Du allezeit geholfen hast; denn Du errettest Alle, die auf Dich harren, und erlösest sie aus den Händen der Heiden. Ich betete zu Gott wider ihren Grimm, und flehte um Erlösung vom Tod; und rief an den HErrn, meinen Vater und Herrscher, daß Er mich nicht verließe in der Not, und wenn die Stolzen trotzeten, und ich keine Hilfe hatte. Ich lobe Deinen Namen ohne Unterlaß, und ich preise und danke Dir; denn mein Gebet ist erhöret, und Du hast mich errettet aus dem Verderben und von allem Uebel. Darum will ich Dir, HErr, danken, und loben, und Deinen Namen preisen."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief S. Pauli an die Römer 15, 30–33",
+            "text": "Ich ermahne euch aber, lieben Brüder, durch unsern HErrn Jesum Christ und durch die Liebe des Geistes, daß ihr mir helfet kämpfen mit Beten für mich zu Gott, auf daß ich errettet werde von den Ungläubigen in Judäa, und daß mein Dienst, den ich gen Jerusalem tue, angenehm werde den Heiligen, auf daß ich mit Freuden zu euch komme durch den Willen Gottes, und mich mit euch erquicke. Der Gott aber des Friedens sei mit euch allen! Amen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobet Gott unsern HErren (Amen mit Mund und Herzen)",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "Amen mit Mund und Herzen",
+                  "Sprecht, o ihr gläubig Schar,",
+                  "All Traurigkeit und Schmerzen",
+                  "Treibt von euch ganz und gar.",
+                  "Seid fröhlich in dem HErren;",
+                  "Und lobet Ihn allezeit:",
+                  "Er wird in Freud verkehren",
+                  "All euer Herzeleid."
+                ],
+                "rechts": [
+                  "Er wird auch reichlich geben",
+                  "Alls was euch nötig ist,",
+                  "Allhier in diesem Leben",
+                  "Und dort zu aller Frist;",
+                  "Wird euch in Himmel führen",
+                  "Und selig machen gar,",
+                  "Tuts mit einm Eid beteuren,",
+                  "Amen, das werde wahr!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ueber ein Kleines, so werdet ihr Mich nicht sehen, und aber über ein Kleines, so werdet ihr Mich sehen. Hallelujah!",
+              "Denn Ich gehe zum Vater. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "jubilate_sonnabend",
+      "titel": "Sonnabend nach dem Jubelsonntag",
+      "wochentag": "Sonnabend",
+      "seiten": [
+        206,
+        207
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du, meine Seele, singe",
+            "melodie": "37",
+            "strophen": [
+              {
+                "links": [
+                  "Du, meine Seele, singe,",
+                  "Wohlauf, und singe schön",
+                  "Dem, Welchem alle Dinge",
+                  "Zu Dienst und Willen stehn.",
+                  "Ich will den HErren droben",
+                  "Hier preisen auf der Erd;",
+                  "Ich will Ihn herzlich loben,",
+                  "So lang ich leben werd."
+                ],
+                "rechts": [
+                  "Wohl dem, der einzig schauet",
+                  "Nach Jakobs Gott und Heil;",
+                  "Wer Dem sich anvertrauet,",
+                  "Der hat das beste Teil,",
+                  "Das schönste Gut erlesen,",
+                  "Den schönsten Schatz geliebt:",
+                  "Sein Herz und ganzes Wesen",
+                  "Bleibt ewig unbetrübt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 8, 1–5",
+            "text": "Und es begab sich darnach, daß Er reisete durch Städte und Märkte, und predigte und verkündigte das Evangelium vom Reich Gottes, und die Zwölfe mit Ihm; dazu etliche Weiber, die Er gesund hatte gemacht von den bösen Geistern und Krankheiten, nämlich: Maria, die da Magdalena heißet, von welcher waren sieben Teufel ausgefahren, und Johanna, das Weib Chusas, des Pflegers des Herodes, und Susanna und viel Andere, die Ihm Handreichung taten von ihrer Habe."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du, meine Seele, singe (Hier sind die treuen Sinnen)",
+            "melodie": "37",
+            "strophen": [
+              {
+                "links": [
+                  "Hier sind die treuen Sinnen,",
+                  "Die Niemand Unrecht tun,",
+                  "All Denen Gutes gönnen,",
+                  "Die in der Treu beruhn.",
+                  "Gott hält Sein Wort mit Freuden,",
+                  "Und, was Er spricht, geschicht,",
+                  "Und wer Gewalt muß leiden,",
+                  "Den schützt Er im Gericht."
+                ],
+                "rechts": [
+                  "Er weiß viel tausend Weisen",
+                  "Zu retten aus dem Tod,",
+                  "Ernährt und giebet Speisen",
+                  "Zur Zeit der Hungersnot;",
+                  "Macht schöne rote Wangen",
+                  "Oft bei geringem Mahl,",
+                  "Und Die da sind gefangen,",
+                  "Die reißt Er aus der Qual."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Sirach 44, 1–15",
+            "text": "Laßt uns loben die berühmten Männer und unsere Väter nacheinander! Viel herrliche Dinge hat der HErr bei ihnen getan von Anfang durch Seine große Macht. Sie haben ihre Königreiche wohl regieret, und löbliche Taten getan. Sie haben weislich geraten und geweissaget. Sie haben Land und Leute regieret mit Rat und Verstand der Schrift. Sie haben die Musik gelernet, und geistliche Lieder gedichtet. Sie sind auch reich gewesen, und haben große Güter gehabt, und im Frieden regieret, solange sie hie gewesen sind. Also sind sie Alle zu ihren Zeiten löblich gewesen, und bei ihrem Leben gerühmt. Und die haben einen herrlichen Namen hinter sich gelassen. Aber die Andern haben keinen Ruhm, und sind umkommen, als wären sie nie gewesen. Und da sie noch lebeten, waren sie eben, als lebeten sie nicht; und ihre Kinder nach ihnen auch also. Aber jenen heiligen Leuten, welcher Gerechtigkeit nicht vergessen wird, ist ein gut Erbe blieben samt ihren Kindern. Ihre Nachkommen sind im Bund blieben, und um ihretwillen sind ihre Kindeskinder immer für und für blieben; und ihr Lob wird nicht untergehen. Sie sind im Frieden begraben; aber ihr Name lebt ewiglich. Die Leute reden von ihrer Weisheit, und die Gemeine verkündiget ihr Lob."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 14, 26–33",
+            "text": "Wie ist es denn nun, lieben Brüder? Wenn ihr zusammenkommet, so hat ein Jeglicher Psalmen, er hat eine Lehre, er hat Zungen, er hat eine Offenbarung, er hat eine Auslegung. Lasset es Alles geschehen zur Besserung. So Jemand mit Zungen redet, so seien es ihrer Zween oder aufs meiste Drei, und Einer um den Andern, und Einer lege es aus. Ist aber kein Ausleger da, so schweige er unter der Gemeine, rede aber ihm selber und Gott. Weissager aber lasset reden zween oder drei und die Andern lasset richten. So aber eine Offenbarung geschieht einem Andern, der da sitzt, so schweige der Erste. Ihr könnet wohl Alle weissagen, Einer nach dem Andern, auf daß sie Alle lernen, und Alle ermahnet werden. Und die Geister der Propheten sind den Propheten untertan. Denn Gott ist nicht ein Gott der Unordnung, sondern des Friedens."
+          },
+          {
+            "typ": "lied",
+            "titel": "Du, meine Seele, singe (Er ist das Licht der Blinden)",
+            "melodie": "37",
+            "strophen": [
+              {
+                "links": [
+                  "Er ist das Licht der Blinden,",
+                  "Erleuchtet ihr Gesicht,",
+                  "Und Die sich schwach befinden,",
+                  "Die stellt Er aufgericht.",
+                  "Er liebet alle Frommen,",
+                  "Und Die Ihm günstig seind,",
+                  "Die finden, wenn sie kommen,",
+                  "An Ihm den besten Freund."
+                ],
+                "rechts": [
+                  "Ach, ich bin viel zu wenig,",
+                  "Zu rühmen Seinen Ruhm;",
+                  "Der HErr allein ist König,",
+                  "Ich eine welke Blum.",
+                  "Jedoch, weil ich gehöre",
+                  "Gen Zion in Sein Zelt,",
+                  "J'ts billig, daß ich ehre",
+                  "Sein Lob vor aller Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich gehe hin zu Dem, Der Mich gesandt hat, und Keiner von euch fragt Mich: Wohin gehst du? Hallelujah, Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
