@@ -1,0 +1,612 @@
+{
+  "id": "quasimodogeniti",
+  "titel": "Quasimodogeniti (1. Sonntag nach Ostern)",
+  "kirchenzeit": "ostern",
+  "reihe": 3,
+  "tage": [
+    {
+      "id": "quasimodogeniti-sonntag",
+      "titel": "Sonntag nach Ostern (Nachostern, Weißer Sonntag) Quasimodogeniti",
+      "wochentag": "Sonntag",
+      "seiten": [142, 147],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hallelujah! Als die neugeborenen Kindlein, Hallelujah!",
+              "Seid begierig nach der lauteren Milch des Evangeliums, Hallelujah!",
+              "So ihr anders geschmeckt habt, wie freundlich der HErr ist. Hallelujah!"
+            ]
+          },
+          { "typ": "psalm", "nummern": ["81", "I."] },
+          {
+            "typ": "lied",
+            "titel": "Jesus Christus unser Heiland",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Jesus Christus unser Heiland,","Der den Tod überwand,","Ist auferstanden,","Die Sünd hat Er gefangen.","Kyrie eleison."],
+                "rechts": ["Der ohn Sünden war geborn,","Trug für uns Gottes Zorn,","Hat uns versöhnet,","Daß uns Gott Sein Huld gönnet.","Kyrie eleison."]
+              },
+              {
+                "links": ["Tod Sünd Leben und Genad","Alls in Händen Er hat.","Er kann erretten","Alle die zu Jhm treten.","Kyrie eleison."],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Unser Wandel ist im Himmel, Hallelujah!",
+              "Von dannen wir auch warten des Heilandes Jesu Christi, des HErrn. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 20, 19—31.",
+            "text": "Am Abend aber desselbigen ersten Tages der Woche, da die Jünger versammelt und die Thüren verschlossen waren aus Furcht vor den Juden, kam Jesus, und trat mitten ein, und spricht zu ihnen: Friede sei mit euch! Und als Er das gesagt hatte, zeigte Er ihnen die Hände und Seine Seite. Da wurden die Jünger froh, daß sie den HErrn sahen. Da sprach Jesus abermal zu ihnen: Friede sei mit euch! Gleichwie Mich der Vater gesandt hat, so sende Ich euch. Und da Er das gesagt hatte, blies Er sie an, und spricht zu ihnen: Nehmet hin den heiligen Geist! Welchen ihr die Sünden erlasset, denen sind sie erlassen; und welchen ihr sie behaltet, denen sind sie behalten. Thomas aber, der Zwölfe einer, der da heißet Zwilling, war nicht bei ihnen, da Jesus kam. Da sagten die andern Jünger zu ihm: Wir haben den HErrn gesehen. Er aber sprach zu ihnen: Es sei denn, daß ich in Seinen Händen sehe die Nägelmale, und lege meinen Finger in die Nägelmale, und lege meine Hand in Seine Seite, will ich's nicht glauben. Und über acht Tage waren abermal Seine Jünger drinnen, und Thomas mit ihnen. Kommt Jesus, da die Thüren verschlossen waren, und tritt mitten ein, und spricht: Friede sei mit euch! Darnach spricht Er zu Thomas: Reiche deinen Finger her, und siehe Meine Hände, und reiche deine Hand her, und lege sie in Meine Seite, und sei nicht ungläubig, sondern gläubig. Thomas antwortete und sprach zu Jhm: Mein HErr und mein Gott! Spricht Jesus zu ihm: Dieweil du Mich gesehen hast, Thomas, so glaubest du. Selig sind, die nicht sehen, und doch glauben. Auch viel andere Zeichen tat Jesus vor Seinen Jüngern, die nicht geschrieben sind in diesem Buch. Diese aber sind geschrieben, daß ihr glaubet, Jesus sei Christ, der Sohn Gottes, und daß ihr durch den Glauben das Leben habet in Seinem Namen."
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Des Friedens Wurzel ist Versöhnung mit Gott; der Stamm ist ein furchtlos friedenvolles Leben, das sich von der Erde zum Himmel streckt; die Äste sind der Seelen heilige Bemühungen zum Frieden der Welt; die Blätter Blüten Früchte sind Bilder mannigfachen Gelingens friedenvoller Bemühungen in holdseligen Worten und Werken. Alles das liegt in dem Worte Friede und wird mit ihm gegeben; sonderlich aber Friede Gottes, Friede der Versöhnung, Abwendung des Gerichts und der Verdammnis, ein stilles Bewußtsein göttlicher Gnade im Leben und Sterben, eine unaussprechliche Seligkeit der abgeschiedenen Seele, Anschauen Jesu mit dem Seelenauge und einst auch mit dem Leibesauge, Auferstehung, Vereinigung mit Gottes auserwähltem Volk für ewig: das alles folgt ja aus der Versöhnung mit Gott und aus dem Frieden Gottes, das alles ist Friede und liegt im Worte Friede. Das alles spricht der HErr im Friedensgruß den Jüngern zu, das alles liegt in jedem Friedensgruß, welchen wir, des HErrn Knechte, in den Versammlungen sprechen. Denn unsre Worte und Seine Worte sind eins, dieweil wir nur Seine Worte in Seinem Auftrag sprechen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Am Abend aber des ersten Tages der Woche, da die Jünger versammelt und die Thüren verschlossen waren aus Furcht vor den Juden,",
+              "Kam Jesus, und trat mitten ein, und spricht zu ihnen: Friede sei mit euch!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: verleihe, daß wir, die wir das Auferstehungsfest unsers HErrn feiern, durch Erneuerung des heiligen Geistes vom Tod der Seelen auferstehen; durch Denselben Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          { "typ": "rubrik", "inhalt": "Tempore paschali." },
+          {
+            "typ": "sondertext",
+            "titel": "Ad coenam Agni providi",
+            "untertitel": "Zum Mahl des Gotteslamms bereit",
+            "absätze": [
+              "Ad coenam Agni providi / Et stolis albis candidi: / Post transitum Maris Rubri / Christo canamus principi; || Zum Mahl des Gotteslamms bereit, / Und angetan mit weißem Kleid: / Die wir entflohn dem Roten Meer — / Wir singen Dir, Christ unser HErr;",
+              "Protecti Paschae vespere / A devastante angelo, / Erepti de durissimo / Pharaonis imperio. || Behütet in der Passahnacht, / Bewahrt vor des Würgengels Macht, / Herausgerissen aus der Fron / Des herzverstockten Pharaon.",
+              "Jam Pascha nostrum Christus est, / Qui immolatus agnus est; / Sinceritatis azyma / Caro ejus oblata est. || Nun, unser Passah ist der Christ, / Der als ein Lamm geopfert ist; / Als Süßteig völliger Lauterkeit / Hält Er Sich Selbst für uns bereit.",
+              "Quaesumus, auctor omnium, / In hoc paschali gaudio: / Ab omni mortis impetu / Tuum defende populum. || Von österlicher Freud entflammt / Bitten wir Den, Dem alls entstammt: / Behüt in Gnaden und bewahr / Dein Volk vor jeder Todesgefahr.",
+              "Gloria Tibi, Domine, / Qui surrexisti a mortuis, / Cum Patre et Sancto Spiritu / In sempiterna saecula. Amen. || Gelobet seist Du, HErre Christ, / Der von dem Tod erstanden ist, / Mittsamt dem Vater und dem Geist / Sei ohne Unterlaß gepreist! Amen."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Buch Mose 32, 22—31.",
+            "text": "Also ging das Geschenk vor ihm her; aber er blieb dieselbe Nacht beim Heer, und stund auf in der Nacht, und nahm seine zwei Weiber und die zwo Mägde und seine elf Kinder, und zog an die Furt des Jabbok, nahm sie, und führte sie über das Wasser, daß hinüber kam, was er hatte; und blieb allein. Da rang ein Mann mit ihm, bis die Morgenröte anbrach. Und da Er sah, daß Er ihn nicht übermochte, rührte Er das Gelenk seiner Hüfte an; und das Gelenk der Hüfte Jakobs ward über dem Ringen mit Jhm verrenkt. Und Er sprach: Laß Mich gehen, denn die Morgenröte bricht an. Aber er antwortete: Ich lasse Dich nicht, Du segnest mich denn. Er sprach: Wie heißest du? Er antwortete: Jakob. Er sprach: Du sollst nicht mehr Jakob heißen, sondern Israel; denn du hast mit Gott und mit Menschen gekämpft, und bist obgelegen. Und Jakob fragte Jhn und sprach: Sage doch, wie heißest Du? Er aber sprach: Warum fragest du, wie Ich heiße? Und Er segnete ihn daselbst. Und Jakob hieß die Stätte Pniel; denn: ich habe Gott von Angesicht gesehen, und meine Seele ist genesen."
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du die Gläubigen in dem rechten Brunnen Israels, in der heiligen Taufe, erneuert hast: bewahre Deine Wiedergeborenen in Christo, damit sie unter keinem Anlauf des Feindes die Gnade Deines himmlischen Segens verlieren, durch Denselben . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          { "typ": "leitwort", "zeilen": ["Selig sind, die nicht sehen, und doch glauben. Hallelujah!"] },
+          { "typ": "psalm", "nummern": ["113", "114."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Johannis 5, 1—5.",
+            "text": "Wer da glaubet, daß Jesus sei der Christ, der ist von Gott geboren; und wer da liebet Den, Der Jhn geboren hat, der liebet auch Den, Der von Jhm geboren ist. Daran erkennen wir, daß wir Gottes Kinder lieben, wenn wir Gott lieben, und Seine Gebote halten. Denn das ist die Liebe zu Gott, daß wir Seine Gebote halten; und Seine Gebote sind nicht schwer. Denn alles, was von Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat. Wer ist aber, der die Welt überwindet, wenn nicht der da glaubet, daß Jesus Gottes Sohn ist?"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wir danken Dir, HErr Jesu Christ",
+            "melodie": "44",
+            "strophen": [
+              {
+                "links": ["Wir danken Dir, HErr Jesu Christ,","Daß Du vom Tod erstanden bist","Und hast dem Tod zerstört sein Macht,","Und uns das Leben wiederbracht.","Hallelujah! Hallelujah!"],
+                "rechts": ["Wir bitten Dich durch Deine Gnad:","Nimm von uns unsre Missetat,","Und hilf uns durch die Güte Dein,","Daß wir Dein treue Diener sein.","Hallelujah!"]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Und über acht Tage waren abermals Seine Jünger drinnen, und Thomas mit ihnen.",
+              "Kommt Jesus, da die Thüren verschlossen waren, und tritt mitten ein, und spricht: Friede sei mit euch!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: gewähre uns, die wir das Osterfest gefeiert haben, die Kraft, im Wandel und Leben die Osterfreude und den Osterfrieden zu bewahren und zu bewähren; durch unsern HErrn . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-montag",
+      "titel": "Montag nach Kleinostern",
+      "wochentag": "Montag",
+      "seiten": [147, 151],
+      "stunden": {
+        "morgen": [
+          { "typ": "leitwort", "zeilen": ["Singet fröhlich Gott, Der unsre Stärke ist; Jauchzet dem Gott Jakobs."] },
+          { "typ": "psalm", "nummern": ["14."] },
+          {
+            "typ": "lied",
+            "titel": "Nun hat das heilge Gotteslamm",
+            "melodie": "Triumph, Triumph! es kommt mit Pracht",
+            "strophen": [
+              {
+                "links": ["Nun hat das heilge Gotteslamm,","Dem man am Kreuz das Leben nahm,","Den schönen Sieg an Höll und Tod","Behauptet, als ein wahrer Gott.","Triumph Triumph Triumph,","Triumph Viktoria,","Und ewiges Hallelujah!"],
+                "rechts": ["Ja, lieber Heiland, Deine Kraft","Hat uns nun Fried und Ruh geschafft;","Ganz matt sind die uns drängen sehr","Und gelten fort und fort nichts mehr.","Triumph Triumph Triumph,","Triumph Viktoria,","Und ewiges Hallelujah!"]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Christus hat die Gemeine gereiniget, Hallelujah!","Durch das Wasserbad im Wort. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 21, 15—19.",
+            "text": "Da sie nun das Mahl gehalten hatten, spricht Jesus zu Simon Petrus: Simon Jona, hast du Mich lieber, denn Mich Diese haben? Er spricht zu Jhm: Ja, HErr, Du weißt, daß ich Dich lieb habe. Spricht Er zu ihm: Weide Meine Lämmer! Spricht Er wieder zum andernmal zu ihm: Simon Jona, hast du Mich lieb? Er spricht zu Jhm: Ja, HErr, Du weißt, daß ich Dich lieb habe. Spricht Er zu ihm: Weide Meine Schafe! Spricht Er zum drittenmal zu ihm: Simon Jona, hast du Mich lieb? Petrus ward traurig, daß Er zum dritten Mal zu ihm sagte: Hast du Mich lieb? und sprach zu Jhm: HErr, Du weißt alle Dinge, Du weißt, daß ich Dich lieb habe. Spricht Jesus zu ihm: Weide Meine Schafe! Wahrlich, wahrlich, Ich sage dir: Da du jünger warest, gürtetest du dich selbst, und wandeltest, wo du hin wolltest; wenn du aber alt wirst, wirst du deine Hände ausstrecken, und ein Andrer wird dich gürten, und führen, wo du nicht hin willst. Das sagte Er aber, zu deuten, mit welchem Tode er Gott preisen würde. Und da Er das gesaget, spricht Er zu ihm: Folge Mir nach!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun hat das heilge Gotteslamm",
+            "melodie": "Triumph, Triumph! es kommt mit Pracht",
+            "strophen": [
+              {
+                "links": ["Was wollen wir denn fürchten sehr","Des Todes Macht, das höllsche Heer?","Laß toben was da will und kann,","Tritt nur den Kampf frisch mit ihn'n an.","Triumph Triumph Triumph,","Triumph Viktoria,","Und ewiges Hallelujah!"],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["24."] },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch Mose 15, 11—21.",
+            "text": "HErr, wer ist Dir gleich unter den Göttern? Wer ist Dir gleich, Der so mächtig, heilig, schrecklich, löblich und wundertätig sei? Da Du Deine rechte Hand ausrecktest, verschlang sie die Erde. Du hast geleitet durch Deine Barmherzigkeit Dein Volk, das Du erlöset hast, und hast sie geführt durch Deine Stärke zu Deiner heiligen Wohnung. Da das die Völker höreten, erbebeten sie; Angst kam die Philister an; da erschraken die Fürsten Edoms; Zittern kam die Gewaltigen Moabs an; alle Einwohner Kanaans wurden feig. Es fällt auf sie Erschrecken und Furcht durch Deinen großen Arm, daß sie erstarren wie die Steine, bis Dein Volk, HErr, hindurchkomme, bis das Volk hindurchkomme, das Du erworben hast. Du bringest sie hinein, und pflanzest sie auf dem Berge Deines Erbteils, den Du, HErr, Dir zur Wohnung gemacht hast, zu Deinem Heiligtum, HErr, das Deine Hand bereitet hat. Der HErr wird König sein immer und ewig. Denn Pharao zog hinein ins Meer mit Rossen und Wagen und Reitern; und der HErr ließ das Meer wieder über sie fallen. Aber die Kinder Israel gingen trocken mitten durchs Meer. Und Mirjam, die Prophetin, Aarons Schwester, nahm eine Pauke in ihre Hand, und alle Weiber folgeten ihr nach hinaus mit Pauken am Reigen. Und Mirjam sang ihnen vor: Laßt uns dem HErrn singen; denn Er hat eine herrliche Tat getan, Roß und Mann hat er ins Meer gestürzt."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["120."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Petri 1, 3—9.",
+            "text": "Gelobet sei Gott und der Vater unsers HErrn Jesu Christi, der uns nach Seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten, zu einem unvergänglichen und unbefleckten und unverwelklichen Erbe, das behalten wird im Himmel Euch, die ihr aus Gottes Macht durch den Glauben bewahret werdet zur Seligkeit, welche bereitet ist, daß sie offenbar werde zu der letzten Zeit. In derselbigen werdet ihr euch freuen, die ihr jetzt eine kleine Zeit, wo es sein soll, traurig seid in mancherlei Anfechtungen, auf daß euer Glaube rechtschaffen und viel köstlicher erfunden werde denn das vergängliche Gold, das durchs Feuer bewähret wird, zu Lobe, Preis und Ehre, wenn nun offenbaret wird Jesus Christus, Welchen ihr nicht gesehen und doch lieb habt, und nun an Jhn glaubet, wiewohl ihr Jhn nicht sehet, und werdet euch freuen mit unaussprechlicher und herrlicher Freude, und das Ende eures Glaubens davonbringen, nämlich der Seelen Seligkeit."
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun hat das heilge Gotteslamm",
+            "melodie": "Triumph, Triumph! es kommt mit Pracht",
+            "strophen": [
+              {
+                "links": ["O Heiland, hilf zu jeder Frist,","Der Du vom Tod erstanden bist,","Tritt her zu uns in aller Not,","Führ uns ins Leben durch den Tod.","Triumph Triumph Triumph,","Triumph Viktoria,","Und ewiges Hallelujah!"],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "trennlinie" },
+          { "typ": "rubrik", "inhalt": "Gedächtnis des heiligen Kreuzes (bis zum Dienstag der Bittwoche)" },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der am Kreuz hing ist von den Toten auferstanden, und hat uns erlöset. Hallelujah, Hallelujah!",
+              "Sagt es an unter den Völkern, Hallelujah!",
+              "Daß der HErr vom Kreuzesstamm herab herrscht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lasset uns beten: Gott, Der Du für uns Deinen Sohn des Kreuzes Pein hast lassen leiden, auf daß Du von uns des Feindes Gewalt triebest: verleih uns Deinen Dienern, daß wir die Gnade der Auferstehung erlangen; durch Denselben . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-dienstag",
+      "titel": "Dienstag nach Kleinostern",
+      "wochentag": "Dienstag",
+      "seiten": [152, 154],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["35."] },
+          {
+            "typ": "lied",
+            "titel": "Das Leben unfers Königs siegt",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Das Leben unfers Königs siegt,","Und hat sich durch den Tod geschwungen;","Wie höchst erfreulich ist's, daß es so wohl gelungen,","Und daß der Drachenkopf vor Seinen Füßen liegt."],
+                "rechts": ["Nun kann ich nicht mehr traurig sein,","Weil der Beherrscher aller Schmerzen:","Das Wort, mir nahe ist in meinem Herzen,","Und dringt als Sieger auch in meine Kräfte ein."]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Christus hat dem Tode die Macht genommen, Hallelujah!","Und das Leben und ein unvergängliches Wesen ans Licht gebracht. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Matthäi 28, 11—15.",
+            "text": "Da sie aber hingingen, siehe: da kamen etliche von den Hütern in die Stadt, und verkündigten den Hohenpriestern alles was geschehen war. Und sie kamen zusammen mit den Ältesten, und hielten Rat, und gaben den Kriegsknechten Gelds genug, und sprachen: Saget, Seine Jünger kamen des Nachts, und stahlen Jhn, dieweil wir schliefen. Und wo es würde auskommen bei dem Landpfleger, wollen wir ihn stillen, und schaffen, daß ihr sicher seid. Und sie nahmen das Geld, und taten, wie sie gelehret waren. Solches ist eine gemeine Rede worden bei den Juden bis auf den heutigen Tag."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich habe meinen Finger in die Nägelmale gelegt und meine Hand in Seine Seite, und habe gesagt:",
+              "Mein HErr und mein Gott, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, verleihe uns, die wir uns der Auferstehung unseres HErrn Jesu Christi freuen, daß wir wahrhaftiglich unser Heil empfangen mit allen Heiligen und Auserwählten; durch Denselben . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Das Leben unfers Königs siegt",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Wenn Jhm nun alles unterliegt,","Da sollst du dein Triumphlied singen","Und sollst mit Freuden dich durch alle Himmel schwingen,","Weil auch der letzte Feind: der Tod, wird sein besiegt."],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["25."] },
+          {
+            "typ": "lesung",
+            "ref": "Jesaja 4, 2—6.",
+            "text": "In der Zeit wird des HErrn Zweig lieb und wert sein, und die Frucht der Erde herrlich und schön bei denen, die erhalten werden in Israel. Und wer da wird übrig sein zu Zion, und überbleiben zu Jerusalem, der wird heilig heißen, ein Jeglicher, der geschrieben ist unter die Lebendigen zu Jerusalem. Dann wird der HErr den Unflat der Töchter Zions waschen, und die Blutschulden Jerusalems vertreiben von ihr durch den Geist, der richten, und ein Feuer anzünden wird. Und der HErr wird schaffen über alle Wohnung des Berges Zion, und wo sie versammelt ist, Wolke und Rauch des Tages, und Feuerglanz, der da brenne, des Nachts. Denn es wird ein Schirm sein über alles, was herrlich ist, und wird eine Hütte sein zum Schatten des Tages vor der Hitze, und eine Zuflucht und Verbergung vor dem Wetter und Regen."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["123."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Pauli an die Korinther 15, 35—44.",
+            "text": "Möchte aber Jemand sagen: Wie werden die Toten auferstehen? und mit welcherlei Leibe werden sie kommen? Du Narr, das du säest, wird nicht lebendig, es sterbe denn. Und das du säest, ist ja nicht der Leib, der werden soll, sondern ein bloß Korn, etwa Weizen oder der andern eines. Gott aber gibt ihm einen Leib, wie Er will, und einem jeglichen von den Samen seinen eignen Leib. Nicht ist alles Fleisch einerlei Fleisch, sondern ein ander Fleisch ist der Menschen, ein anders des Viehs, ein anders der Fische, ein anders der Vögel. Und es sind himmlische Körper und irdische Körper. Aber eine andre Herrlichkeit haben die himmlischen, und eine andre die irdischen. Eine andre Klarheit hat die Sonne, eine andre Klarheit hat der Mond, eine andre Klarheit haben die Sterne; denn ein Stern übertrifft den andern nach der Klarheit. Also auch die Auferstehung der Toten: Es wird gesäet verweslich, und wird auferstehen unverweslich. Es wird gesäet in Unehre, und wird auferstehen in Herrlichkeit. Es wird gesäet in Schwachheit, und wird auferstehen in Kraft. Es wird gesäet ein natürlicher Leib, und wird auferstehen ein geistlicher Leib. Ist ein natürlicher Leib, so ist auch ein geistlicher Leib."
+          },
+          {
+            "typ": "lied",
+            "titel": "Das Leben unfers Königs siegt",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Du Gott durchdringst die Erde ganz,","Daß sie die Rauigkeit verlieret,","Und man gar süße Kraft in ihren Früchten spüret,","Weil unser Erdreich fühlt des Himmels reinen Glanz."],
+                "rechts": ["Gelobt sei Gott schon in der Zeit,","Der uns die Freude hat gegeben,","Daß, wenn man in sich spürt die Kraft des Todes leben,","Man auch im Glauben fühlt des Lebens Tapferkeit."]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Reiche Deine Hand her und lege sie in Meine Seite, Hallelujah!",
+              "Und sei nicht ungläubig, sondern gläubig. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-mittwoch",
+      "titel": "Mittwoch nach Kleinostern",
+      "wochentag": "Mittwoch",
+      "seiten": [155, 157],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["45."] },
+          {
+            "typ": "lied",
+            "titel": "Erinnre dich, mein Geist",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Erinnre dich, mein Geist, erfreut","Des hohen Tags der Herrlichkeit;","Halt im Gedächtnis Jesum Christ,","Der von dem Tod erstanden ist."],
+                "rechts": ["Fühl alle Dankbarkeit für Jhn,","Als ob Er heute dir erschien;","Als spräch Er: Friede sei mit dir!","So freue dich, mein Geist, in mir."]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Gott sei Dank, Der uns den Sieg gegeben hat, Hallelujah!","Durch unsern HErrn Jesum Christum. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Marci 9, 7—10.",
+            "text": "Und es kam eine Wolke, die überschattete sie. Und eine Stimme fiel aus der Wolke, und sprach: Das ist Mein lieber Sohn, Den sollt ihr hören! Und bald darnach sahen sie um sich, und sahen Niemand mehr denn allein Jesum bei ihnen. Da sie aber vom Berge herabgingen, verbot ihnen Jesus, daß sie Niemand sagen sollten, was sie gesehen hatten, bis des Menschen Sohn auferstünde von den Toten. Und sie behielten das Wort bei sich, und befragten sich untereinander: Was ist doch das Auferstehen von den Toten?"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": ["Ich bin der rechte Weinstock, Hallelujah!","Jhr seid die Reben. Hallelujah!"]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, Der Du durch die siegreiche Auferstehung Deines Sohnes aus dem Grabe allen um der Sünde willen gequälten und betrübten Seelen eine ewige Gerechtigkeit hervorgebracht hast, wir bitten Dich: verleihe, daß wir in Worten und Werken, im Glauben und Wandel solchen Sieg kräftiglich verkündigen, damit unser Sterbliches verschlungen werde von dem Leben; durch Denselben . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Erinnre dich, mein Geist",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Vor Seinem Thron, in Seinem Reich,","Unsterblich heilig, Engeln gleich,","Und ewig ewig selig sein:","HErr, welche Herrlichkeit ist mein!"],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Dies Verwesliche muß anziehen das Unverwesliche, Hallelujah!","Und dies Sterbliche muß anziehen die Unsterblichkeit. Hallelujah!"] },
+          { "typ": "psalm", "nummern": ["26."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Buch Mose 45, 1—7.",
+            "text": "Da konnte sich Joseph nicht länger enthalten vor Allen, die um ihn her stunden, und er rief: Laßt Jedermann von mir hinausgehen! Und stund kein Mensch bei ihm, da sich Joseph seinen Brüdern zu erkennen gab. Und er weinte laut, daß es die Aegypter und das Gesinde Pharaos höreten; und sprach zu seinen Brüdern: Ich bin Joseph. Lebet mein Vater noch? Und seine Brüder konnten ihm nicht antworten, so erschraken sie vor seinem Angesicht. Er aber sprach zu seinen Brüdern: Tretet doch her zu mir! Und sie traten herzu. Und er sprach: Ich bin Joseph, euer Bruder, den ihr nach Aegypten verkauft habt und nun bekümmert euch nicht, daß ich darum zürne, daß ihr mich hierher verkauft habt; denn um eures Lebens willen hat mich Gott vor euch her gesandt. Denn dies sind zwei Jahre, daß es teuer im Lande ist; und sind noch fünf Jahre, daß kein Pflügen, noch kein Ernten sein wird. Aber Gott hat mich vor euch her gesandt, daß Er euch übrig behalte auf Erden, und euer Leben errette durch eine große Errettung."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["129."] },
+          {
+            "typ": "lesung",
+            "ref": "Offenbarung S. Johannis 1, 10—18.",
+            "text": "Ich war im Geist an des HErrn Tag, und hörete hinter mir eine große Stimme als einer Posaune, die sprach: Ich bin das A und das O, der Erste und der Letzte; und was du siehest, das schreibe in ein Buch, und sende es zu den Gemeinen in Asien, gen Ephesus und gen Smyrna und gen Pergamus und gen Thyatira und gen Sardes und gen Philadelphia und gen Laodicea. Und ich wandte mich um, zu sehen nach der Stimme, die mit mir redete. Und als ich mich wandte, sah ich sieben güldne Leuchter, und mitten unter den sieben Leuchtern Einen, Der war eines Menschen Sohn gleich, Der war angetan mit einem langen Gewand, und begürtet um die Brust mit einem güldnen Gürtel. Sein Haupt aber und Sein Haar war weiß wie weiße Wolle, als der Schnee, und Seine Augen wie eine Feuerflamme, und Seine Füße gleich wie Messing, das im Ofen glühet, und Seine Stimme wie groß Wasserrauschen; und hatte sieben Sterne in Seiner rechten Hand; und aus Seinem Munde ging ein scharf, zweischneidig Schwert; und Sein Angesicht leuchtete wie die helle Sonne. Und als ich Jhn sah, fiel ich zu Seinen Füßen als ein Toter; und Er legte Seine rechte Hand auf mich, und sprach zu mir: Fürchte dich nicht! Ich bin der Erste und der Letzte und der Lebendige. Ich war tot; und siehe: Ich bin lebendig von Ewigkeit zu Ewigkeit, und habe die Schlüssel der Hölle und des Todes."
+          },
+          {
+            "typ": "lied",
+            "titel": "Erinnre dich, mein Geist",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Ich soll, wenn Du, des Lebens Fürst,","In Wolken göttlich kommen wirst,","Erweckt aus meinem Grabe gehn","Und rein zu Deiner Rechten stehn."],
+                "rechts": ["Er ist's, Der alles in uns schafft;","Sein ist das Reich, Sein ist die Kraft.","Halt im Gedächtnis Jesum Christ,","Der von dem Tod erstanden ist."]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Dieweil du Mich gesehen hast, Thomas, so glaubest du:",
+              "Selig sind die nicht sehen, und doch glauben. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, allmächtiger Gott, Der Du Deinen Sohn von den Toten auferwecket hast, daß Er uns armen Menschenkindern den wahren ewigen Frieden bringe: verleihe auch uns denselben gnädiglich, und hilf ihn uns bewahren und bewähren bis an unser Ende, damit wir Dich im ewigen Frieden schauen mögen; durch Denselben . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-donnerstag",
+      "titel": "Donnerstag nach Kleinostern",
+      "wochentag": "Donnerstag",
+      "seiten": [158, 160],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["62."] },
+          {
+            "typ": "lied",
+            "titel": "Der Höllen Pforten sind zerstört",
+            "melodie": "112",
+            "strophen": [
+              {
+                "links": ["Der Höllen Pforten sind zerstört,","Der Tod ist nun verschlungen;","Des Satans Reich ist ganz verheert:","Lob sei Dir, Gott, gesungen!","Der Sünden Macht ist abgetan,","Durch Christum ist die Himmelsbahn","Uns wieder aufgeschlossen."],
+                "rechts": ["Was uns des alten Adams Schuld","Im Paradies verloren,","Das und noch mehr hat Christi Huld","Uns wiederum erkoren.","Der starke Held aus Davids Stamm","Hat Seines Vaters Zornesflamm","Gelöst mit Seinem Blute."]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Bei dem HErrn findet man Hilfe, Hallelujah!","Und Deinen Segen über Dein Volk. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 12, 9—11.",
+            "text": "Da erfuhr viel Volks der Juden, daß Er daselbst war, und kamen nicht um Jesu willen allein, sondern daß sie auch Lazarus sähen, welchen Er von den Toten erweckt hatte. Aber die Hohenpriester trachteten darnach, daß sie auch Lazarus töteten; denn um seinetwillen gingen viel Juden hin, und glaubten an Jesum."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": ["Mein Herz ist in mir entbrannt,","Ich sehne mich, meinen HErrn zu sehen. Hallelujah!"]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Höllen Pforten sind zerstört",
+            "melodie": "112",
+            "strophen": [
+              {
+                "links": ["Heut ist Er aus dem Grab herfür","Mit großer Macht gebrochen","Und stecket auf des Heils Panier,","Wie Er es hat versprochen.","Er bringt nach wohlgeführtem Streit","Uns wieder Fried und Freudigkeit,","Ja, alle Himmelsschätze."],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["72."] },
+          {
+            "typ": "lesung",
+            "ref": "Jona 2, 2—10.",
+            "text": "Und Jona betete zu dem HErrn, seinem Gott, im Leibe des Fisches, und sprach: Ich rief zu dem HErrn in meiner Angst, und Er antwortete mir; ich schrie aus dem Bauche der Hölle, und Du hörtest meine Stimme. Du warfest mich in die Tiefe mitten im Meer, daß die Fluten mich umgaben; alle Deine Wogen und Wellen gingen über mich, daß ich gedachte: ich wäre von Deinen Augen verstoßen, ich würde Deinen heiligen Tempel nicht mehr sehen. Wasser umgaben mich bis an mein Leben, die Tiefe umringete mich; Schilf bedeckte mein Haupt. Ich sank hinunter zu der Berge Gründen, die Erde hatte mich verriegelt ewiglich; aber Du hast mein Leben aus dem Verderben geführt, HErr, mein Gott. Da meine Seele bei mir verzagte, gedachte ich an den HErrn; und mein Gebet kam zu Dir in Deinen heiligen Tempel. Die da halten über dem Nichtigen, verlassen ihre Gnade. Ich aber will mit Dank Dir opfern, meine Gelübde will ich bezahlen; denn die Hilfe ist des HErrn."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["133."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Johannis 2, 1—6.",
+            "text": "Meine Kindlein, solches schreibe ich euch, auf daß ihr nicht sündiget. Und ob Jemand sündiget, so haben wir einen Fürsprecher bei dem Vater: Jesum Christ, Der gerecht ist. Und Derselbige ist die Versöhnung für unsre Sünden; nicht allein aber für die unseren, sondern auch für der ganzen Welt. Und an dem merken wir, daß wir Jhn kennen, so wir Seine Gebote halten. Wer da saget: Ich kenne Jhn, und hält Seine Gebote nicht, der ist ein Lügner, und in solchem ist keine Wahrheit. Wer aber Sein Wort hält, in solchem ist wahrlich die Liebe Gottes vollkommen. Daran erkennen wir, daß wir in Jhm sind. Wer da saget, daß er in Jhm bleibet, der soll auch wandeln, gleichwie Er gewandelt hat."
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Höllen Pforten sind zerstört",
+            "melodie": "112",
+            "strophen": [
+              {
+                "links": ["Drum lasset uns in Fröhlichkeit","Herz und Gemüt erheben,","Weil uns ist diese Gnadenzeit","Vom Himmel wiedergeben.","Wir haben Christi Reich und Macht;","Er ist hinweg der Tag und Nacht","Vor Gott uns hat verklaget."],
+                "rechts": ["Wir werden auch nach dieser Zeit","Wie Christus auferstehen,","Und mit Jhm in die Herrlichkeit","Und Himmels Freud eingehen.","Denn wo das Haupt geblieben ist,","Da müssen auch, wie Paulus liest,","Die andern Glieder wohnen."]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Gott sei Dank, Der uns den Sieg gegeben hat, Hallelujah!","Durch unsern HErrn Jesum Christum. Hallelujah!"] },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich habe meine Finger in die Nägelmale gelegt und meine Hand in Seine Seite, und habe gesagt:",
+              "mein HErr und mein Gott, Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-freitag",
+      "titel": "Freitag nach Kleinostern",
+      "wochentag": "Freitag",
+      "seiten": [161, 163],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["78."] },
+          {
+            "typ": "lied",
+            "titel": "Ich geh zu Deinem Grabe",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": ["Ich geh zu Deinem Grabe,","Du großer Osterfürst,","Weil ich die Hoffnung habe,","Daß Du mir zeigen wirst,","Wie man kann fröhlich sterben","Und fröhlich auferstehn,","Auch mit des Himmels Erben","Ins Land des Lebens gehn."],
+                "rechts": ["Dein Grab war wohl versiegelt,","Doch brichst Du es entzwei;","Wenn mich der Tod verriegelt,","So bin ich dennoch frei.","Du wirst den Stein schon rücken,","Der auch mein Grab bedeckt;","Da werd ich Den erblicken,","Der mich vom Tode weckt."]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Sind wir mit Christo gestorben, Hallelujah!","So glauben wir, daß wir auch mit Jhm leben werden. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 11, 12—19.",
+            "text": "Da sprachen Seine Jünger: HErr, schläft er, so wird's besser mit ihm. Jesus aber sagte von seinem Tode; sie meineten aber, Er redete vom leiblichen Schlaf. Da sagte es ihnen Jesus frei heraus: Lazarus ist gestorben; und Ich bin froh um euretwillen, daß Ich nicht dagewesen bin, auf daß ihr glaubet; aber lasset Uns zu ihm ziehen. Da sprach Thomas, der genannt ist Zwilling, zu den Jüngern: Laßt uns mitziehen, daß wir mit ihm sterben. Da kam Jesus, und fand ihn, daß er schon vier Tage im Grabe gelegen war. Bethanien aber war nahe bei Jerusalem, bei fünfzehn Feld Weges; und viel Juden waren zu Martha und Maria kommen, sie zu trösten über ihrem Bruder."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es kamen zum Grabe Maria Magdalena und die andere Maria, zu sehen Sein Grab;",
+              "Und siehe: das Grab war offen und leer. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich geh zu Deinem Grabe",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": ["Du fährest in die Höhe","Und zeigst mir die Bahn,","Wohin ich endlich gehe,","Da ich Dich finden kann.","Dort ist es sicher wohnen,","Wo lauter Glanz um Dich;","Da warten Himmelskronen","In Deiner Hand auf mich."],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["80."] },
+          {
+            "typ": "lesung",
+            "ref": "Habakuk 2, 1—4.",
+            "text": "Hie stehe ich auf meiner Hut, und trete auf meine Veste, und schaue und sehe zu, was mir gesagt werde, und was meine Antwort sein solle auf mein Rechten. Der HErr aber antwortet mir und spricht: Schreib das Gesicht, und male es auf eine Tafel, daß es lesen könne, wer vorüberläuft. Die Weissagung wird ja noch erfüllet werden zu seiner Zeit, und wird endlich frei an den Tag kommen, und nicht ausbleiben; ob sie aber verzeucht, so harre ihrer; sie wird gewißlich kommen, und nicht verziehen: Siehe, wer halsstarrig ist, der wird keine Ruhe in seinem Herzen haben; der Gerechte aber wird seines Glaubens leben."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["139."] },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Johannis 4, 1—6.",
+            "text": "Ihr Lieben, glaubet nicht einem jeglichen Geist, sondern prüfet die Geister, ob sie von Gott sind; Denn es sind viel falscher Propheten ausgegangen in die Welt. Daran sollt ihr den Geist Gottes erkennen: Ein jeglicher Geist, der da bekennet, daß Jesus Christus ist in das Fleisch kommen, der ist von Gott; und ein jeglicher Geist, der da nicht bekennet, daß Jesus Christus ist in das Fleisch kommen, der ist nicht von Gott. Und das ist der Geist des Widerchrists, von welchem ihr habt gehört, daß er kommen werde, und ist jetzt schon in der Welt. Kindlein, ihr seid von Gott, und habt Jene überwunden; denn Der in euch ist, ist größer, denn der in der Welt ist. Sie sind von der Welt; darum reden sie von der Welt, und die Welt höret sie. Wir sind von Gott, und wer Gott erkennet, der höret uns; welcher nicht von Gott ist, der höret uns nicht. Daran erkennen wir den Geist der Wahrheit und den Geist des Irrtums."
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich geh zu Deinem Grabe",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": ["O meines Lebens Leben,","O meines Todes Tod,","Ich will mich Dir ergeben","In meiner letzten Not;","Ich will mein Bette machen","In Deine liebe Gruft:","Da werd ich schon erwachen,","Wenn Deine Stimme ruft."],
+                "rechts": ["Du wirst den Oelberg zeigen,","Wo man gen Himmel fährt;","Da will ich fröhlich steigen,","Bis daß ich eingekehrt","In Salems Friedenshäuser;","Da heißt's: Viktoria!","Da trägt man Siegesreiser —","Ach wär ich nur schon da!"]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Maria, freue dich, Hallelujah! Den du zu tragen würdig warst, Hallelujah!",
+              "Erstand von den Toten, wie Er gesagt. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "quasimodogeniti-sonnabend",
+      "titel": "Sonnabend nach Kleinostern",
+      "wochentag": "Sonnabend",
+      "seiten": [164, 166],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["105."] },
+          {
+            "typ": "lied",
+            "titel": "Christus ist erstanden",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Christus ist erstanden","Von des Todes Banden.","Des freuet sich der Engel Schar,","Singend im Himmel immerdar.","Hallelujah!"],
+                "rechts": ["Der, ans Kreuz gehangen,","Kein Trost konnte erlangen,","Der lebet nun in Herrlichkeit,","Uns zu vertreten stets bereit.","Hallelujah!"]
+              }
+            ]
+          },
+          { "typ": "spruch", "zeilen": ["Der Erstling Christus, Hallelujah!","Darnach die Christo angehören. Hallelujah!"] },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 11, 28—31.",
+            "text": "Und da sie das gesagt hatte, ging sie hin, und rief ihrer Schwester Maria heimlich, und sprach: Der Meister ist da, und rufet dir. Dieselbige, als sie das hörete, stund sie eilend auf, und kam zu Jhm. Denn Jesus war noch nicht in den Flecken kommen, sondern war noch an dem Ort, da Jhm Martha war entgegenkommen. Die Juden, die bei ihr im Hause waren und trösteten sie, da sie sahen Maria, daß sie eilend aufstund, und hinausging, folgeten sie ihr nach, und sprachen: Sie gehet hin zum Grabe, daß sie daselbst weine."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Christus ist erstanden",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Der da lag begraben,","Der ist nun erhaben,","Und Sein Tun wird kräftig erweist,","Und in der Christenheit gepreist.","Hallelujah!"],
+                "rechts": []
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["108."] },
+          {
+            "typ": "lesung",
+            "ref": "Hosea 13, 9—14.",
+            "text": "Israel, du bringest dich in Unglück; denn dein Heil stehet allein bei Mir. Wo ist dein König hin, der dir helfen möge in allen deinen Städten? und deine Richter, davon du sagtest: Gib mir Könige und Fürsten? Wohlan, Ich gab dir einen König in Meinem Zorn, und will dir ihn in Meinem Grimm wegnehmen. Die Missetat Ephraims ist zusammengebunden, und seine Sünde ist behalten. Denn es soll ihm wehe werden wie einer Gebärerin. Er ist ein unverständig Kind; denn wenn die Zeit kommen ist, so will er die Mutter nicht brechen. Aber Ich will sie erlösen aus der Hölle, und vom Tod erretten. Tod, Ich will dir ein Gift sein; Hölle, Ich will dir eine Pestilenz sein. Doch ist der Trost vor meinen Augen verborgen."
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["145."] },
+          {
+            "typ": "lesung",
+            "ref": "2. Brief S. Pauli an Timotheus 2, 1—7.",
+            "text": "So sei nun stark, mein Sohn, durch die Gnade in Christo Jesu. Und was du von mir gehöret hast durch viel Zeugen, das befiehl treuen Menschen, die da tüchtig sind, auch andere zu lehren. Leide dich als ein guter Streiter Jesu Christi. Kein Kriegsmann flicht sich in Händel der Nahrung, auf daß er gefalle Dem, der ihn angenommen hat. Und so Jemand auch kämpfet, wird er doch nicht gekrönet, er kämpfe denn recht. Es soll aber der Ackermann, der den Acker bauet, der Früchte am ersten genießen. Merke, was ich sage! Der HErr aber wird dir in allen Dingen Verstand geben."
+          },
+          {
+            "typ": "lied",
+            "titel": "Christus ist erstanden",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": ["Er ließ nun verkünden","Vergebung der Sünden,","Und wie man die durch rechte Buß","Nach Seiner Ordnung suchen muß.","Hallelujah!"],
+                "rechts": ["O Christe, Osterlamm,","Speis uns heut allesamt;","Nimm weg all unsre Missetat,","Daß wir Dir singen früh und spat.","Hallelujah!"]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, allmächtiger Gott, Du Gott des Friedens, Der Du von den Toten ausgeführet hast den großen Hirten der Schafe, durch das Blut des Neuen Testaments, unsern HErrn Jesum Christum: mache uns fertig in allem guten Werk, zu tun Deinen Willen, und schaff in uns, was Dir wohlgefällig ist; durch Jesum Christum, Deinen lieben Sohn, unsern HErrn.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

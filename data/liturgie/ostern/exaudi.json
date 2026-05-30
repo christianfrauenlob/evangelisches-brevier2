@@ -1,0 +1,933 @@
+{
+  "id": "exaudi",
+  "titel": "Exaudi — Am Sonntag nach Himmelfahrt",
+  "kirchenzeit": "ostern",
+  "reihe": 6,
+  "band": 2,
+  "tage": [
+    {
+      "id": "exaudi_sonntag",
+      "titel": "Am Sonntag nach Himmelfahrt (Exaudi)",
+      "wochentag": "Sonntag",
+      "seiten": [264, 267],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "HErr, höre meine Stimme, wenn ich rufe;",
+              "Sei mir gnädig, und e r h ö r e mich!",
+              "Mein Herz hält Dir vor Dein Wort: „Ihr sollt Mein Antlitz suchen\";",
+              "Darum suche ich auch, HErr, Dein Antlitz. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["27", "9"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Höchster Tröster, komm hernieder",
+            "melodie": "153",
+            "strophen": [
+              {
+                "links": [
+                  "Höchster Tröster, komm hernieder,",
+                  "Geist des HErrn",
+                  "Sei nicht fern,",
+                  "Salbe Jesu Glieder!",
+                  "Er, Der nie Sein Wort gebrochen,",
+                  "Jesu hat",
+                  "Deinen Rat",
+                  "Seinem Volk versprochen."
+                ],
+                "rechts": [
+                  "HErr, wir fallen Dir zu Fuße;",
+                  "Eins ist not",
+                  "Für den Tod:",
+                  "Buße, wahre Buße.",
+                  "Zeig uns Selbst den Greul der Sünde,",
+                  "Daß das Herz",
+                  "Angst und Schmerz,",
+                  "Reu und Scham empfinde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Der HErr hat Seinen Stuhl im Himmel bereitet, Hallelujah!",
+              "Und Sein Reich herrschet über alles. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 15,26—16,4",
+            "text": "Wenn aber der Tröster kommen wird, Welchen Ich euch senden werde vom Vater: der Geist der Wahrheit, Der vom Vater ausgehet, Der wird zeugen von Mir. Und ihr werdet auch zeugen; denn ihr seid von Anfang bei Mir gewesen. Solches hab Ich zu euch geredet, daß ihr euch nicht ärgert. Sie werden euch in den Bann tun. Es kommt aber die Zeit, daß, wer euch tötet, wird meinen, er tue Gott einen Dienst dran. Und solches werden sie euch darum tun, daß sie weder Meinen Vater noch Mich erkennen. Aber solches habe Ich zu euch geredet, auf daß, wenn die Zeit kommen wird, ihr daran gedenket, daß Ich's euch gesagt habe. Solches aber habe Ich euch von Anfang nicht gesagt; denn Ich war bei euch."
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "p",
+                "inhalt": "Nach Seinem Leidenssieg ließ Er Sich sehen unter ihnen vierzig Tage lang, und redete mit ihnen vom Reich Gottes. Und Er ward aufgehoben zusehends, Hallelujah! und eine Wolke nahm Jhn auf vor ihren Augen weg. Hallelujah! Und als Er sie versammelt hatte, befahl Er ihnen, daß sie nicht von Jerusalem wichen, sondern warteten auf die Verheißung des Vaters. Und Er ward . . Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Alles streitet auf Erden, Streit und Kampf ist allgemein; aber nicht Alle haben einerlei Grund und Ursach des Streites. Die Welt streitet um irdische Dinge, oft um Kleinigkeiten; die Kirche streitet um die Ehre Gottes und um das Heil der Welt durch ihr Zeugnis und Bekenntnis. Was braucht sie sich zu schämen? Es ist der Mühe wert, da zu streiten, wo Gott streitet, für das ewige Heil der Menschen, fürs Augenmerk aller seligen Geister zu streiten. Es ist der Mühe wert, für das Höchste zu streiten. — Also streite und leide dich und sei ruhig im verordneten Kampf. In solchem Kampfe hat man Gottes Segen und Beifall und die Gemeinschaft aller Heiligen."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, barmherziger Vater, Der Du willst, daß wir durch viel Trübsal in Dein Reich eingehen sollen: wir bitten Dich, gib uns Deinen heiligen Geist, daß Er uns in unserer Schwachheit vor allen Irrtümern bewahre, in Widerwärtigkeit uns tröste, und in die ewige Seligkeit einführe; um Jesu Christi, Deines lieben Sohnes, unsers HErrn willen.",
+            "amen": false
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Höchster Tröster, komm hernieder",
+            "strophen": [
+              {
+                "links": [
+                  "Weck uns auf vom Sündenschlafe,",
+                  "Rette doch",
+                  "Heute noch",
+                  "Die verlornen Schafe;",
+                  "Reiß die Welt aus dem Verderben,",
+                  "Laß sie nicht",
+                  "Im Gericht",
+                  "Der Verstockung sterben."
+                ],
+                "rechts": [
+                  "Geist der Weisheit, gib uns Allen",
+                  "Durch Dein Licht",
+                  "Unterricht,",
+                  "Wie wir Gott gefallen.",
+                  "Lehr uns freudig vor Gott treten,",
+                  "Sei uns nah",
+                  "Und sprich: Ja,",
+                  "Wenn wir gläubig beten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["118"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaja 32,14—18",
+            "text": "Denn die Paläste werden verlassen sein, und die Stadt, so voll Getümmels war, einsam sein, daß die Türme und Vesten ewige Höhlen werden und dem Wild zur Freude, den Herden zur Weide, bis so lange, daß über uns ausgegossen werde der Geist aus der Höhe. So wird dann die Wüste zum Acker werden, und der Acker für einen Wald gerechnet werden. Und das Recht wird in der Wüste wohnen, und Gerechtigkeit auf dem Acker hausen, und der Gerechtigkeit Frucht wird Friede sein, und der Gerechtigkeit Nutz wird ewige Stille und Sicherheit sein, daß mein Volk in Häusern des Friedens wohnen wird, in sichern Wohnungen und in stolzer Ruhe."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott: hilf, daß wir allwege zu Dir einen guten Willen tragen, und Deiner göttlichen Majestät mit reinem Herzen dienen mögen; durch . .",
+            "amen": false
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["111", "112"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Petri 4,8—11",
+            "text": "So seid nun mäßig und nüchtern zum Gebet. Vor allen Dingen aber habt untereinander eine brünstige Liebe; denn die Liebe deckt auch der Sünden Menge. Seid gastfrei untereinander ohne Murmeln. Und dienet einander, ein Jeglicher mit der Gabe, die er empfangen hat, als die guten Haushalter der mancherlei Gnade Gottes. So Jemand redet, daß er's rede als Gottes Wort. So Jemand ein Amt hat, daß er's tue als aus dem Vermögen, das Gott darreicht, auf daß in allen Dingen Gott gepriesen werde durch Jesum Christ, Welchem sei Ehre und Gewalt von Ewigkeit zu Ewigkeit! Amen."
+          },
+          {
+            "typ": "lied",
+            "titel": "Höchster Tröster, komm hernieder",
+            "strophen": [
+              {
+                "links": [
+                  "Hilf den Kampf des Glaubens kämpfen,",
+                  "Gib uns Mut, Fleisch und Blut,",
+                  "Sünd und Welt zu dämpfen;",
+                  "Laß uns Trübsal, Kreuz und Leiden,",
+                  "Angst und Not, Schmerz und Tod",
+                  "Nicht von Jesu scheiden."
+                ],
+                "rechts": [
+                  "Hilf uns nach dem Besten streben,",
+                  "Schenk uns Kraft, tugendhaft",
+                  "Und gerecht zu leben.",
+                  "Gib, daß wir nie stille stehen,",
+                  "Treib uns an, froh die Bahn",
+                  "Deines Worts zu gehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Dies habe Ich zu euch geredet, auf daß, wenn die Stunde kommt,",
+              "Ihr daran gedenket, daß Ich es euch gesagt habe. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_montag",
+      "titel": "Montag nach Exaudi",
+      "wochentag": "Montag",
+      "seiten": [268, 270],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["21"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, o komm, Du Geist des Lebens",
+            "melodie": "90",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, o komm, Du Geist des Lebens,",
+                  "Wahrer Gott von Ewigkeit!",
+                  "Deine Kraft sei nicht vergebens,",
+                  "Sie erfüll uns jederzeit.",
+                  "So wird Geist und Licht und Schein",
+                  "In dem dunklen Herzen sein."
+                ],
+                "rechts": [
+                  "Gib in unser Herz und Sinnen",
+                  "Weisheit, Rat, Verstand und Zucht,",
+                  "Daß wir andres nicht beginnen",
+                  "Denn was nur Dein Wille sucht.",
+                  "Dein Erkenntnis werde groß,",
+                  "Und mach uns vom Irrtum los."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 7,33—39",
+            "text": "Da sprach Jesus zu ihnen: Ich bin noch eine kleine Zeit bei euch, und dann gehe Ich hin zu Dem, Der Mich gesandt hat. Ihr werdet Mich suchen, und nicht finden; und da Ich bin, könnet ihr nicht hin kommen. Da sprachen die Juden untereinander: Wo will Dieser hin gehen, daß wir Jhn nicht finden sollen? Will Er zu den Zerstreuten unter den Griechen gehen, und die Griechen lehren? Was ist das für eine Rede, daß Er saget: Ihr werdet Mich suchen, und nicht finden; und wo Ich bin, da könnet ihr nicht hin kommen? Aber am letzten Tage des Festes, der am herrlichsten war, trat Jesus auf, rief und sprach: Wen da dürstet, der komme zu Mir, und trinke! Wer an Mich glaubet, wie die Schrift saget, von dessen Leibe werden Ströme des lebendigen Wassers fließen. Das sagte Er aber von dem Geist, Welchen empfangen sollten, die an Jhn glaubten; denn der Heilige Geist war noch nicht da; denn Jesus war noch nicht verkläret."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Komm, o komm, Du Geist des Lebens",
+            "strophen": [
+              {
+                "links": [
+                  "Reiz uns, daß wir zu Jhm treten,",
+                  "Frei mit aller Freudigkeit;",
+                  "Seufz auch in uns, wenn wir beten,",
+                  "Und vertritt uns allezeit:",
+                  "So wird unsre Bitt erhört,",
+                  "Und die Zuversicht vermehrt."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["32"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch Mose 19,4—8",
+            "text": "Ihr habt gesehen, was Ich den Aegyptern getan habe, und wie Ich euch getragen habe auf Adlerflügeln, und habe euch zu Mir gebracht. Werdet ihr nun Meiner Stimme gehorchen, und Meinen Bund halten, so sollt ihr Mein Eigentum sein vor allen Völkern; denn die ganze Erde ist Mein. Und ihr sollt Mir ein priesterlich Königreich und ein heiliges Volk sein. Das sind die Worte, die du den Kindern Israel sagen sollst. Mose kam, und forderte die Aeltesten im Volk, und legte ihnen alle diese Worte vor, die der HErr geboten hatte. Und alles Volk antwortete zugleich und sprachen: Alles, was der HErr geredet hat, wollen wir tun. Und Mose sagte die Rede des Volks dem HErrn wieder."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["116"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief S. Pauli an die Epheser 1,15—23",
+            "text": "Darum auch ich, nachdem ich gehöret habe von dem Glauben bei euch an den HErrn Jesum und von eurer Liebe zu allen Heiligen, höre ich nicht auf, zu danken für euch, und gedenke euer in meinem Gebet, daß der Gott unsers HErrn Jesu Christi, der Vater der Herrlichkeit, gebe euch den Geist der Weisheit und der Offenbarung zu Seiner Selbst Erkenntnis, und erleuchtete Augen eures Verständnisses, daß ihr erkennen möget, welche da sei die Hoffnung eures Berufes, und welcher sei der Reichtum Seines herrlichen Erbes an Seinen Heiligen, und welche da sei die überschwengliche Größe Seiner Kraft an uns, die wir glauben nach der Wirkung Seiner mächtigen Stärke, welche Er gewirket hat in Christo, da Er Jhn von den Toten auferwecket hat, und gesetzt zu Seiner Rechten im Himmel, über alle Fürstentümer, Gewalt, Macht, Herrschaft und alles, was genannt mag werden, nicht allein in dieser Welt, sondern auch in der zukünftigen; und hat alle Dinge unter Seine Füße getan, und hat Jhn gesetzt zum Haupt der Gemeine über alles, welche da ist Sein Leib, nämlich die Fülle Des, Der alles in allen erfüllet."
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, o komm, Du Geist des Lebens",
+            "strophen": [
+              {
+                "links": [
+                  "O Du Geist der Kraft und Stärke,",
+                  "Du gewisser neuer Geist,",
+                  "Fördre in uns Deine Werke,",
+                  "Wenn der Satan auf uns scheußt",
+                  "Schenk uns Waffen in den Krieg,",
+                  "Und erhalt uns in dem Sieg."
+                ],
+                "rechts": [
+                  "HErr, bewahr auch unsern Glauben,",
+                  "Daß kein Teufel Tod noch Spott",
+                  "Uns denselben möge rauben;",
+                  "Du bist unser Schutz und Gott.",
+                  "Sagt das Fleisch gleich immer Nein,",
+                  "Laß Dein Wort gewisser sein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_dienstag",
+      "titel": "Dienstag nach Exaudi",
+      "wochentag": "Dienstag",
+      "seiten": [270, 273],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["43"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Großer Gott, wir loben Dich",
+            "melodie": "180",
+            "strophen": [
+              {
+                "links": [
+                  "Großer Gott, wir loben Dich,",
+                  "HErr, wir preisen Deine Stärke;",
+                  "Vor Dir neigt die Erde sich",
+                  "Und bewundert Deine Werke.",
+                  "Wie Du warst vor aller Zeit,",
+                  "So bleibst Du in Ewigkeit."
+                ],
+                "rechts": [
+                  "Alles was Dich preisen kann:",
+                  "Cherubim und Seraphinen",
+                  "Stimmen Dir ein Loblied an;",
+                  "Alle Engel, die Dir dienen,",
+                  "Rufen Dir in selger Ruh:",
+                  "Heilig! Heilig! Heilig! zu."
+                ]
+              },
+              {
+                "links": [
+                  "Heilig HErr Gott Zebaoth,",
+                  "Heilig HErr der Kriegesheere,",
+                  "Starker Helfer in der Not;",
+                  "Himmel Erde Luft und Meere",
+                  "Sind erfüllt von Deinem Ruhm:",
+                  "Alles ist Dein Eigentum."
+                ],
+                "rechts": [
+                  "Der Apostel heilger Chor,",
+                  "Der Propheten große Menge",
+                  "Schickt zu Deinem Thron empor",
+                  "Neue Lob- und Dankgesänge;",
+                  "Der Blutzeugen große Schar",
+                  "Lobt und preist Dich immerdar."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Marci 14,60—62",
+            "text": "Und der Hohepriester stund auf, trat mitten unter sie, und fragete Jesum und sprach: Antwortest Du nichts zu dem, das diese wider Dich zeugen? Er aber schwieg stille, und antwortete nichts. Da fragete Jhn der Hohepriester abermal, und sprach zu Jhm: Bist Du Christus, der Sohn des Hochgelobten? Jesus aber sprach: Ich bin's; und ihr werdet sehen des Menschen Sohn sitzen zur rechten Hand der Kraft, und kommen mit des Himmels Wolken."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Großer Gott, wir loben Dich",
+            "strophen": [
+              {
+                "links": [
+                  "Auf dem ganzen Erdenkreis",
+                  "Loben Große und auch Kleine",
+                  "Dich Gott Vater: Dir zum Preis",
+                  "Singt die heilige Gemeine;",
+                  "Sie verehrt auf Deinem Thron",
+                  "Deinen Eingebornen Sohn."
+                ],
+                "rechts": [
+                  "Sie verehrt den Heilgen Geist,",
+                  "Welcher uns mit Seinen Lehren",
+                  "Und mit Troste kräftig speist,",
+                  "Der, o König aller Ehren,",
+                  "Der mit Dir, HErr Jesu Christ,",
+                  "Und dem Vater ewig ist."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["40"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch der Chronika 6,40—42",
+            "text": "So laß nun, mein Gott, Deine Augen offen sein, und Deine Ohren aufmerken aufs Gebet an dieser Stätte. So mache Dich nun auf, HErr, Gott, zu Deiner Ruhe, Du und die Lade Deiner Macht. Laß Deine Priester, HErr, Gott, mit Heil angetan werden, und Deine Heiligen sich freuen über dem Guten. Du HErr, Gott, wende nicht weg das Antlitz Deines Gesalbten; gedenke an die Gnaden, Deinem Knechte David verheißen."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["15"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "1. Brief S. Johannis 2,18—29",
+            "text": "Kinder, es ist die letzte Stunde; und wie ihr gehöret habt, daß der Widerchrist kommt, so sind nun viel Widerchristen worden; daher erkennen wir, daß die letzte Stunde ist. Sie sind von uns ausgegangen, aber sie waren nicht von uns; denn wo sie von uns gewesen wären, so wären sie ja bei uns blieben; aber es sollte offenbar werden, daß sie nicht alle von uns sind. Und ihr habt die Salbung von Dem, Der heilig ist, und wisset alles. Ich habe euch nicht geschrieben, als wüßtet ihr die Wahrheit nicht, sondern ihr wisset sie, und wisset, daß keine Lüge aus der Wahrheit kommt. Wer ist ein Lügner, wenn nicht der da leugnet, daß Jesus der Christ sei? Das ist der Widerchrist, der den Vater und den Sohn leugnet. Wer den Sohn leugnet, der hat auch den Vater nicht; wer den Sohn bekennet, der hat auch den Vater. Was ihr nun gehöret habt von Anfang, das bleibe bei euch. So bei euch bleibet, was ihr von Anfang gehöret habt, so werdet ihr auch bei dem Sohn und Vater bleiben. Und das ist die Verheißung, die Er uns verheißen hat: das ewige Leben. Solches hab ich euch geschrieben von Denen, die euch verführen. Und die Salbung, die ihr von Jhm empfangen habt, bleibet bei euch, und bedürfet nicht, daß euch Jemand lehre, sondern wie euch die Salbung alles lehret, so ist's wahr, und ist keine Lüge; und wie sie euch gelehret hat, so bleibet bei demselbigen. Und nun, Kindlein, bleibet bei Jhm, auf daß, wenn Er offenbaret wird, wir Freudigkeit haben, und nicht zu Schanden werden vor Jhm in Seiner Zukunft. So ihr wisset, daß Er gerecht ist, so erkennet auch, daß, wer recht tut, der ist von Jhm geboren."
+          },
+          {
+            "typ": "lied",
+            "titel": "Großer Gott, wir loben Dich",
+            "strophen": [
+              {
+                "links": [
+                  "Sieh Dein Volk in Gnaden an,",
+                  "Hilf uns, segne HErr Dein Erbe!",
+                  "Leit es auf der rechten Bahn,",
+                  "Daß der Feind es nicht verderbe.",
+                  "Wart und pfleg es in der Zeit,",
+                  "Heb es hoch in Ewigkeit."
+                ],
+                "rechts": [
+                  "Alle Tage wollen wir",
+                  "Dich und Deinen Namen preisen",
+                  "Und zu allen Zeiten Dir",
+                  "Ehre Lob und Dank erweisen.",
+                  "Rett aus Sünden, rett aus Tod,",
+                  "Sei uns gnädig, HErre Gott!"
+                ]
+              },
+              {
+                "links": [
+                  "HErr, erbarm, erbarme Dich!",
+                  "Auf uns komme, HErr, Dein Segen.",
+                  "Deine Güte zeige sich",
+                  "Allen der Verheißung wegen.",
+                  "Auf Dich hoffen wir allein,",
+                  "Laß uns nicht verloren sein!"
+                ],
+                "rechts": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_mittwoch",
+      "titel": "Mittwoch nach Exaudi",
+      "wochentag": "Mittwoch",
+      "seiten": [273, 276],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["50"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du Lebensfürst, HErr Jesu Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Du Lebensfürst, HErr Jesu Christ,",
+                  "Der Du bist aufgenommen",
+                  "Gen Himmel, da Dein Vater ist",
+                  "Und die Gemein der Frommen:",
+                  "Wie soll ich Deinen großen Sieg,",
+                  "Den Du uns durch den schweren Krieg",
+                  "Erworben hast, recht preisen,",
+                  "Und Dir gnug Ehr erweisen?"
+                ],
+                "rechts": [
+                  "Du hast Dich zu der rechten Hand",
+                  "Des Vaters hingesetzet,",
+                  "Der alles Dir hat zugewandt,",
+                  "Nachdem Du unverletzet",
+                  "Dein starken Feind hast umgebracht,",
+                  "Triumph und Sieg daraus gemacht,",
+                  "Und sie auf Deinen Wagen",
+                  "Ganz herrlich schaugetragen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 13,34—35",
+            "text": "Jerusalem, Jerusalem, die du tötest die Propheten, und steinigest Die zu dir gesandt werden: wie oft habe Ich wollen deine Kinder versammeln, wie eine Henne ihr Nest unter ihre Flügel, und ihr habt nicht gewollt! Sehet: euer Haus soll euch wüste gelassen werden. Denn Ich sage euch: Ihr werdet Mich nicht sehen, bis daß es komme, daß ihr sagen werdet: Gelobet ist, Der da kommt im Namen des HErrn!"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du Lebensfürst, HErr Jesu Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Du hast durch Deine Himmelfahrt",
+                  "Die Straßen uns bereitet;",
+                  "Du hast den Weg uns offenbart,",
+                  "Der uns zum Vater leitet.",
+                  "Und weil denn Du, HErr Jesu Christ,",
+                  "Nun stets in Deiner Wonne bist,",
+                  "So werden ja die Frommen",
+                  "Dahin auch zu Dir kommen."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["56"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Buch der Chronika 6,17—21",
+            "text": "Nun, HErr, Gott Israels, laß Dein Wort wahr werden, das Du Deinem Knechte David geredet hast. Denn sollte in Wahrheit Gott bei den Menschen auf Erden wohnen? Siehe: der Himmel und aller Himmel Himmel kann Dich nicht fassen; wie sollte es denn das Haus tun, das ich gebauet habe? Wende Dich aber, HErr, mein Gott, zu dem Gebet Deines Knechts und zu seinem Flehen, daß Du erhörest das Bitten und Beten, das Dein Knecht vor Dir tut, daß Deine Augen offen seien über dies Haus Tag und Nacht, über die Stätte, dahin Du Deinen Namen zu stellen verheißen hast, daß Du hörest das Gebet, das Dein Knecht an dieser Stätte tun wird. So höre nun das Flehen Deines Knechts und Deines Volks Israel, das sie bitten werden an dieser Stätte; höre es aber von der Stätte Deiner Wohnung, vom Himmel, und wenn Du es hörest, wollest Du gnädig sein."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["61"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Brief S. Pauli an die Korinther 4,15—18",
+            "text": "Dieweil wir aber denselbigen Geist des Glaubens haben, nach dem geschrieben stehet: „Ich glaube, darum rede ich\", so glauben wir auch, darum so reden wir auch, und wissen, daß Der, so den HErrn Jesum hat auferwecket, wird uns auch auferwecken durch Jesum, und wird uns darstellen samt euch. Denn es geschieht alles um euretwillen, auf daß die überschwengliche Gnade durch Vieler Danksagen Gott reichlich preise. Darum werden wir nicht müde, sondern, ob unser äußerlicher Mensch verdirbet, so wird doch der innerliche von Tage zu Tage erneuert. Denn unsre Trübsal, die zeitlich und leicht ist, schaffet eine ewige und über alle Maßen wichtige Herrlichkeit uns, die wir nicht sehen auf das Sichtbare, sondern auf das Unsichtbare. Denn was sichtbar ist, das ist zeitlich; was aber unsichtbar ist, das ist ewig."
+          },
+          {
+            "typ": "lied",
+            "titel": "Du Lebensfürst, HErr Jesu Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Zieh uns Dir nach, so laufen wir;",
+                  "Gib uns des Glaubens Flügel.",
+                  "Hilf, daß wir fliehen weit von hier",
+                  "Auf Israelis Hügel.",
+                  "Mein Gott, wann fahr ich doch dahin,",
+                  "Da ich ohn Ende fröhlich bin;",
+                  "Wann werd ich vor Dir stehen,",
+                  "Dein Angesicht zu sehen?"
+                ],
+                "rechts": [
+                  "Wann soll ich hin ins Paradies,",
+                  "Zu Dir, HErr Jesu, kommen?",
+                  "Wann kost ich doch das Engelsüß?",
+                  "Wann werd ich aufgenommen?",
+                  "Mein Heiland, komm und nimm mich an,",
+                  "Auf daß ich fröhlich jauchzen kann",
+                  "Und klopfen in die Hände:",
+                  "Hallelujah ohn Ende!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_donnerstag",
+      "titel": "Donnerstag nach Exaudi",
+      "wochentag": "Donnerstag",
+      "seiten": [276, 279],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["90"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Großer Mittler, Der zur Rechten",
+            "melodie": "9/10",
+            "strophen": [
+              {
+                "links": [
+                  "Großer Mittler, Der zur Rechten",
+                  "Seines großen Vaters sitzt,",
+                  "Und die Schar von Seinen Knechten",
+                  "In dem Reich der Gnaden schützt,",
+                  "Den auf dem erhabenen Throne",
+                  "In der königlichen Krone",
+                  "Alles Heer der Ewigkeit",
+                  "Mit verhülltem Antlitz schaut:"
+                ],
+                "rechts": [
+                  "Dein Geschäft auf dieser Erden",
+                  "Und Dein Opfer ist vollbracht,",
+                  "Was vollendet sollen werden,",
+                  "Das ist gänzlich ausgemacht;",
+                  "Da Du bist für uns gestorben,",
+                  "Ist uns Gnad und Heil erworben,",
+                  "Und Dein siegreich Auferstehn",
+                  "Läßt uns in die Freiheit gehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Lucae 20,41—44",
+            "text": "Er sprach aber zu ihnen: Wie sagen sie, Christus sei Davids Sohn? Und er selbst, David, spricht im Psalmbuch: „Der HErr hat gesagt zu meinem HErrn: Setze Dich zu Meiner Rechten, bis daß Ich lege Deine Feinde zum Schemel Deiner Füße.\" David nennet Jhn einen HErrn; wie ist Er denn Sein Sohn?"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Großer Mittler, Der zur Rechten",
+            "strophen": [
+              {
+                "links": [
+                  "Deines Volkes werte Namen",
+                  "Trägst Du auf Deiner Brust,",
+                  "Und an den gerechten Samen",
+                  "Denkest Du mit vieler Lust;",
+                  "Du vertrittst die an Dich glauben,",
+                  "Daß sie Dir vereinigt bleiben,",
+                  "Und bittest in des Vaters Haus",
+                  "Ihnen eine Wohnung aus."
+                ],
+                "rechts": [
+                  "Doch vergißt Du auch der Armen,",
+                  "Die der Welt gehorchen, nicht;",
+                  "Weil Dein Herz Dir vor Erbarmen",
+                  "Ueber ihrem Elend bricht:",
+                  "Daß Dein Vater ihrer schone,",
+                  "Daß Er nicht nach Werken lohne,",
+                  "Daß Er ändre ihren Sinn —",
+                  "Ach, da zielt Dein Bitten hin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["23"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Jesaia 33,20—24",
+            "text": "Schaue Zion, die Stadt unsrer Feste; deine Augen werden Jerusalem sehen, eine sichere Wohnung, eine Hütte, die nicht weggeführt wird, welcher Nägel sollen nimmermehr ausgezogen, und ihrer Seile keines zerrissen werden. Denn der HErr wird mächtig daselbst bei uns sein, gleich als wären da weite Wassergraben, darüber kein Schiff mit Rudern fahren, noch Galeeren schiffen können. Denn der HErr ist unser Richter, der HErr ist unser Meister, der HErr ist unser König, Der hilft uns. Laßt sie ihre Stricke spannen, sie werden doch nicht halten; also werden sie auch das Fähnlein nicht auf den Mastbaum stecken. Dann wird viel köstliches Raubs ausgeteilet werden, also daß auch die Lahmen rauben werden. Und kein Einwohner wird sagen: Ich bin schwach. Denn das Volk, so drinnen wohnet, wird Vergebung der Sünde haben."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["158"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief an die Hebräer 8,1—7",
+            "text": "Das ist nun die Hauptsache, davon wir reden: Wir haben einen solchen Hohenpriester, Der da sitzet zu der Rechten auf dem Stuhl der Majestät im Himmel, und ist ein Pfleger des Heiligen und der wahrhaftigen Hütte, welche Gott ausgerichtet hat, und kein Mensch. Denn ein jeglicher Hoherpriester wird eingesetzt, zu opfern Gaben und Opfer. Darum muß auch Dieser etwas haben, das Er opfere. Wenn Er nun auf Erden wäre, so wäre Er nicht Priester, dieweil da Priester sind, die nach dem Gesetz die Gaben opfern, welche dienen dem Vorbilde und dem Schatten des Himmlischen; wie die göttliche Antwort zu Moses sprach, da er sollte die Hütte vollenden: „Schaue zu\", sprach Er, „daß du machest alles nach dem Bilde, das dir auf dem Berge gezeiget ist.\" Nun aber hat Er ein besser Amt erlanget, als Der eines bessern Testaments Mittler ist, welches auch auf bessern Verheißungen stehet. Denn so jenes, das erste, untadelig gewesen wäre, würde nicht Raum zu einem andern gesucht."
+          },
+          {
+            "typ": "lied",
+            "titel": "Großer Mittler, Der zur Rechten",
+            "strophen": [
+              {
+                "links": [
+                  "Zwar in Deines Fleisches Tagen,",
+                  "Da die Sünden aller Welt",
+                  "Dir auf Deinen Schultern lagen,",
+                  "Hast Du Dich vor Gott gestellt:",
+                  "Bald mit Seufzen, bald mit Weinen",
+                  "Für die Sünder zu erscheinen.",
+                  "O, mit welcher Niedrigkeit",
+                  "Batest Du zur selben Zeit!"
+                ],
+                "rechts": [
+                  "Aber nun wird Deine Bitte",
+                  "Von der Allmacht unterstützt,",
+                  "Da in der vollkommnen Hütte",
+                  "Die verklärte Menschheit sitzt;",
+                  "Nun kannst Du des Satans Klagen",
+                  "Majestätisch niederschlagen,",
+                  "Und nun macht Dein redend Blut",
+                  "Unsre böse Sache gut."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_freitag",
+      "titel": "Freitag nach Exaudi",
+      "wochentag": "Freitag",
+      "seiten": [279, 281],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["143"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, gib einen milden Regen",
+            "melodie": "158",
+            "strophen": [
+              {
+                "links": [
+                  "Gott, gib einen milden Regen,",
+                  "Denn mein Herz ist dürr wie Sand;",
+                  "Vater, gib vom Himmel Segen,",
+                  "Tränke Du Dein durstig Land.",
+                  "Laß des Heilgen Geistes Gab",
+                  "Ueber mich von oben ab",
+                  "Wie die starken Ströme fließen",
+                  "Und mein ganzes Herz durchgießen."
+                ],
+                "rechts": [
+                  "Kann ein Vater hier auf Erden,",
+                  "Der doch bös ist von Natur,",
+                  "Seinen lieben Kindern geben",
+                  "Nichts als gute Gaben nur:",
+                  "Soltest Du denn, Der Du heißt",
+                  "Guter Vater, Deinen Geist",
+                  "Mir nicht geben und mich laben",
+                  "Mit den guten Himmelsgaben?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Matthäi 18,10—11",
+            "text": "Sehet zu, daß ihr nicht Jemand von diesen Kleinen verachtet. Denn Ich sage euch: Jhre Engel im Himmel sehen allezeit das Angesicht Meines Vaters im Himmel. Denn des Menschen Sohn ist kommen, selig zu machen das verloren ist."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": ["22"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, gib einen milden Regen",
+            "strophen": [
+              {
+                "links": [
+                  "Heilger Geist, Du Kraft der Frommen,",
+                  "Kehre bei mir Armen ein,",
+                  "Und sei tausendmal willkommen,",
+                  "Laß mich Deinen Tempel sein.",
+                  "Säubere Du nur Selbst das Haus",
+                  "Meines Herzens; wirf hinaus",
+                  "Alles was mich hier kann scheiden",
+                  "Von den süßen Himmelsfreuden."
+                ],
+                "rechts": []
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Sacharja 12,10 und 11",
+            "text": "Aber über das Haus David und über die Bürger zu Jerusalem will Ich ausgießen den Geist der Gnade und des Gebets; und sie werden Mich ansehen, Welchen sie zerstochen haben; und werden Jhn klagen, wie man klagt ein einiges Kind, und werden sich um Jhn betrüben, wie man sich betrübt um ein erstes Kind. Zu der Zeit wird große Klage sein zu Jerusalem."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["139"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Brief an die Hebräer 6,17—20",
+            "text": "So hat Gott, da Er wollte den Erben der Verheißung überschwenglich beweisen, daß Sein Rat nicht wankte, einen Eid dazu getan, auf daß wir durch zwei Stücke, die nicht wanken, (denn es ist unmöglich, daß Gott lüge,) einen starken Trost hätten; die wir Zuflucht haben, und halten an der angebotnen Hoffnung, welche wir haben als einen sichern und festen Anker unsrer Seele, der auch hineingehet in das Inwendige des Vorhangs, dahin der Vorläufer für uns eingegangen: Jesus, ein Hoherpriester worden in Ewigkeit nach der Ordnung Melchisedeks."
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, gib einen milden Regen",
+            "strophen": [
+              {
+                "links": [
+                  "Schmücke mich mit Deinen Gaben,",
+                  "Mache mich neu rein und schön;",
+                  "Laß mich wahre Liebe haben",
+                  "Und in Deiner Gnade stehn.",
+                  "Gib mir einen starken Mut,",
+                  "Heilige mein Fleisch und Blut,",
+                  "Lehre mich vor Gott hintreten",
+                  "Und in Geist und Wahrheit beten."
+                ],
+                "rechts": [
+                  "So will ich mich Dir ergeben;",
+                  "Dir zu Ehren soll mein Sinn",
+                  "Dem was himmlisch ist nachstreben,",
+                  "Bis ich werde kommen hin,",
+                  "Da mit Vater und dem Sohn",
+                  "Dich im höchsten Himmelsthron",
+                  "Ich erheben kann und preisen",
+                  "Mit den süßen Engelweisen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "exaudi_sonnabend",
+      "titel": "Sonnabend nach Exaudi (Pfingstvigil)",
+      "wochentag": "Sonnabend",
+      "seiten": [281, 283],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": ["150"]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zeuch ein zu Deinen Thoren",
+            "melodie": "170",
+            "strophen": [
+              {
+                "links": [
+                  "Zeuch ein zu Deinen Thoren,",
+                  "Sei meines Herzens Gast,",
+                  "Der Du, da ich geboren,",
+                  "Mich neu geboren hast:",
+                  "O hochgeliebter Geist",
+                  "Des Vaters und des Sohnes,",
+                  "Mit Beiden gleiches Thrones,",
+                  "Mit Beiden gleich gepreist!"
+                ],
+                "rechts": [
+                  "Zeuch ein, laß mich empfinden",
+                  "Und schmecken Deine Kraft,",
+                  "Die Kraft, die uns von Sünden",
+                  "Hülf und Errettung schafft.",
+                  "Entsündge meinen Sinn,",
+                  "Daß ich mit reinem Geiste",
+                  "Dir Ehr und Dienste leiste,",
+                  "Die ich Dir schuldig bin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Evangelium S. Johannis 6,58 und 59",
+            "text": "Dies ist das Brot, das vom Himmel kommen ist; wie eure Väter haben Manna gegessen, und sind gestorben. Wer dies Brot isset, der wird leben in Ewigkeit. Solches sagte Er in der Schule, da Er lehrete, zu Kapernaum."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Zeuch ein zu Deinen Thoren",
+            "strophen": [
+              {
+                "links": [
+                  "Du bist ein Geist, Der lehret",
+                  "Wie man recht beten soll;",
+                  "Dein Beten wird erhöret,",
+                  "Dein Singen klinget wohl;",
+                  "Es steigt zum Himmel an,",
+                  "Es steigt und läßt nicht abe,",
+                  "Bis Der geholfen habe,",
+                  "Der Allen helfen kann."
+                ],
+                "rechts": [
+                  "Du bist ein Geist der Freuden,",
+                  "Von Trauern hältst Du nicht,",
+                  "Erleuchtest uns im Leiden",
+                  "Mit Deines Trostes Licht.",
+                  "Ach ja: wie manchesmal",
+                  "Hast Du mit süßen Worten",
+                  "Mir aufgetan die Pforten",
+                  "Zum güldnen Himmelssaal!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": ["108"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "Joel 3,1—5",
+            "text": "Und nach diesem will Ich Meinen Geist ausgießen über alles Fleisch, und eure Söhne und Töchter sollen weissagen; eure Aeltesten sollen Träume haben, und eure Jünglinge sollen Gesichte sehen; auch will Ich zur selbigen Zeit beides: über Knechte und Mägde, Meinen Geist ausgießen. Und Ich will Wunderzeichen geben im Himmel und auf Erden: Blut, Feuer und Rauchdampf. Die Sonne soll in Finsternis und der Mond in Blut verwandelt werden, ehe denn der große und schreckliche Tag des HErrn kommt. Und soll geschehen, wer des HErrn Namen anrufen wird, der soll errettet werden. Denn auf dem Berge Zion und zu Jerusalem wird eine Errettung sein, wie der HErr verheißen hat, auch bei den andern Uebrigen, die der HErr berufen wird."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": ["103"]
+          },
+          {
+            "typ": "lesung",
+            "ref": "2. Brief S. Pauli an die Korinther 1,19—22",
+            "text": "Denn der Sohn Gottes, Jesus Christus, Der unter euch durch uns gepredigt ist, durch mich und Silvanus und Timotheus, Der war nicht Ja und Nein, sondern es war Ja in Jhm. Denn alle Gottes-Verheißungen sind Ja in Jhm, und sind Amen in Jhm, Gott zu Lobe durch uns. Gott ist's aber, Der uns befestiget samt euch in Christum, und uns gesalbet, und versiegelt und in unsre Herzen das Pfand, den Geist, gegeben hat."
+          },
+          {
+            "typ": "lied",
+            "titel": "Zeuch ein zu Deinen Thoren",
+            "strophen": [
+              {
+                "links": [
+                  "Du bist ein Geist der Liebe,",
+                  "Ein Freund der Freundlichkeit,",
+                  "Willst nicht, daß uns betrübe",
+                  "Zorn Zank Haß Neid und Streit.",
+                  "Der Feindschaft bist Du feind,",
+                  "Willst, daß durch Liebesflammen",
+                  "Sich wieder tun zusammen",
+                  "Die voller Zwietracht seind."
+                ],
+                "rechts": [
+                  "Du, HErr, hast Selbst in Händen",
+                  "Die ganze weite Welt,",
+                  "Kannst Menschenherzen wenden,",
+                  "Wie Dir es wohlgefällt:",
+                  "So gib doch Deine Gnad",
+                  "Zum Fried und Liebesbanden,",
+                  "Verknüpf in allen Landen",
+                  "Was sich getrennet hat."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Sie wurden Alle voll des Heiligen Geistes, Hallelujah!",
+              "Und fingen an zu predigen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich will euch nicht Waisen lassen, Hallelujah!",
+              "Ich komme zu euch, Hallelujah!",
+              "Und euer Herz wird sich freuen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: verleihe uns, daß der Glanz Deiner Herrlichkeit über uns aufgehe, und das Licht von Deinem Lichte die Herzen Derer, die durch Deine Gnade wiedergeboren sind, durch Eingießung des Heiligen Geistes erleuchte und festige; durch . . .",
+            "amen": false
+          }
+        ]
+      }
+    }
+  ]
+}
