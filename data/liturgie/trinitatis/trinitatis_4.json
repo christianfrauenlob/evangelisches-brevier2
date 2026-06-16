@@ -1,0 +1,908 @@
+{
+  "id": "trinitatis_4",
+  "titel": "4. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "4. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [406, 409],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["27", "9"] },
+          {
+            "typ": "lied",
+            "titel": "Gott ist die wahre Liebe",
+            "melodie": "116",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist die wahre Liebe,",
+                  "Die Ihn ohn Maß und Ende treibt;",
+                  "Ihr Blick wird dem nicht trübe,",
+                  "Der sie umfaßt und in ihr bleibt.",
+                  "Sie ist dazu erschienen",
+                  "Und Menschen kund gemacht,",
+                  "Daß sie sich des bedienen,",
+                  "Was sie hervorgebracht.",
+                  "Sie leuchtet aus dem Sohne,",
+                  "Den Er zu uns gesandt:",
+                  "Der ist ihr Glanz und Krone,",
+                  "Und ihr Versicherungspfand."
+                ],
+                "rechts": [
+                  "Er ist ein Mensch geboren,",
+                  "Der Gottes Herz und einigs Kind;",
+                  "Sonst gingen die verloren,",
+                  "Die mit Ihm eines Fleisches sind.",
+                  "Sie sollen durch Ihn leben",
+                  "Und Gott versöhnet sie,",
+                  "Doch sich Ihm wieder geben;",
+                  "Denn Er will nicht allein",
+                  "Vom Untergang sie retten —",
+                  "Er schenkt auch Seinen Geist,",
+                  "Damit sie alles hätten",
+                  "Was dieser Bund verheißt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 6, 36—42.",
+            "buch": "lukas",
+            "kapitel": 6,
+            "verse": "36-42"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ja, darauf kommt es an, daß man sein eigenes Elend erkenne, in täglicher Buße und Erfahrung göttlicher Barmherzigkeit stehe. So zieht man den Balken aus dem Auge, so genest das Herz von Unbarmherzigkeit, das Auge vom fahlen, scharfen Blick auf Andere; mit dem Herzen wird das Auge rein, des Nächsten Fehl zu sehen; man will nur mehr sein Heil, man wird einfach in seinem Streben und in seiner Liebe, frei von Heuchelei, und darf mit seiner Seelensorge getrost vor das Auge Gottes treten; man wird treu erfunden werden, und der HErr wird an dem Maße der Vergeltung zur Zeit, da es not tut, nichts mangeln lassen.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, gütiger Vater, Der Du Deine Sonne lässest scheinen über Böse und Gute, und bist auch gütig über die Undankbaren und Boshaftigen, und hast mit uns Allen große Geduld nach dem Reichtum Deiner Barmherzigkeit, die von der Welt her gewesen ist: Hilf, daß wir nach Deinem und Deines lieben Sohnes Beispiel gegen Freund und Feind lernen barmherzig sein, unsrer Nächsten Gebrechen zudecken, ohne Heuchelei von Herzen vergeben, Jedermann gern dienen und die Früchte des Glaubens allenthalben beweisen; durch Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott ist die wahre Liebe",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der liebt nach Seinem Willen,",
+                  "Der gegen Gott in Liebe brennt;",
+                  "Er kann die Glut nicht stillen,",
+                  "Bis sie sich auch zum Nächsten wendt:",
+                  "Dem wird er so geneiget,",
+                  "Wie er sich selber ist,"
+                ],
+                "rechts": [
+                  "Daß er ihm Dienst erzeiget,",
+                  "Und keine Pflicht vergißt.",
+                  "Es ist ein kindlich Zeichen,",
+                  "Wenn man die Brüder liebt,",
+                  "Der Vater tut desgleichen,",
+                  "Der alles Gute gibt."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["119, 81-128"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 65, 17—19; 24—25.",
+            "buch": "jesaja",
+            "kapitel": 65,
+            "verse": "17-19"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, wir bitten: Du wollest Gnade verleihen, auf daß wir durch Deine Ordnung in dieser Welt Laufe friedlich regiert werden, und Deine christliche Kirche still und sicher mit großer Andacht sich freuen möge; durch unsern HErrn Jesum Christum . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["112", "113"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 8, 18—23.",
+            "buch": "roemers",
+            "kapitel": 8,
+            "verse": "18-23"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist die wahre Liebe",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Drum laßt uns auf Ihn sehen,",
+                  "Und folget Ihm mit Eifer nach;",
+                  "Ihr wisset was geschehen:",
+                  "Wir hatten Unglück Sünd und Schmach,",
+                  "Nach Freiheit kein Verlangen;",
+                  "Noch hat Er uns befreit!",
+                  "Er ist uns nachgegangen,",
+                  "Hat aus Barmherzigkeit",
+                  "Sich unser angenommen;",
+                  "Wir waren in der Flucht,",
+                  "Er ist uns vorgekommen,",
+                  "Hat unser Heil gesucht."
+                ],
+                "rechts": [
+                  "Ach lasset uns Ihn lieben,",
+                  "Denn Er hat uns zuerst geliebt,",
+                  "Ist immer treu geblieben,",
+                  "Wie viel wir wider Ihn verübt.",
+                  "Nun hat Er uns gefunden,",
+                  "Wir Ihn im Sohn erkannt,",
+                  "Er Sich mit uns verbunden,",
+                  "Und wir sind Ihm verwandt.",
+                  "Wollt ihr Ihn Alle kennen,",
+                  "So tut was Ihm gefällt:",
+                  "Ach laßt die Herzen brennen",
+                  "In Lieb vor aller Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, Du Schöpfer und Regierer der Welt: höre das Flehen der ganzen Kreatur und laß ihre Vollendung bald erscheinen. HErr Gott Du Heiliger, Du Erlöser und Heiland der ganzen Menschheit, laß Deinen Eingeborenen Sohn offenbar werden zu unserer Freude, und laß uns immer darauf warten. Laß uns auch die Leiden dieser Zeit zum Sieg und Segen dienen, daß wir durch sie vom Staub der Erde loskommen und uns nach Deiner Herrlichkeit sehnen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [409, 413],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["20"] },
+          {
+            "typ": "lied",
+            "titel": "Es kostet viel, ein Christ zu sein",
+            "melodie": "49",
+            "strophen": [
+              {
+                "links": [
+                  "Es kostet viel, ein Christ zu sein,",
+                  "Und nach dem Sinn des reinen Geistes leben;",
+                  "Denn der Natur geht es gar sauer ein,",
+                  "Sich immerdar in Christi Tod zu geben.",
+                  "Und ist hier gleich e i n Kampf wohl ausgericht,",
+                  "Das machts noch nicht."
+                ],
+                "rechts": [
+                  "Doch ist es wohl der Mühe wert,",
+                  "Wenn man mit Ernst die Herrlichkeit erwäget,",
+                  "Die ewiglich ein solcher Mensch erfährt,",
+                  "Der sich hier stets aufs Himmlische geleget.",
+                  "Es hat wohl Müh; die Gnade aber macht,",
+                  "Daß mans nicht acht."
+                ]
+              },
+              {
+                "links": [
+                  "Man muß hier stets auf Schlangen gehn,",
+                  "Die ihren Gift in unsre Fersen bringen;",
+                  "Da kostets Müh, auf seiner Hut zu stehn,",
+                  "Daß nicht der Gift kann in die Seele dringen.",
+                  "Wenn mans versucht, so spürt man mit der Zeit",
+                  "Die Wichtigkeit."
+                ],
+                "rechts": [
+                  "Man soll ein Kind des Höchsten sein,",
+                  "Ein reiner Glanz, ein Licht im großen Lichte;",
+                  "Wie wird der Leib so stark, so hell und rein,",
+                  "So herrlich sein, so lieblich im Gesichte,",
+                  "Dieweil ihn da die wesentliche Pracht",
+                  "So schöne macht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 5, 13—16.",
+            "buch": "matthaeus",
+            "kapitel": 5,
+            "verse": "13-16"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Jesu, Du bist das Licht der Welt. Darum erleuchte uns ganz und gar, daß wir in unserm Innern Dein Licht spüren. Und dann gib uns Freudigkeit, weiter zu leuchten, damit die Welt erleuchtet und selig werde. Du bist der König der Könige, Du bist der HErr der Welt. O gib, daß wir helfen, Dein Reich auszubreiten. Gib uns dazu Deinen Segen, erbarme Dich unsres Volkes und stärke Deine heilige Kirche auf Erden, auch unsre evangelische Kirche, daß sie ihr Werk tue mit Freude und in Treue. Stärke uns im Kampf, daß Du den Sieg gewinnest und geehrt werdest vom Aufgang bis zum Niedergang.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es kostet viel",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Da wird das Kind den Vater sehn,",
+                  "Im Schauen wird es Ihn mit Lust empfinden;",
+                  "Der lautre Strom wird es da ganz durchgehn,",
+                  "Und es mit Gott zu einem Geist verbinden.",
+                  "Wer weiß, was da im Geiste wird geschehn?",
+                  "Wer mags verstehn?"
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["31"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Josua 24, 14—18.",
+            "buch": "josua",
+            "kapitel": 24,
+            "verse": "14-18"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["6"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 4, 1—12.",
+            "buch": "apostelgeschichte",
+            "kapitel": 4,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Es kostet viel",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Da gibt sich ihm die Weisheit ganz,",
+                  "Die es hier stets als Mutter hat gespüret;",
+                  "Sie krönet es mit ihrem Perlenkranz,",
+                  "Und wird als Braut der Seele zugeführet.",
+                  "Die Heimlichkeit wird da ganz offenbar,",
+                  "Die in ihr war."
+                ],
+                "rechts": [
+                  "Auf auf, mein Geist, ermüde nicht,",
+                  "Dich durch die Macht der Finsternis zu reißen;",
+                  "Was sorgest du, daß dirs an Kraft gebricht?",
+                  "Bedenke, was für Kraft uns Gott verheißen!",
+                  "Wie gut wird sichs doch nach der Arbeit ruhn,",
+                  "Wie wohl wirds tun!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [413, 417],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["96"] },
+          {
+            "typ": "lied",
+            "titel": "Entbinde mich, mein Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Entbinde mich, mein Gott, von allen Banden,",
+                  "Womit mein armer Geist noch so gebunden ist;",
+                  "Mach des Philisters Strick und Tücke ganz zu Schanden,",
+                  "Weil Du mein Goel *) nur und auch mein Simson bist.",
+                  "Zerbrich, zerschlag, zerreiß, und mach mich durch den Sohn",
+                  "Zum recht Gefreieten vor Deinem Gnadenthron."
+                ]
+              },
+              {
+                "links": [
+                  "Was zieht mich niederwärts, daß ich nicht kann auffliegen?",
+                  "Was macht mich denn so matt in meinem Christenlauf?",
+                  "Ach welch ein Bleigewicht seh ich noch in mir liegen!",
+                  "Das drückt mich unterwärts, und läßt mich nicht hinauf.",
+                  "O woher krieg ich Kraft von allem los zu sein,",
+                  "So frei und los gemacht als wie ein Vögelein?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 17—29.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "17-29"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Entbinde mich, mein Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach dieser Todesleib beschwert die arme Seele,",
+                  "Die Hütte drückt den Geist, der drin gebunden liegt;",
+                  "O wer macht mich doch frei aus dieser Sündenhöhle,",
+                  "Daß mein Verlangen Luft und freien Zugang kriegt?",
+                  "Durchbrecher, brich doch durch, und mach mich völlig frei,",
+                  "Daß mein Geist nicht, wie ich, mehr so gefangen sei."
+                ]
+              },
+              {
+                "links": [
+                  "Ich weiß, ich liebe Dich; doch, soll ichs recht bekennen,",
+                  "Noch lange nicht so viel, als meine Seel begehrt.",
+                  "Es ist noch was in mir — ich kann es selbst nicht nennen —",
+                  "Das öfters meinen Geist in Deiner Liebe stört.",
+                  "Ach fänd ich, denk ich oft, doch nur ein Räumelein,",
+                  "Da ich ganz ungestört Dich möchte liebend sein."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["44"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 18, 20—33.",
+            "buch": "1_mose",
+            "kapitel": 18,
+            "verse": "20-33"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["127"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 11, 1—7.",
+            "buch": "hebraeer",
+            "kapitel": 11,
+            "verse": "1-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Entbinde mich, mein Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Such ich die Einsamkeit, und mein es da zu finden,",
+                  "So wär es freilich gut, wenn ich da könnt allein",
+                  "Mich gänzlich von mir selbst und meiner Last entbinden,",
+                  "Da ich auch ohne mich könnt recht alleine sein.",
+                  "Doch nun trag ich mit mir mein arges Fleisch und Blut,",
+                  "Das in der Einsamkeit auch nimmer in mir ruht."
+                ]
+              },
+              {
+                "links": [
+                  "Wen Deine Liebe bindt, ist nicht ein Knecht der Sünden:",
+                  "Er bleibt in Banden auch ein freier Mann.",
+                  "Mein Abba, so will ich mich gerne lassen binden,",
+                  "Wenn ich Dein freies Kind auf ewig bleiben kann.",
+                  "Nur mach mich von mir frei und von der ganzen Welt,",
+                  "Daß meine edle Seel ihr Freiheitsrecht behält."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [417, 420],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["50"] },
+          {
+            "typ": "lied",
+            "titel": "Die helle Sonne leucht jetzt herfür",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "Die helle Sonne leucht jetzt herfür,",
+                  "Fröhlich vom Schlaf aufstehen wir;",
+                  "Gott Lob, Der uns heint diese Nacht",
+                  "Behüt hat vor des Teufels Macht."
+                ],
+                "rechts": [
+                  "Daß unser Herz in Gehorsam leb,",
+                  "Deinm Wort und Willn nicht widerstreb,",
+                  "Daß wir Dich stets vor Augen han",
+                  "In allem das wir heben an."
+                ]
+              },
+              {
+                "links": [
+                  "HErr Christ, den Tag uns auch behüt",
+                  "Vor Sünd und Schand durch Deine Güt;",
+                  "Laß Deine lieben Engelein",
+                  "Unsre Hüter und Wächter sein;"
+                ],
+                "rechts": [
+                  "Laß unser Werk geraten wohl,",
+                  "Was ein Jeder ausrichten soll,",
+                  "Daß unser Arbeit Müh und Fleiß",
+                  "Gereich zu Deinm Lob Ehr und Preis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 2, 5—12.",
+            "buch": "markus",
+            "kapitel": 2,
+            "verse": "5-12"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Die helle Sonne leucht",
+            "fortsetzung": true,
+            "melodie": "135",
+            "strophen": [
+              {
+                "links": [
+                  "Speis uns, o Gott, Deine Kinder;",
+                  "Tröste die betrübten Sünder;",
+                  "Sprich den Segen zu den Gaben,",
+                  "Dir wir jetzo vor uns haben,",
+                  "Daß sie uns zu diesem Leben",
+                  "Stärke Kraft und Nahrung geben;",
+                  "Bis wir endlich zu den Frommen",
+                  "An die Himmelstafel kommen."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["55"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 19, 19—23.",
+            "buch": "2_samuel",
+            "kapitel": 19,
+            "verse": "19-23"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["132"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 7, 17—25.",
+            "buch": "roemers",
+            "kapitel": 7,
+            "verse": "17-25"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wer angefangen hat, ein Christ zu sein, gedenke, er sei noch kein Christ, sondern suche es noch dahin zu bringen, daß er ein Christ werde. Denn ein Christ ist im Werden, nicht im Wordensein. Wer deshalb ein Christ ist, der ist nicht ein Christ, d. i. wer sich dünken läßt: er sei schon ein Christ worden, da er nur ein Christ werden soll, der ist nichts. Denn wir strecken uns nach dem Himmel; wir sind aber noch nicht in dem Himmel. Wehe dem, der sich einbildet: er sei schon ganz erneuert! Je mehr einer wächst und zunimmt, desto mehr sucht er ein Christ zu werden und desto weniger hält er sich dafür, daß er es sei.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die helle Sonne leucht",
+            "fortsetzung": true,
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "Hinunter ist der Sonnenschein,",
+                  "Die finstre Nacht bricht stark herein;",
+                  "Leucht uns, HErr Christ, Du wahres Licht,",
+                  "Laß uns im Finstern tappen nicht."
+                ],
+                "rechts": [
+                  "Womit wir habn erzürnet Dich,",
+                  "Dasselb verzeih uns gnädiglich,",
+                  "Und rechn es unser Seel nicht zu:",
+                  "Laß uns schlafen mit Fried und Ruh."
+                ]
+              },
+              {
+                "links": [
+                  "Dir sei Dank, daß Du uns den Tag",
+                  "Vor Schaden Fahr und mancher Plag",
+                  "Durch Deine Engel hast behüt",
+                  "Aus Gnad und väterlicher Güt."
+                ],
+                "rechts": [
+                  "Durch Dein Engel die Wach bestell,",
+                  "Daß uns der böse Feind nicht fällt;",
+                  "Vor Schrecken Gspenst und Feuersnot",
+                  "Behüt uns heint, o lieber Gott."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [420, 423],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["98"] },
+          {
+            "typ": "lied",
+            "titel": "Gott des Himmels und der Erden",
+            "melodie": "58",
+            "strophen": [
+              {
+                "links": [
+                  "Gott des Himmels und der Erden,",
+                  "Vater Sohn und Heilger Geist,",
+                  "Der es Tag und Nacht läßt werden,",
+                  "Sonn und Mond uns scheinen heißt,",
+                  "Dessen starke Hand die Welt",
+                  "Und was drinnen ist erhält:"
+                ],
+                "rechts": [
+                  "Laß die Nacht auch meiner Sünden",
+                  "Jetzt mit dieser Nacht vergehn;",
+                  "O HErr Jesu, laß mich finden",
+                  "Deine Wunden offen stehn,",
+                  "Da alleine Hilf und Rat",
+                  "Ist für meine Missetat."
+                ]
+              },
+              {
+                "links": [
+                  "Gott, ich danke Dir von Herzen,",
+                  "Daß Du mich in dieser Nacht",
+                  "Vor Gefahr Angst Not und Schmerzen",
+                  "Hast behütet und bewacht,",
+                  "Daß des bösen Feindes List",
+                  "Mein nicht mächtig worden ist."
+                ],
+                "rechts": [
+                  "Hilf, daß ich mit diesem Morgen",
+                  "Geistlich auferstehen mag,",
+                  "Und für meine Seele sorgen,",
+                  "Daß, wenn nun Dein großer Tag",
+                  "Uns erscheint und Dein Gericht",
+                  "Ich davor erschrecke nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 2, 13—17.",
+            "buch": "markus",
+            "kapitel": 2,
+            "verse": "13-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott des Himmels",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Führe mich, o HErr, und leite",
+                  "Meinen Gang nach Deinem Wort;",
+                  "Sei und bleibe Du auch heute",
+                  "Mein Beschützer und mein Hort.",
+                  "Nirgends als von Dir allein",
+                  "Kann ich recht bewahret sein."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["75"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 10, 16—22.",
+            "buch": "sprueche",
+            "kapitel": 10,
+            "verse": "16-22"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["70"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an Timotheus 3, 12—17.",
+            "buch": "2_timotheus",
+            "kapitel": 3,
+            "verse": "12-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Dies Leben ist nicht eine Frömmigkeit, sondern ein Frommwerden; nicht eine Gesundheit, sondern ein Gesundwerden; nicht ein Wesen, sondern ein Werden; nicht eine Ruhe, sondern eine Übung. Wir sinds noch nicht, wir werdens aber. Es ist noch nicht getan und geschehen, es ist aber im Gange und Schwange. Es ist nicht das Ende, es ist aber der Weg. Es glühet und glänzet noch nicht alles; es seget sich aber alles.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott des Himmels",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Meinen Leib und meine Seele",
+                  "Samt den Sinnen und Verstand,",
+                  "Großer Gott, ich Dir befehle",
+                  "Unter Deine starke Hand.",
+                  "HErr, mein Schild, mein Ehr und Ruhm,",
+                  "Nimm mich auf, Dein Eigentum."
+                ],
+                "rechts": [
+                  "Deinen Engel zu mir sende,",
+                  "Der des bösen Feindes Macht",
+                  "List und Anschlag von mir wende,",
+                  "Und mich halt in guter Acht,",
+                  "Der auch endlich mich zur Ruh",
+                  "Trage nach dem Himmel zu."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [423, 426],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["99"] },
+          {
+            "typ": "lied",
+            "titel": "Hüter, wird die Nacht",
+            "strophen": [
+              {
+                "links": [
+                  "Hüter, wird die Nacht der Sünden",
+                  "Nicht verschwinden?",
+                  "Hüter, ist die Nacht schier hin?",
+                  "Wird die Finsternis der Sinnen",
+                  "Bald zerrinnen,",
+                  "Darein ich verwickelt bin?"
+                ],
+                "rechts": [
+                  "Wir sind ja im neuen Bunde,",
+                  "Da die Stunde",
+                  "Der Erscheinung kommen ist;",
+                  "Und ich muß mich stets im Schatten",
+                  "So ermatten,",
+                  "Weil Du mir so ferne bist."
+                ]
+              },
+              {
+                "links": [
+                  "Möcht ich wie das Rund der Erden",
+                  "Lichte werden!",
+                  "Seelensonne, gehe auf!",
+                  "Ich bin finsier kalt und trübe,",
+                  "Jesu, Liebe,",
+                  "Komm, beschleunige den Lauf!"
+                ],
+                "rechts": [
+                  "Wir sind ja der Nacht entnommen,",
+                  "Da Du kommen;",
+                  "Aber ich bin lauter Nacht.",
+                  "Darum wollst Du mir dem Deinen",
+                  "Auch erscheinen,",
+                  "Der nach Licht und Rechte tracht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 7, 5—13.",
+            "buch": "markus",
+            "kapitel": 7,
+            "verse": "5-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hüter, wird die Nacht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Das Vernunftlicht kann das Leben",
+                  "Mir nicht geben:",
+                  "Jesus und Sein heller Schein,",
+                  "Jesus muß das Herz anblicken",
+                  "Und erquicken;",
+                  "Jesus muß die Sonne sein."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["87"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 10, 19—24.",
+            "buch": "jeremia",
+            "kapitel": 10,
+            "verse": "19-24"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["77"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 3, 18—23.",
+            "buch": "1_korinther",
+            "kapitel": 3,
+            "verse": "18-23"
+          },
+          {
+            "typ": "lied",
+            "titel": "Hüter, wird die Nacht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nur die Decke vor den Augen",
+                  "Kann nicht taugen:",
+                  "Seine Klarheit kann nicht ein;",
+                  "Wenn Sein helles Licht den Seinen",
+                  "Soll erscheinen,",
+                  "Muß das Auge reine sein."
+                ],
+                "rechts": [
+                  "Jesu, gib gesunde Augen,",
+                  "Die was taugen,",
+                  "Rühre meine Augen an;",
+                  "Denn das ist die größte Plage,",
+                  "Wenn am Tage",
+                  "Man das Licht nicht sehen kann."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 4. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [426, 428],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["64"] },
+          {
+            "typ": "lied",
+            "titel": "Ich dank dir, Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Ich dank Dir, Gott,",
+                  "Für all Wohltat,",
+                  "Daß Du auch mich",
+                  "Hast gnädiglich",
+                  "Die Nacht behüt",
+                  "Durch Deine Güt;",
+                  "Und bitt nun fort,",
+                  "O Gott mein Hort,",
+                  "Vor Sünd und Gfahr",
+                  "Mich heut bewahr,",
+                  "Daß mir kein Böses widerfahr."
+                ],
+                "rechts": [
+                  "Ich bfehl Dir, HErr,",
+                  "Mein Seel und Ehr,",
+                  "Herz Sinn und Mut,",
+                  "Mein Leib und Gut",
+                  "Und all das Mein;",
+                  "Der Engel Dein",
+                  "Hab mich in acht,",
+                  "Daß nicht find Macht",
+                  "Der Feind an mir",
+                  "Nach seinr Begier,",
+                  "Noch mich in Sünd mit Listen führ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 2, 23—28.",
+            "buch": "markus",
+            "kapitel": 2,
+            "verse": "23-28"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wir danken Gott (eig. Nun lobt und dankt Gott)",
+            "strophen": [
+              {
+                "links": [
+                  "Wir danken Gott für Seine Gabn,",
+                  "Die wir von Ihm empfangen habn.",
+                  "Wir bitten unsern lieben HErrn:",
+                  "Er woll uns hinfort mehr beschern,",
+                  "Und speisen uns mit Seinem Wort,",
+                  "Daß wir satt werden hier und dort.",
+                  "Ach lieber Gott, Du wollst uns gebn",
+                  "Nach diesm Elend das ewig Lebn.",
+                  "Amen."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["109"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Joel 1, 8—12.",
+            "buch": "joel",
+            "kapitel": 1,
+            "verse": "8-12"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["144"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 9, 6—15.",
+            "buch": "2_korinther",
+            "kapitel": 9,
+            "verse": "6-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott Lob, der Tag ist nun dahin",
+            "melodie": "157",
+            "strophen": [
+              {
+                "links": [
+                  "Gott Lob, der Tag ist nun dahin,",
+                  "Drum ich, mein Gott, Dir dankbar bin,",
+                  "Daß ich den Abend hab erlebt,",
+                  "Und Deine Gnad ob mir noch schwebt."
+                ],
+                "rechts": [
+                  "Ach HErr, sei gnädig, hab Geduld,",
+                  "Vergib mir alle Sündenschuld;",
+                  "Dein heilger Engel mich bewahr",
+                  "Vor aller Angst Not und Gefahr."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

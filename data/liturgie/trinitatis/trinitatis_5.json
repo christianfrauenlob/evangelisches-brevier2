@@ -1,0 +1,901 @@
+{
+  "id": "trinitatis_5",
+  "titel": "5. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "5. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [429, 432],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["10", "11"] },
+          {
+            "typ": "lied",
+            "titel": "Du bist ein Mensch, das weißt du wohl",
+            "melodie": "42",
+            "strophen": [
+              {
+                "links": [
+                  "Du bist ein Mensch, das weißt du wohl:",
+                  "Was strebst Du denn nach Dingen,",
+                  "Die Gott der Höchst alleine soll",
+                  "Und kann zuwege bringen?",
+                  "Du fährst mit Deinem Witz und Sinn",
+                  "Durch so viel tausend Sorgen hin,",
+                  "Und denkst: Wie wills auf Erden",
+                  "Doch endlich mit mir werden?"
+                ],
+                "rechts": [
+                  "Wie oft bist du in große Not",
+                  "Durch eignen Willen kommen,",
+                  "Da dein verblendter Sinn den Tod",
+                  "Fürs Leben angenommen!",
+                  "Und hätte Gott Dein Werk und Tat",
+                  "Ergehen lassen nach dem Rat,",
+                  "In dem du's angefangen:",
+                  "Du wärst zu Grunde gangen."
+                ]
+              },
+              {
+                "links": [
+                  "Willst du was tun was Gott gefällt,",
+                  "Und Dir zum Heil gedeihet,",
+                  "So wirf Dein Sorgen auf den Held,",
+                  "Den Erd und Himmel scheuet;",
+                  "Und gib dein Leben Tun und Stand",
+                  "Nur fröhlich hin in Gottes Hand,",
+                  "So wird Er deinen Sachen",
+                  "Ein fröhlich Ende machen."
+                ],
+                "rechts": [
+                  "Der aber, Der uns ewig liebt,",
+                  "Macht gut was wir verwirren,",
+                  "Erfreut, wo wir uns selbst betrübt,",
+                  "Und führt uns, wo wir irren;",
+                  "Und dazu treibt Ihn Sein Gemüt",
+                  "Und die so reine Vatergüt,",
+                  "In der uns arme Sünder",
+                  "Er tröst als liebe Kinder."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 5, 1—11.",
+            "buch": "lukas",
+            "kapitel": 5,
+            "verse": "1-11"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Auf, meine Brüder, laßt uns dem HErrn unsere Schiffe und Ruder und Arme, unsere Zeit und Kraft aufopfern wie Petrus, auf daß Er Menschen fahe. Je sehnfüchtiger wir auf den Tag hinaussehen, wo wir Könige und Priester sein werden im ewigen Reich, desto eifriger wollen wir Ihm unsern irdischen Beruf und alles was wir sind und haben zu Gebote stellen, daß Ihm Sein Werk gelinge, daß Ers vollende, daß Er das Netz ans Land ziehen könne und Seine Engel senden, auszulesen. Je brünstiger wir beten: \"Komm bald, HErr Jesu\\!\" je fröhlicher Seine Antwort klingt: \"Ja, Ich komme bald\\!\" desto mehr wollen wir auch arbeiten, mit Ihm arbeiten, daß alle Hindernisse Seines Kommens verschwinden, und die Erde Seines Ruhmes und Preises voll werde. Der HErr schenke uns dazu fröhliches Wollen und treues beständiges starkes Vollbringen!",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus trat in ein Schiff, setzte Sich,",
+              "Und lehrte das Volk. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, himmlischer Vater, ohne Welches Hilfe und Segen alle Mühe und Arbeit umsonst ist: siehe an Deine Güte und unsre Dürftigkeit, und segne den Schweiß unsres Angesichts, daß wir Deine Güte erfahren und preisen, und in diesem Namen und Vertrauen unserm Beruf in Geduld fröhlich nachkommen, und Dein Wort und Predigtamt ehren; um Deines lieben Sohnes Jesu Christi, unsres HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du bist ein Mensch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gott aber geht gerade fort",
+                  "Auf Seinen weisen Wegen;",
+                  "Er geht und bringt uns an den Port,",
+                  "Da Sturm und Wind sich legen.",
+                  "Hernachmals, wenn das Werk geschehn,",
+                  "So kann alsdann der Mensche sehn,",
+                  "Was Der, So ihn regieret,",
+                  "In Seinem Rat geführet."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["119, 129-176"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Klagelieder 3, 22—32.",
+            "buch": "klagelieder",
+            "kapitel": 3,
+            "verse": "22-32"
+          },
+          {
+            "typ": "gebet",
+            "text": "Gott, Der Du denen, welche Dich lieben, unsichtbare Güter bereitet hast: geuß in unsre Herzen die Lust Deiner Liebe, auf daß wir Dich in allem und über alles lieben und Deine Verheißungen, welche alle Lust und Begierde übertreffen, erlangen mögen; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["115", "116"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 3, 8—15.",
+            "buch": "1_petrus",
+            "kapitel": 3,
+            "verse": "8-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du bist ein Mensch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Drum, liebes Herz, sei wohlgemut,",
+                  "Und laß von Sorg und Grämen:",
+                  "Gott hat ein Herz, das nimmer ruht,",
+                  "Dein Bestes vorzunehmen;",
+                  "Er kanns nicht lassen, glaube mir,",
+                  "Sein Eingeweid ist gegen Dir",
+                  "Und uns hier allzusammen",
+                  "Voll allzusüßer Flammen."
+                ],
+                "rechts": [
+                  "Tu als ein Kind, und lege dich",
+                  "In deines Vaters Arme;",
+                  "Bitt Ihn und flehe, bis Er Sich",
+                  "Dein, wie Er pflegt, erbarme:",
+                  "So wird Er dich durch Seinen Geist",
+                  "Auf Wegen, die du jetzt nicht weißt,",
+                  "Nach wohlgehaltnem Ringen",
+                  "Aus allen Sorgen bringen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Meister, wir haben die ganze Nacht gearbeitet, und nichts gefangen;",
+              "Aber auf Dein Wort will ich das Netz auswerfen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gib uns — wir bitten Dich, o HErr — daß der Gang der Welt nach Deiner Ordnung friedlich für uns verlaufen, und daß Deine Kirche sich ungestörter Hingabe erfreuen möge; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [433, 436],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["21"] },
+          {
+            "typ": "lied",
+            "titel": "Treuer Vater, Deine Liebe",
+            "melodie": "11",
+            "strophen": [
+              {
+                "links": [
+                  "Treuer Vater, Deine Liebe,",
+                  "So aus einem heißen Triebe",
+                  "Mich in Christo auserwählt,",
+                  "Und, eh ich zur Welt geboren,",
+                  "Schon zur Kindschaft auserkoren,",
+                  "Und den Deinen zugezählt:"
+                ],
+                "rechts": [
+                  "Da ich dacht, ich wär ein Christe,",
+                  "Und davon zu reden wüßte,",
+                  "Brauchte Kirch, Altar dabei,",
+                  "Sang, und Guts den Armen täte,",
+                  "Keine groben Laster hätte:",
+                  "War es doch nur Heuchelei."
+                ]
+              },
+              {
+                "links": [
+                  "Hat mich zwar bisher gesehen",
+                  "Als ein Faß des Zornes gehen,",
+                  "Doch getragen mit Geduld;",
+                  "So, daß Du nicht wollen strafen,",
+                  "Noch mich aus dem Wege raffen",
+                  "Mitten in der Sündenschuld."
+                ],
+                "rechts": [
+                  "Totes Werk, historisch Wesen",
+                  "Ist was sich die Welt erlesen",
+                  "Und für ihren Christum hält.",
+                  "Schatten Bildnis Schein und Meinen",
+                  "Judaskuß und Heuchelweinen",
+                  "Ist der Glaube dieser Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 18—26.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "18-26"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Treuer Vater",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Hilf, daß ich dem Fleisch absage,",
+                  "Nicht nach eitlen Ehren frage,",
+                  "Reinge selbsten Herz und Sinn.",
+                  "Laß mich diese Welt verachten,",
+                  "Christi Schmach viel höher achten",
+                  "Als Aegyptens Lustgewinn."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["32"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Richter 2, 1—5.",
+            "buch": "richter",
+            "kapitel": 2,
+            "verse": "1-5"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["7"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 34—42.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "34-42"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Kein Ding gehet eher, ehe die Stunde kommt, die Gott bestimmt hat; sind daher alle menschliche Ratschläge Denken Dichten und Trachten ein Schemen Schatten und lauter Spiegelfechten, es sei denn die Sache im Himmel beschlossen. Es mögen Könige Fürsten und Herren Rat halten, alles abreden, wie sie wollen: welcher Sache Stündlein kommen ist, die gehet; die andern bleiben stecken, hindern und stauen sich, und ob es gleich scheint, es wird jetzund geschehen, so wird doch nichts daraus, bis auch ihre Stunde kommt, wann sich gleich alle Menschen auf Erden zerreißen wollten. Kurzum: Gott will Ihm den Zeiger nicht stellen lassen von Königen Fürsten Herren und Weisen auf Erden. Er will ihnen stellen. Wir sollen Ihm nicht sagen, was es geschlagen hat; Er wills uns sagen.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Treuer Vater",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, Du wollst mich Selbst bereiten,",
+                  "Wie in Zeit und Ewigkeiten",
+                  "Du Dein armes Kind begehrst;",
+                  "Du kannst kräftgen stärken gründen,",
+                  "Mittel Zeit und Wege finden,",
+                  "Da Du mir Dein Heil gewährst."
+                ],
+                "rechts": [
+                  "Ich will gerne halten stille,",
+                  "Meine Heilgung sei Dein Wille;",
+                  "Laß mein Herze brünstig sein,",
+                  "Dich mein Heiland zu umfangen,",
+                  "Und Dir ewig anzuhangen:",
+                  "Sei Du mein, ich bleibe Dein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [436, 439],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["43"] },
+          {
+            "typ": "lied",
+            "titel": "Was alle Weisheit in der Welt",
+            "melodie": "51",
+            "strophen": [
+              {
+                "links": [
+                  "Was alle Weisheit in der Welt",
+                  "Bei uns hier kaum kann lallen,",
+                  "Das läßt Gott aus dem Himmelszelt",
+                  "In alle Welt erschallen:",
+                  "Daß Er alleine König sei",
+                  "Hoch über alle Götter,",
+                  "Groß mächtig freundlich fromm und treu,",
+                  "Der Frommen Schutz und Retter —",
+                  "Ein Wesen, drei Personen."
+                ],
+                "rechts": [
+                  "Gott Vater Sohn und Heilger Geist",
+                  "Heißt Sein hochheiliger Name:",
+                  "So kennt, so nennt, so rühmt und preist",
+                  "Ihn der gerechte Same;",
+                  "Gott Abraham, Gott Isaak,",
+                  "Gott Jakob, den Er liebet,",
+                  "HErr Zebaoth, Der Nacht und Tag",
+                  "Uns alle Gaben giebet",
+                  "Und Wunder tut alleine."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 12, 28—34.",
+            "buch": "markus",
+            "kapitel": 12,
+            "verse": "28-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Was alle Weisheit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der Vater hat von Ewigkeit",
+                  "Den Sohn, Sein Bild, gezeuget;",
+                  "Der Sohn hat in der Füll der Zeit",
+                  "Im Fleische Sich erzeiget;",
+                  "Der Geist geht ohne Zeit herfür",
+                  "Vom Vater und vom Sohne,",
+                  "Mit Beiden gleicher Ehr und Zier,",
+                  "Gleich ewig, gleicher Krone,",
+                  "Und ungeteilter Stärke."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["25"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Klagelieder 3, 33—40.",
+            "buch": "klagelieder",
+            "kapitel": 3,
+            "verse": "33-40"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["12"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 3, 6—13.",
+            "buch": "1_thessalonicher",
+            "kapitel": 3,
+            "verse": "6-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "Was alle Weisheit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ei nun, so gib, Du großer Held,",
+                  "Gott Himmels und der Erden,",
+                  "Daß alle Menschen in der Welt",
+                  "Zu Dir bekehret werden;",
+                  "Erleuchte was verblendet geht,",
+                  "Bring wieder was verirret,",
+                  "Reiß aus was uns im Wege steht,",
+                  "Und freventlich verwirret",
+                  "Die Schwachen in dem Glauben;"
+                ],
+                "rechts": [
+                  "Auf daß wir also allzugleich",
+                  "Zur Himmelspforten dringen,",
+                  "Und dermaleinst in Deinem Reich",
+                  "Obn alles Ende singen,",
+                  "Daß Du alleine König seist,",
+                  "Hoch über alle Götter:",
+                  "Gott Vater Sohn und Heilger Geist,",
+                  "Der Frommen Schutz und Retter —",
+                  "Ein Wesen, drei Personen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [439, 442],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["51"] },
+          {
+            "typ": "lied",
+            "titel": "Ich danke Dir, o Gott (Beato l'huom)",
+            "strophen": [
+              {
+                "links": [
+                  "Ich danke Dir, o Gott, in Deinem Throne,",
+                  "Durch Jesum Christum, Deinen lieben Sohne,",
+                  "Daß Du mich wollen diese Nacht bewahren",
+                  "Vor Schaden und vor mancherlei Gefahren;",
+                  "Und bitte Dich: wollst mich an diesem Tage",
+                  "Behüten auch vor Sünden Schand und Plage."
+                ]
+              },
+              {
+                "links": [
+                  "Denn ich Dir, HErr, in Deine Händ befehle",
+                  "Mein Leib und Gut und meine arme Seele.",
+                  "Dein heiliger Engel zu allen Zeiten,",
+                  "Der sei und bleib bei mir auf allen Seiten,",
+                  "Auf daß der bös Feind, so arg und geschwinde,",
+                  "Ganz keine Macht an mir zu üben finde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 39—44.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "39-44"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich danke Dir, o Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Den lieben Frieden ferner uns verleihe,",
+                  "Und unsre Nahrung reichlich benedeie;",
+                  "Die Pest von unsrer Stadt und Land laß wallen,",
+                  "Dein Wort in Ruh und Fried noch länger schallen;",
+                  "Teurung vertreib, mit Segen uns erfülle,",
+                  "Nach Deinem Wort und väterlichen Wille."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["56"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 19, 15—25.",
+            "buch": "1_mose",
+            "kapitel": 19,
+            "verse": "15-25"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["34"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 9, 1—9.",
+            "buch": "apostelgeschichte",
+            "kapitel": 9,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich danke Dir, o Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich bitt für Die, Gott, so Dich Vater nennen,",
+                  "Insonderheit Dein reines Wort bekennen,",
+                  "Für alle meine Blutsfreund und Verwandten,",
+                  "Sie seien hier oder in fremden Landen;",
+                  "Vor allem Unfall wollst Du sie bewahren,",
+                  "Laß ihnen alles Gute widerfahren."
+                ],
+                "rechts": [
+                  "All, welche sind betrübt krank und gefangen,",
+                  "In ihren Nöten nach Dir, HErr, verlangen,",
+                  "Die wollest Du von allem ihrem Bösen",
+                  "Aus lauter Gnaden endlich gar erlösen.",
+                  "All arme Sünder zu Dir, HErr, bekehre,",
+                  "Ein seligs End uns insgesamt beschere."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [442, 445],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["36"] },
+          {
+            "typ": "lied",
+            "titel": "Ich dank Dir schon durch Deinen Sohn",
+            "melodie": "76",
+            "strophen": [
+              {
+                "links": [
+                  "Ich dank Dir schon durch Deinen Sohn,",
+                  "O Gott, für Deine Güte,",
+                  "Daß Du mich heint in dieser Nacht",
+                  "So gnädig hast behütet.",
+                  "Und wollest mich auch diesen Tag",
+                  "In Deinem Schutz erhalten,",
+                  "Daß mir der Feind nicht schaden mag",
+                  "Mit Listen mannigfalten."
+                ],
+                "rechts": [
+                  "Regier mich nach dem Willen Dein,",
+                  "Laß mich in Sünd nicht fallen,",
+                  "Auf daß Dir mög das Leben mein",
+                  "Und all mein Tun gefallen.",
+                  "Allein Gott in der Höh sei Preis",
+                  "Samt Seinem Engen Sohne",
+                  "In Einigkeit des Heilgen Geists,",
+                  "Der herrschaft ins Himmels Throne."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 46—52.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "46-52"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Gott Vater im Himmelreich, wir",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Gott Vater im Himmelreich,",
+                  "Wir Deine Kinder allzugleich",
+                  "Bitten Dich jetzt aus Herzensgrund:",
+                  "Speis uns Alle zu dieser Stund."
+                ],
+                "rechts": [
+                  "Tu auf Dein reiche milde Hand,",
+                  "Behüt uns All vor Sünd und Schand,",
+                  "Und gib uns Fried und Einigkeit,",
+                  "Bewahr uns auch vor teurer Zeit;"
+                ]
+              },
+              {
+                "links": [
+                  "Damit wir leben seliglich,",
+                  "Dein Reich besitzen ewiglich",
+                  "In unfers HErren Christi Nam'n.",
+                  "Wer das begehrt, der spreche: Am'n."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["76"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Richter 6, 11—16.",
+            "buch": "richter",
+            "kapitel": 6,
+            "verse": "11-16"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["71"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 9, 10—19.",
+            "buch": "apostelgeschichte",
+            "kapitel": 9,
+            "verse": "10-19"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun schläfet man",
+            "strophen": [
+              {
+                "links": [
+                  "Nun schläfet man;",
+                  "Und wer nicht schlafen kann",
+                  "Der bete mit mir an",
+                  "Den großen Namen,",
+                  "Dem Tag und Nacht",
+                  "Wird von der Himmelswacht",
+                  "Preis Lob und Ehr gebracht:",
+                  "O Jesu, Amen."
+                ],
+                "rechts": [
+                  "Weg Phantasie!",
+                  "Mein HErr und Gott ist hie.",
+                  "Du schläfst, mein Wächter, nie;",
+                  "Dir will ich wachen.",
+                  "Ich liebe Dich:",
+                  "Ich geb zum Opfer mich",
+                  "Und lasse williglich",
+                  "Dich mit mir machen."
+                ]
+              },
+              {
+                "links": [
+                  "Es leuchte Dir",
+                  "Der Himmelslichter Zier —",
+                  "Ich sei Dein Sternlein, hier",
+                  "Und dort zu funkeln.",
+                  "Nun kehr ich ein;",
+                  "HErr, rede Du allein",
+                  "Beim tiefsten Stillesein",
+                  "Zu mir im Dunkeln."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [446, 448],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["85"] },
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren Alle",
+            "melodie": "97",
+            "strophen": [
+              {
+                "links": [
+                  "Lobet den HErren Alle, die Ihn ehren,",
+                  "Laßt uns mit Freuden Seinem Namen singen,",
+                  "Und Preis und Dank zu Seinem Altar bringen:",
+                  "Lobet den HErren."
+                ],
+                "rechts": [
+                  "O treuer Hüter, Brunnen aller Güter,",
+                  "Ach laß doch ferner über unser Leben",
+                  "Bei Tag und Nacht Dein Hut und Güte schweben:",
+                  "Lobet den HErren."
+                ]
+              },
+              {
+                "links": [
+                  "Der unser Leben, das Er uns gegeben,",
+                  "In dieser Nacht so väterlich bedecket,",
+                  "Und aus dem Schlaf uns fröhlich auferwecket:",
+                  "Lobet den HErren."
+                ],
+                "rechts": [
+                  "Gib, daß wir heute, HErr, durch Dein Geleite",
+                  "Auf unsern Wegen unverhindert gehen,",
+                  "Und überall in Deiner Gnade stehen:",
+                  "Lobet den HErren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 1—3.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "1-3"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren, Alle",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Treib unsern Willen, Dein Wort zu erfüllen;",
+                  "Lehr uns verrichten heilige Geschäfte,",
+                  "Und wo wir schwach sind, da gib Du uns Kräfte:",
+                  "Lobet den HErren."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["89"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 20, 7—13.",
+            "buch": "jeremia",
+            "kapitel": 20,
+            "verse": "7-13"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["86"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Kolosser 4, 2—6.",
+            "buch": "kolosser",
+            "kapitel": 4,
+            "verse": "2-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Richt unsre Herzen, daß wir ja nicht scherzen",
+                  "Mit Deinen Strafen; sondern fromm zu werden",
+                  "Vor Deiner Zukunft uns bemühn auf Erden:",
+                  "Lobet den HErren."
+                ],
+                "rechts": [
+                  "HErr, Du wirst kommen, und all Deine Frommen,",
+                  "Die sich bekehren gnädig dahin bringen,",
+                  "Da alle Engel ewig ewig singen:",
+                  "Lobet den HErren."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 5. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [448, 450],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["92"] },
+          {
+            "typ": "lied",
+            "titel": "Morgenglanz der Ewigkeit",
+            "melodie": "108",
+            "strophen": [
+              {
+                "links": [
+                  "Morgenglanz der Ewigkeit,",
+                  "Licht vom unerschöpften Lichte,",
+                  "Schick uns diese Morgenzeit",
+                  "Deine Strahlen zu Gesichte,",
+                  "Und vertreib durch Deine Macht",
+                  "Unsre Nacht."
+                ],
+                "rechts": [
+                  "Deiner Güte Morgentau",
+                  "Fall auf unser matt Gewissen;",
+                  "Laß die dürre Lebensau",
+                  "Lauter süßen Trost genießen,",
+                  "Und erquick uns, Deine Schar,",
+                  "Immerdar."
+                ]
+              },
+              {
+                "links": [
+                  "Die bewölkte Finsternis",
+                  "Müsse Deinem Glanz entfliegen,",
+                  "Die durch Adams Apfelbiß",
+                  "Uns, die kleine Welt, bestiegen,",
+                  "Daß wir, HErr, durch Deinen Schein",
+                  "Selig sein."
+                ],
+                "rechts": [
+                  "Gib, daß Deiner Liebe Glut",
+                  "Unsre kalten Werke töte,",
+                  "Und erweck uns Herz und Mut",
+                  "Bei entstandner Morgenröte,",
+                  "Daß wir, eh wir gar vergehn,",
+                  "Recht aufstehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 10—14.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "10-14"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Morgenglanz der Ewigkeit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Laß uns ja das Sündenkleid",
+                  "Durch des Bundes Blut vermeiden,",
+                  "Daß uns die Gerechtigkeit",
+                  "Mög als wie ein Rock bekleiden,",
+                  "Und wir so vor aller Pein",
+                  "Sicher sein."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["94"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Joel 2, 12—17.",
+            "buch": "joel",
+            "kapitel": 2,
+            "verse": "12-17"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["145"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 6, 1—7.",
+            "buch": "apostelgeschichte",
+            "kapitel": 6,
+            "verse": "1-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Morgenglanz der Ewigkeit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach Du Aufgang aus der Höh,",
+                  "Gib, daß auch am jüngsten Tage",
+                  "Unser Leichnam auferstehe,",
+                  "Und entfernt von aller Plage",
+                  "Sich auf jener Freudenbahn",
+                  "Freuen kann."
+                ],
+                "rechts": [
+                  "Leucht uns selbst in jener Welt,",
+                  "Du verklärte Gnadensonne;",
+                  "Führ uns durch das Thränenfeld",
+                  "In das Land der süßen Wonne,",
+                  "Da die Lust, die uns erhöht,",
+                  "Nie vergeht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
