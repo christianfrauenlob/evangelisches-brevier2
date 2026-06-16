@@ -1,0 +1,1072 @@
+{
+  "id": "trinitatis_2",
+  "titel": "2. Sonntag nach Trinitatis",
+  "kirchenzeit": "Trinitatiszeit",
+  "reihe": "",
+  "band": "",
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "2. Sonntag nach Trinitatis",
+      "wochentag": "Sonntag",
+      "seiten": [
+        359,
+        362
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18",
+              "3"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 14, 16-24.",
+            "buch": "lukas",
+            "kapitel": 14,
+            "verse": "16-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Seele, was ermüdst du dich",
+            "melodie": "Mel. 88.",
+            "strophen": [
+              {
+                "links": [
+                  "Seele, was ermüdst du dich",
+                  "In den Dingen dieser Erden,",
+                  "Die doch bald verzehren sich",
+                  "Und zu lauter Nichtes werden?",
+                  "Suche Jesum und Sein Licht,",
+                  "Alles Andre hilft dir nicht."
+                ],
+                "rechts": [
+                  "Du verlangst oft süße Ruh,",
+                  "Dein betrübtes Herz zu laben;",
+                  "Eil zur Lebensquell hinzu,",
+                  "Da kannst du sie reichlich haben.",
+                  "Suche Jesum und Sein Licht,",
+                  "Alles Andre hilft dir nicht."
+                ]
+              },
+              {
+                "links": [
+                  "Sammle den zerstreuten Sinn,",
+                  "Laß ihn sich zu Gott aufschwingen;",
+                  "Richt ihn stets zum Himmel hin,",
+                  "Laß ihn in die Gnad eindringen.",
+                  "Suche Jesum . . ."
+                ],
+                "rechts": [
+                  "Fliehe die unselge Pein,",
+                  "So das finstre Reich gebieret;",
+                  "Laß nur Den dein Labsal sein,",
+                  "Der zur Glaubensfreude führet.",
+                  "Suche Jesum . . ."
+                ]
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Seele, was ermüdst du dich",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Weißt du nicht, daß diese Welt",
+                  "Ein ganz ander Wesen heget",
+                  "Als dem Höchsten wohlgefällt",
+                  "Und dein Ursprung dir vorleget?",
+                  "Suche Jesum und Sein Licht!",
+                  "Alles Andre hilft dir nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 9, 1-10.",
+            "buch": "sprueche",
+            "kapitel": 9,
+            "verse": "1-10"
+          },
+          {
+            "typ": "gebet",
+            "text": "Ach HErr, schaffe, daß wir allezeit Deinen Namen kindlich fürchten und lieben, weil Du Diejenigen nimmermehr aufhörst zu regieren, welche Du in Beständigkeit Deiner Liebe unterweisest; durch unsern . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 3, 13-18.",
+            "buch": "1_johannes",
+            "kapitel": 3,
+            "verse": "13-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Seele, was ermüdst du dich",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Schwinge dich fein oft im Geist",
+                  "Ueber alle Himmelshöhen;",
+                  "Laß was dich zur Erden reißt",
+                  "Weit von dir entfernet stehen.",
+                  "Suche Jesum und Sein Licht!",
+                  "Alles Andre hilft dir nicht."
+                ],
+                "rechts": [
+                  "Sei im Uebrigen ganz still:",
+                  "Du wirst schon zum Ziel gelangen;",
+                  "Glaube, daß Sein Liebeswill",
+                  "Stillen werde dein Verlangen.",
+                  "Drum such Jesum und Sein Licht!",
+                  "Alles Andre hilft dir nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Nötige sie, hereinzukommen,",
+              "Auf daß mein Haus voll werde."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Montag",
+      "seiten": [
+        363,
+        365
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "17"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Gnadenbrunn fleußt noch",
+            "melodie": "Mel. 125-127.",
+            "strophen": [
+              {
+                "links": [
+                  "Der Gnadenbrunn fleußt noch,",
+                  "Den Jedermann kann trinken;",
+                  "Mein Geist, laß deinen Gott",
+                  "Dir doch umsonst nicht winken.",
+                  "Es lehrt dich ja das Wort,",
+                  "Das Licht für deinen Fuß,",
+                  "Daß Christus dir allein",
+                  "Von Sünden helfen muß."
+                ],
+                "rechts": [
+                  "Dein Tun ist nicht geschickt",
+                  "Zu einem bessern Leben;",
+                  "Auf Christum richte dich,",
+                  "Der kann dir solches geben:",
+                  "Der hat den Zorn versöhnt",
+                  "Mit Seinem teuren Blut,",
+                  "Und uns den Weg gebahnt",
+                  "Zu Gott, dem höchsten Gut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 9-13.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "9-13"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "℣  Gedenke, HErr, an Deinen Bund, und sprich zu dem Engel, der uns schlägt: Laß deine Hand ab!"
+              },
+              {
+                "art": "text",
+                "inhalt": "℟  Auf daß das Land nicht wüste werde, und Du nicht verdirbest alles was da lebet."
+              },
+              {
+                "art": "text",
+                "inhalt": "℣  Ich, ich habe gesündigt und unrecht getan. Wende ab, o HErr, Deinen Zorn von Deinem Volke."
+              },
+              {
+                "art": "text",
+                "inhalt": "℟  Auf daß das Land nicht wüste werde, und Du nicht verdirbest alles was da lebet."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, barmherziger Vater, Du hast die Kirche gegründet als ein festes Schloß, dahin Jeder in seiner Sündennot und Herzensangst fliehen soll, als ein festes und unbewegliches Reich der Himmel in der Unruhe und Sorge der Erde. Laß uns Alle darin eine Stätte finden, wo wir Gnade und Frieden, Kraft und Freudigkeit gewinnen. Mach uns zu Arbeitern und Streitern und Betern. Stärke uns in allem Guten, segne auch unsre evangelische Kirche, daß sie je länger je mehr zum Sauerteig des heiligen Geistes werde.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Gnadenbrunn fleußt noch",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Nun HErr, ich fühle Durst",
+                  "Nach Deiner Gnadenquelle,",
+                  "Wie ein gejagter Hirsch,",
+                  "Auf so viel Sündenfälle.",
+                  "Wie komm ich aus der Not",
+                  "Als durch den Gnadensaft?",
+                  "Hilf mir durch Deinen Geist!",
+                  "In mir ist keine Kraft."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 7, 25-28.",
+            "buch": "jeremia",
+            "kapitel": 7,
+            "verse": "25-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 10, 1-15.",
+            "buch": "roemers",
+            "kapitel": 10,
+            "verse": "1-15"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Im äußerlichen weltlichen Leben, da soll die Ungleichheit bleiben; wie denn die Stände ungleich sind. Ein Bauer führt ein ander Leben und Stand, denn ein Bürger; ein Fürst einen andern Stand, denn ein Edelmann. Da ists alles ungleich, und soll ungleich bleiben. Aber im Reiche Christi — es sei ein König, ein Fürst, ein Herr, ein Knecht, eine Frau, eine Magd, oder wie sie mögen genannt werden — so sind sie doch alle gleich. Denn Keiner hat eine andre Taufe, Evangelium, Glauben, Sakrament, Christum und Gott, denn der Andre. Da geht man auch zugleich zur Predigt, und hört ein Knecht, ein Bürger, ein Bauer eben das Wort, das der größte Herr hört. Also die Taufe, die ich habe, die empfängt ein jegliches Kind, es sei, wes es wolle. Den Glauben, den S. Peter, S. Paulus haben, denselben hat die Magdalena und der Schächer am Kreuz auch. Also eben den Gott und Christum, den Johannes der Täufer hat, den haben alle Sünder, wenn sie sich bekehren. Das ist alles gleich, obgleich Einer höher oder geringer ist, denn der Andere, von wegen seines Standes Amts oder Gaben.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Gnadenbrunn fleußt noch",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Du hast ja zugesagt:",
+                  "Du wollst Die Durst empfinden",
+                  "Nach der Gerechtigkeit",
+                  "Befrein von ihren Sünden;",
+                  "Nun weiset mir den Weg",
+                  "Dein Sohn der wahre Christ;",
+                  "Nur Du mußt Helfer sein,",
+                  "Weil Du voll Hilfe bist."
+                ],
+                "rechts": [
+                  "O selig, willst Du mir",
+                  "Von diesem Wasser geben,",
+                  "Das tränket meinen Geist",
+                  "Zu der Gerechten Leben.",
+                  "Gib diesen Trunk mir stets,",
+                  "Du Brunn der Gütigkeit,",
+                  "So ist mir immer wohl",
+                  "In der Gelassenheit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Treuer HErr und Gott, gib uns reine, heilige Liebe zu unserm Vaterland und Volk. Wir danken Dir, daß Du unser Land vormals gesegnet hast. Wir bitten Dich aus tiefster Seele: segne uns mit der wahrhaftigen Gerechtigkeit, die aus dem Glauben fließt. Das ist von all Deinen Taten die größte, daß Du uns zum Volk der Reformation gemacht und Dein Wort in die Gewissen gesenkt hast. Aber nun, HErr, siehe die Millionen, die vom Glauben los sind und ihre eigene Gerechtigkeit aufrichten. Bekehre uns, so werden wir bekehrt! Sei Du der HErr unsres Volkes für und für.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Dienstag",
+      "seiten": [
+        368,
+        370
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater, unser Gott",
+            "melodie": "Mel. 46.",
+            "strophen": [
+              {
+                "links": [
+                  "O Vater, unser Gott, es ist",
+                  "Unmöglich auszusinnen,",
+                  "Wie Du recht anzurufen bist;",
+                  "Vernunft kanns nicht beginnen:",
+                  "Deshalben geuß, wie Du verheißt,",
+                  "Selbst über uns aus Deinen Geist",
+                  "Der Gnad und des Gebetes;"
+                ],
+                "rechts": [
+                  "Daß Er bei Dir uns kräftiglich",
+                  "Mit Seufzen mög vertreten,",
+                  "So oft wir kommen, HErr, vor Dich",
+                  "Zu danken und zu beten;",
+                  "Laß nicht nur plappern unsern Mund,",
+                  "Hilf, daß zu Dir aus Herzensgrund,",
+                  "O großer Gott, wir rufen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 6, 5-15.",
+            "buch": "matthaeus",
+            "kapitel": 6,
+            "verse": "5-15"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Suche dir eine schickliche Zeit aus, wo du bei dir und in dir selbst allein sein kannst; und da bedenke recht oft, wie dir Gott schon so wohlgetan hat. — Versprich dir nie eine völlige Sicherheit in diesem Leben, wenn du auch noch so fromm und heilig scheinest. Nicht selten sind eben Die, welche in den Augen der Menschen die besten scheinen, am tiefsten gefallen, weil sie sich selbst zu sehr vertrauten. — In deinem Stübchen wirst du finden, was du draußen gewöhnlich verlierest. Die sinnlichen Begierden treiben dich hinaus; aber wenn die Stunde geschlagen hat, was bringst du mit nach Hause? Was anders, als ein beschwertes Gewissen und ein zerstreutes Herz! Auf einen lustigen Ausgang folgt gewöhnlich eine traurige Rückkehr, und auf eine lustige Nacht ein trauriger Morgen. So schleicht sich jede sinnliche Freude schmeichelnd und kosend ein; aber am Ende beißt und tötet sie.",
+            "quelle": "Thomas von Kempen"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "℣  Wenn Dein Volk sich bekehrt und betet nach Deinem Heiligtum hin,"
+              },
+              {
+                "art": "text",
+                "inhalt": "℟  So wollest Du ihr Gebet und Flehen hören vom Himmel und ihnen zu ihrem Recht helfen."
+              },
+              {
+                "art": "text",
+                "inhalt": "℣  Wenn Dein Volk wider Dich gesündigt hat und Buße tut und kommt, zu beten an diesem Ort,"
+              },
+              {
+                "art": "text",
+                "inhalt": "℟  So wollest . . . helfen."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Vater, unser Gott",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Laß uns im Herzen und Gemüt",
+                  "Auf unser Werk nicht bauen;",
+                  "Auf Deine unaussprechlich Güt",
+                  "Laß einzig uns vertrauen;",
+                  "Ob wir es gleich nicht würdig sein,",
+                  "Wollst Du aus lauter Gnad allein",
+                  "Uns doch der Bitt gewähren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 37, 1-13.",
+            "buch": "job",
+            "kapitel": 37,
+            "verse": "1-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 4, 1-6.",
+            "buch": "jakobus",
+            "kapitel": 4,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater, unser Gott",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Dein Nam, o Gott, geheiligt werd,",
+                  "Dein Reich laß zu uns kommen,",
+                  "Dein Will geschehe auch auf Erd,",
+                  "Gib Brot Fried Nutz und Frommen,",
+                  "All unsre Sünde uns verzeih,",
+                  "Steh uns in der Versuchung bei,",
+                  "Erlös uns von dem Uebel."
+                ],
+                "rechts": [
+                  "Dies Alles, Vater, werde wahr,",
+                  "Du wollest es erfüllen;",
+                  "Erhör und hilf uns immerdar,",
+                  "Um Jesu Christi willen.",
+                  "Denn Dein, o HErr, ist allezeit,",
+                  "Von Ewigkeit zu Ewigkeit,",
+                  "Das Reich, die Macht und Ehre."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Mittwoch",
+      "seiten": [
+        371,
+        373
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "48"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es glänzet der Christen inwendiges Leben",
+            "melodie": "Mel. 45.",
+            "strophen": [
+              {
+                "links": [
+                  "Es glänzet der Christen inwendiges Leben,",
+                  "Obgleich sie von außen die Sonne verbrannt;",
+                  "Was ihnen der König des Himmels gegeben,",
+                  "Ist Keinem als ihnen nur selber bekannt.",
+                  "Was Niemand verspüret,",
+                  "Was Niemand berühret,",
+                  "Hat ihre erleuchteten Sinne gezieret,",
+                  "Und sie zu der göttlichen Würde geführet."
+                ],
+                "rechts": [
+                  "Sonst sind sie des Adams natürliche Kinder,",
+                  "Und tragen das Bilde des irdischen auch;",
+                  "Sie leiden am Fleische wie andere Sünder,",
+                  "Sie essen und trinken nach nötigem Brauch.",
+                  "In leiblichen Sachen,",
+                  "Im Schlafen und Wachen,",
+                  "Sieht man sie vor Andern nichts Sonderlichs machen,",
+                  "Nur daß sie die Torheit der Weltlust verlachen."
+                ]
+              },
+              {
+                "links": [
+                  "Doch innerlich sind sie aus göttlichem Stamme,",
+                  "Die Gott durch Sein mächtig Wort Selber gezeugt:",
+                  "Ein Funke und Flämmlein aus göttlicher Flamme,",
+                  "Die oben Jerusalem freundlich gesäugt.",
+                  "Die Engel sind Brüder,",
+                  "Die ihre Loblieder",
+                  "Mit ihnen gar freundlich und lieblich absingen:",
+                  "Das muß denn ganz herrlich, ganz prächtig erklingen!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 6, 16-18.",
+            "buch": "matthaeus",
+            "kapitel": 6,
+            "verse": "16-18"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "℣  Meiner Sünden ist mehr denn der Sand am Meer. Ich bin nicht wert, des Himmels Höhe zu schauen ob der Größe meiner Missetat; denn ich habe Dich erzürnet, o HErr, Und übel vor Dir getan."
+              },
+              {
+                "art": "text",
+                "inhalt": "℟  Ich erkenne meine Missetat, und meine Sünde ist immer vor mir, denn an Dir Allein hab ich gesündigt, Und übel vor Dir getan."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es glänzet der Christen",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Sie wandeln auf Erden, und leben im Himmel,",
+                  "Sie bleiben ohnmächtig, und schützen die Welt;",
+                  "Sie schmecken den Frieden bei allem Getümmel;",
+                  "Sie kriegen, die Aermsten, was ihnen gefällt.",
+                  "Sie stehen in Leiden,",
+                  "Sie bleiben in Freuden,",
+                  "Sie scheinen ertötet den äußeren Sinnen,",
+                  "Und führen das Leben des Glaubens von innen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 65, 11-14.",
+            "buch": "jesaja",
+            "kapitel": 65,
+            "verse": "11-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 14, 15-17.",
+            "buch": "apostelgeschichte",
+            "kapitel": 14,
+            "verse": "15-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Groß bist Du, o HErr, und Deines Lobes ist kein Ende; groß ist die Fülle Deiner Kraft, und Deine Weisheit ist unermeßlich. Und loben will Dich der Mensch, ein so geringer Teil Deiner Schöpfung; der Mensch, der sich unter der Last der Sterblichkeit beugt, dem Zeugnis seiner Sünde, einem Zeugnis, daß Du den Hoffärtigen widerstehest; und doch will Dich loben der Mensch, ein so geringer Teil Deiner Schöpfung. Du schaffest, daß er mit Freuden Dich preist; denn zu Deinem Eigentum erschuffst Du uns, und ruhelos ist unser Herz, bis es ruhet in Dir. — Ich will Dich suchen, o HErr, im Gebet, und ich werde Dich anrufen im Glauben; denn Du bist uns verkündiget worden. Mein Glaube, den Du mir gegeben, o HErr, ruft Dich an, mein Glaube, den Du mir einhauchtest durch die Menschwerdung Deines Sohnes, durch die Vermittlung Deines Predigers.",
+            "quelle": "Augustinus"
+          },
+          {
+            "typ": "lied",
+            "titel": "Es glänzet der Christen",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Frohlocke, du Erde, und jauchzet, ihr Hügel,",
+                  "Dieweil du den göttlichen Samen geneußt;",
+                  "Denn das ist Jehovah Sein göttliches Siegel,",
+                  "Zum Zeugnis, daß Er dir noch Segen verheißt.",
+                  "Du sollst noch mit ihnen",
+                  "Aufs prächtigste grünen,",
+                  "Wenn erst ihr verborgenes Leben erscheinet,",
+                  "Wonach sich dein Seufzen mit ihnen vereinet."
+                ],
+                "rechts": [
+                  "O Jesu, verborgenes Leben der Seelen,",
+                  "Du heimliche Zierde der inneren Welt:",
+                  "Gib, daß wir die heimlichen Wege erwählen,",
+                  "Wenngleich uns die Larve des Kreuzes verstellt.",
+                  "Hier übel genennet",
+                  "Und wenig erkennet,",
+                  "Hier heimlich mit Christo im Vater gelebet,",
+                  "Dort öffentlich mit Ihm im Himmel geschwebet."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Donnerstag",
+      "seiten": [
+        374,
+        376
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach sagt mir nicht von Gold und Schätzen",
+            "melodie": "Mel. 159. 60.",
+            "strophen": [
+              {
+                "links": [
+                  "Ach sagt mir nicht von Gold und Schätzen,",
+                  "Von Pracht und Schönheit dieser Welt,",
+                  "Es kann mich ja gar nichts ergötzen,",
+                  "Was mir die Welt vor Augen stellt.",
+                  "Ein Jeder liebe was er will —",
+                  "Ich liebe Jesum, Der mein Ziel."
+                ],
+                "rechts": [
+                  "Die Welt vergeht mit ihren Lüsten,",
+                  "Des Fleisches Schönheit dauert nicht;",
+                  "Die Zeit kann alles das verwüsten",
+                  "Was Menschenhände zugericht.",
+                  "Ein Jeder liebe was er will —",
+                  "Ich liebe Jesum, Der mein Ziel."
+                ]
+              },
+              {
+                "links": [
+                  "Er ist alleine meine Freude,",
+                  "Mein Gold, mein Schatz, mein schönstes Bild,",
+                  "In Dem ich meine Augen weide,",
+                  "Und finde was mein Herze stillt.",
+                  "Ein Jeder liebe . . ."
+                ],
+                "rechts": [
+                  "Sein Schloß kann keine Macht zerstören,",
+                  "Sein Reich vergeht nicht mit der Zeit;",
+                  "Sein Thron bleibt stets in gleichen Ehren,",
+                  "Von nun an bis in Ewigkeit.",
+                  "Ein Jeder liebe . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 6, 19-23.",
+            "buch": "matthaeus",
+            "kapitel": 6,
+            "verse": "19-23"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach sagt mir nicht",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Sein Reichtum ist nicht zu ergründen;",
+                  "Sein allerschönstes Angesicht",
+                  "Und was von Schmuck um Ihn zu finden,",
+                  "Verbleichet und veraltet nicht.",
+                  "Ein Jeder liebe was er will —",
+                  "Ich liebe Jesum, Der mein Ziel."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 13, 7-12.",
+            "buch": "sprueche",
+            "kapitel": 13,
+            "verse": "7-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 17-24.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "17-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach sagt mir nicht",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Er kann mich über Alls erheben",
+                  "Und Seiner Klarheit machen gleich;",
+                  "Er kann mir so viel Schätze geben,",
+                  "Daß ich werd unerschöpflich reich.",
+                  "Ein Jeder liebe was er will —",
+                  "Ich liebe Jesum, Der mein Ziel."
+                ],
+                "rechts": [
+                  "Und ob ich's zwar noch muß entbehren,",
+                  "So lang ich wandre in der Zeit:",
+                  "So wird Er mirs doch wohl gewähren",
+                  "Im Reiche Seiner Herrlichkeit.",
+                  "Drum tu ich billig, was ich will,",
+                  "Und liebe Jesum, Der mein Ziel."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Freitag",
+      "seiten": [
+        377,
+        379
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, lehr mich tun (eig. So ist denn nun die Hütte)",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, lehr mich tun nach Deinem Wohlgefallen,",
+                  "Dein guter Geist führ mich auf ebner Bahn,",
+                  "Daß ich Dich mehr und mehr erkennen kann,",
+                  "Und mit dem Sinn schon in den Himmel wallen.",
+                  "Hilf, daß ich fort und fort am Glauben völlger werd,",
+                  "Verleugne gar mich selbst, verleugne Welt und Erd."
+                ]
+              },
+              {
+                "links": [
+                  "Gib, daß ich stets in allem Tun bedenke,",
+                  "Ob Deine Ehr desselben Endzweck sei,",
+                  "Ob ich was tu, das mich am End gereu,",
+                  "Ob ich mich stets nach meinem Taufbund lenke;",
+                  "Ob ich auch durch und durch von Dir mich heilgen laß",
+                  "Ja, ob vielleicht noch heut der Tod mich mache blaß."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 7, 1-5.",
+            "buch": "matthaeus",
+            "kapitel": 7,
+            "verse": "1-5"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Was der Mensch an sich und an Anderen nicht zu bessern vermag, das muß er geduldig tragen, bis es Gott anders macht. Lerne fremde Gebrechen und alle Schwachheiten, wie sie immer Namen haben, geduldig tragen; denn du hast auch vieles, das Andere an dir tragen müssen. Auch kannst du ja dich selbst nicht so machen, wie du dich gerne haben möchtest; wie kannst du denn Andere ganz so haben wollen, daß du nichts mehr an ihnen auszusetzen hättest! Das ist unser Fehler: Andere wollen wir gern ganz vollkommen haben; aber unsere eigenen Gebrechen lassen wir ungebessert. Wir müssen einander tragen, einander trösten, so wie auch helfen belehren und ermahnen.",
+            "quelle": "Thomas von Kempen"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, lehr mich tun",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Daß Du mein Gott erfüllest Alls in Allen,",
+                  "Daß Du mein Gott allgegenwärtig bist,",
+                  "Und Deinem Aug gar nichts verborgen ist.",
+                  "Das halt mich ab, in Sünde nicht zu fallen.",
+                  "Dein Name werd mir groß, Dein Zorn mir nicht zu teil,",
+                  "Und Deine Gnade sei mein Schatz, mein Glück und Heil."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 22,33-23,6.",
+            "buch": "jesus_sirach",
+            "kapitel": 23,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "141"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 25-33.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "25-33"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, lehr mich tun",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "Auch was Du willst, davor soll mir nicht grauen:",
+                  "Ich scheue nichts, kein Leiden, keine Not;",
+                  "Es tritt mein Kampf mit Dir die Feind in Kot.",
+                  "Gib, daß ich nur allein Dir mög vertrauen;",
+                  "Ich weiß, Du weißt vielmehr die Sorge, die uns plagt,",
+                  "Verläßt versäumst uns nicht, gleichwie Du zugesagt."
+                ]
+              },
+              {
+                "links": [
+                  "Laß mich schon hier von Deiner Gottheit schmecken,",
+                  "Ach laß schon hier empfinden Deine Kraft,",
+                  "Bis mich Dein Will gar in den Himmel schafft,",
+                  "Da sich Dein Lob auf ewig wird erstrecken;",
+                  "Da die Vollkommenheit ist ewig Freud und Licht,",
+                  "Da ich in Klarheit schau Dein herrlichs Angesicht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 2. Sonntag nach Trinitatis",
+      "wochentag": "Sonnabend",
+      "seiten": [
+        380,
+        383
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, höre mich",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, höre mich und merke auf mein Wort,",
+                  "O Du mein treuer Hort,",
+                  "Denn ich will vor Dir beten,",
+                  "Und jetzt vor Deinen Thron",
+                  "Im Geist durch Deinen Sohn",
+                  "Mit Flehen gläubig treten.",
+                  "Du gibst mir hiezu das Wollen;",
+                  "Weil wir aber doch nicht wissen,",
+                  "Was und wie wir bitten sollen:",
+                  "Wird Dein Geist mich lehren müssen",
+                  "Schreien seufzen inniglich:",
+                  "HErr, höre mich, HErr, höre mich!"
+                ],
+                "rechts": [
+                  "HErr, lehre mich, und öffne mein Gehör,",
+                  "Daß ich zu Deiner Lehr",
+                  "Mich gänzlich möge kehren,",
+                  "Und in des Herzens Grund",
+                  "Die Stimm aus Deinem Mund",
+                  "Recht deutlich könne hören.",
+                  "Mache den Verstand verständig,",
+                  "Und den Willen Dir recht willig;",
+                  "Mache meine Sinnen bändig,",
+                  "Daß sie fein gesinnt, wie billig,",
+                  "Dir zu dienen heiliglich.",
+                  "HErr, lehre mich, HErr, lehre mich!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 7, 6-12.",
+            "buch": "matthaeus",
+            "kapitel": 7,
+            "verse": "6-12"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, höre mich",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, zieh auch mich mit Deinem Gnadenblick,",
+                  "Daß ich nicht seh zurück",
+                  "Auf das was ist dahinten;",
+                  "Gib, daß ich mein Gesicht",
+                  "Nur einzig dahin richt,",
+                  "Wo ich das Kleinod finden",
+                  "Und das Ziel erlangen möge,",
+                  "Das Du mir hast vorgestecket;",
+                  "Auch nicht werde laß und träge,",
+                  "Bis ich hab den Lauf vollstrecket,",
+                  "Und geendet seliglich.",
+                  "HErr, ziehe mich; HErr, ziehe mich!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 4, 27-31.",
+            "buch": "5_mose",
+            "kapitel": 4,
+            "verse": "27-31"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 4, 2-3.",
+            "buch": "philipper",
+            "kapitel": 4,
+            "verse": "2-3"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, höre mich",
+            "melodie": "",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, stärke mich mit Deines Geistes Kraft",
+                  "In meiner Ritterschaft,",
+                  "Daß ich mög tapfer ringen.",
+                  "Zeuch Du zu aller Zeit",
+                  "Selbst vor mir her im Streit,",
+                  "Damit ich kann bezwingen",
+                  "Teufel Sünde Welt und alles,",
+                  "Was mir nach der Seelen stehet,",
+                  "Und sich freuet meines Falles;",
+                  "Deine Rechte sei erhöhet",
+                  "Ueber mir, so siege ich.",
+                  "HErr, stärke mich; HErr, stärke mich!"
+                ],
+                "rechts": [
+                  "HErr, merk auf mich, wenn ich bin in Gefahr,",
+                  "Und doch nicht immerdar",
+                  "Dich sehe oder höre.",
+                  "Wenn Du Dich stellest hart,",
+                  "Wie Deine Gegenwart",
+                  "Mir gar entzogen wäre:",
+                  "Da gib Hoffnung und Vertrauen,",
+                  "Daß ich treu sei bis ans Ende,",
+                  "Und kann ich Dich gleich nicht schauen,",
+                  "Nimm mich doch in Deine Hände,",
+                  "Daß ich merk und fühle Dich.",
+                  "HErr, merk auf mich; HErr, merk auf mich!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
