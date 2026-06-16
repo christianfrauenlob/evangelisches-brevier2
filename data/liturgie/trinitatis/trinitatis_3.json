@@ -1,0 +1,897 @@
+{
+  "id": "trinitatis_3",
+  "titel": "3. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "3. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [384, 387],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["25", "8"] },
+          {
+            "typ": "lied",
+            "titel": "Jesus nimmt die Sünder an",
+            "melodie": "88",
+            "strophen": [
+              {
+                "links": [
+                  "Jesus nimmt die Sünder an!",
+                  "Saget doch dies Trostwort Allen,",
+                  "Welche von der rechten Bahn",
+                  "Auf verkehrten Weg verfallen.",
+                  "Hier ist was sie retten kann:",
+                  "Jesus nimmt die Sünder an."
+                ],
+                "rechts": [
+                  "Wenn ein Schaf verloren ist,",
+                  "Suchet es ein treuer Hirte;",
+                  "Jesus, Der uns nie vergißt,",
+                  "Suchet treulich das Verirrte,",
+                  "Daß es nicht verderben kann:",
+                  "Jesus nimmt die Sünder an."
+                ]
+              },
+              {
+                "links": [
+                  "Keiner Gnade sind wir wert;",
+                  "Doch hat Er in Seinem Worte",
+                  "Eidlich Sich dazu erklärt;",
+                  "Sehet nur: die Gnadenpforte",
+                  "Ist hier völlig aufgetan:",
+                  "Jesus nimmt die Sünder an."
+                ],
+                "rechts": [
+                  "Kommet Alle, kommet her,",
+                  "Kommet, ihr betrübten Sünder;",
+                  "Jesus rufet euch, und Er",
+                  "Macht aus Sündern Gotteskinder.",
+                  "Glaubets doch und denkt dran:",
+                  "Jesus nimmt die Sünder an."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 15, 1—10.",
+            "buch": "lukas",
+            "kapitel": 15,
+            "verse": "1-10"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "So sehe ich denn in unsern Gleichnissen ein Bild der Menschheit, wie sie getrennt ist in Gewonnene und Verlorene, ein Bild der Kirche, die da ist eine Sammlung der Gewonnenen und eine Rettungsanstalt, ein Sammelplatz der Verlorenen, eine Beschreibung der mancherlei Liebe Christi, die, unabhängig von bisheriger Annahme oder Abweisung Seiner errettenden Hilfe, die reuigen und die stolzen irrenden Sünder umfaßt, Jene hält und heiligt, Diese sucht und fröhlich findet. Ich sehe die vollkommene Liebe meines Erlösers zu allen Menschen, weil sie alle Sein sind, nicht bloß durch die Schöpfung, sondern auch durch den Kampf am Kreuze, — und diese Erkenntnis macht meine Seele froh und begierig, auch so zu lieben, wie mein HErr geliebt hat.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Welcher Mensch ist unter euch, der hundert Schafe hat, und so er der eines verlieret,",
+              "Der nicht lasse die neunundneunzig in der Wüste, und hingehe nach dem verlorenen, bis daß er's finde?"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, Der Du nicht Lust hast an der armen Sünder Tod, lässest sie auch nicht gerne verderben, sondern willst, daß sie bekehret werden und leben: wir bitten Dich herzlich, Du wollest uns Verirrte suchen, die begangenen Sünden vergeben und die wohlverdiente Strafe abwenden, auch Gnade verleihen, daß wir in rechter Buße und wahrem Glauben bis ans Ende verharren und selig werden; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesus nimmt",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich Betrübter komme hier",
+                  "Und bekenne meine Sünden;",
+                  "Laß, mein Heiland, mich bei Dir",
+                  "Gnade zur Vergebung finden,",
+                  "Daß dies Wort mich trösten kann:",
+                  "Jesus nimmt die Sünder an."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["119, 33-80"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 57, 1—2.",
+            "buch": "jesaja",
+            "kapitel": 57,
+            "verse": "1-2"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["110", "111"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 5, 5—11.",
+            "buch": "1_petrus",
+            "kapitel": 5,
+            "verse": "5-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesus nimmt die Sünder an",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich bin ganz getrosten Muts:",
+                  "Ob die Sünden blutrot wären,",
+                  "Müßten sie, kraft Deines Bluts,",
+                  "Dennoch sich in Schneeweiß kehren,",
+                  "Da ich gläubig sprechen kann:",
+                  "Jesus nimmt die Sünder an."
+                ],
+                "rechts": [
+                  "Jesus nimmt die Sünder an;",
+                  "Mich auch hat Er angenommen",
+                  "Und den Himmel aufgetan,",
+                  "Daß ich selig zu Ihm kommen",
+                  "Und auf den Trost sterben kann:",
+                  "Jesus nimmt die Sünder an."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Welch Weib ist, die zehn Groschen hat, so sie der einen verlieret,",
+              "Die nicht ein Licht anzünde, und kehre das Haus, und suche mit Fleiß, bis daß sie ihn finde?"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [387, 391],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["18"] },
+          {
+            "typ": "lied",
+            "titel": "Immanuel, des Güte",
+            "strophen": [
+              {
+                "links": [
+                  "Immanuel, Des Güte nicht zu zählen,",
+                  "Der Kranken Arzt, der Blöden Heil,",
+                  "Verborgner Gott, Du Trost betrübter Seelen,",
+                  "Der geistlich Armen Herzensteil!",
+                  "Da Du, Jesu, Selber wohnest,",
+                  "Neigst auf ihr Geschrei Dein Ohr,",
+                  "Und mit viel Geduld verschonest",
+                  "Das zerbrochne Glaubensrohr."
+                ],
+                "rechts": [
+                  "Mein Beten ist voll zweifelnder Gedanken;",
+                  "Wenn gleich Dein Wort und Trost erschallt,",
+                  "So ist und bleibt mein Glaube doch voll Wanken,",
+                  "Mein Herze scheinet tot und kalt.",
+                  "Es ist so voll Angst und Zagen,",
+                  "Und ganz in sich selbst verwirrt,",
+                  "Ich kann kaum mich selbst vertragen,",
+                  "So gar ist mein Sinn verirrt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 15, 11—32.",
+            "buch": "lukas",
+            "kapitel": 15,
+            "verse": "11-32"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Es durfte mir Niemand sagen, was zwischen dem natürlichen Leben eines natürlichen Menschen und zwischen dem Leben, das aus Gott ist, für ein Unterschied sei. Denn mir war zumute, als wenn ich tot gewesen wäre, und siehe, ich war lebendig geworden! Meine Vernunft stand nun gleichsam von ferne, der Sieg war ihr aus den Händen gerissen; denn die Kraft Gottes hatte sie dem Glauben untertänig gemacht. Noch gab sie mir zuweilen in den Sinn, sollte es auch einmal natürlich sein können, sollte man nicht auch von Natur solche Freuden empfinden können; aber ich war gleich dagegen ganz und gar überzeugt, daß alle Welt mit aller ihrer Lust und Herrlichkeit solche Süßigkeit im menschlichen Herzen nicht erwecken könnte, als diese war, und darin wohl im Glauben, daß nach solchem Vorschmack der Gnade und Güte Gottes die Welt mit ihren Reizungen zu einer weltlichen Lust wenig mehr bei mir ausrichten würde. Denn die Ströme des lebendigen Wassers waren mir nun allzulieb geworden, daß ich leicht vergessen könnte der stinkenden Wasserpfützen der Welt.",
+            "quelle": "Aug. Herm. Francke"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Immanuel, Des Güte",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Findst Du dennoch bei mir den rechten Willen,",
+                  "Daß mein Herz um den Glauben schreit,",
+                  "So laß sich doch das Ungewitter stillen,",
+                  "Das in mir regt den Zweifelstreit.",
+                  "Ist mein Glaube klein und schmächtig,",
+                  "Bin ich elend blind und bloß,",
+                  "So sei Deine Gnade mächtig",
+                  "Und in meiner Schwachheit groß."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["28"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "4. Buch Mose 23, 7—12.",
+            "buch": "4_mose",
+            "kapitel": 23,
+            "verse": "7-12"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["122"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 3, 1—16.",
+            "buch": "apostelgeschichte",
+            "kapitel": 3,
+            "verse": "1-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Immanuel, Des Güte",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach stärke, HErr, das Wollen und das Können,",
+                  "Und gib mir den gewissen Geist,",
+                  "Daß ich mich wieder freudig Dein kann nennen,",
+                  "Und glauben, wie Dein Wort michs heißet.",
+                  "Kann ich Dich nicht feste halten,",
+                  "Desto fester halt Du mich;",
+                  "Laß mein Herz nicht ganz erkalten,",
+                  "Bis mein Glaub erholet sich."
+                ],
+                "rechts": [
+                  "Nun zürne nicht mit Deinem schwachen Kinde,",
+                  "Und habe, HErr, mit mir Geduld;",
+                  "Auch rechne mir was ich in mir befinde",
+                  "Nicht zur Verdammnis und zur Schuld.",
+                  "Laß die Schwachheit mir nicht schaden,",
+                  "Weil Du kein Verdienst begehrst,",
+                  "Sondern doch nur bloß aus Gnaden",
+                  "Uns die Seligkeit gewährst."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, Du großer und gewaltiger Gott, in Dessen Hand Himmel und Erde ruhen, Du kannst noch heute Wunder tun, und willst es auch. Kranke werden gesund durch Deinen gnädigen Willen; Sünder werden gerettet durch Deinen heiligen Geist, Völker werden erweckt, und Heere werden besiegt nach Deinem Ratschluß. O HErr, laß uns an Deine Allmacht glauben. Offenbare uns die Kraft des Gebets im Namen Jesu und schenk uns Glauben, daß die Berge ins Meer sinken.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [392, 395],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["39"] },
+          {
+            "typ": "lied",
+            "titel": "Aus meines Herzens Grunde",
+            "melodie": "17",
+            "strophen": [
+              {
+                "links": [
+                  "Aus meines Herzens Grunde",
+                  "Sag ich Dir Lob und Dank",
+                  "In dieser Morgenstunde,",
+                  "Dazu mein Leben lang,",
+                  "O Gott, in Deinem Thron,",
+                  "Dir zu Lob Preis und Ehren,",
+                  "Durch Christum, unsern HErrn,",
+                  "Dein eingebornen Sohn:"
+                ],
+                "rechts": [
+                  "Du wollest auch behüten",
+                  "Mich gnädig diesen Tag",
+                  "Vors Teufels List und Wüten,",
+                  "Vor Sünden und vor Schmach,",
+                  "Vor Feur und Wassersnot,",
+                  "Vor Armut und vor Schanden,",
+                  "Vor Ketten und vor Banden,",
+                  "Vor bösem schnellem Tod."
+                ]
+              },
+              {
+                "links": [
+                  "Daß Du mich aus Genaden",
+                  "In der vergangnen Nacht",
+                  "Vor Gfahr und allem Schaden",
+                  "Behütet und bewacht.",
+                  "Ich bitt demütiglich:",
+                  "Wollst mir mein Sünd vergeben,",
+                  "Womit in diesem Leben",
+                  "Ich hab erzürnet Dich."
+                ],
+                "rechts": [
+                  "Mein Seel, mein Leib, mein Leben,",
+                  "Mein Ehr und Gut bewahr;",
+                  "In Deine Händ ichs gebe",
+                  "Jetzund und immerdar",
+                  "Als Dein Geschenk und Gab,",
+                  "Mein Obern und Verwandten,",
+                  "Mein Freunde und Bekannten,",
+                  "Und alles was ich hab."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 19, 3—9.",
+            "buch": "matthaeus",
+            "kapitel": 19,
+            "verse": "3-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Aus meines Herzens Grunde",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Dein Engel laß auch bleiben",
+                  "Und weichen nicht von mir,",
+                  "Den Satan zu vertreiben,",
+                  "Auf daß der bös Feind hier",
+                  "In diesem Jammertal",
+                  "Sein Tück an mir nicht übe,",
+                  "Leib und Seel nicht betrübe,",
+                  "Und bring mich nicht zu Fall."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["42"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 18, 20—24.",
+            "buch": "hesekiel",
+            "kapitel": 18,
+            "verse": "20-24"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["126"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Kolosser 1, 21—23.",
+            "buch": "kolosser",
+            "kapitel": 1,
+            "verse": "21-23"
+          },
+          {
+            "typ": "lied",
+            "titel": "Aus meines Herzens Grunde",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gott will ich lassen raten,",
+                  "Der alle Ding vermag;",
+                  "Er segne meine Taten,",
+                  "Mein Vornehmen und Sach;",
+                  "Denn ichs Ihm heimgestellt:",
+                  "Mein Leib, mein Seel, mein Leben",
+                  "Sei Gott dem HErrn ergeben —",
+                  "Er machs, mes Ihm gefällt."
+                ],
+                "rechts": [
+                  "Darauf so sprech ich Amen,",
+                  "Und zweifle nicht daran:",
+                  "Gott wird es alls zusammen",
+                  "Ihm wohlgefallen lan.",
+                  "Drauf streck ich aus mein Hand,",
+                  "Greif an das Werk mit Freuden,",
+                  "Dazu mich Gott bescheiden",
+                  "In meinm Beruf und Stand."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [395, 398],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["49"] },
+          {
+            "typ": "lied",
+            "titel": "Auf, Seel, und danke deinem HErrn",
+            "melodie": "30",
+            "strophen": [
+              {
+                "links": [
+                  "Auf, Seel, und danke deinem HErrn",
+                  "Aus reinem Herzensgrunde;",
+                  "Das helle Licht vertreibt die Stern",
+                  "In dieser Morgenstunde.",
+                  "Die Sonne entdecket Dir",
+                  "Der Güte Gottes Zier,",
+                  "Die sich zu Gottes Kinder Schau",
+                  "Bespiegelt in dem Morgentau."
+                ],
+                "rechts": [
+                  "Nun, meiner Seelen Hilf und Schutz,",
+                  "Ich rühme Deine Treue,",
+                  "Die Deinen Kindern kommt zu Nutz,",
+                  "Die alle Morgen neue.",
+                  "Ich dank herzinniglich,",
+                  "Daß Du so gnädig mich",
+                  "Und auch die Meinen diese Nacht",
+                  "Durch Deinen Engel hast bewacht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 13, 18—23.",
+            "buch": "matthaeus",
+            "kapitel": 13,
+            "verse": "18-23"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf, Seel, und danke",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib, liebster Gott, daß ferner auch",
+                  "Ich heute christlich wandle,",
+                  "Und meiner Pflicht also gebrauch,",
+                  "Daß, was ich tu und handle,",
+                  "Gereiche mehr und mehr",
+                  "Zu Deines Namens Ehr,",
+                  "Zu meiner Seelen Heil und Schutz,",
+                  "Und meines Nächsten Dienst und Nutz."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["54"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 28, 1—13.",
+            "buch": "sprueche",
+            "kapitel": 28,
+            "verse": "1-13"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["131"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 1, 7—14.",
+            "buch": "hebraeer",
+            "kapitel": 1,
+            "verse": "7-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf, Seel, und danke",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nur Dir sei alles heimgestellt:",
+                  "Seel Leib Stand Gut und Leben;",
+                  "Mach alles so wie Dirs gefällt,",
+                  "Dir hab ich es ergeben.",
+                  "Bewahre Stadt und Land,",
+                  "Lehr-, Wehr- und auch Nährstand;",
+                  "Erhalte Wort und Sakrament,",
+                  "Gib ein vernünftig selig End."
+                ],
+                "rechts": [
+                  "Hierauf nehm ich mit Freuden an",
+                  "Was mir ist anbefohlen;",
+                  "Dein Geist mich führ auf ebner Bahn,",
+                  "Bis Du mich wirst einholen",
+                  "Ins schöne Paradeis,",
+                  "Zu Deinem Lob und Preis:",
+                  "So wird der Tag in Gott vollbracht,",
+                  "Anfang und Ende gut gemacht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [398, 400],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["69"] },
+          {
+            "typ": "lied",
+            "titel": "Dank sei Gott in der Höhe",
+            "strophen": [
+              {
+                "links": [
+                  "Dank sei Gott in der Höhe",
+                  "Zu dieser Morgenstund,",
+                  "Durch Den ich wiedr aufstehe",
+                  "Vom Schlaf frisch und gesund;",
+                  "Mich hatte zwar gebunden",
+                  "Mit Finsternis die Nacht:",
+                  "Ich hab sie überwunden",
+                  "Durch Gott, Der mich bewacht."
+                ],
+                "rechts": [
+                  "Wiedrum tu ich Dich bitten,",
+                  "O Schutzherr Israel,",
+                  "Du wollst treulich behüten",
+                  "Den Tag mein Leib und Seel;",
+                  "All christlich Obrigkeiten,",
+                  "Unser Schul und Gemein",
+                  "In diesen bösen Zeiten",
+                  "Laß Dir befohlen sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 5, 1—12.",
+            "buch": "matthaeus",
+            "kapitel": 5,
+            "verse": "1-12"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Dank sei Gott in der Höhe",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib mildiglich Dein Segen,",
+                  "Daß wir nach Deinm Geheiz",
+                  "Wandeln auf guten Wegen,",
+                  "Und tun das Amt mit Fleiß.",
+                  "Daß ein Jeder sein Netze",
+                  "Auswerf, und auf Dein Wort",
+                  "Sein Trost mit Petro setze,",
+                  "So geht die Arbeit fort."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["74"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 1, 4—10.",
+            "buch": "jeremia",
+            "kapitel": 1,
+            "verse": "4-10"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["138"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 15, 29—34.",
+            "buch": "1_korinther",
+            "kapitel": 15,
+            "verse": "29-34"
+          },
+          {
+            "typ": "lied",
+            "titel": "Dank sei Gott in der Höhe",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was Dir gereicht zu Ehren",
+                  "Und der Gemein zu Nutz",
+                  "Das will der Satan wehren",
+                  "Mit List und großem Trutz;",
+                  "Doch kann er nichts vollbringen,",
+                  "Weil Du, HErr Jesu Christ,",
+                  "Herrschest in allen Dingen",
+                  "Und unser Beistand bist."
+                ],
+                "rechts": [
+                  "Wir sind die zarten Reben,",
+                  "Der Weinstock selbst bist Du,",
+                  "Daran wir wachsn und leben,",
+                  "Und bringen Frucht dazu.",
+                  "Hilf, daß wir an Dir bleiben,",
+                  "Und wachsen immermehr,",
+                  "Dein guter Geist uns treibe",
+                  "Zu Werken Deiner Ehr."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [400, 403],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["83"] },
+          {
+            "typ": "lied",
+            "titel": "Das walt mein Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Das walt mein Gott: Vater Sohn",
+                  "Und Heiliger Geist,",
+                  "Der mich erschaffen hat,",
+                  "Mir Leib und Seel gegeben,",
+                  "Im Mutterleib das Leben",
+                  "Gesund ohn allen Schad."
+                ],
+                "rechts": [
+                  "Dafür ich Dir aus Herzensgrund",
+                  "Mit Zung und Mund",
+                  "Lobsinge mit Begier,",
+                  "Und danke Dir mit Schalle",
+                  "Für Dein Wohltaten alle",
+                  "Früh und spat für und für."
+                ]
+              },
+              {
+                "links": [
+                  "O treuer Gott, Der Du Dein Sohn",
+                  "Aus Himmelsthron",
+                  "Für uns gegebn in Tod,",
+                  "Der für uns ist gestorben,",
+                  "Das Himmelreich erworben",
+                  "Mit Seinem teuren Blut."
+                ],
+                "rechts": [
+                  "Auch sonderlich sag ich Dir Dank",
+                  "Mit diesem Gsang,",
+                  "Daß Du mich gnädiglich",
+                  "Aus lauter Gnad und Güte",
+                  "Hast diese Nacht behütet",
+                  "Durch Dein'n Engl sicherlich."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 9—13.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "9-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Das walt mein Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Durch Deine Gnad bewahr mir, HErr,",
+                  "Leib Seel und Ehr,",
+                  "Vergib die Missetat;",
+                  "Vor Gefahr Sünd und Schande,",
+                  "Zu Wasser und zu Lande,",
+                  "Behüt mich früh und spat."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["84"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hohelied 8, 6—7.",
+            "buch": "hohelied",
+            "kapitel": 8,
+            "verse": "6-7"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["142"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Judas 3—6.",
+            "buch": "judas",
+            "kapitel": 1,
+            "verse": "3-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "Das walt mein Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "All Tritt und Schritt, in Gottes Nam;",
+                  "Was ich fang an,",
+                  "Teil mir Dein Hilfe mit,",
+                  "Und komm mir früh entgegen",
+                  "Mit Glücke Heil und Segen:",
+                  "Kein Bitt versag mir nit."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 3. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [403, 405],
+      "stunden": {
+        "morgen": [
+          { "typ": "psalm", "nummern": ["149"] },
+          {
+            "typ": "lied",
+            "titel": "Der Tag vertreibt",
+            "strophen": [
+              {
+                "links": [
+                  "Der Tag vertreibt die finstre Nacht,",
+                  "O Brüder, seid munter, und wacht,",
+                  "Dienet Gott dem HErren!"
+                ],
+                "rechts": [
+                  "Der Himmel, die Erd und das Meer",
+                  "Geben dem HErren Lob und Ehr,",
+                  "Tun Sein Wohlgefallen."
+                ]
+              },
+              {
+                "links": [
+                  "Die Engel singen immerdar,",
+                  "Und loben Gott in großer Schar,",
+                  "Der alles regieret."
+                ],
+                "rechts": [
+                  "Alles was je geschaffen ward,",
+                  "Ein jeglich Ding nach seiner Art",
+                  "Preiset seinen Schöpfer."
+                ]
+              },
+              {
+                "links": [
+                  "Ei nun, Mensch, so edler Natur,",
+                  "O vernünftige Kreatur,",
+                  "Sei nicht so verdrossen."
+                ],
+                "rechts": [
+                  "Gedenk, daß dich dein HErre Gott",
+                  "Zu Seinem Bild geschaffen hat,",
+                  "Daß du Ihn erkenntest;"
+                ]
+              },
+              {
+                "links": [
+                  "Und lieb hättest aus Herzensgrund,",
+                  "Auch bekenntist mit Seinem Mund,",
+                  "Sein also genössest."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 30—34.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "30-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Tag vertreibt",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Weil du nun Seinen Geist gekost,",
+                  "Und Seiner Gnad genossen hast,",
+                  "So dank Ihm von Herzen."
+                ],
+                "rechts": [
+                  "Sei munter, bet mit Fleiß, und wach;",
+                  "Sieh, daß du stets in Seiner Sach",
+                  "Treu werdest befunden."
+                ]
+              }
+            ]
+          },
+          { "typ": "psalm", "nummern": ["104"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 13, 20—23.",
+            "buch": "hesekiel",
+            "kapitel": 13,
+            "verse": "20-23"
+          }
+        ],
+        "abend": [
+          { "typ": "psalm", "nummern": ["103"] },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 9, 11—15.",
+            "buch": "1_korinther",
+            "kapitel": 9,
+            "verse": "11-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Tag vertreibt",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "So üb Dich nun in Seinem Bund,",
+                  "Lob Ihn mit Herzen Tat und Mund,",
+                  "Dank Ihm Seiner Wohltat."
+                ],
+                "rechts": [
+                  "Durch Jesum Christum, Deinen Sohn,",
+                  "Welchem samt Dir im höchsten Thron",
+                  "All Engel lobsingen."
+                ]
+              },
+              {
+                "links": [
+                  "Sprich: O Vater von Ewigkeit,",
+                  "Ich dank Dir aller Gütigkeit,",
+                  "Mir bisher bezeiget,"
+                ],
+                "rechts": [
+                  "Hilf, HErr, daß ich Dich gleicher Weis",
+                  "Von nun an allzeit lob und preis'",
+                  "In Ewigkeit. Amen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
