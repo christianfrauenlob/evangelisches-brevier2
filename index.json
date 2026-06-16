@@ -13,6 +13,8 @@
     { "id": "trinitatis",           "titel": "Fest der Heiligen Dreifaltigkeit",                "datei": "trinitatis.json",           "pfad": "liturgie/trinitatis/",         "band": 2, "kirchenzeit": "trinitatis", "reihe": 8, "status": "fertig" },
     { "id": "trinitatis_1",         "titel": "1. Sonntag nach Trinitatis",                     "datei": "trinitatis_1.json",         "pfad": "liturgie/trinitatis/",         "band": 1, "kirchenzeit": "trinitatis", "reihe": 1, "status": "fertig" },
     { "id": "trinitatis_2",         "titel": "2. Sonntag nach Trinitatis",                     "datei": "trinitatis_2.json",         "pfad": "liturgie/trinitatis/",         "band": 1, "kirchenzeit": "trinitatis", "reihe": 2, "status": "fertig" },
-    { "id": "trinitatis_3",         "titel": "3. Sonntag nach Trinitatis",                     "datei": "trinitatis_3.json",          "pfad": "liturgie/trinitatis/",        "band": 1, "kirchenzeit": "trinitatis", "reihe": 2, "status": "fertig" }
+    { "id": "trinitatis_3",         "titel": "3. Sonntag nach Trinitatis",                     "datei": "trinitatis_3.json",          "pfad": "liturgie/trinitatis/",        "band": 1, "kirchenzeit": "trinitatis", "reihe": 2, "status": "fertig" },
+    { "id": "trinitatis_4", "titel": "4. Sonntag nach Trinitatis",   "datei": "trinitatis_4.json", "pfad": "liturgie/trinitatis/","band": 1, "kirchenzeit": "trinitatis", "reihe": 2, "status": "fertig" },
+    { "id": "trinitatis_5", "titel": "5. Sonntag nach Trinitatis",   "datei": "trinitatis_5.json", "pfad": "liturgie/trinitatis/",   "band": 1, "kirchenzeit": "trinitatis", "reihe": 2, "status": "fertig" }
   ]
 }
