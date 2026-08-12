@@ -1,0 +1,963 @@
+{
+  "id": "trinitatis_7",
+  "titel": "7. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "7. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        472,
+        476
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "47",
+              "100"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "König, Dem kein König gleichet",
+            "melodie": "155",
+            "strophen": [
+              {
+                "links": [
+                  "König, Dem kein König gleichet,",
+                  "Dessen Ruhm kein Mund erreichet,",
+                  "Dem als Gott das Reich gebühret,",
+                  "Der als Mensch das Scepter führet,",
+                  "Dem das Recht gehört zum Throne,",
+                  "Als des Vaters Eingem Sohne,",
+                  "Den so viel Vollkommenheiten",
+                  "Krönen zieren und begleiten:"
+                ],
+                "rechts": [
+                  "In des Gnadenreiches Grenzen",
+                  "Sieht man Dich am schönsten glänzen,",
+                  "Wo viel tausend treue Seelen",
+                  "Dich zu ihrem Haupt erwählen,",
+                  "Die durchs Scepter Deines Mundes",
+                  "Nach dem Recht des Gnadenbundes",
+                  "Sich von Dir regieren lassen,",
+                  "Und wie Du das Unrecht hassen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 35—38.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "35-38"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Sei Du wieder der Armen Schutz und Gewährsmann, HErr Jesu! Brich Du wieder den Armen das Brot der Danksagung! Leg es wieder in die Hände Deines Amtes nieder! Laß die Diakonen austeilen und die Aeltesten wachen, daß Dein Sinn vollführt werde! Setz Deine Armen wieder in die Vorhöfe Deiner Kirchen und die Spitäler und Armenhäuser unter Deinen Hirtenstab! Des wird der Arme sich freuen, und Deine Gemeinden werden die Gaben ihrer Liebe, das Armenbrot, das Brot der Danksagung, auf Deine Altäre ungezwungen und viel reichlicher niederlegen, als es unter den Befehlen der Gewaltigen geschieht. Deine Armen werden es wieder gut und schön haben wie in der ersten besseren Zeit, wenn Niemand mehr „muß“, sondern der von Deinem Geist gewirkte freiwillige Sinn an Deinen Altären opfert.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du willst, daß allen Menschen geholfen werde, und daß sie zur Erkenntnis der Wahrheit kommen: sende — wir bitten Dich darum — Arbeiter in Deine Ernte und gib ihnen mit aller Freudigkeit Dein Wort zu verkündigen; damit Deine Botschaft laufe und verherrlicht werde und alle Völker Dich erkennen, Der Du Allein wahrer Gott bist, und Den Du gesandt hast: Jesum Christum, Deinen Sohn, unsern HErrn; Welcher mit Dir . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "König, Dem kein König gleichet",
+            "strophen": [
+              {
+                "links": [
+                  "In dem Reiche Deiner Ehren",
+                  "Kann man stets Dich loben hören",
+                  "Von dem himmlischen Geschlechte,",
+                  "Von der Menge Deiner Knechte,",
+                  "Die dort ohne Furcht und Grauen",
+                  "Dein verklärtes Antlitz schauen,",
+                  "Die Dich unermüdet preisen,",
+                  "Und Dir Ehr und Dienst erweisen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 62, 6—12.",
+            "buch": "jesaja",
+            "kapitel": 62,
+            "verse": "6-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 6, 19—23.",
+            "buch": "roemers",
+            "kapitel": 6,
+            "verse": "19-23"
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, himmlischer Vater, wir sagen Dir von Herzen Lob und Dank, daß Du uns nicht allein mit dem lieben Brot an dem Leibe, sondern auch mit Deinem heiligen Worte an der Seele speisest: erhalte uns diese beiden Wohltaten und hilf, daß wir sie nicht mißbrauchen, sondern hoch achten und dabei das feste Vertrauen haben, daß Du uns allezeit gnädiglich versorgen und mildiglich erhalten mögest; durch . .",
+            "amen": ""
+          },
+          {
+            "typ": "lied",
+            "titel": "König, Dem kein König gleichet",
+            "strophen": [
+              {
+                "links": [
+                  "O Monarch in dreien Reichen,",
+                  "Dir ist Niemand zu vergleichen",
+                  "An dem Ueberfluß der Schätze,",
+                  "An der Ordnung der Gesetze,",
+                  "An Vortrefflichkeit der Gaben,",
+                  "Welche Deine Bürger haben:",
+                  "Du beschützest Deine Freunde,",
+                  "Du bezwingest Deine Feinde."
+                ],
+                "rechts": [
+                  "Herrsche auch in meinem Herzen",
+                  "Ueber Zorn Furcht Lust und Schmerzen;",
+                  "Laß mich Deinen Schutz genießen,",
+                  "Laß mich Dich im Glauben küssen,",
+                  "Ehren fürchten loben lieben,",
+                  "Und mich im Gehorsam üben,",
+                  "Hier mit leiden kämpfen schwitzen,",
+                  "Dort mit auf dem Throne sitzen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr Gott, in Dessen Regierung nichts fehlt: wir bitten Dich demütiglich, Du wollest alles was uns schädlich ist abwenden, und was uns nütz und gut ist gnädiglich verleihen; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        476,
+        478
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "47"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Gott, von Dem wir alles haben",
+            "melodie": "159/60",
+            "strophen": [
+              {
+                "links": [
+                  "O Gott, von Dem wir alles haben:",
+                  "Die Welt ist ein sehr großes Haus;",
+                  "Du aber teilest Deine Gaben",
+                  "Recht wie ein Vater drinnen aus.",
+                  "Dein Segen macht uns Alle reich —",
+                  "Ach lieber Gott, wer ist Dir gleich?"
+                ],
+                "rechts": [
+                  "Wer kann die Menschen alle zählen,",
+                  "Die heut bei Dir zu Tische gehn?",
+                  "Doch muß die Notdurf Keinem fehlen,",
+                  "Denn Du weißt Allen vorzustehn",
+                  "Und schaffest, daß ein jedes Land",
+                  "Sein Brot bekommt aus Deiner Hand."
+                ]
+              },
+              {
+                "links": [
+                  "Du machst, daß man auf Hoffnung säet,",
+                  "Und endlich auch die Frucht geneußt;",
+                  "Der Wind, der durch die Felder wehet,",
+                  "Die Wolke, so das Land begeußt,",
+                  "Des Himmels Tau, der Sonnenstrahl",
+                  "Sind Deine Diener allzumal."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 26—29.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "26-29"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Gott, von Dem wir alles haben",
+            "strophen": [
+              {
+                "links": [
+                  "Und also wächst des Menschen Speise,",
+                  "Der Acker selbst wird ihm zum Brot;",
+                  "Es mehret sich vielfältger Weise,",
+                  "Was anfangs schien, als wär es tot,",
+                  "Bis in der Ernte Jung und Alt",
+                  "Erlanget seinen Unterhalt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 3, 11—18.",
+            "buch": "1_samuel",
+            "kapitel": 3,
+            "verse": "11-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 6, 6—12.",
+            "buch": "1_timotheus",
+            "kapitel": 6,
+            "verse": "6-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Gott, von Dem wir alles haben",
+            "strophen": [
+              {
+                "links": [
+                  "Nun HErr, was soll man erst bedenken?",
+                  "Der Wunder hier sind gar zu viel;",
+                  "So viel, als Du, kann Niemand schenken,",
+                  "Und Dein Erbarmen hat kein Ziel.",
+                  "Denn immer wird uns mehr beschert,",
+                  "Als wir zusammen Alle wert."
+                ],
+                "rechts": [
+                  "Wir wollens auch keinmal vergessen,",
+                  "Was uns Dein Segen träget ein:",
+                  "Ein jeder Bissen, den wir essen,",
+                  "Soll Deines Namens Denkmal sein;",
+                  "Und Herz und Mund soll lebens lang",
+                  "Für unsre Nahrung sagen Dank."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        478,
+        480
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "135"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gib dich zufrieden, und sei stille",
+            "melodie": "57",
+            "strophen": [
+              {
+                "links": [
+                  "Gib dich zufrieden, und sei stille",
+                  "In dem Gotte Deines Lebens;",
+                  "In Ihm ruht aller Freuden Fülle,",
+                  "Ohn Ihn mühst du dich vergebens.",
+                  "Er ist dein Quell und deine Sonne,",
+                  "Scheint täglich hell zu deiner Wonne",
+                  "Gib dich zufrieden."
+                ],
+                "rechts": [
+                  "Er ist voll Lichtes, Trost und Gnaden,",
+                  "Ungefärbten treuen Herzens;",
+                  "Wo Er steht, tut dir keinen Schaden",
+                  "Auch die Pein des größten Schmerzens;",
+                  "Kreuz Angst und Not kann Er bald wenden.",
+                  "Ja auch den Tod hat Er in Händen —",
+                  "Gib dich zufrieden."
+                ]
+              },
+              {
+                "links": [
+                  "Wie Dirs und Andern oft ergehe,",
+                  "Ist Ihm wahrlich nicht verborgen:",
+                  "Er sieht und kennet aus der Höhe",
+                  "Der betrübten Herzen Sorgen;",
+                  "Er zählt den Lauf der heißen Thränen,",
+                  "Und faßt zu Hauf all unser Sehnen —",
+                  "Gib dich zufrieden."
+                ],
+                "rechts": [
+                  "Wenn gar kein Einger mehr auf Erden,",
+                  "Dessen Treue du darfst trauen,",
+                  "Alsdann will Er dein Treuster werden",
+                  "Und zu deinem Besten schauen.",
+                  "Er weiß dein Leid und heimlichs Grämen,",
+                  "Auch weiß Er Zeit, dirs zu benehmen —",
+                  "Gib dich zufrieden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 5, 25—34.",
+            "buch": "markus",
+            "kapitel": 5,
+            "verse": "25-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gib dich zufrieden, und sei stille",
+            "strophen": [
+              {
+                "links": [
+                  "Er hört die Seufzer deiner Seelen",
+                  "Und des Herzens stilles Klagen;",
+                  "Und was du Keinem darfst erzählen,",
+                  "Magst du Gott gar kühnlich sagen:",
+                  "Er ist nicht fern, steht in der Mitten,",
+                  "Hört bald und gern der Armen Bitten —",
+                  "Gib dich zufrieden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 34, 10—17.",
+            "buch": "job",
+            "kapitel": 34,
+            "verse": "10-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 12, 7—11.",
+            "buch": "hebraeer",
+            "kapitel": 12,
+            "verse": "7-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gib dich zufrieden, und sei stille",
+            "strophen": [
+              {
+                "links": [
+                  "Sprich nicht: Ich sehe keine Mittel,",
+                  "Wo ich such, ist nichts zum besten;",
+                  "Denn das ist Gottes Ehrentitel:",
+                  "Helfen, wenn die Not am größten.",
+                  "Wenn ich und du Ihn nicht mehr spüren,",
+                  "Da schickt Er zu, uns wohl zu führen —",
+                  "Gib dich zufrieden."
+                ],
+                "rechts": [
+                  "Es ist ein Ruhetag vorhanden,",
+                  "Da uns unser Gott wird lösen.",
+                  "Er wird uns reißen aus den Banden",
+                  "Dieses Leibs und allem Bösen",
+                  "Es wird einmal der Tod herspringen,",
+                  "Und aus der Qual uns sämtlich bringen —",
+                  "Gib dich zufrieden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        481,
+        483
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "101"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott wills machen",
+            "strophen": [
+              {
+                "links": [
+                  "Gott wills machen,",
+                  "Daß die Sachen",
+                  "Gehen, wie es heilsam ist.",
+                  "Laß die Wellen",
+                  "Sich verstellen,",
+                  "Wenn du nur bei Jesu bist."
+                ],
+                "rechts": [
+                  "Wer sich kränket,",
+                  "Weil er denket:",
+                  "Jesus liege in dem Schlaf,",
+                  "Wird mit Klagen",
+                  "Nur sich plagen,",
+                  "Daß der Unglaub leide Straf."
+                ]
+              },
+              {
+                "links": [
+                  "Du Verächter,",
+                  "Gott dein Wächter",
+                  "Schläfet ja noch schlummert nicht;",
+                  "Zu den Höhen",
+                  "Aufzusehen",
+                  "Wäre deine Glaubenspflicht."
+                ],
+                "rechts": [
+                  "Glaub nur feste,",
+                  "Daß das Beste",
+                  "Ueber dich beschlossen sei.",
+                  "Wenn dein Wille",
+                  "Nur ist stille,",
+                  "Wirst du von dem Kummer frei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 3, 1—6.",
+            "buch": "markus",
+            "kapitel": 3,
+            "verse": "1-6"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott wills machen",
+            "strophen": [
+              {
+                "links": [
+                  "Gottes Hände",
+                  "Sind ohn Ende,",
+                  "Sein Vermögen hat kein Ziel;",
+                  "Ists beschwerlich,",
+                  "Scheints gefährlich:",
+                  "Deinem Gott ist nichts zu viel."
+                ],
+                "rechts": [
+                  "Wenn die Stunden",
+                  "Sich gefunden,",
+                  "Bricht die Hilf mit Macht herein;",
+                  "Und dein Grämen",
+                  "Zu beschämen,",
+                  "Wird es unversehens sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "58"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 36, 29—36.",
+            "buch": "hesekiel",
+            "kapitel": 36,
+            "verse": "29-36"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 2, 23—29.",
+            "buch": "offenbarung",
+            "kapitel": 2,
+            "verse": "23-29"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott wills machen",
+            "strophen": [
+              {
+                "links": [
+                  "Nun, so trage",
+                  "Deine Plage",
+                  "Fein getrost und mit Geduld.",
+                  "Wer das Leiden",
+                  "Will vermeiden,",
+                  "Häufet seine Sündenschuld."
+                ],
+                "rechts": [
+                  "Aber Denen,",
+                  "Die mit Thränen",
+                  "Küssen ihres Jesu Joch,",
+                  "Wird die Krone",
+                  "Auf dem Throne",
+                  "Ihres Heilands werden noch."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        483,
+        486
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "147"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer nur den lieben Gott läßt walten",
+            "melodie": "159/60",
+            "strophen": [
+              {
+                "links": [
+                  "Wer nur den lieben Gott läßt walten,",
+                  "Und hoffet auf Ihn allezeit,",
+                  "Der wird Ihn wunderlich erhalten",
+                  "In allem Kreuz und Traurigkeit;",
+                  "Wer Gott dem Allerhöchsten traut,",
+                  "Der hat auf keinen Sand gebaut."
+                ],
+                "rechts": [
+                  "Was helfen uns die schweren Sorgen?",
+                  "Was hilft uns unser Weh und Ach?",
+                  "Was hilft es, daß wir alle Morgen",
+                  "Beseufzen unser Ungemach?",
+                  "Wir machen unser Kreuz und Leid",
+                  "Nur größer durch die Traurigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 3, 7—12.",
+            "buch": "markus",
+            "kapitel": 3,
+            "verse": "7-12"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wer nur den lieben Gott läßt walten",
+            "strophen": [
+              {
+                "links": [
+                  "Er kennt die rechten Freudenstunden,",
+                  "Er weiß wohl, wann es nützlich sei;",
+                  "Wenn Er uns nur hat treu erfunden,",
+                  "Und merket keine Heuchelei:",
+                  "So kommt Gott, eh wir uns versehn,",
+                  "Und lässet uns viel Guts geschehn."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 43, 14—21.",
+            "buch": "jesaja",
+            "kapitel": 43,
+            "verse": "14-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 2, 16—17.",
+            "buch": "offenbarung",
+            "kapitel": 2,
+            "verse": "16-17"
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        486,
+        489
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "78"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Geh aus, mein Herz, und suche Freud",
+            "melodie": "179",
+            "strophen": [
+              {
+                "links": [
+                  "Geh aus, mein Herz, und suche Freud",
+                  "In dieser lieben Sommerzeit",
+                  "An deines Gottes Gaben;",
+                  "Schau an der schönen Gärten Zier,",
+                  "Und siehe, wie sie mir und dir",
+                  "Sich ausgeschmücket haben."
+                ],
+                "rechts": [
+                  "Ach, denk ich, bist du hier so schön,",
+                  "Und läßt Dus uns so lieblich gehn",
+                  "Auf dieser armen Erde:",
+                  "Was will doch wohl noch dieser Welt,",
+                  "Dort in dem festen Himmelszelt",
+                  "Und güldnen Schlosse werden?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 3, 13—19.",
+            "buch": "markus",
+            "kapitel": 3,
+            "verse": "13-19"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Geh aus, mein Herz, und suche Freud",
+            "strophen": [
+              {
+                "links": [
+                  "Welch hohe Lust, welch heller Schein",
+                  "Wird wohl in Christi Garten sein!",
+                  "Wie muß es da wohl klingen,",
+                  "Da so viel tausend Seraphim",
+                  "Mit unverdrossnem Mund und Stimm",
+                  "Ihr Hallelujah singen!"
+                ],
+                "rechts": [
+                  "O wär ich da, o stünd ich schon,",
+                  "Ach süßer Gott, vor Deinem Thron,",
+                  "Und trüge meine Palmen:",
+                  "So wollt ich nach der Engel Weis",
+                  "Erhöhen Deines Namens Preis",
+                  "Mit tausend schönen Psalmen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 17, 1—12.",
+            "buch": "",
+            "kapitel": 17,
+            "verse": "1-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "141"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 10, 23—33.",
+            "buch": "1_korinther",
+            "kapitel": 10,
+            "verse": "23-33"
+          },
+          {
+            "typ": "lied",
+            "titel": "Geh aus, mein Herz, und suche Freud",
+            "strophen": [
+              {
+                "links": [
+                  "Hilf mir, und segne meinen Geist",
+                  "Mit Segen, der vom Himmel fleußt,",
+                  "Daß ich Dir stetig blühe;",
+                  "Gib, daß der Sommer Deiner Gnad",
+                  "In meiner Seelen früh und spat",
+                  "Viel Glaubensfrüchte erziehe."
+                ],
+                "rechts": [
+                  "Mach in mir Deinem Geiste Raum,",
+                  "Daß ich Dir werd ein guter Baum,",
+                  "Und laß mich wohl bekleiben;",
+                  "Verleihe, daß zu Deinem Ruhm",
+                  "Ich Deines Gartens schöne Blum",
+                  "Und Pflanze möge bleiben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 7. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        489,
+        491
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "In allen meinen Taten",
+            "melodie": "132",
+            "strophen": [
+              {
+                "links": [
+                  "In allen meinen Taten",
+                  "Laß ich den Höchsten raten,",
+                  "Der alles kann und hat;",
+                  "Er muß zu allen Dingen,",
+                  "Solls anders wohl gelingen,",
+                  "Selbst geben Seinen Rat und Tat."
+                ],
+                "rechts": [
+                  "Nichts ist es spät und frühe",
+                  "Um alle meine Mühe,",
+                  "Mein Sorgen ist umsonst;",
+                  "Er mags mit Seinen Sachen",
+                  "Nach Seinem Willen machen:",
+                  "Ich stell's in Seine Vatergunst."
+                ]
+              },
+              {
+                "links": [
+                  "Es kann mir nichts geschehen,",
+                  "Als was Er hat versehen,",
+                  "Und was mir selig ist:",
+                  "Ich nehm es, wie Ers giebet,",
+                  "Was Ihm von mir geliebet,",
+                  "Dasselbe hab auch ich erkiest."
+                ],
+                "rechts": [
+                  "Ich traue Seiner Gnaden,",
+                  "Die mich vor allem Schaden,",
+                  "Vor allem Uebel schützt;",
+                  "Leb ich nach Seinen Sätzen,",
+                  "So wird mich nichts verletzen,",
+                  "Nichts fehlen was mir ewig nützt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 3, 31—35.",
+            "buch": "markus",
+            "kapitel": 3,
+            "verse": "31-35"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "In allen meinen Taten",
+            "strophen": [
+              {
+                "links": [
+                  "Er wolle meiner Sünden",
+                  "In Gnaden mich entbinden,",
+                  "Durchstreichen meine Schuld;",
+                  "Er wird auf mein Verbrechen",
+                  "Nicht stracks das Urteil sprechen,",
+                  "Und haben noch mit mir Geduld."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 22, 3—11.",
+            "buch": "job",
+            "kapitel": 22,
+            "verse": "3-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 3, 8—13.",
+            "buch": "1_timotheus",
+            "kapitel": 3,
+            "verse": "8-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "In allen meinen Taten",
+            "strophen": [
+              {
+                "links": [
+                  "Leg ich mich späte nieder,",
+                  "Erwach ich frühe wieder,",
+                  "Lieg oder zieh ich fort,",
+                  "In Schwachheit und in Banden,",
+                  "Und was mir stößt zu handen:",
+                  "So tröstet mich Sein süßes Wort."
+                ],
+                "rechts": [
+                  "So sei nun, Seele, deine,",
+                  "Und traue Dem alleine,",
+                  "Der dich geschaffen hat;",
+                  "Es gehe, wie es gehe:",
+                  "Dein Vater in der Höhe",
+                  "Der weiß zu allen Sachen Rat."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

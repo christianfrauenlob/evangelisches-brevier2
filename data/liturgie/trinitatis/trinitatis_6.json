@@ -1,0 +1,1000 @@
+{
+  "id": "trinitatis_6",
+  "titel": "6. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "6. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        451,
+        454
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28",
+              "95"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Erleucht mich, HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Erleucht mich, HErr, mein Licht,",
+                  "Ich bin mir selbst verborgen,",
+                  "Und kenne mich noch nicht;",
+                  "Ich merke dieses zwar,",
+                  "Ich sei nicht wie ich war;",
+                  "Indessen fühl ich wohl:",
+                  "Ich sei nicht wie Ich soll."
+                ],
+                "rechts": [
+                  "Das ist des Glaubens Wort",
+                  "Und dürftiges Verlangen:",
+                  "HErr Jesu, sei mein Hort,",
+                  "Versöhner HErr und Schild,",
+                  "Und führ mich wie Du willt;",
+                  "Dein bin ich wie ich bin,",
+                  "Nimm mich zu eigen hin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 5, 20—26.",
+            "buch": "matthaeus",
+            "kapitel": 5,
+            "verse": "20-26"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Es ist mit dem heutigen Evangelium nicht Spiel noch Spaß zu treiben: Es ist hoher Ernst. So ihr solches wisset, selig seid ihr, so ihrs tut. Ja, selig seid ihr in eurer Tat, wenn ihr mit dem Entschlusse von hinnen geht, Frieden zu stiften. Gesegnet seien die Füße, welche den Pfad des Friedens betreten! Gesegnet die Hände, welche die Hände der Feinde ergreifen, um Hand in Hand mit heiliger Treue zu fügen! Gesegnet, dreimal gesegnet seien, die Frieden schließen, allen Zorn abschließen und ihm niemals wieder Pforte und Eingang öffnen.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr habt gehört, daß zu den Alten gesagt ist: Du sollst nicht töten;",
+              "Wer aber tötet, der soll des Gerichts schuldig sein."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Gott, gehe nicht ins Gericht mit uns armen Sündern, die wir Deine Gebote nicht von Herzen gehalten, sondern siehe an das teure Verdienst und Bezahlung Deines lieben Sohnes, und laß uns Seine Gerechtigkeit ewig genießen; regiere auch unsre Herzen mit Deinem heiligen Geist, daß wir in Deiner Furcht, rechtem Glauben und christlichem Leben wandeln, vor Vermessenheit und Sicherheit uns hüten, und nicht in den ewigen Kerker geworfen werden; um Jesu Christi . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Erleucht mich, HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn alles wird vergehn",
+                  "Was Erd und Himmel heget,",
+                  "So bleibt Er fest bestehn,",
+                  "Sein Wesen nimmt nicht ab;",
+                  "Die Gottheit weiß kein Grab,",
+                  "Und wen Er einmal kennt,",
+                  "Des Wohlstand nimmt kein End."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Ruth 1, 14—19.",
+            "buch": "rut",
+            "kapitel": 1,
+            "verse": "14-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 6, 3—11.",
+            "buch": "roemers",
+            "kapitel": 6,
+            "verse": "3-11"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wenn man der Taufe Abwaschung von Sünden zuschreibt, so ist das zwar richtig, aber diese Bedeutung ist zu matt und zu schwach, als daß sie die Taufe zum rechten Ausdruck brächte, die vielmehr das Sinnbild des Sterbens und Auferstehens ist. Aus diesem Grunde möchte ich, daß die Täuflinge ganz ins Wasser eingetaucht würden, wie das Wort lautet und die geheimnisvolle Handlung es bedeutet; nicht daß ichs für notwendig hielte, sondern daß es schön wäre, wenn einer tiefen und vollkommenen Sache auch ein tiefes und vollkommenes Zeichen gegeben würde, wie es auch unzweifelhaft von Christus gestiftet worden ist, denn der Sünder bedarf nicht so sehr, daß er abgewaschen werde, als daß er sterbe, damit er dem Tode und der Auferstehung Christi entspreche, mit Welchem er durch die Taufe mit stirbt und aufersteht.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Erleucht mich, HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Wünscht nun Gott den Vertrag,",
+                  "Laß Ihn dein Ja-Wort schlichten,",
+                  "O liebe Seel, und sag:",
+                  "Dir opfr ich gänzlich auf,",
+                  "O mein Gott, meinen Lauf",
+                  "Und Geist und Leib und Blut,",
+                  "Lust Ehre Hab und Gut."
+                ],
+                "rechts": [
+                  "Tu was Du willst mit mir,",
+                  "Werd ich nur zugerichtet",
+                  "Zu Deinem Preis und Zier,",
+                  "Ein Faß der Herrlichkeit,",
+                  "Mit Deinem Heil bekleidt,",
+                  "Geheiligt nun und dann:",
+                  "Wohl mir, so ists getan."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Geh zuvor hin, und versöhne dich mit deinem Bruder;",
+              "Und alsdann komm, und opfre deine Gabe. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr Gott Zebaoth, von Dem alles ist was gut und am besten ist: pflanze in unsre Herzen die Liebe Deines Namens, und gib, daß wir in Deinem Dienste zunehmen, auf daß Du was in uns gut ist erhaltest und bewahrest; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        455,
+        458
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "30"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du unser auserwähltes Haupt",
+            "strophen": [
+              {
+                "links": [
+                  "Du unser auserwähltes Haupt,",
+                  "An welches unsre Seele glaubt,",
+                  "Laß uns in Deiner Nägel Mal",
+                  "Erblicken die Gnadenwahl,",
+                  "Und durch der aufgespaltnen Seite Schrein",
+                  "Führ unsre Seelen aus und durch und ein."
+                ],
+                "rechts": [
+                  "Dies ist das wundervolle Ding:",
+                  "Erst dünkts für Kinder zu gering,",
+                  "Und dann zerglaubt ein Mann sich dran,",
+                  "Und stirbt wohl, eh ers glauben kann;",
+                  "Es sind die Sephiroth*) am gläsern Meer,",
+                  "Es ist das Schibboleth*) vom kleinen Heer."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 28—32.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "28-32"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, Du willst nicht, daß irgend ein Sünder verloren gehe, sondern daß er sich bekehre und lebe. HErr, so bekehre zunächst uns selbst. Mache uns willig, zu Deinen Worten und Befehlen, zu Deinen heiligen Mahnungen und Offenbarungen Ja zu sagen und danach auch von Herzen zu tun. Behüte uns vor Trotz und Unglauben. Haben wir Dir aber ein Nein gesagt, so laß uns bald unser Unrecht erkennen, umkehren und Deinem Willen gehorsam sein.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du unser auserwähltes Haupt",
+            "strophen": [
+              {
+                "links": [
+                  "Die Seele kriegt den neuen Geist,",
+                  "Sie glaubt und tut was Jesus heißt;",
+                  "Sie sieht das Lamm mit Augen an,",
+                  "Die Gott alleine geben kann,",
+                  "Steht auf, bekommt ein unsichtbar Gewand,",
+                  "Und ist auf einmal mit dem Lamm bekannt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 33, 1—11.",
+            "buch": "1_mose",
+            "kapitel": 33,
+            "verse": "1-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 8, 26—38.",
+            "buch": "apostelgeschichte",
+            "kapitel": 8,
+            "verse": "26-38"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wirkt Gott dieses große Werk der Bekehrung in der Seele nach und nach, oder in einem Augenblicke? Es mag vielleicht in Manchen nach und nach gewirkt werden, ich meine: in dem Sinne, daß sie sich nicht des besonderen Augenblicks bewußt werden, wann die Sünde aufhörte. Aber es ist ungemein wünschenswert, wenn es Gottes Wille ist, daß es augenblicklich geschehe, daß der HErr die Sünde vertilge „durch den Hauch Seines Mundes“ in einem Augenblick. Und so tut Er es gewöhnlich. Erwarte daher dieses Werk jeden Augenblick; erwarte es in all den guten Werken, wozu du „neugeschaffen bist in Jesu Christo“. Erwarte es jeden Tag, jede Stunde, jede Minute. Warum nicht diese Stunde, diesen Augenblick? Du kannst es gewiß jetzt erwarten, wenn du überzeugt bist: es komme durch den Glauben. Es besteht eine unzertrennliche Verbindung zwischen diesen drei Punkten: sie durch den Glauben erwarten, sie erwarten gerade wie man ist, und sie jetzt erwarten.",
+            "quelle": "John Wesley"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du unser auserwähltes Haupt",
+            "strophen": [
+              {
+                "links": [
+                  "Und würde sie ja irgendwo",
+                  "Der eignen Gnadenarbeit froh,",
+                  "So kommt die heilge Scham herbei,",
+                  "Die zeiget ihr so mancherlei,",
+                  "Daß sie Gott dankt, wenn sie sich selbst vergißt,",
+                  "Und denkt an nichts, als daß ein Heiland ist."
+                ],
+                "rechts": [
+                  "Und allenthalben geht der Sinn",
+                  "Der Gläubigen zur Gnade hin,",
+                  "Und sinnet, wie er Nacht und Tag",
+                  "Dem Bräutigam gefallen mag,",
+                  "Der uns vom ewgen Tode losgemacht",
+                  "Und unverdient zur Seligkeit gebracht."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, Du hast auch in der Schöpfung das Buch Deiner Offenbarung aufgeschlagen. O laß uns in Wald und Feld, in Berg und Tal, zu Land und zur See Deine Herrlichkeit schauen. Aber laß uns auch in der heiligen Schrift Deiner Gnade froh werden. HErr, wir wollen auch auf der Reise und in der Fremde Deinen Namen nicht vergessen, sondern gern in der Bibel lesen und Dein Wort hören. Führe allen Reisenden Deine Jünger zu, die ihnen die großen Wunder Deiner Liebe weisen, bis sie Christum erkennen in seiner Schöne und von Herzen glauben.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        459,
+        461
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist gegenwärtig",
+            "melodie": "169",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist gegenwärtig!",
+                  "Lasset uns anbeten",
+                  "Und in Ehrfurcht vor Ihn treten.",
+                  "Gott ist in der Mitten!",
+                  "Alles in uns schweige",
+                  "Und sich innigst vor Ihm beuge.",
+                  "Wer Ihn kennt,",
+                  "Wer Ihn nennt,",
+                  "Schlägt die Augen nieder:",
+                  "Kommt, ergebt euch wieder."
+                ],
+                "rechts": [
+                  "Wir entsagen willig",
+                  "Allen Eitelkeiten,",
+                  "Aller Erdenlust und Freuden;",
+                  "Da liegt unser Wille",
+                  "Seele Leib und Leben,",
+                  "Dir zum Eigentum ergeben.",
+                  "Du allein",
+                  "Sollst es sein,",
+                  "Unser Gott und HErre:",
+                  "Dir gebührt die Ehre."
+                ]
+              },
+              {
+                "links": [
+                  "Gott ist gegenwärtig,",
+                  "Dem die Cherubinen",
+                  "Tag und Nacht gebücket dienen.",
+                  "Heilig! Heilig! singen",
+                  "Alle Engelchöre,",
+                  "Wenn sie dieses Wesen ehren.",
+                  "HErr, vernimm",
+                  "Unsre Stimm,",
+                  "Da auch wir Geringen",
+                  "Unsre Opfer bringen."
+                ],
+                "rechts": [
+                  "Majestätisch Wesen,",
+                  "Möcht ich recht Dich preisen",
+                  "Und im Geist Dir Dienst erweisen!",
+                  "Möcht ich wie die Engel",
+                  "Immer vor Dir stehen",
+                  "Und Dich gegenwärtig sehen!",
+                  "Laß mich Dir",
+                  "Für und für",
+                  "Trachten zu gefallen,",
+                  "Liebster Gott, in allen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 4, 15—24.",
+            "buch": "johannes",
+            "kapitel": 4,
+            "verse": "15-24"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott ist gegenwärtig",
+            "strophen": [
+              {
+                "links": [
+                  "Luft, die alles füllet,",
+                  "Drin wir immer schweben,",
+                  "Aller Dinge Grund und Leben;",
+                  "Meer ohn Grund und Ende,",
+                  "Wunder aller Wunder:",
+                  "Ich senk mich in Dich hinunter.",
+                  "Ich in Dir, Du in mir:",
+                  "Laß mich ganz verschwinden,",
+                  "Dich nur sehn und finden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 40, 21—25.",
+            "buch": "jesaja",
+            "kapitel": 40,
+            "verse": "21-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "13"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 8, 9—24.",
+            "buch": "apostelgeschichte",
+            "kapitel": 8,
+            "verse": "9-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist gegenwärtig",
+            "strophen": [
+              {
+                "links": [
+                  "Du durchdringest alles:",
+                  "Laß Dein schönstes Lichte,",
+                  "HErr, berühren mein Gesichte.",
+                  "Wie die zarten Blumen",
+                  "Willig sich entfalten",
+                  "Und der Sonne stille halten:",
+                  "Laß mich so,",
+                  "Still und froh,",
+                  "Deine Strahlen fassen",
+                  "Und Dich wirken lassen."
+                ],
+                "rechts": [
+                  "Mache mich einfältig,",
+                  "Innig, abgeschieden,",
+                  "Sanfte und im stillen Frieden;",
+                  "Mach mich reines Herzens,",
+                  "Da ich Deine Klarheit",
+                  "Schauen mag in Geist und Wahrheit.",
+                  "Laß mein Herz",
+                  "Ueberwärts",
+                  "Wie ein Adler schweben,",
+                  "Und in Dir nur leben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        462,
+        464
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Christe Morgensterne",
+            "strophen": [
+              {
+                "links": [
+                  "O Christe, Morgensterne,",
+                  "Leucht uns mit hellem Schein,",
+                  "Schein uns vons Himmels Throne,",
+                  "An diesem dunklen Ort",
+                  "Mit Deinem reinen Wort."
+                ],
+                "rechts": [
+                  "O Jesu, lieber HErre,",
+                  "Du Einger Gottessohn,",
+                  "Von Herzen ich begehre,",
+                  "Du wollst mir Hülfe tun:",
+                  "Du bist der Gnadenthron."
+                ]
+              },
+              {
+                "links": [
+                  "O Jesu, Trost der Armen,",
+                  "Mein Herz heb ich zu Dir;",
+                  "Du wirst Dich mein erbarmen,",
+                  "Dein Gnade schenken mir:",
+                  "Das trau ich gänzlich Dir."
+                ],
+                "rechts": [
+                  "(Jesus:) Laß du von Sünden abe,",
+                  "Und sei ein frommer Christ,",
+                  "Ich will dich selber laben,",
+                  "Und schenken Meinen Geist,",
+                  "Der dich zum Himmel weist."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 16, 13—20.",
+            "buch": "matthaeus",
+            "kapitel": 16,
+            "verse": "13-20"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wir danken Dir, HErr Jesu Christ",
+            "melodie": "44",
+            "strophen": [
+              {
+                "links": [
+                  "Wir danken Dir, HErr Jesu Christ,",
+                  "Daß Du unser Erlöser bist,",
+                  "Und bhütest uns vor aller Gfahr",
+                  "Durch Deiner lieben Engel Schar.",
+                  "Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "57"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 42, 10—15.",
+            "buch": "jesaja",
+            "kapitel": 42,
+            "verse": "10-15"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "61"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an Titus 3, 8—11.",
+            "buch": "titus",
+            "kapitel": 3,
+            "verse": "8-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wir danken Dir, HErr Jesu Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Wir gehn nun hin zu unsrer Ruh;",
+                  "Ach rechn es unsrer Seel nicht zu,",
+                  "Was wir leider gesündigt han;",
+                  "Vergibs uns alls, o Gottes Sohn.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Es geschehe was mag, wir sind ja Dein,",
+                  "Erlöst durch Dein fünf Wunden rein;",
+                  "Dir leben wir, Dir sterben wir;",
+                  "Dein Kinder sind wir für und für.",
+                  "Hallelujah!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        465,
+        466
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "90"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu, süßes Licht",
+            "melodie": "125-127",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu, süßes Licht,",
+                  "Nun ist die Nacht vergangen,",
+                  "nun hat Dein Gnadenglanz",
+                  "Aufs Neue mich umfangen;",
+                  "Nun ist was an mir ist",
+                  "Vom Schlafe aufgeweckt,",
+                  "Und hat nun in Begier",
+                  "Zu Dir sich ausgestreckt."
+                ],
+                "rechts": [
+                  "Was soll ich Dir denn nun,",
+                  "Mein Gott, für Opfer schenken?",
+                  "Ich will mich ganz und gar",
+                  "In Deine Gnad einsenken",
+                  "Mit Leib, mit Seel, mit Geist",
+                  "Heut diesen ganzen Tag:",
+                  "Das soll mein Opfer sein,",
+                  "Weil ich sonst nichts vermag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 1, 23—28.",
+            "buch": "markus",
+            "kapitel": 1,
+            "verse": "23-28"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Singen wir aus Herzensgrund",
+            "strophen": [
+              {
+                "links": [
+                  "Singen wir aus Herzensgrund,",
+                  "Loben Gott mit unserm Mund;",
+                  "Wie Er Sein Güt uns beweist,",
+                  "So hat Er uns auch gespeist;",
+                  "Wie Er Tier und Vögl ernährt,",
+                  "So hat Er uns auch beschert",
+                  "Welchs wir jetzund habn verzehrt."
+                ],
+                "rechts": [
+                  "Dankn wir sehr und bitten Ihn,",
+                  "Daß Er geb des Geistes Sinn,",
+                  "Daß wir solches recht verstehn,",
+                  "Stets nach Sein Geboten gehn,",
+                  "Seinen Namen machen groß",
+                  "In Christo ohn Unterlaß;",
+                  "So singn wir recht das Gratias."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "23"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Tobias 9, 8—12.",
+            "buch": "",
+            "kapitel": 9,
+            "verse": "8-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "153"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 5, 11—14.",
+            "buch": "offenbarung",
+            "kapitel": 5,
+            "verse": "11-14"
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        467,
+        469
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "143"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sobald, o frommer Christ (eig. Les cieux en chaque lieu)",
+            "strophen": [
+              {
+                "links": [
+                  "Sobald, o frommer Christ,",
+                  "Als du erwachet bist",
+                  "Zur frühen Morgenzeit,",
+                  "So steh und halte du",
+                  "Vor aller Eitelkeit.",
+                  "Des Herzens Pforte zu",
+                  "Denn es ist dein Gebühr,",
+                  "Dieselbe Seelenthür",
+                  "Erst Gott nur aufzumachen.",
+                  "Ihn laß erst ziehn Allein,",
+                  "Und sonst nichts, bei dir ein",
+                  "Von andern schnöden Sachen."
+                ],
+                "rechts": [
+                  "Erhebe zu dem End",
+                  "Herz Andacht Augen Händ",
+                  "Und deiner Stimme Klang;",
+                  "Dein Opfer trage für",
+                  "Dem HErren mit Gebühr",
+                  "In solchem Lobgesang:",
+                  "O Dreilicht eines Lichts",
+                  "Im Lichte, dahin nichts",
+                  "Was sündlich ist kann kommen:",
+                  "Es werde mein Gebet,",
+                  "Auf Christum ausgeredt,",
+                  "In Gnaden aufgenommen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 1, 29—34.",
+            "buch": "markus",
+            "kapitel": 1,
+            "verse": "29-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sobald, o frommer Christ (eig. Les cieux en chaque lieu)",
+            "strophen": [
+              {
+                "links": [
+                  "Dir dank ich herziglich,",
+                  "Daß Du zur Kindschaft mich",
+                  "Erwählt von Ewigkeit;",
+                  "Sonst könnte Dir jetzund",
+                  "Dein Lob durch Deinen Mund",
+                  "Nicht werden ausgebreit.",
+                  "Mein Mund Dank singet Dir",
+                  "Für alles Gut, das mir,",
+                  "Gott, Deine Güt erzeiget,",
+                  "Daß sie mein Herz und mich",
+                  "Zum Glauben und auf Dich",
+                  "So kräftig hat geneiget."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 51, 6—10.",
+            "buch": "jeremia",
+            "kapitel": 51,
+            "verse": "6-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 4, 12—16.",
+            "buch": "1_timotheus",
+            "kapitel": 4,
+            "verse": "12-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sobald, o frommer Christ (eig. Les cieux en chaque lieu)",
+            "strophen": [
+              {
+                "links": [
+                  "Dein Volk, Dein Eigentum,",
+                  "Das Du zu Deinem Ruhm",
+                  "Hast Dir fest auserwählt,",
+                  "Erhalt, o großer Gott,",
+                  "In seiner schweren Not,",
+                  "Damit sichs jetzo quält;",
+                  "Bring es mit starker Hand",
+                  "Aus diesem Kriegesstand",
+                  "In Ruh und Herzensfriede,",
+                  "Daß es allein nach Dir",
+                  "Sei wacker von Begier",
+                  "Und dieses Lebens müde."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 6. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        470,
+        472
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wach auf, mein Herz, und singe",
+            "melodie": "115",
+            "strophen": [
+              {
+                "links": [
+                  "Wach auf, mein Herz, und singe",
+                  "Dem Schöpfer aller Dinge,",
+                  "Dem Geber aller Güter,",
+                  "Dem frommen Menschenhüter."
+                ],
+                "rechts": [
+                  "Du willst ein Opfer haben:",
+                  "Hier bring ich meine Gaben;",
+                  "Mein Weihrauch und mein Widder",
+                  "Sind mein Gebet und Lieder."
+                ]
+              },
+              {
+                "links": [
+                  "Heint, als die dunklen Schatten",
+                  "Mich ganz umgeben hatten,",
+                  "Hat Satan mein begehret;",
+                  "Gott aber hats gewehret."
+                ],
+                "rechts": [
+                  "Die wirst Du nicht verschmähen,",
+                  "Du kannst ins Herze sehen,",
+                  "Und weißt wohl, daß zur Gabe",
+                  "Ich ja nichts Beßres habe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 2, 18—22.",
+            "buch": "markus",
+            "kapitel": 2,
+            "verse": "18-22"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wach auf, mein Herz, und singe",
+            "strophen": [
+              {
+                "links": [
+                  "Sprich Ja zu meinen Taten,",
+                  "Hilf Selbst das Beste raten;",
+                  "Den Anfang Mittl und Ende,",
+                  "Ach HErr, zum Besten wende."
+                ],
+                "rechts": [
+                  "Mit Segen mich beschütte,",
+                  "Mein Herz sei Deine Hütte,",
+                  "Dein Wort sei meine Speise,",
+                  "Bis ich gen Himmel reise."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 1, 1—10.",
+            "buch": "sprueche",
+            "kapitel": 1,
+            "verse": "1-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 6, 18—20.",
+            "buch": "epheser",
+            "kapitel": 6,
+            "verse": "18-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun sich der Tag geendet hat",
+            "melodie": "118",
+            "strophen": [
+              {
+                "links": [
+                  "Nun sich der Tag geendet hat,",
+                  "Und keine Sonn mehr scheint,",
+                  "Schläft alles was sich abgematt,",
+                  "Und was zuvor geweint."
+                ],
+                "rechts": [
+                  "Darauf tu ich mein Augen zu,",
+                  "Und schlafe fröhlich ein;",
+                  "Mein Gott wacht jetzt in meiner Ruh:",
+                  "Wer wollte traurig sein?"
+                ]
+              },
+              {
+                "links": [
+                  "Gedenke, HErr, doch auch an mich",
+                  "In dieser schwarzen Nacht,",
+                  "Und schenke mir genädiglich",
+                  "Den Schirm von Deiner Wacht."
+                ],
+                "rechts": [
+                  "Weicht, nichtige Gedanken, hin,",
+                  "Wo ihr habt euren Lauf;",
+                  "Ich baue jetzt in meinem Sinn",
+                  "Gott einen Tempel auf."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "id": "trinitatis_8",
+  "titel": "8. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "8. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        491,
+        496
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "48",
+              "63"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Glaube ist ein Licht",
+            "melodie": "125-127",
+            "strophen": [
+              {
+                "links": [
+                  "Versuchet auch doch selbst,",
+                  "Ob ihr im Glauben stehet;",
+                  "Ob Christus in euch ist,",
+                  "Ob ihr Ihm auch nachgehet",
+                  "In Demut und Geduld,",
+                  "In Sanftmut Freundlichkeit,",
+                  "In Lieb dem Nächsten stets",
+                  "Zu dienen seid bereit?"
+                ],
+                "rechts": [
+                  "Der Glaube ist ein Licht,",
+                  "Im Herzen tief verborgen,",
+                  "Bricht als ein Glanz hervor,",
+                  "Scheint als der helle Morgen;",
+                  "Erweiset seine Kraft,",
+                  "Macht Christo gleich gesinnt,",
+                  "Verneuert Herz und Mut,",
+                  "Macht uns zu Gottes Kind."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 7, 13—23.",
+            "buch": "matthaeus",
+            "kapitel": 7,
+            "verse": "13-23"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde, da die Tiefen noch nicht mit Wasser quollen."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ehedenn die Berge eingesenkt waren, vor den Hügeln war ich geboren.",
+                  "Da Er die Himmel bereitete, war ich daselbst; da war ich der Werkmeister bei Ihm."
+                ]
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehedenn . . geboren."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Was, meine teuern Freunde, von den Predigern gilt, das gilt auch von den Konfessionen. So prüfet denn wohl! Lasset bei eurem Prüfen der Lehrer und der Konfessionen keine Ungerechtigkeit walten, keine Unbilligkeit. Sehet nicht auf einzelne Fehler; der beste Baum bringt zuweilen eine verkrüppelte Frucht. Seht nicht auf die Zahl und Menge der Früchte — oft ist eine Frucht mit viel mehr Mühe, unter viel mehr erschwerenden Umständen zu Tage gefördert, als sonst tausend. Seht auf des ganzen Lebens Lauf und Zug und Richtung, und laßt euch an dieser nicht schwachmütig irre machen, wenn irgend eine augenblickliche Unterbrechung oder Krümmung sich zeigt. Es ist nicht an euch, Lehrer zu richten oder zu verdammen nach ihren einzelnen Werken, und Konfessionen nach vorhandenen Mängeln und Gebrechen zu urteilen; sondern nur daran liegt es, daß ihr erkennet, welchem Lehrer, welcher Konfession ihr ohne Seelenschaden anhängen könnet.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sehet euch vor vor den falschen Propheten;",
+              "An ihren Früchten sollt ihr sie erkennen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du den Irrenden das Licht der Wahrheit lässest leuchten, auf daß sie zu dem rechten Wege kommen mögen: verleihe allen Denen, so Christen genannt werden, daß sie alles was diesem Namen zuwider, meiden; und was ihm gemäß ist, dem allein nachfolgen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Glaube ist ein Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Wir waren Gottes Feind:",
+                  "Er gibt uns Seinen Sohne,",
+                  "Sein eingebornes Kind",
+                  "Zu einem Gnadenthrone,",
+                  "Setzt Liebe gegen Haß;",
+                  "Wer gläubig dies erkennt,",
+                  "Wird bald in Lieb entzündt,",
+                  "Die allen Haß verbrennt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 23, 16—29.",
+            "buch": "jeremia",
+            "kapitel": 23,
+            "verse": "16-29"
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, HErr Gott: gib uns allwege den Geist zu gedenken und zu tun, was recht ist, auf daß wir nach Deinem Willen leben mögen, die wir ohne Dich nicht bestehen können; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 8, 12—17.",
+            "buch": "roemers",
+            "kapitel": 8,
+            "verse": "12-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Glaube ist ein Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Setzt uns Gott auf die Prob,",
+                  "Ein schweres Kreuz zu tragen;",
+                  "Der Glaube bringt Geduld,",
+                  "Macht leichte alle Plagen;",
+                  "Statt Murren Ungeberd",
+                  "Wird das Gebet erweckt,",
+                  "Weil aller Angst und Not",
+                  "Von Gott ein Ziel gesteckt."
+                ],
+                "rechts": [
+                  "So prüfe dich denn wohl,",
+                  "Ob Christus in dir lebet;",
+                  "Denn Christi Leben ists,",
+                  "Wonach der Glaube strebet.",
+                  "Erst machet er gerecht,",
+                  "Dann heilig, wirket Lust",
+                  "Zu allem guten Werk —",
+                  "Sieh, ob du auch so tust!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ein guter Baum kann nicht arge Früchte bringen,",
+              "Und ein fauler Baum kann nicht gute Früchte bringen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Dessen Vorsehung sich in ihren Anordnungen nicht irrt, wir bitten Dich demütig: wende ab alles was uns schaden kann, und gib uns das was uns nützt. HErr, unser Gott, schenk uns geübte Sinne, die Lüge von der Wahrheit, die falschen Propheten von den rechten Predigern zu unterscheiden. Gib uns eine heilige Liebe zu unserer teuren Kirche, daß wir ihr Bekenntnis festhalten, ihre Gottesdienste liebhaben, ihr Kreuz tragen, ihre Kämpfe mitkämpfen. Behüte uns vor Streit und Spaltung, vor Irrlehre und Verführung. Laß uns treulich arbeiten mit Wort und Tat, daß Dein Reich auch durch uns gebaut werde, und gib uns dazu die Kraft aus der Höhe. Allen Lehrern aber auf Kanzel und Katheder mache ihr Amt recht ernst, daß sie sich vor Unglauben und falscher Lehre ihr Lebtag scheuen. Rüste Du sie aus mit einer herzlichen Liebe zu unserer Kirche und unserm Volke, mit einem herzlichen Erbarmen, das den Schmerz mitfühlt, wenn ein Glied leidet. Gib uns ein echtes Christentum, das Früchte bringt in Zeit und Ewigkeit.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        496,
+        499
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "5"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Entfernet euch, ihr matten Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Entfernet euch, ihr matten Kräfte,",
+                  "Von allem was noch irdisch heißt;",
+                  "Wirf hin die zeitlichen Geschäfte,",
+                  "Mein gnug geplagter müder Geist.",
+                  "Nun gute Nacht!",
+                  "Es ist vollbracht:",
+                  "Ich fang ein ander Wesen an,",
+                  "Das sich mit nichts vermengen kann."
+                ],
+                "rechts": [
+                  "Hast du bisher noch was geliebet,",
+                  "Das dir hat Zeit und Kraft verzehrt,",
+                  "So sei denn auch nicht mehr betrübet,",
+                  "Wenn dir wird der Genuß gewehrt.",
+                  "Gib gute Nacht!",
+                  "Der Bräutgam wacht",
+                  "Und will, daß seine Braut Ihm bleib",
+                  "Ein wohlgeschmückt jungfräulich Weib."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 46—50.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "46-50"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Verlaß mich nicht, o HErr, Du Vater und Lenker meines Lebens, damit ich nicht zu Falle komme vor meinen Feinden. Daß sich mein Feind nicht freue über mich. Nimm Waffen und Schild, und steh auf, mir zu helfen;"
+              },
+              {
+                "art": "text",
+                "inhalt": "Daß . . mich."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Jesu Christe, Du willst uns Brüder und Schwester nennen, wenn wir den Willen tun des Vaters und Deinem Worte nachleben. O schenk uns den heiligen Geist, daß wir Dir nachfolgen können. Du bist aus Deinem Himmel und seiner Herrlichkeit zu uns herniedergekommen und unser Bruder geworden. So laß uns Dir mit aller Dankbarkeit und Freude im brennenden Geiste dienen. Wir halten Dich und lassen Dich nicht; Du segnest uns denn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Entfernet euch, ihr matten Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Nun weg, du schnöde Eigenliebe,",
+                  "Du mußt mein Herze lassen leer,",
+                  "Zu folgen Dessen Liebestriebe,",
+                  "Dem nur gebührt Allein die Ehr.",
+                  "Nun gute Nacht,",
+                  "Was sich selbst acht!",
+                  "Ich geh nun von mir selber aus,",
+                  "Zu ziehn in meines Liebsten Haus."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 10, 17—25.",
+            "buch": "1_samuel",
+            "kapitel": 10,
+            "verse": "17-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 16, 16—32.",
+            "buch": "apostelgeschichte",
+            "kapitel": 16,
+            "verse": "16-32"
+          },
+          {
+            "typ": "lied",
+            "titel": "Entfernet euch, ihr matten Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Wie süß ist doch ein freier Wandel",
+                  "In voller Abgezogenheit,",
+                  "Wenn dieser Welt ihr toller Handel",
+                  "Uns keine Sorg noch Furcht bereit.",
+                  "Ja, gute Nacht!",
+                  "Du Lust und Pracht!",
+                  "Ich bin bereits in meinem Sinn",
+                  "Verlobte Braut und Königin."
+                ],
+                "rechts": [
+                  "Verbirg mich nur in Deinem Frieden,",
+                  "Und drück mich tief in Deinen Schoß;",
+                  "Mach mich von allem abgeschieden,",
+                  "Und von den Kreaturen bloß.",
+                  "Nun gute Nacht!",
+                  "Die Liebe macht,",
+                  "Daß ich mich selbst vergessen kann,",
+                  "Und sehne mich nur himmelan."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        500,
+        502
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "35"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr faulen Christen",
+            "strophen": [
+              {
+                "links": [
+                  "Wachet auf, ihr faulen Christen,",
+                  "Bedenket, daß euch Gottes Gnad",
+                  "Vom tiefsten Schlaf der Sündenlüste",
+                  "Zum Leben auferwecket hat;",
+                  "Verlasset doch die finstre Gruft,",
+                  "Und höret, wenn euch Jesus ruft:",
+                  "Wachet!"
+                ],
+                "rechts": [
+                  "Wachet, denn die Todesnächte",
+                  "Entweichen vor dem hellen Licht,",
+                  "Das Gott dem menschlichen Geschlechte",
+                  "Im Wort und Herzen aufgericht.",
+                  "Ach wandelt doch in solchem Schein,",
+                  "Sonst könnt ihr keine Christen sein:",
+                  "Wachet!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 17, 7—10.",
+            "buch": "lukas",
+            "kapitel": 17,
+            "verse": "7-10"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Abgötterei und Lüge laß ferne von mir sein, o HErr. Armut und Reichtum gib mir nicht; laß mich aber mein beschieden Teil Speise hinnehmen. Zweierlei bitte ich von Dir, die wollest Du mir nicht weigern, ehe denn ich sterbe:"
+              },
+              {
+                "art": "text",
+                "inhalt": "Armut . . hinnehmen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei . ."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr faulen Christen",
+            "strophen": [
+              {
+                "links": [
+                  "Wachet, denn die alte Schlange",
+                  "Sucht Tag und Nacht mit Macht und List",
+                  "Die Menschen in ihr Netz zu fangen,",
+                  "Weil wenig Zeit vorhanden ist.",
+                  "Ergreifet doch des Glaubens Schild,",
+                  "Und wisset, daß nicht schlafen gilt:",
+                  "Wachet!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 8, 20—22.",
+            "buch": "1_mose",
+            "kapitel": 8,
+            "verse": "20-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "123"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 2, 8—15.",
+            "buch": "1_timotheus",
+            "kapitel": 2,
+            "verse": "8-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr faulen Christen",
+            "strophen": [
+              {
+                "links": [
+                  "Wachet, eh die Todesstunde",
+                  "Das unvermerkte Ziel erreicht;",
+                  "Ihr seht ja, wie der Tod Gesunde",
+                  "Sowohl als Kranke hinterschleicht.",
+                  "Der letzte Stoß ist ungewiß!",
+                  "Ach werte Christen, merket dies:",
+                  "Wachet!"
+                ],
+                "rechts": [
+                  "Wachet, daß ihr euch bereitet",
+                  "Auf jenen großen Tag des HErrn;",
+                  "Denn wie uns Gottes Wort bedeutet,",
+                  "So ist derselbe nicht mehr fern.",
+                  "Ach schicket euch, vielleicht kommt heut",
+                  "Der erste Tag der Ewigkeit:",
+                  "Wachet!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        503,
+        505
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "65"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O du allertiefste Liebe",
+            "melodie": "171",
+            "strophen": [
+              {
+                "links": [
+                  "O du allertiefste Liebe,",
+                  "Die in Christo Jesu ist,",
+                  "In der ich mich stetig übe,",
+                  "Der mein Herze nicht vergißt:",
+                  "Schenke mir doch Deine Krone",
+                  "Und Dein Perllein, o mein Lohn,",
+                  "Drück es doch in meine Seele,",
+                  "Die ich Dir nun ganz befehle."
+                ],
+                "rechts": [
+                  "O du allersüßte Liebe,",
+                  "Durch die Liebe bitt ich Dich,",
+                  "Die des Vaters Zorn vertriebe,",
+                  "Und verschlang zur Lieb in sich:",
+                  "Ach verschling doch auch den Zorn,",
+                  "Der in meiner Seel erborn,",
+                  "Durch dieselbe große Liebe,",
+                  "Daß sie sich im Lieben übe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 25, 19—21.",
+            "buch": "matthaeus",
+            "kapitel": 25,
+            "verse": "19-21"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Was in eines Menschen Herz ist, das sehen Deine Augen, HErr, und in Deinem Buche stehet alles geschrieben."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ein Mensch siehet was vor Augen ist, Gott aber siehet das Herz an. Denn er erforschet alle Herzen und versteht alle Gedanken von ferne."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ein Mensch . . an."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei . ."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O du allertiefste Liebe",
+            "strophen": [
+              {
+                "links": [
+                  "Dich will ich mir auserwählen,",
+                  "Denn Du bist mein süßes Licht;",
+                  "Leuchte meiner armen Seelen,",
+                  "Du weißt, daß es ihr gebricht,",
+                  "Weil dies Fleisch zu dieser Frist",
+                  "Ihr ein finstrer Kerker ist;",
+                  "Führe sie auf rechter Straße,",
+                  "Daß sie falsche Wege hasse."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "59"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 13, 1—9.",
+            "buch": "hesekiel",
+            "kapitel": 13,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "129"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 11, 11—24.",
+            "buch": "roemers",
+            "kapitel": 11,
+            "verse": "11-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "O du allertiefste Liebe",
+            "strophen": [
+              {
+                "links": [
+                  "Triff mein Herz mit Deinem Hammer;",
+                  "Führe mich, o Jesu Du,",
+                  "Durch des grimmen Todes Kammer",
+                  "Ein in Deinen Tod und Ruh;",
+                  "Daß mein Leib am jüngsten Tag",
+                  "In Dir auferstehen mag",
+                  "Auf Dein Wort aus Deinem Sterben,",
+                  "Und Dein ewigs Leben erben."
+                ],
+                "rechts": [
+                  "Lehre Du mich alles halten,",
+                  "Was Du von mir forderst nun;",
+                  "Laß mich Dich nur lassen walten,",
+                  "Sei mein Wissen Will und Tun.",
+                  "Ach mein Leiter, laß doch mich",
+                  "Nirgends gehen ohne Dich;",
+                  "Denn ich hab mich Deinem Namen",
+                  "Ganz und gar ergeben. Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        506,
+        508
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "62"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater, sieh: wie mich",
+            "melodie": "125-127",
+            "strophen": [
+              {
+                "links": [
+                  "O Vater, sieh: wie mich",
+                  "Die Leidenschaft verwirret;",
+                  "Mich reizen Feind und Welt,",
+                  "Mein Fleisch ist blind und irret;",
+                  "Drum steh mir durch den Geist",
+                  "Des neuen Bundes bei,",
+                  "Und gib, daß Christi Bild",
+                  "In meiner Seelen sei."
+                ],
+                "rechts": [
+                  "Laß mich kein eitel Ding",
+                  "Auf dieser Welt begehren;",
+                  "Gib mir auch Maß im Trank,",
+                  "In dem, was mich soll nähren,",
+                  "Was mich bekleiden soll,",
+                  "Was mich bei Ehren hält;",
+                  "Damit ich nichts begehr",
+                  "Als Dich auf dieser Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 25, 22—23.",
+            "buch": "matthaeus",
+            "kapitel": 25,
+            "verse": "22-23"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Sende herab, o HErr, vom Thron Deiner Majestät die Weisheit, daß sie bei mir sei und mir beistehe;"
+              },
+              {
+                "art": "text",
+                "inhalt": "Damit ich weiß was allezeit wohlgefällig ist vor Dir. Gib mir, o HErr, die Weisheit, die auf Deinem Throne sitzt,"
+              },
+              {
+                "art": "text",
+                "inhalt": "Damit . . vor Dir."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei . ."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Vater, sieh: wie mich",
+            "strophen": [
+              {
+                "links": [
+                  "Laß keinen Haß in mich,",
+                  "Wenn mich die Feinde kränken;",
+                  "Wenn mich die Strafe soll",
+                  "Hin auf das Gute lenken;",
+                  "Viel minder bloß durch Neid,",
+                  "Bei Andrer Glück und Höh;",
+                  "Und gib, daß all mein Haß",
+                  "Nur auf die Sünde geh."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 11, 17—21.",
+            "buch": "hesekiel",
+            "kapitel": 11,
+            "verse": "17-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 8, 10—11.",
+            "buch": "roemers",
+            "kapitel": 8,
+            "verse": "10-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater, sieh: wie mich",
+            "strophen": [
+              {
+                "links": [
+                  "Bezähm in mir die Furcht,",
+                  "Wenn was will böse scheinen,",
+                  "Wenn mir der Tod, der Schmerz,",
+                  "Gefahr, Verlust des Meinen",
+                  "Und sonst dergleichen droht;",
+                  "Und laß mich sorgenfrei,",
+                  "Daß nichts als Deine Furcht",
+                  "In meinem Herzen sei."
+                ],
+                "rechts": [
+                  "Laß mich durch Traurigkeit",
+                  "Den Kopf nicht niederhänken,",
+                  "Wie Andre von Natur",
+                  "Und sonst in Not sich kränken;",
+                  "Mein Trauern sei um dies:",
+                  "Daß ich Dich je betrübt,",
+                  "Und daß nicht bei mir ist",
+                  "Mein Jesus, Der mich liebt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        508,
+        510
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "79"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Jesu, mein Schönster",
+            "melodie": "Ach alles was Himmel",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Jesu, mein Schönster, erquicke mich Armen;",
+                  "Ach zeuch mich, ach zeuch mich zu Dir mit Erbarmen;",
+                  "Gib, daß ich ganz brünstig voll Liebe mög werden,",
+                  "So lang ich noch leben soll hier auf der Erden."
+                ]
+              },
+              {
+                "links": [
+                  "Du Vater des Lichtes, schieß Deine Lichtstrahlen",
+                  "Tief in mich, Dein heiliges Bildnis zu malen;",
+                  "Ach gib mir die Sanftmut und Demut vor allen,",
+                  "Daß ich mög dem HErren, dem Schönsten gefallen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 25, 24—30.",
+            "buch": "matthaeus",
+            "kapitel": 25,
+            "verse": "24-30"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Der Weisheit Anfang ist des HErrn Furcht; und den Heiligen erkennen ist Verstand. Sein Lob bleibet ewiglich."
+              },
+              {
+                "art": "text",
+                "inhalt": "Das ist die Liebe zu Gott, daß wir Seine Gebote halten; denn der Weisheit Anfang ist des HErrn Furcht."
+              },
+              {
+                "art": "text",
+                "inhalt": "Sein Lob bleibet ewiglich."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach Jesu, mein Schönster",
+            "strophen": [
+              {
+                "links": [
+                  "Gerechtigkeit wollst Du, o Jesu, mir geben,",
+                  "Auf daß ich in Friede und Freude kann leben;",
+                  "Die Früchte des Geistes laß allzeit sich finden,",
+                  "Bewahr mich vor Werken des Fleisches, vor Sünden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hosea 14, 2—10.",
+            "buch": "hosea",
+            "kapitel": 14,
+            "verse": "2-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Petri 2, 17—21.",
+            "buch": "2_petrus",
+            "kapitel": 2,
+            "verse": "17-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Jesu, mein Schönster",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, Du wollst Dich in Liebe verbinden,",
+                  "Mit Deiner herzflammenden Lieb mich entzünden;",
+                  "Du wollst mich doch einmal recht freundlich anschauen,",
+                  "So geb ich das Herz Dir mit vollem Vertrauen."
+                ]
+              },
+              {
+                "links": [
+                  "HErr Jesu, Du König und Herrscher der Heiden,",
+                  "Ach laß mich doch werden ein Mitglied der Freuden!",
+                  "Ach laß mich den Himmel auf Erden genießen!",
+                  "Das bitterste Leiden kannst Du mir versüßen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 8. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        511,
+        514
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "106"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zeuch meinen Geist, o HErr, von hinnen",
+            "melodie": "Ach Abba, schenk",
+            "strophen": [
+              {
+                "links": [
+                  "Zeuch meinen Geist, o HErr, von hinnen",
+                  "Ganz über sich zu Dir hinauf.",
+                  "Ich sehn mich sehr, den ganzen Lauf",
+                  "Nach Dir zu tun mit Herz und Sinnen.",
+                  "Regier mich nur nach Deinem Willen,",
+                  "Dem Führer nachzufolgen schlecht;",
+                  "Was kann sonst meinen Hunger stillen?",
+                  "Wer ist, der mich vergnüge recht?"
+                ],
+                "rechts": [
+                  "Weil aber so viel widerstrebet",
+                  "Dem abgewandten Pilgrimsgeist,",
+                  "Der zum verheißnen Erbe reist,",
+                  "Und gern als ein gefreiter lebet:",
+                  "So nimm mir ab die schweren Lasten",
+                  "Der sinnlich groben Irdischkeit;",
+                  "Den Geist laß in der Stille rasten",
+                  "In Dir und Deiner Ledigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 9, 35—42.",
+            "buch": "markus",
+            "kapitel": 9,
+            "verse": "35-42"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "O HErr, Vater und Gott meines Lebens, verlaß mich nicht. Laß meine Augen sich nicht stolz erheben, und wende böses Gelüsten von mir ab. Nimm von mir alle Begehrlichkeit;"
+              },
+              {
+                "art": "text",
+                "inhalt": "Schamlosem und unbändigem Sinn gib mich nicht preis. Verlaß mich nicht, o HErr, damit meiner Verirrungen nicht viel werden und meine Sünden sich nicht häufen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Schamlosem . . . preis."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Zeuch meinen Geist, o HErr, von hinnen",
+            "strophen": [
+              {
+                "links": [
+                  "Zwar findt mein Geist noch manche Speisen,",
+                  "Die geistlich und vergnüglich sind,",
+                  "Darin man wohl auch Nahrung findt;",
+                  "Doch kann ich nichts fürs beste preisen,",
+                  "Als Dich Selbst-selbst, Du Brot der Seelen.",
+                  "O selig und vollkommen sein,",
+                  "Die Dich zum besten Teil erwählen,",
+                  "Bis sie in Dich gesunken ein!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 33, 26—29.",
+            "buch": "5_mose",
+            "kapitel": 33,
+            "verse": "26-29"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Johannis 1—5.",
+            "buch": "2_johannes",
+            "kapitel": 1,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der lieben Sonnen Licht und Pracht",
+            "melodie": "30",
+            "strophen": [
+              {
+                "links": [
+                  "Der lieben Sonnen Licht und Pracht",
+                  "Hat nun den Tag vollführet,",
+                  "Die Welt hat sich zur Ruh gemacht;",
+                  "Du, Seel, was dir gebühret:",
+                  "Tritt an die Himmelsthür",
+                  "Und bring ein Lied herfür,",
+                  "Laß Deine Augen Herz und Sinn",
+                  "Auf Jesum sein gerichtet hin."
+                ],
+                "rechts": [
+                  "Ihr hellen Sterne leuchtet wohl",
+                  "Und glänzt mit Licht und Strahlen",
+                  "Ihr macht die Nacht des Prachtes voll;",
+                  "Doch noch zu tausend Malen",
+                  "Scheint heller in mein Herz",
+                  "Die ewge Himmelskerz:",
+                  "Mein Jesus, meiner Seelen Ruhm,",
+                  "Mein Schutz, mein Schatz, mein Eigentum."
+                ]
+              },
+              {
+                "links": [
+                  "Verschmähe nicht das schlechte Lied,",
+                  "Das ich Dir, Jesus, singe;",
+                  "In meinem Herzen ist kein Fried,",
+                  "Eh ich es zu Dir bringe.",
+                  "Ich bringe was ich kann,",
+                  "Ach nimm es gnädig an!",
+                  "Es ist doch herzlich gut gemeint,",
+                  "O Jesu, meiner Seelen Freund."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

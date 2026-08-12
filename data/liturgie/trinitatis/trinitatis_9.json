@@ -1,0 +1,991 @@
+{
+  "id": "trinitatis_9",
+  "titel": "9. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "9. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        515,
+        519
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54",
+              "148"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, höre was mein Mund",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, höre was mein Mund",
+                  "Aus innerm Herzensgrund",
+                  "Ohn alle Falschheit spricht:",
+                  "Wend, HErr, Dein Angesicht,",
+                  "Vernimm meine Bitte."
+                ],
+                "rechts": [
+                  "Der Schatz, den ich begehr,",
+                  "Ist Deine Gnad, o HErr,",
+                  "Die Gnade, die Dein Sohn,",
+                  "Mein Heil und Gnadenthron,",
+                  "Mir sterbend erworben."
+                ]
+              },
+              {
+                "links": [
+                  "Ich bitte nicht um Gut,",
+                  "Das auf der Welt beruht,",
+                  "Auch endlich mit der Welt",
+                  "Bricht und zu Boden fällt,",
+                  "Und mag gar nicht retten."
+                ],
+                "rechts": [
+                  "Du bist rein und gerecht,",
+                  "Ich bin ein böser Knecht;",
+                  "Ich bin in Sünden tot,",
+                  "Du bist der fromme Gott,",
+                  "Der Sünde vergiebet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 16, 1—12.",
+            "buch": "lukas",
+            "kapitel": 16,
+            "verse": "1-12"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Das Gleichnis vom ungerechten Haushalter hat vielen Lesern Hörern und Auslegern mehr Not gemacht als nötig war. Man beobachte den Zusammenhang und die Absicht Jesu, und das Gleichnis ist klar. Unbußfertige rohe Sünder, wie der ungerechte Haushalter, wissen sich aus den Folgen und Verlegenheiten ihrer Sünden zu helfen; und bußfertigen Sündern, Gottes neugeborenen Kindern, sollte kein Weg übrig sein, sich in der Stunde des Darbens und des Gerichtes zu helfen? Sie mögen sich der Heiligung befleißigen und für gute Zeugnisse vor Gott, dem Richter alles Fleisches, sorgen, so wird die Vergebung, welche sie hier beruhigt hat, ihnen auch bleiben am Tage des Gerichts. Heiligung macht den Sünder, der Vergebung fand, hier und dort seines Heils gewisser; denn die Heiligung ist die von Gott gewollte Folge und Besiegelung der Vergebung. Das ist im Kurzen der Sinn des Gleichnisses.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der HErr sprach zu seinem Haushalter:",
+              "Tu Rechnung von deinem Haushalten. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, Du hast uns Alle zu Deinen Haushaltern verordnet: hilf, daß wir die vertrauten Güter nicht durchbringen, sondern sie wohl verwenden, auch mit dem Zeitlichen uns Freunde machen, damit wir in die ewigen Hütten aufgenommen werden; um Jesu Christi . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, höre was mein Mund",
+            "strophen": [
+              {
+                "links": [
+                  "Willst Du nichts sehen an,",
+                  "Als was ein Mensch getan,",
+                  "So wird kein Menschenkind",
+                  "Vor Menge seiner Sünd",
+                  "Im Himmel bestehen."
+                ],
+                "rechts": [
+                  "Sieh an: wie Jesus Christ",
+                  "Für mich gegeben ist,",
+                  "Der hat, was ich nicht kann,",
+                  "Erfüllt, und genug getan",
+                  "Im Leben und Leiden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33-80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 16, 1—9.",
+            "buch": "sprueche",
+            "kapitel": 16,
+            "verse": "1-9"
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr Gott, laß die Ohren Deiner Barmherzigkeit dem Gebete Deiner Gläubigen offen sein; und auf daß Du uns was wir bitten gebest, so verleihe gnädiglich, daß wir auch von Dir begehren was Dir allein gefällig ist; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 10, 1—13.",
+            "buch": "1_korinther",
+            "kapitel": 10,
+            "verse": "1-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, höre was mein Mund",
+            "strophen": [
+              {
+                "links": [
+                  "Ich will Dir dankbar sein,",
+                  "Doch ist mein Können klein;",
+                  "Allein in Deiner Kraft,",
+                  "Die Tun und Wollen schafft,",
+                  "Steht all mein Vermögen."
+                ],
+                "rechts": [
+                  "Drum sende Deinen Geist,",
+                  "Der Deinen Kindern weist",
+                  "Den Weg, der Dir gefällt;",
+                  "Wer den bewahrt und hält,",
+                  "Wird nimmermehr fehlen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich weiß wohl was ich tun will,",
+              "Daß sie mich in ihre Häuser nehmen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Schenke uns — wir bitten Dich, o HErr — immerdar den Geist, zu denken und zu tun, was recht ist, damit wir, die wir ohne Dich nicht sein können, Dir gemäß zu leben vermögen; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        519,
+        523
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "29"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, wenn ich Dich nur werde haben",
+            "melodie": "159/160",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, wenn ich Dich nur werde haben,",
+                  "Mein bestes Teil zu jeder Zeit,",
+                  "So wird sich Leib und Seele laben",
+                  "Hier zeitlich und in Ewigkeit.",
+                  "Was geht die Welt uns Christen an?",
+                  "Genug, wer Dich Gott haben kann."
+                ],
+                "rechts": [
+                  "Wie schön und hoch hast Du gebauet",
+                  "Die sternenreiche Himmelsstadt,",
+                  "Daß sie der Mensch mit Lust anschauet,",
+                  "Die so viel Glanz und Klarheit hat!",
+                  "Was geht mich Sternenklarheit an?",
+                  "Genug, wer Dich Gott haben kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 13, 44—46.",
+            "buch": "matthaeus",
+            "kapitel": 13,
+            "verse": "44-46"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, wenn ich Dich nur werde haben",
+            "strophen": [
+              {
+                "links": [
+                  "Kann auch ein festrer Bund im Leben",
+                  "Als zwischen Leib und Seele sein?",
+                  "Wenn die sich von einander geben,",
+                  "Alsbald Verschmachtung fället ein.",
+                  "Was geht mich dieses Leben an?",
+                  "Genug, wer Dich Gott haben kann."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 30, 15—21.",
+            "buch": "jesaja",
+            "kapitel": 30,
+            "verse": "15-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 17, 16—34.",
+            "buch": "apostelgeschichte",
+            "kapitel": 17,
+            "verse": "16-34"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Aus den Briefen des seligen Apostels Paulus spricht seine ganze heilige Seele. Die ganze Welt umfaßte er, alle trug er in seinem Herzen. Er übte sein Amt im größten Maße. Ahmen wir ihn hierin nach! Freilich können wir nicht den Erdkreis, nicht ganze Städte, nicht Völker belehren. Aber jeder Einzelne kann Lehrer sein für sein Gesinde, für Frau und Kind, für Freunde und Nachbarn. Niemand halte mir entgegen: Ich bin ungewandt im Reden, und ungelehrt. Wer war ungelehrter als Petrus, wer ungeübter als Paulus? Und doch haben Beide: der Ungeübte und der Ungelehrte, tausend Philosophen überwunden und tausend Rhetoren verstummen machen. Ihr Eifer und Gottes Gnade taten alles.",
+            "quelle": "Joh. Chrysostomus"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, wenn ich Dich nur werde haben",
+            "strophen": [
+              {
+                "links": [
+                  "Du Gott, ja Du bist mein Alleine,",
+                  "Meines Herzens Glanz und beste Freud;",
+                  "Des Himmels Glanz weicht Deinem Scheine,",
+                  "Die Weltlust aller Herrlichkeit.",
+                  "Was geht die Welt uns Christen an?",
+                  "Genug, wer Dich Gott haben kann."
+                ],
+                "rechts": [
+                  "Drum hilf, daß ich an Dich gedenke",
+                  "In meinem Leben allezeit,",
+                  "Und mein Gemüt zum Himmel schwenke,",
+                  "Entzückt der eitlen Eitelkeit.",
+                  "Was geht die Welt uns Christen an?",
+                  "Genug, wer Dich Gott haben kann."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, wir danken Dir und preisen Dich, daß Du Deine Boten mit dem seligmachenden Evangelium auch zu uns gesandt hast. O laß die christlichen Völker in unserm Europa diese gnädige Wohltat ja nicht vergessen oder gering schätzen. Segne die alte Christenheit und erfülle sie mit Strömen des heiligen Geistes, daß sie in beständiger Buße und in wahrhaftigem Glauben Dein Werk treibe. Gib uns freudige Herzen, an Denen, die Dich noch nicht kennen, Mission zu treiben, damit in allen Völkern und Ländern Viele zu Dir kommen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        523,
+        525
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "37"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Noch dennoch mußt du drum nicht ganz",
+            "melodie": "18/19",
+            "strophen": [
+              {
+                "links": [
+                  "Noch dennoch mußt du drum nicht ganz",
+                  "In Traurigkeit versinken:",
+                  "Gott wird des süßen Trostes Glanz",
+                  "Schon wieder lassen blinken.",
+                  "Steh in Geduld, wart in der Still,",
+                  "Und laß Gott machen wie Er will:",
+                  "Er kanns nicht böse machen."
+                ],
+                "rechts": [
+                  "Drum falle, du betrübtes Heer,",
+                  "In Demut vor Ihm nieder;",
+                  "Sprich: HErr, wir geben Dir die Ehr,",
+                  "Ach nimm uns Sünder wieder",
+                  "In Deine Gnade; reiß die Last,",
+                  "Die Du uns aufgeleget hast,",
+                  "Hinweg, heil unsern Schaden!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 14, 22—33.",
+            "buch": "matthaeus",
+            "kapitel": 14,
+            "verse": "22-33"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Noch dennoch mußt du drum nicht ganz",
+            "strophen": [
+              {
+                "links": [
+                  "Auf Gottes Liebe mußt du stehn,",
+                  "Und dich nicht lassen fällen;",
+                  "Wenn auch der Himmel ein wollt gehn,",
+                  "Und alle Welt zerschellen.",
+                  "Gott hat uns Gnade zugesagt,",
+                  "Sein Wort ist klar; wer sich drauf wagt,",
+                  "Dem kann es nimmer fehlen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 15, 16—23.",
+            "buch": "1_samuel",
+            "kapitel": 15,
+            "verse": "16-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "124"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 24, 22—26.",
+            "buch": "apostelgeschichte",
+            "kapitel": 24,
+            "verse": "22-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Noch dennoch mußt du drum nicht ganz",
+            "strophen": [
+              {
+                "links": [
+                  "So darfst du auch an Seiner Kraft",
+                  "Gar keinen Zweifel haben:",
+                  "Wer ists, Der alle Dinge schafft?",
+                  "Wer teilt aus alle Gaben?",
+                  "Gott tuts! Und das ist auch der Mann,",
+                  "Der Rat und Tat erfinden kann,",
+                  "Wenn Jedermann verzaget."
+                ],
+                "rechts": [
+                  "Was ist Sein ganzes wertes Reich,",
+                  "Als lauter Wundersachen?",
+                  "Er hilft und baut, wenn wir uns gleich",
+                  "Des gar kein Hoffnung machen.",
+                  "Und das ist Seines Namens Ruhm,",
+                  "Den du, wenn du Sein Heiligtum",
+                  "Willst sehen, Ihm mußt geben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        526,
+        528
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "146"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Was mein Gott will, das gscheh all Zeit",
+            "melodie": "155",
+            "strophen": [
+              {
+                "links": [
+                  "Was mein Gott will, das gscheh all Zeit,",
+                  "Sein Will der ist der beste;",
+                  "Zu helfen Den' Er ist bereit,",
+                  "Die an Ihn glauben feste.",
+                  "Er hilft aus Not",
+                  "Der fromme Gott,",
+                  "Und züchtiget mit Maßen;",
+                  "Wer Gott vertraut,",
+                  "Fest auf Ihn baut,",
+                  "Den will Er nicht verlassen."
+                ],
+                "rechts": [
+                  "Gott ist mein Trost, mein Zuversicht,",
+                  "Mein Hoffnung und mein Leben;",
+                  "Was mein Gott will, daß mir geschieht,",
+                  "Will ich nicht widerstreben.",
+                  "Sein Wort ist wahr,",
+                  "Denn all mein Haar",
+                  "Er Selber hat gezählet;",
+                  "Er hüt und wacht,",
+                  "Stets für uns tracht,",
+                  "Auf daß uns gar nichts fehlet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 3—9.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "3-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Was mein Gott will, das gscheh all Zeit",
+            "strophen": [
+              {
+                "links": [
+                  "Noch eins, HErr, will ich bitten Dich;",
+                  "Du wollst mirs nicht versagen:",
+                  "Wenn mich der böse Feind ansicht,",
+                  "Laß mich, HErr, nicht verzagen.",
+                  "Hilf, steur und wehr,",
+                  "Ach Gott mein HErr,",
+                  "Zu Ehren Deinem Namen.",
+                  "Wer das begehrt,",
+                  "Dem wirds gewährt:",
+                  "Drauf sprech ich fröhlich Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "60"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 37, 4—11.",
+            "buch": "1_mose",
+            "kapitel": 37,
+            "verse": "4-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 10, 1—8.",
+            "buch": "apostelgeschichte",
+            "kapitel": 10,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Tag ist hin; mein Jesu, bei mir bleibe",
+            "melodie": "31",
+            "strophen": [
+              {
+                "links": [
+                  "Der Tag ist hin; mein Jesu, bei mir bleibe,",
+                  "O Seelenlicht, der Sünden Nacht vertreibe!",
+                  "Geh auf in mir, Glanz der Gerechtigkeit,",
+                  "Erleuchte mich, ach HErr, denn es ist Zeit."
+                ],
+                "rechts": [
+                  "Vergib es, HErr, was mir sagt mein Gewissen:",
+                  "Welt Teufel Sünd hat mich von Dir gerissen.",
+                  "Es ist mir leid! Mich stell ich wieder ein;",
+                  "Da ist die Hand: Du mein und ich bin Dein."
+                ]
+              },
+              {
+                "links": [
+                  "Lob Preis und Dank sei Dir, mein Gott, gesungen;",
+                  "Dir sei die Ehr, daß alles wohlgelungen",
+                  "Nach Deinem Rat, ob ichs schon nicht versteh;",
+                  "Du bist gerecht, es gehe wie es geh."
+                ],
+                "rechts": [
+                  "Israels Schutz, mein Hüter und mein Hirte,",
+                  "Zu meinem Trost Dein sieghaft Schwert umgürte!",
+                  "Bewahre mich durch Deine große Macht,",
+                  "Wenn Belial nach meiner Seelen tracht."
+                ]
+              },
+              {
+                "links": [
+                  "Nur eines ist was mich empfindlich quälet:",
+                  "Beständigkeit im Guten mir noch fehlet;",
+                  "Das weißt Du wohl, o Herzenskündiger,",
+                  "Ich strauchle noch wie ein Unmündiger."
+                ],
+                "rechts": [
+                  "Duschlummerst nicht, wenn matte Glieder schlafen:",
+                  "Ach laß die Seel im Schlaf auch Gutes schaffen;",
+                  "O Lebenssonn, erquicke meinen Sinn!",
+                  "Dich laß ich nicht, mein Fels — Der Tag ist hin."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        529,
+        531
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nur frisch hinein!",
+            "strophen": [
+              {
+                "links": [
+                  "Nur frisch hinein!",
+                  "Es wird so tief nicht sein:",
+                  "Das rote Meer wird dir schon Platz vergönnen.",
+                  "Was wimmerst du? Sollt Der nicht helfen können",
+                  "Der nach dem Blitz gibt heitern Sonnenschein?",
+                  "Nur frisch hinein!"
+                ],
+                "rechts": [
+                  "Der Himmelsheld",
+                  "Hat einen Weg bestellt,",
+                  "Den Niemand weiß; eh Sein Volk sollte sinken,",
+                  "Muß selbst das Meer auf dieses Helden Winken",
+                  "Zur Mauer sein: Er herrscht im Flutenfeld",
+                  "Der Himmelsheld."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 10—13.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "10-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nur frisch hinein!",
+            "strophen": [
+              {
+                "links": [
+                  "Auf, schwacher Sinn,",
+                  "Wirf allen Kummer hin,",
+                  "Und schicke dich, die Tiefe durchzuwaten.",
+                  "Kommt schon ein Sturm: dein Jesus wird dir raten",
+                  "Und helfen aus; der Tod ist dein Gewinn.",
+                  "Auf, schwacher Sinn!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 19, 1—9.",
+            "buch": "",
+            "kapitel": 19,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 10, 9—20.",
+            "buch": "apostelgeschichte",
+            "kapitel": 10,
+            "verse": "9-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nur frisch hinein!",
+            "strophen": [
+              {
+                "links": [
+                  "Der Christenstand",
+                  "Ist hier also bewandt:",
+                  "Es muß ein Kreuz das andere Kreuz verjagen;",
+                  "So ging es Dem, Der unser Kreuz getragen",
+                  "Am Kreuzesstamm.",
+                  "Es ist kein Kindertand",
+                  "Der Christenstand."
+                ],
+                "rechts": [
+                  "Ach süßer Christ,",
+                  "Wenn Du nur bei mir bist,",
+                  "So will ich auch mit Dir mein Leiden enden;",
+                  "Zu Dir, mein Gott, will ich mich gänzlich wenden,",
+                  "Und tragen was mir auferleget ist,",
+                  "Ach süßer Christ!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        532,
+        534
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich habe nun den Grund gefunden",
+            "melodie": "119",
+            "strophen": [
+              {
+                "links": [
+                  "Ich habe nun den Grund gefunden,",
+                  "Der meinen Anker ewig hält;",
+                  "Wo anders, als in Jesu Wunden?",
+                  "Da lag er vor der Zeit der Welt:",
+                  "Den Grund, der unbeweglich steht,",
+                  "Wenn Erd und Himmel untergeht."
+                ],
+                "rechts": [
+                  "Wir sollen nicht verloren werden;",
+                  "Gott will, uns soll geholfen sein:",
+                  "Deswegen kam der Sohn auf Erden,",
+                  "Und nahm hernach den Himmel ein;",
+                  "Deswegen klopft er für und für",
+                  "So stark an unsers Herzens Thür."
+                ]
+              },
+              {
+                "links": [
+                  "Es ist das ewige Erbarmen,",
+                  "Das alles Denken übersteigt;",
+                  "Es sind die offnen Liebesarme",
+                  "Des, Der Sich zu dem Sünder neigt,",
+                  "Dem allemal das Herze bricht,",
+                  "Wir kommen oder kommen nicht."
+                ],
+                "rechts": [
+                  "O Abgrund, welcher alle Sünden",
+                  "Durch Christi Tod verschlungen hat!",
+                  "Das heißt die Wunde recht verbinden,",
+                  "Da findet kein Verdammen statt,",
+                  "Weil Christi Blut beständig schreit:",
+                  "Barmherzigkeit, Barmherzigkeit!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 14—20.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "14-20"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich habe nun den Grund gefunden",
+            "strophen": [
+              {
+                "links": [
+                  "Wird alles Andre weggerissen,",
+                  "Was Seel und Leib erquicken kann;",
+                  "Darf ich von keinem Troste wissen,",
+                  "Und scheine völlig ausgetan;",
+                  "Ist die Errettung noch so weit:",
+                  "Mir bleibet die Barmherzigkeit."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 59, 1 und 2.",
+            "buch": "jesaja",
+            "kapitel": 59,
+            "verse": "1-2"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 19, 21—24.",
+            "buch": "apostelgeschichte",
+            "kapitel": 19,
+            "verse": "21-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich habe nun den Grund gefunden",
+            "strophen": [
+              {
+                "links": [
+                  "Muß ich an meinen besten Werken,",
+                  "Darinnen ich gewandelt bin,",
+                  "Viel Unvollkommenheit bemerken,",
+                  "So fällt wohl alles Rühmen hin;",
+                  "Doch ist auch dieser Trost bereit:",
+                  "So hoff ich auf Barmherzigkeit."
+                ],
+                "rechts": [
+                  "Es gehe nur nach Dessen Willen,",
+                  "Bei Dem so viel Erbarmen ist;",
+                  "Er wolle Selbst mein Herze stillen,",
+                  "Damit es das nur nicht vergißt.",
+                  "So stehet es in Lieb und Leid",
+                  "In, durch und auf Barmherzigkeit."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 9. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        534,
+        536
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist getreu, der über meine Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist getreu, Der über meine Kräfte",
+                  "Mich armes Kind noch niemals hat versucht;",
+                  "Vielleicht geschiehts, daß Er die Angstgeschäfte",
+                  "Des Trauergeists noch diesen Tag verflucht.",
+                  "Mein Herz, du sollst es sehen,",
+                  "Was dir für Hilfe sei",
+                  "In kurzer Zeit geschehen.",
+                  "Gott ist getreu."
+                ],
+                "rechts": [
+                  "Gott ist getreu in allen Seinen Werken;",
+                  "Macht Er mir gleich die Bürde noch so schwer,",
+                  "So kann Er mich dabei doch wieder stärken,",
+                  "Von Ihm allein kommt Trost und Labsal her.",
+                  "Und wenn die Zeit vorhanden,",
+                  "So machet Er mich frei",
+                  "Von allen Jammerbanden.",
+                  "Gott ist getreu."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 35—41.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "35-41"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott ist getreu, der über meine Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist getreu; Der wird mir Trost verschaffen,",
+                  "Wenn gleich der Trost bei allen Menschen fehlt;",
+                  "Er wird den Geist, der mich mit Trauerwaffen",
+                  "So jämmerlich bis auf die Seele quält,",
+                  "Gar ferne von mir treiben;",
+                  "Ich aber werde frei",
+                  "Bei meinem Jesu bleiben.",
+                  "Gott ist getreu."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "109"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 9, 1—6.",
+            "buch": "",
+            "kapitel": 9,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 10, 25—33.",
+            "buch": "apostelgeschichte",
+            "kapitel": 10,
+            "verse": "25-33"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist getreu, der über meine Kräfte",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist getreu, Er mags auch mit mir machen,",
+                  "So wunderlich und scharf Er immer will;",
+                  "Läßt Er auf mich gleich alle Wetter krachen:",
+                  "Er hat es Macht, ich halte willig still.",
+                  "Ja will Er mich gleich töten,",
+                  "So sag ich doch dabei:",
+                  "Gott hilft aus allen Nöten.",
+                  "Gott ist getreu."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}
