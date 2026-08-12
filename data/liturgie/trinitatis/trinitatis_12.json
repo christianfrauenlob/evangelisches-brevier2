@@ -1,0 +1,1031 @@
+{
+  "id": "trinitatis_12",
+  "titel": "12. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "12. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        581,
+        584
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70",
+              "3"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei Lob und Ehr dem höchsten Gut",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Sei Lob und Ehr dem höchsten Gut,",
+                  "Dem Vater aller Güte,",
+                  "Dem Gott, Der alle Wunder tut,",
+                  "Dem Gott, Der mein Gemüte",
+                  "Mit Seinem reichen Trost erfüllt,",
+                  "Dem Gott, Der allen Jammer stillt:",
+                  "Gebt unserm Gott die Ehre!"
+                ],
+                "rechts": [
+                  "Es danken Dir die Himmelsheer,",
+                  "O Herrscher aller Thronen,",
+                  "Und die auf Erden Luft und Meer",
+                  "In Deinem Schatten wohnen:",
+                  "Die preisen Deine Schöpfersmacht,",
+                  "Die alles also wohlbedacht:",
+                  "Gebt unserm Gott die Ehre!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 7, 31—37.",
+            "buch": "markus",
+            "kapitel": 7,
+            "verse": "31-37"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Er hat alles wohl gemacht! Dies Lob wird Ihm bleiben, wenn die Sonne und der Mond nicht mehr sind. Das wird nicht Lügen gestraft werden vom Feuerschein der untergehenden Welt. Es ist ein Geschrei in der Welt, daß Er alles wohl macht. Immer zahlreicher wird die lobsingende Schar. Ihr Lobgesang geht Tag und Nacht fort von der Erde bis zum Himmel. Alle Land, alle Land sind Seiner Ehren voll! Das Kind am Hochaltare, am Firmungstag, die Braut und der Bräutigam unter der segnenden Hand, der Priester mit dem Sakramente, die Mutter, wenn sie ihren Neugebornen herzt, der Mann am Ziele seines Berufs, die Christenseele, wenn sie von dem Leibe auffährt, die Seele, die ein gnädiges Urteil fand: sie haben von Seiner, von unsers HErrn Reichsverwaltung nur einen Eindruck: Er hat alles wohl gemacht! Hörst du: Er hat alles wohl gemacht!",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Da Er ausging von den Grenzen von Tyrus und Sidon,",
+              "Machte Er die Tauben hörend und die Sprachlosen redend."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, gnädiger Schöpfer, wir danken Dir, daß Du uns gesunden Leib gegeben (und unsre Zungen Ohren und alle Gliedmaßen vor dem bösen Feinde behütet) hast, und bitten Dich: gib uns Deine Gnade, daß wir unsere Ohren und Zungen recht brauchen, (mit unsern Ohren) Dein Wort fleißig hören und wohl merken, und (mit unsrer Zunge) Deine Gnade preisen und rühmen mögen, auf daß Niemand durch unsre Zunge geärgert, sondern Jedermann dadurch gebessert werde; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sei Lob und Ehr dem höchsten Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr ist noch und immer nicht",
+                  "Von Seinem Volk geschieden:",
+                  "Er bleibet ihre Zuversicht,",
+                  "Ihr Segen Heil und Frieden.",
+                  "Mit Mutterhänden leitet Er",
+                  "Die Seinen stetig hin und her:",
+                  "Gebt unserm Gott die Ehre."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 29, 18—21.",
+            "buch": "jesaja",
+            "kapitel": 29,
+            "verse": "18-21"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger barmherziger Gott, von Dessen Güte es allein kommt, daß Dir von Deinen Gläubigen würdiglich und löblich gedient wird, wir bitten Dich: gib uns, daß wir ohne Anstoß und Aergernis zu Deinen Verheißungen kommen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 3, 4—9.",
+            "buch": "2_korinther",
+            "kapitel": 3,
+            "verse": "4-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei Lob und Ehr dem höchsten Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Ich will Dich all mein Leben lang,",
+                  "O Gott, von nun an ehren;",
+                  "Man soll, o Gott, Dein Lobgesang",
+                  "An allen Orten hören.",
+                  "Mein ganzes Herz ermuntre sich,",
+                  "Mein Geist und Leib erfreue Dich:",
+                  "Gebt unserm Gott die Ehre!"
+                ],
+                "rechts": [
+                  "Ihr, die ihr Christi Namen nennt,",
+                  "Gebt unserm Gott die Ehre;",
+                  "Ihr, die ihr Gottes Macht bekennt,",
+                  "Gebt unserm Gott die Ehre.",
+                  "Die falschen Götzen macht zu Spott;",
+                  "Der HErr ist Gott, der HErr ist Gott!",
+                  "Gebt unserm Gott die Ehre!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Er hat alles wohlgemacht:",
+              "Die Tauben macht Er hörend und die Stummen redend."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du in überströmender Liebe den Flehenden mehr gewährst als sie verdient haben und begehren: gieß Dein Erbarmen über uns aus, räum weg was das Gewissen fürchtet, und füge noch hinzu um was wir nicht zu bitten wagen; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        585,
+        587
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "15"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, mein schönstes Licht",
+            "melodie": "79",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu Christ, mein schönstes Licht,",
+                  "Der Du in Deiner Seelen",
+                  "So hoch mich liebst, daß ich es nicht",
+                  "Aussprechen kann, noch zählen:",
+                  "Gib, daß mein Herz Dich wiederum",
+                  "Mit Lieben und Verlangen",
+                  "Mög umfangen,",
+                  "Und als Dein Eigentum",
+                  "Nur einzig an Dir hangen."
+                ],
+                "rechts": [
+                  "O daß ich dieses hohe Gut",
+                  "Möcht ewiglich besitzen!",
+                  "O daß in mir dies' edle Glut",
+                  "Ohn Ende möchte hitzen!",
+                  "Ach hilf mir wachen Tag und Nacht,",
+                  "Und diesen Schatz bewahren",
+                  "Vor den Scharen,",
+                  "Die wider uns mit Macht",
+                  "Aus Satans Reiche fahren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 8, 31—36.",
+            "buch": "johannes",
+            "kapitel": 8,
+            "verse": "31-36"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, mein schönstes Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Trost, mein Schatz, mein Licht, mein Heil,",
+                  "Mein höchstes Gut und Leben;",
+                  "Ach nimm mich auf zu Deinem Teil,",
+                  "Wie ich mich Dir ergeben.",
+                  "Denn außer Dir ist lauter Pein:",
+                  "Ich find hier überalle",
+                  "Nichts als Galle,",
+                  "Nichts kann mir tröstlich sein,",
+                  "Nichts ist das mir gefalle."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 9, 13—18.",
+            "buch": "sprueche",
+            "kapitel": 9,
+            "verse": "13-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 16, 9—15.",
+            "buch": "apostelgeschichte",
+            "kapitel": 16,
+            "verse": "9-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, mein schönstes Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Ach liebstes Lieb, wenn Du entweichst,",
+                  "Was hilft mir sein geboren?",
+                  "Wenn Du mir Deine Lieb entzeuchst,",
+                  "Ist all mein Gut verloren.",
+                  "So gib, daß ich Dich meinen Gast",
+                  "Wohl such und bestermaßen",
+                  "Möge fassen,",
+                  "Und wenn ich Dich gefaßt,",
+                  "In Ewigkeit nicht lassen."
+                ],
+                "rechts": [
+                  "Du hast mich je und je geliebt,",
+                  "Und auch nach Dir gezogen;",
+                  "Eh ich noch etwas Guts geübt,",
+                  "Warst Du mir schon gewogen.",
+                  "Ach laß doch ferner, edler Hort,",
+                  "Mich Deine Liebe leiten",
+                  "Und begleiten,",
+                  "Daß sie mir immerfort",
+                  "Beisteh auf allen Seiten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        587,
+        590
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommt Kinder, laßt uns gehen",
+            "melodie": "150/151",
+            "strophen": [
+              {
+                "links": [
+                  "Kommt Kinder, laßt uns gehen,",
+                  "Der Abend kommt herbei;",
+                  "Es ist gefährlich stehen",
+                  "In dieser Wüstenei:",
+                  "Kommt, stärket euren Mut,",
+                  "Zur Ewigkeit zu wandern,",
+                  "Von einer Kraft zur andern;",
+                  "Es ist das Ende gut."
+                ],
+                "rechts": [
+                  "Es soll uns nicht gereuen",
+                  "Der schmale Pilgrimspfad,",
+                  "Wir kennen ja den Treuen,",
+                  "Der uns gerufen hat.",
+                  "Kommt, folgt und trauet Dem;",
+                  "Ein Jeder sein Gesichte",
+                  "Mit ganzer Wendung richte",
+                  "Steif nach Jerusalem."
+                ]
+              },
+              {
+                "links": [
+                  "Man muß wie Pilger wandeln:",
+                  "Frei bloß und wahrlich leer;",
+                  "Viel sammeln halten handeln",
+                  "Macht unsern Gang nur schwer.",
+                  "Wer will, der trag sich tot!",
+                  "Wir reisen abgeschieden,",
+                  "Mit wenigem zufrieden;",
+                  "Wir brauchens nur zur Not."
+                ],
+                "rechts": [
+                  "Schmückt euer Herz aufs Beste,",
+                  "Sonst weder Leib noch Haus;",
+                  "Wir sind hier fremde Gäste",
+                  "Und ziehen bald hinaus.",
+                  "Gemach bringt Ungemach:",
+                  "Ein Pilger muß sich schicken,",
+                  "Sich dulden und sich bücken",
+                  "Den kurzen Pilgertag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 8, 1—10.",
+            "buch": "markus",
+            "kapitel": 8,
+            "verse": "1-10"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Kommt Kinder, laßt uns gehen",
+            "strophen": [
+              {
+                "links": [
+                  "Kommt Kinder, laßt uns gehen,",
+                  "Der Vater gehet mit:",
+                  "Er Selbst will bei uns stehen",
+                  "In jedem sauren Tritt;",
+                  "Er will uns machen Mut,",
+                  "Mit süßen Sonnenblicken",
+                  "Uns locken und erquicken;",
+                  "Ach ja, wir habens gut."
+                ],
+                "rechts": [
+                  "Kommt, laßt uns munter wandern,",
+                  "Der Weg fürzt immer ab;",
+                  "Ein Tag der folgt dem andern,",
+                  "Bald fällt das Fleisch ins Grab;",
+                  "Nur noch ein wenig Mut,",
+                  "Ach nur ein wenig treuer,",
+                  "Von allen Dingen freier",
+                  "Gewandt zum ewgen Gut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 18, 31—33.",
+            "buch": "2_samuel",
+            "kapitel": 18,
+            "verse": "31-33"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "127"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an Philemon.",
+            "buch": "philemon",
+            "kapitel": 1,
+            "verse": "1-25"
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommt Kinder, laßt uns gehen",
+            "strophen": [
+              {
+                "links": [
+                  "Es wird nicht lang mehr währen,",
+                  "Halt noch ein wenig aus;",
+                  "Es wird nicht lang mehr währen,",
+                  "So kommen wir nach Haus:",
+                  "Da wird man ewig ruhn,",
+                  "Wenn wir mit allen Frommen",
+                  "Daheim zum Vater kommen;",
+                  "Wie wohl, wie wohl wirds tun!"
+                ],
+                "rechts": [
+                  "Drauf wollen wirs denn wagen —",
+                  "Es ist wohl wagenswert —",
+                  "Und gründlich dem absagen,",
+                  "Was aufhält und beschwert.",
+                  "Welt, du bist uns zu klein!",
+                  "Wir gehn durch Jesu Leiten",
+                  "Hin in die Ewigkeiten:",
+                  "Es soll nur Jesus sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        591,
+        594
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "48"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Erschein, Du Morgenstern",
+            "melodie": "125-127",
+            "strophen": [
+              {
+                "links": [
+                  "Erschein, Du Morgenstern,",
+                  "Leucht hell in mir, o Sonne;",
+                  "Mein Heiland, wahres Licht,",
+                  "Beständig in mir wohne;",
+                  "Erwärme Du mich ganz",
+                  "Mit Deiner Liebe Schein,",
+                  "Und bringe lauter Licht",
+                  "Ins neue Herz hinein."
+                ],
+                "rechts": [
+                  "Schaff Du mirs neu und rein",
+                  "Mit dem gewissen Geiste,",
+                  "Daß ich Dir reinen Dienst",
+                  "In Deiner Liebe leiste;",
+                  "Mach Deines Lichts mich voll,",
+                  "Verklär den Vater ganz,",
+                  "Daß Deine Liebesbrust",
+                  "Mich nähr in reinem Glanz."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 8, 11—21.",
+            "buch": "markus",
+            "kapitel": 8,
+            "verse": "11-21"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Erschein, Du Morgenstern",
+            "strophen": [
+              {
+                "links": [
+                  "Laß mich kein ander Bild",
+                  "In meine Seel einlassen,",
+                  "Als Dich, mein Licht und Teil,",
+                  "Zum Licht und Leben fassen.",
+                  "Sei Du mein einig Wort,",
+                  "Eröffne mein Gehör,",
+                  "Und ziehe mich Dir nach,",
+                  "So lauf ich immer sehr."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 19, 9—18.",
+            "buch": "1_koenige",
+            "kapitel": 19,
+            "verse": "9-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "34"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 2, 12—18.",
+            "buch": "philipper",
+            "kapitel": 2,
+            "verse": "12-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun ruhen alle Wälder",
+            "melodie": "132",
+            "strophen": [
+              {
+                "links": [
+                  "Nun ruhen alle Wälder",
+                  "Vieh Menschen Städt und Felder:",
+                  "Es schläft die ganze Welt;",
+                  "Ihr aber, meine Sinnen,",
+                  "Auf auf, ihr sollt beginnen",
+                  "Was eurem Schöpfer wohlgefällt."
+                ],
+                "rechts": [
+                  "Wo bist Du, Sonne, blieben?",
+                  "Die Nacht hat dich vertrieben,",
+                  "Die Nacht, des Tages Feind.",
+                  "Fahr hin! Ein andre Sonne:",
+                  "Mein Jesus, meine Wonne,",
+                  "Gar hell in meinem Herzen scheint."
+                ]
+              },
+              {
+                "links": [
+                  "Das Haupt, die Füß und Hände",
+                  "Sind froh, daß nun zum Ende",
+                  "Die Arbeit kommen sei;",
+                  "Herz, freu dich: du sollst werden",
+                  "Vom Elend dieser Erden",
+                  "Und von der Sündenarbeit frei."
+                ],
+                "rechts": [
+                  "Auch euch, ihr meine Lieben,",
+                  "Soll heinte nicht betrüben",
+                  "Ein Unfall noch Gefahr:",
+                  "Gott laß euch selig schlafen,",
+                  "Stell euch die güldnen Waffen",
+                  "Ums Bett und Seiner Engel Schar."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        594,
+        596
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "98"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, wahres Seelenlicht",
+            "melodie": "26",
+            "strophen": [
+              {
+                "links": [
+                  "Christe, wahres Seelenlicht,",
+                  "Deiner Christen Sonne,",
+                  "O Du klares Angesicht,",
+                  "Der Betrübten Wonne:",
+                  "Deiner Güte Lieblichkeit",
+                  "Ist neu alle Morgen;",
+                  "In Dir bin ich recht erfreut,",
+                  "Darf nicht übrig sorgen."
+                ],
+                "rechts": [
+                  "Kehre zu mir Deine Güt,",
+                  "Freundlich mich anblicke,",
+                  "Daß mein innerstes Gemüt",
+                  "Sich in Dir erquicke,",
+                  "Und die süße Himmelsluft",
+                  "Mit Begierde schmecke;",
+                  "Sonsten sei mir nichts bewußt,",
+                  "So da Freud erwecke."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 8, 22—26.",
+            "buch": "markus",
+            "kapitel": 8,
+            "verse": "22-26"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Bescher uns, HErr, das täglich Brot",
+            "melodie": "157",
+            "strophen": [
+              {
+                "links": [
+                  "Bescher uns, HErr, das täglich Brot;",
+                  "Vor Teurung und vor Hungersnot",
+                  "Behüt uns durch Dein lieben Sohn,",
+                  "Gott Vater in dem höchsten Thron."
+                ],
+                "rechts": [
+                  "Unser lieber Vater Du bist,",
+                  "Weil Christus unser Bruder ist;",
+                  "Drum trauen wir allein auf Dich,",
+                  "Und wolln Dich preisen ewiglich."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "23"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 16, 1—13.",
+            "buch": "1_samuel",
+            "kapitel": 16,
+            "verse": "1-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "133"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 3, 6—12.",
+            "buch": "jakobus",
+            "kapitel": 3,
+            "verse": "6-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr und Gott der Tag und Nächte",
+            "melodie": "120/121",
+            "strophen": [
+              {
+                "links": [
+                  "HErr und Gott der Tag und Nächte,",
+                  "Der Du schläfst noch schlummerst nicht,",
+                  "Schaue, wie Dein arm Gemächte",
+                  "Jetzt nach seiner Kindespflicht,",
+                  "Da der Abend ist geworden,",
+                  "Und der Tag sich hat geneigt,",
+                  "Samt der Deinen ganzem Orden",
+                  "Sich vor Deinem Throne beugt."
+                ],
+                "rechts": [
+                  "Vater, ich bin zu geringe",
+                  "Aller Treu und Gütigkeit,",
+                  "Die Du, Wesen aller Dinge,",
+                  "Mir in meiner Lebenszeit",
+                  "Und auch heute hast erwiesen;",
+                  "O daß ich recht dankbar wär!",
+                  "HErr, Dein Nam sei hoch gepriesen,",
+                  "Dein Herz ferner zu mir kehr."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        597,
+        599
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "143"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Das walt Gott Vater und Gott Sohn",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "Das walt Gott Vater und Gott Sohn,",
+                  "Gott Heilger Geist ins Himmels Thron:",
+                  "Man dankt Dir, eh die Sonn aufgeht;",
+                  "Wenns Licht anbricht, man vor Dir steht."
+                ],
+                "rechts": [
+                  "Ich rühm von Herzen Deine Güt,",
+                  "Weil Du mich gnädig hast behüt,",
+                  "Daß ich nun hab die finstre Nacht",
+                  "In Ruh und Frieden zugebracht."
+                ]
+              },
+              {
+                "links": [
+                  "Drum beug ich diesen Morgen früh",
+                  "In rechter Andacht meine Knie,",
+                  "Und ruf zu Dir mit heller Stimm;",
+                  "Dein Ohren neig, mein Red vernimm."
+                ],
+                "rechts": [
+                  "Mein Gott, ich bitt durch Christi Blut,",
+                  "Nimm mich auch diesen Tag in Hut;",
+                  "Laß heut Dein liebsten Engelein",
+                  "Mein Wächter und Gefährten sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 8, 27—33.",
+            "buch": "markus",
+            "kapitel": 8,
+            "verse": "27-33"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Das walt Gott Vater und Gott Sohn",
+            "strophen": [
+              {
+                "links": [
+                  "Gib, daß ich meine Werk und Pflicht",
+                  "Mit Freuden diesen Tag verricht",
+                  "Zu Deinem Lob und meinem Nutz,",
+                  "Und meinem Nächsten tue Guts."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 4, 10—16.",
+            "buch": "2_mose",
+            "kapitel": 4,
+            "verse": "10-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 19, 23—28.",
+            "buch": "apostelgeschichte",
+            "kapitel": 19,
+            "verse": "23-28"
+          },
+          {
+            "typ": "lied",
+            "titel": "Werde munter, mein Gemüte",
+            "melodie": "158",
+            "strophen": [
+              {
+                "links": [
+                  "Werde munter, mein Gemüte,",
+                  "Und, ihr Sinne, geht herfür,",
+                  "Daß ihr preiset Gottes Güte,",
+                  "Die Er hat getan an mir:",
+                  "Da Er mich den ganzen Tag",
+                  "Vor so mancher Sorg und Plag",
+                  "Hat erhalten und beschützet,",
+                  "Daß mich Satan nicht beschmitzet."
+                ],
+                "rechts": [
+                  "Dieser Tag ist nun vergangen;",
+                  "Die betrübte Nacht bricht an:",
+                  "Es ist hin der Sonnen Prangen,",
+                  "So uns All erfreuen kann.",
+                  "Stehe mir, o Vater, bei,",
+                  "Daß Dein Glanz stets vor mir sei",
+                  "Und mein kaltes Herz erhitze,",
+                  "Ob ich gleich im Finstern sitze."
+                ]
+              },
+              {
+                "links": [
+                  "O Du Licht der frommen Seelen,",
+                  "O Du Glanz der Ewigkeit,",
+                  "Dir will ich mich ganz befehlen,",
+                  "Diese Nacht und allezeit.",
+                  "Bleibe doch, mein Gott, bei mir,",
+                  "Da es nunmehr dunkel schier;",
+                  "Da ich mich so sehr betrübe,",
+                  "Tröste mich mit Deiner Liebe."
+                ],
+                "rechts": [
+                  "Laß mich diese Nacht empfinden",
+                  "Eine sanft und süße Ruh;",
+                  "Alles Uebel laß verschwinden,",
+                  "Decke mich mit Segen zu.",
+                  "Leib und Seele, Mut und Blut,",
+                  "Weib und Kinder, Hab und Gut,",
+                  "Freunde, Feind und Hausgenossen",
+                  "Sind in Deinen Schutz geschlossen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 12. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        600,
+        602
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "92"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O allerhöchster Menschenhüter",
+            "strophen": [
+              {
+                "links": [
+                  "O allerhöchster Menschenhüter,",
+                  "Du unbegreiflich großes Gut:",
+                  "Ich will Dir opfern Herz und Mut.",
+                  "Stimmt an mit mir, gedenkt der Güter,",
+                  "All ihr Gemüter!"
+                ],
+                "rechts": [
+                  "Israels Gott, da ist mein Wille,",
+                  "Der sich Dir willig untergibt,",
+                  "Dich über alles gerne liebt;",
+                  "Das ist mein Wunsch in früher Stille,",
+                  "O Gnadenfülle."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 9, 1—6.",
+            "buch": "markus",
+            "kapitel": 9,
+            "verse": "1-6"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O allerhöchster Menschenhüter",
+            "strophen": [
+              {
+                "links": [
+                  "Gesegne mich auf meinen Wegen,",
+                  "Mein Tun und Lassen lenke Du;",
+                  "In Unruh bleibe meine Ruh,",
+                  "Bis ich zuletzt mich werde legen",
+                  "In Fried und Segen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 7, 7—12.",
+            "buch": "prediger",
+            "kapitel": 7,
+            "verse": "7-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 14, 8—13.",
+            "buch": "apostelgeschichte",
+            "kapitel": 14,
+            "verse": "8-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Nacht ist vor der Tür",
+            "strophen": [
+              {
+                "links": [
+                  "Die Nacht ist vor der Thür,",
+                  "Und liegt schon auf der Erden;",
+                  "Mein Jesu, tritt herfür,",
+                  "Und laß es helle werden.",
+                  "Bei Dir, o Jesulein,",
+                  "Ist lauter Sonnenschein.",
+                  "Gib Deinen Gnadenschein",
+                  "In mein verfinstert Herze;",
+                  "Laß in mir brennend sein",
+                  "Die schöne Glaubenskerze;",
+                  "Vertreib die Sündennacht,",
+                  "Die mir viel Kummer macht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "id": "trinitatis_13",
+  "titel": "13. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "13. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        603,
+        607
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74",
+              "8"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Was wär ich ohne Dich gewesen?",
+            "melodie": "34",
+            "strophen": [
+              {
+                "links": [
+                  "Was wär ich ohne Dich gewesen?",
+                  "Was würd ich ohne Dich nicht sein?",
+                  "Zu Furcht und Aengsten auserlesen,",
+                  "Ständ ich in weiter Welt allein.",
+                  "Nichts wüßt ich sicher, was ich liebte,",
+                  "Die Zukunft wär ein dunkler Schlund;",
+                  "Und wenn mein Herz sich tief betrübte,",
+                  "Wem tät ich meine Sorge kund?"
+                ],
+                "rechts": [
+                  "Einsam verzehrt von Lieb und Sehnen,",
+                  "Erschien mir nächtlich jeder Tag;",
+                  "Ich folgte nur mit heißen Thränen",
+                  "Dem wilden Lauf des Lebens nach.",
+                  "Ich fände Unruh im Getümmel",
+                  "Und hoffnungslosen Gram zu Haus;",
+                  "Wer hielte ohne Freud im Himmel,",
+                  "Wer hielte da auf Erden aus?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 10, 23—37.",
+            "buch": "lukas",
+            "kapitel": 10,
+            "verse": "23-37"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Haben wir Gutes empfangen von Gott, und sollten das Böse nicht auch annehmen?"
+              },
+              {
+                "art": "text",
+                "inhalt": "Der HErr hats gegeben, der HErr hats genommen; der Name des HErrn sei gelobt! Ich bin nacket von meiner Mutter Leibe kommen; nacket werde ich wieder dahinfahren. Der HErr . . gelobt!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wer wie ein Jünger hört, der hört aus Jesu Munde nur Erbarmung, nur Gnade für reumütige Sünder, nur holdselige Worte, voll Liebe Gottes zum verlorenen, menschlichen Geschlechte. Wer Seine Worte wie ein Jünger hört, der wird durchs Wort von Gottes Geist in seinem Geist versiegelt, daß er Gottes Kind sei — umsonst, durch Vergebung, aus lauter Gnade. — Wer wie ein Jünger sieht, der sieht in Jesu nur die Ursache seiner Seligkeit, sein Opferlamm, das angenommen, seinen Priester, Der unaufhörlich und erhörlich für ihn betet, seinen König, Der mit mitleidiger Allwissenheit alle Dinge zu Seinem Besten lenkt, — der sieht in Ihm einen Fels des Heils, einen Brunnen des Lebens, aus dem er Gnade um Gnade schöpft. Einem solchen wirds der Feinde wegen nicht mehr bang: er ist in Christo versöhnt! Ein solcher geht still und hoffend auf der schmalen Bahn dem ewigen Heile zu.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Was muß ich tun, daß ich das ewige Leben ererbe?",
+              "Du sollst Gott Deinen HErrn lieben von ganzem Herzen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott und Vater, regiere unsre Herzen durch Deinen Geist, daß wir auch Barmherzigkeit an den Notleidenden üben, uns von unserm Nächsten nicht entziehen, und also die Liebe gegen Dich und ihn von ganzem Herzen Seele Kräften und Gemüt erweisen, damit wir Dich samt Deinem Sohn und Heiligem Geist mit seligen Augen: hie im Glauben, dort im Schauen ansehen, gerecht und selig werden mögen; um Deines heiligen Namens Ehre willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Was wär ich ohne Dich gewesen?",
+            "strophen": [
+              {
+                "links": [
+                  "Da kam ein Heiland, ein Befreier,",
+                  "Ein Menschensohn voll Lieb und Macht,",
+                  "Und hat ein allbelebend Feuer",
+                  "In unserm Innern angefacht.",
+                  "Nun sahn wir erst den Himmel offen,",
+                  "Als unser altes Vaterland:",
+                  "Wir konnten glauben nun und hoffen,",
+                  "Und fühlten uns mit Gott verwandt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sacharja 7, 4—10.",
+            "buch": "sacharja",
+            "kapitel": 7,
+            "verse": "4-10"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Glaube ist ein göttliches Werk in uns, das uns wandelt und neu gebiert aus Gott, Joh. 1, 13, und tötet den alten Adam, macht uns ganz andere Menschen von Herzen Mut Sinn und allen Kräften und bringt den heiligen Geist mit sich. O, es ist ein lebendig geschäftig tätig mächtiges Ding um den Glauben, daß unmöglich ist, daß er nicht ohne Unterlaß sollte Gutes wirken. Er fragt auch nicht, ob gute Werke zu tun sind, sondern ehe man fragt, hat er sie getan und ist immer im Tun. — Glaube ist eine lebendige erwegene Zuversicht auf Gottes Gnade, so gewiß, daß er tausendmal darüber stürbe. Und solche Zuversicht und Erkenntnis göttlicher Gnade macht fröhlich trotzig und lustig gegen Gott und alle Kreaturen; welches der Heilige Geist tut im Glauben.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, gib, daß der Glaube, die Liebe und Hoffnung in uns gemehret werde, auf daß wir was Du uns verheißest erlangen mögen; so hilf uns, daß wir Deine Gebote von Herzen lieben; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 3, 21—28.",
+            "buch": "roemers",
+            "kapitel": 3,
+            "verse": "21-28"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Hier ist der erste und Hauptartikel: Daß Jesus Christus, unser Gott und HErr, sei um unserer Sünde willen gestorben und um unserer Gerechtigkeit willen auferstanden, Röm. 4; und Er Allein das Lamm Gottes ist, das der Welt Sünde trägt, Joh. 1; und Gott unser Aller Sünden auf Ihn gelegt hat, Jes. 53. Sie sind allzumal Sünder und werden ohne Verdienst gerecht aus Seiner Gnade, durch die Erlösung Jesu Christi in Seinem Blut, Römer 3. — Dieweil nun solches muß geglaubt werden, und sonst mit keinem Werk Gesetze noch Verdienst mag erlangt oder gefaßt werden, so ist es klar und gewiß, daß allein solcher Glaube uns gerecht mache, wie Röm. 3 S. Paulus spricht: Wir halten, daß der Mensch gerecht werde ohne Werk des Gesetzes, durch den Glauben. Auf daß Er allein gerecht sei und gerecht mache Den, der da ist des Glaubens an Jesu. — Von diesem Artikel kann man nichts weichen oder nachgeben, es falle Himmel oder Erde, oder was nicht bleiben will. Denn es ist kein andrer Name den Menschen gegeben, dadurch wir können selig werden, spricht S. Petrus, Apostelgesch. 4; und durch Seine Wunden sind wir geheilt, Jes. 53.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Da sprach Jesus zu ihm:",
+              "So gehe hin, und tu desgleichen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir danken Dir, HErr Gott himmlischer Vater, von Grund unsres Herzens, daß Du uns Dein heiliges Evangelium gegeben und Dein väterliches Herz hast erkennen lassen; wir bitten Deine grundlose Barmherzigkeit: Du wollest solch selig Licht Deines Wortes uns gnädiglich erhalten, und durch Deinen heiligen Geist unsre Herzen so leiten und führen, daß wir nimmermehr davon abweichen, sondern fest daran halten und endlich dadurch selig werden; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        608,
+        611
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "17"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Herze, wie wankest",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Herze, wie wankest und flatterst Du noch!",
+                  "Was hilft Dir das Ringen",
+                  "Nach irdischen Dingen,",
+                  "Und immer zu ziehen das sündliche Joch?",
+                  "Das nötigste Teil",
+                  "Ist Jesus, Dein Heil.",
+                  "Drum richte den Sinn",
+                  "Zum Himmlischen hin."
+                ],
+                "rechts": [
+                  "Mein holdester Jesu, Du süßeste Lust",
+                  "Rechtschaffener Seelen,",
+                  "Die Dich nur erwählen,",
+                  "Wie wenig ist mir noch Dein Wesen bewußt.",
+                  "Laß sterben in mir",
+                  "Des Fleisches Begier;",
+                  "Nach Dir nur allein",
+                  "Laß hungrig mich sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 12, 41—44.",
+            "buch": "markus",
+            "kapitel": 12,
+            "verse": "41-44"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, Du hast uns alles gegeben was wir haben. Gib, daß wir es mit Dank aus Deiner Hand hinnehmen und es in Deinem Geist verwalten. Dein ist beides: Silber und Gold. Mache doch allen Mammonsgeist zunichte und gib den Reichen dieser Welt ins Herz, daß sie ihren Brüdern und der Kirche mit ihrem Hab und Gut freudig dienen. Die Geizigen aber erinnere an den Tag der Vergeltung, daß sie umkehren und Buße tun. Dein Sohn, unser Heiland, hat Sein Leben für uns in den Tod gegeben. Laß nun auch uns in heißer Dankbarkeit Ihm unser Gut und Blut opfern, wo es nötig ist. Erwecke Deiner Kirche und ihren Werken der Liebe wie der Mission heilige Teilnehmer. Vergilt allen Gebern ihre Barmherzigkeit mit Deiner Gnade. Wir befehlen Dir all unser Tun; heilige Du es durch die Kraft aus der Höhe.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mein Herze, wie wankest",
+            "strophen": [
+              {
+                "links": [
+                  "Ums Irdische will ich mich nicht mehr bemühn;",
+                  "Ich will nur erwählen",
+                  "Den Bräutgam der Seelen,",
+                  "Und alles das Andre ohn Unterlaß fliehn.",
+                  "Er füllet die Brust",
+                  "Mit himmlischer Lust;",
+                  "Und was man begehrt,",
+                  "Wird in Ihm gewährt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 38, 1—11.",
+            "buch": "job",
+            "kapitel": 38,
+            "verse": "1-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 2, 1—10.",
+            "buch": "1_petrus",
+            "kapitel": 2,
+            "verse": "1-10"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "So wenig als wir sollen leugnen, daß wir getauft und Christen sind, so wenig sollen wir leugnen oder in Zweifel stellen, daß wir heilig sind . . . Paulus hat frei alle Christen als mit ihrem Namen „Heilige“ genannt. Und hat also gewährt im Anfang der Christenheit lange Zeit, daß sie sich untereinander heilig haben genannt, und sollte noch also sein. Denn es ist nicht eine Hoffart, daß sich die Christen nach Christo heilig heißen, sondern Gotte eine Ehre und Preis. Denn damit rühmen wir nicht unsere eigene stinkende Werkheiligkeit, sondern Seine Taufe Wort Gnade und Geist, welche wir nicht aus uns selbst haben, sondern von Ihm uns gegeben sind . . . Sollen wir aber den Glauben recht bekennen: Eine heilige Kirche usw., so müssen wir nicht zweifeln, daß wir heilig seien; wie du nicht zweifeln mußt, daß du getauft seiest und Christi Blut für dich vergessen sei. Glaubst du das, so mußt du auch dich für heilig bekennen.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Herze, wie wankest",
+            "strophen": [
+              {
+                "links": [
+                  "Er ist auch der beste und treueste Freund:",
+                  "Es wallet von Liebe",
+                  "Und innigstem Triebe",
+                  "Sein Herze, das allzeit es brüderlich meint.",
+                  "Er schenket zugleich",
+                  "Sein ewiges Reich,",
+                  "In welchem es nicht",
+                  "An Freude gebricht."
+                ],
+                "rechts": [
+                  "So ziehe, mein Jesu, mich gänzlich in Dich:",
+                  "Laß in mir zerrinnen",
+                  "Die Herrschaft der Sinnen,",
+                  "Und leite die Ströme der Liebe in mich.",
+                  "Dein himmlischer Glanz",
+                  "Durchleuchte mich ganz,",
+                  "Hinfüro allein",
+                  "Dein eigen zu sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, wir wollen in Deiner Gemeinschaft leben und täglich erbaut werden. Laß uns zu lebendigen Bausteinen werden, die, mit Jesu Christo verbunden, Deine Kirche tragen helfen. Mache Du uns zu Gliedern an dem heiligen Leibe Deines Sohnes. Gib uns den großen göttlichen Sinn, daß wir uns Dir ganz zum Opfer ergeben und im priesterlichen Schmuck vor Dir anbeten und für Dich streiten. Mach auch unsre evangelische Christenheit immer mehr zu Deinem Volk und zu einer Schar Deiner unaussprechlichen Gnade.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        612,
+        614
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "43"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer überwindet",
+            "strophen": [
+              {
+                "links": [
+                  "Wer überwindet, soll vom Holz genießen,",
+                  "Das in dem Paradiese Gottes grünt;",
+                  "Er soll von keinem Tod noch Elend wissen,",
+                  "Wenn er Mir, als dem HErrn des Lebens, dient;",
+                  "Ich will ihn laben",
+                  "Mit Himmelsgaben,",
+                  "Und er soll haben",
+                  "Was ewig tröst."
+                ],
+                "rechts": [
+                  "Wer überwindet, dem soll nichts geschehen",
+                  "Vom andern Tode, der die Seele quält;",
+                  "Er soll Mein Angesicht vorm Throne sehen,",
+                  "Wo das erwählte Heer Mein Lob erzählt.",
+                  "Nach tapferm Ringen",
+                  "Soll er Mir singen,",
+                  "Und Opfer bringen",
+                  "In Heiligkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 15, 1—9.",
+            "buch": "lukas",
+            "kapitel": 15,
+            "verse": "1-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wer überwindet",
+            "strophen": [
+              {
+                "links": [
+                  "Wer überwindet, soll ganz weiß gekleidet",
+                  "Im Buch des Lebens eingeschrieben sein,",
+                  "Wo seinen Namen nichts vertilgt noch scheidet,",
+                  "Den Ich bekennen will, daß er ist Mein.",
+                  "Vors Vaters Throne,",
+                  "Bei Dem Ich wohne,",
+                  "Wird ihm die Krone",
+                  "Des Heils geschenkt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 43, 26—30.",
+            "buch": "1_mose",
+            "kapitel": 43,
+            "verse": "26-30"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "12"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 5, 22—33.",
+            "buch": "epheser",
+            "kapitel": 5,
+            "verse": "22-33"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer überwindet",
+            "strophen": [
+              {
+                "links": [
+                  "Wer überwindet, soll ein Pfeiler bleiben",
+                  "Im Tempel Meines Gottes früh und spat;",
+                  "Ich will auf ihn den Namen Gottes schreiben,",
+                  "Jerusalems, das Gott erwählet hat.",
+                  "Mein Namenszeichen",
+                  "Soll er erreichen,",
+                  "Und nimmer weichen,",
+                  "Noch von Mir gehn."
+                ],
+                "rechts": [
+                  "Wer überwindet, soll im Himmel sitzen",
+                  "Auf Meinem Stuhl, gleichwie Ich überwand;",
+                  "Ich mußt auch in der Welt am Kreuze schwitzen,",
+                  "Nun sitz ich zu des Vaters rechter Hand.",
+                  "Hier soll sich laben",
+                  "An Himmelsgaben,",
+                  "Und Ruhe haben,",
+                  "Wer recht gekämpft."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        615,
+        617
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "49"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott Vater, Der Du Deine Sonn",
+            "melodie": "157",
+            "strophen": [
+              {
+                "links": [
+                  "Gott Vater, Der Du Deine Sonn",
+                  "Läßt scheinen über Bös' und Fromm,",
+                  "Und der ganzen Welt damit leuchtst,",
+                  "Mit Regn und Tau die Erd befeuchtst;"
+                ],
+                "rechts": [
+                  "So bittn wir nun, Dein Gnad und Güt",
+                  "Im Wort und Fried uns stets behüt;",
+                  "Die Frücht der Erde uns bewahr,",
+                  "Und gib uns heur ein reiches Jahr."
+                ]
+              },
+              {
+                "links": [
+                  "Du gibst auch reichlich Brot und Wein,",
+                  "Daß Menschenherz könn fröhlich sein;",
+                  "Du deckst auch unsre Sünde zu,",
+                  "Dein Wort bringt uns Trost Fried und Ruh:"
+                ],
+                "rechts": [
+                  "Ein fruchtbar Wetter uns bescher,",
+                  "Dem Hagl und Ungewitter wehr;",
+                  "Schnee Regen Wind und Sonnenschein",
+                  "Allzeit Deinm Wort gehorsam sei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 1—4.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "1-4"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott Vater, Der Du Deine Sonn",
+            "strophen": [
+              {
+                "links": [
+                  "Die liebe Sonn uns scheinen laß,",
+                  "Heiß wachsen Erz Brot Kraut und Gras,",
+                  "Daß Leut und Vieh ihr Nahrung hab,",
+                  "Und Dich kennen aus Deiner Gab."
+                ],
+                "rechts": [
+                  "Den HErrn von Zion Dich man nennt,",
+                  "In aller Welt Dein Güt man kennt;",
+                  "Hörst unsre Bitt und hilfst allein:",
+                  "Gib Gnad, daß wir Dir dankbar sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 22, 15—17.",
+            "buch": "jeremia",
+            "kapitel": 22,
+            "verse": "15-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "61"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 6, 12—18.",
+            "buch": "roemers",
+            "kapitel": 6,
+            "verse": "12-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun ruhen alle Wälder",
+            "melodie": "132",
+            "strophen": [
+              {
+                "links": [
+                  "Nun ruhen alle Wälder",
+                  "Vieh Menschen Städt und Felder:",
+                  "Es schläft die ganze Welt;",
+                  "Ihr aber, meine Sinnen,",
+                  "Auf auf, ihr sollt beginnen",
+                  "Was eurem Schöpfer wohlgefällt."
+                ],
+                "rechts": [
+                  "Das Haupt, die Füß und Hände",
+                  "Sind froh, daß nun zum Ende",
+                  "Die Arbeit kommen sei;",
+                  "Herz, freu dich: du sollst werden",
+                  "Vom Elend dieser Erden",
+                  "Und von der Sündenarbeit frei."
+                ]
+              },
+              {
+                "links": [
+                  "Wo bist Du, Sonne, blieben?",
+                  "Die Nacht hat dich vertrieben,",
+                  "Die Nacht, des Tages Feind.",
+                  "Fahr hin! Ein andre Sonne:",
+                  "Mein Jesus, meine Wonne,",
+                  "Gar hell in meinem Herzen scheint."
+                ],
+                "rechts": [
+                  "Auch euch, ihr meine Lieben,",
+                  "Soll heinte nicht betrüben",
+                  "Ein Unfall noch Gefahr:",
+                  "Gott laß euch selig schlafen,",
+                  "Stell euch die güldnen Waffen",
+                  "Ums Bett und Seiner Engel Schar."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        617,
+        619
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "90"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wenn ich Ihn nur habe",
+            "melodie": "200",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn ich Ihn nur habe,",
+                  "Wenn Er mein nur ist,",
+                  "Wenn mein Herz bis hin zum Grabe",
+                  "Seine Treue nie vergißt:",
+                  "Weiß ich nichts von Leide,",
+                  "Fühle nichts, als Andacht Lieb und Freude."
+                ],
+                "rechts": [
+                  "Wenn ich Ihn nur habe,",
+                  "Laß ich alles gern,",
+                  "Folg an meinem Wanderstabe",
+                  "Treugesinnt nur meinem HErrn;",
+                  "Lasse still die Andern",
+                  "Breite lichte volle Straßen wandern."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 5—8.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "5-8"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wenn ich Ihn nur habe",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn ich Ihn nur habe,",
+                  "Hab ich auch die Welt;",
+                  "Selig wie ein Himmelsknabe,",
+                  "Der der Jungfrau Schleier hält.",
+                  "Hingesenkt im Schauen,",
+                  "Kann mir vor dem Irdischen nicht grauen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 34, 14—20.",
+            "buch": "",
+            "kapitel": 34,
+            "verse": "14-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 6, 4—12.",
+            "buch": "hebraeer",
+            "kapitel": 6,
+            "verse": "4-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wenn ich Ihn nur habe",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn ich Ihn nur habe,",
+                  "Schlaf ich fröhlich ein;",
+                  "Ewig wird zu süßer Labe",
+                  "Seines Herzens Flut mir sein,",
+                  "Die mit sanftem Zwingen",
+                  "Alles wird erweichen und durchdringen."
+                ],
+                "rechts": [
+                  "Wo ich Ihn nur habe,",
+                  "Ist mein Vaterland;",
+                  "Und es fällt mir jede Gabe",
+                  "Wie ein Erbteil in die Hand:",
+                  "Längst vermißte Brüder",
+                  "Find ich nun in Seinen Jüngern wieder."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        619,
+        622
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wies Gott gefällt",
+            "melodie": "155",
+            "strophen": [
+              {
+                "links": [
+                  "Wies Gott gefällt, so gfällt mirs auch,",
+                  "Und laß mich gar nicht irren.",
+                  "Ob mich zu Zeiten beißt der Rauch,",
+                  "Und wenn sich schon verwirren",
+                  "All Sachen gar,",
+                  "Weiß ich fürwahr:",
+                  "Gott wirds zuletzt wohl richten;",
+                  "Wie Ers will han,",
+                  "So muß bestahn —",
+                  "Solls sein, so seis ohn Tichten."
+                ],
+                "rechts": [
+                  "Wies Gott gefällt, so gfällt mirs wohl",
+                  "In allen meinen Sachen;",
+                  "Was Gott versehen hat einmal,",
+                  "Wer kann das anders machen?",
+                  "Drum alls umsonst:",
+                  "Geld Witz und Kunst,",
+                  "Hilft auch nicht Haarausraufen.",
+                  "Murr oder beiß,",
+                  "Solls sein, so seis;",
+                  "Wird doch sein Weg nauslaufen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 9—13.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "9-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wies Gott gefällt",
+            "strophen": [
+              {
+                "links": [
+                  "Wies Gott gefällt, so wolls ergahn",
+                  "In Lieb und auch in Leide;",
+                  "Dahin mein Sach will gstellet han,",
+                  "Daß sie mir sollen beide",
+                  "Gefallen wohl;",
+                  "Darum mich soll",
+                  "Ja oder Nein nicht schrecken.",
+                  "Schwarz oder weiß,",
+                  "Solls sein, so seis;",
+                  "Dann wird Gott Gnad erwecken."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 41, 14—16.",
+            "buch": "",
+            "kapitel": 41,
+            "verse": "14-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 15, 22—31.",
+            "buch": "apostelgeschichte",
+            "kapitel": 15,
+            "verse": "22-31"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wies Gott gefällt",
+            "strophen": [
+              {
+                "links": [
+                  "Wies Gott gefällt, so laufs hinaus,",
+                  "Ich laß die Vöglein sorgen;",
+                  "Kommt mir das Glück nicht heut zu Haus,",
+                  "Wart ich desselben morgen.",
+                  "Was mir beschert,",
+                  "Bleibt unverwehrt,",
+                  "Ob sichs schon tut verziehen;",
+                  "Mich nicht drum reiß:",
+                  "Solls sein, so seis,",
+                  "Gfällts Gott, mein Teil werd kriegen."
+                ],
+                "rechts": [
+                  "Wies Gott gefällt, dasselb ich will",
+                  "Und weiter nichts begehren;",
+                  "Meinr Sach hat Er gestellt ein Ziel,",
+                  "Die bleiben muß und währen",
+                  "Das Leben mein;",
+                  "Drum geb ich drein,",
+                  "Auf guten Grund will bauen,",
+                  "Und nicht auf Eis;",
+                  "Solls sein, so seis:",
+                  "Wills Gott allein vertrauen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 13. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        622,
+        624
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Meines Lebens beste Freude",
+            "melodie": "90",
+            "strophen": [
+              {
+                "links": [
+                  "Meines Lebens beste Freude",
+                  "Ist der Himmel, Gottes Thron;",
+                  "Meiner Seelen beste Weide",
+                  "Ist mein Jesus, Gottes Sohn;",
+                  "Was mein Herze recht erfreut,",
+                  "Ist in jener Herrlichkeit."
+                ],
+                "rechts": [
+                  "Glänzet gleich das Weltgepränge,",
+                  "Ist es lieblich anzusehn,",
+                  "Währt es doch nicht in die Länge,",
+                  "Und ist bald damit geschehn:",
+                  "Plötzlich pfleget aus zu sein",
+                  "Dieses Lebens Glanz und Schein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 42—44.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "42-44"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Meines Lebens beste Freude",
+            "strophen": [
+              {
+                "links": [
+                  "Einen Tag bei Jesu sitzen",
+                  "Ist viel besser, als die Welt",
+                  "Tausend Jahr in Freuden nützen;",
+                  "Aber ewig sein gestellt",
+                  "Zu des HErren rechter Hand,",
+                  "Bleibt ein auserwählter Stand."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 3, 27—35.",
+            "buch": "sprueche",
+            "kapitel": 3,
+            "verse": "27-35"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 8, 11—15.",
+            "buch": "2_korinther",
+            "kapitel": 8,
+            "verse": "11-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, heut endet sich die Wochen",
+            "melodie": "162",
+            "strophen": [
+              {
+                "links": [
+                  "Gott, heut endet sich die Wochen,",
+                  "Und es ist ihr letzter Tag",
+                  "Diesen Morgen angebrochen;",
+                  "Vor Dir ich mich selbst verklag:",
+                  "In mir mein Gewissen mich,",
+                  "Höchster Richter, stellt vor Dich;",
+                  "Neue Schulden samt den alten",
+                  "Mit mir wollen Rechnung halten."
+                ],
+                "rechts": [
+                  "Schreibe mich zu Deinen Lieben",
+                  "Diesen Tag mit Deinem Blut;",
+                  "Diesen letzten von den sieben",
+                  "Laß die sechse machen gut.",
+                  "Mein Gewissen heut befried;",
+                  "Ich mag alte Schulden nit",
+                  "In die neue Woche bringen,",
+                  "Jesu, ach erhör mein Singen!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

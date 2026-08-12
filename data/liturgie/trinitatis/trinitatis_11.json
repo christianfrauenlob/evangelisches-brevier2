@@ -1,0 +1,977 @@
+{
+  "id": "trinitatis_11",
+  "titel": "11. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "11. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        559,
+        562
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68",
+              "2"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu Christ, Du höchstes Gut",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu Christ, Du höchstes Gut,",
+                  "Du Brunnquell aller Gnaden:",
+                  "Sieh doch, wie ich in meinem Mut",
+                  "Mit Schmerzen bin beladen,",
+                  "Und in mir hab der Pfeile viel,",
+                  "Die im Gewissen ohne Ziel",
+                  "Mich armen Sünder drücken."
+                ],
+                "rechts": [
+                  "Erbarm Dich mein in solcher Last,",
+                  "Nimm sie aus meinem Herzen,",
+                  "Dieweil Du sie gebüßet hast",
+                  "Am Holz mit Todesschmerzen;",
+                  "Auf daß ich nicht vor großem Weh",
+                  "In meinen Sünden untergeh,",
+                  "Noch ewiglich verzage."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 18, 9—14.",
+            "buch": "lukas",
+            "kapitel": 18,
+            "verse": "9-14"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Es muß ein Zöllner gelebt haben, der so betete, — denn das tiefste Leben der Buße liegt in seiner Beichte. Sie gefiel auch Dem, Der unser Beichten hört, dermaßen, daß Er sie durch Sein Gleichnis unsterblich machte und, wenn man so sagen darf, zu einer Art von Generalbeichte erhob. Ach, mit diesen Worten, lieber Vater, mit dem Bewußtsein, dem Geiste dieser Worte laß uns beichten! — Wenn Du mich demütigest, machst Du mich groß. Demütige mich durch Dein Wort: das ist die beste Demut! Nimm mich mir, das ist: nimm mich von meiner Höhe! Gib mich Dir, Deiner Gnade, das ist: erhöhe mich zu Deinem Herzen! Mache mich zum Zöllner, daß ich meinen Brüdern verkündige Dein Erbarmen! Mach mich dazu und laß mich davon reden, daß Andere mit mir werden — reumütige Zöllner! Amen.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Zöllner schlug an seine Brust und sprach:",
+              "Gott, sei mir Sünder gnädig!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gerechter Gott, barmherziger Vater, vor Welchem nichts in aller Welt bestehen kann denn allein Deines lieben Sohnes Blut und Tod, dadurch Du allen Menschen eine ewige Gerechtigkeit zugerichtet hast, und hassest Alle, die auf ihre eigenen Werke vertrauen: wir danken Deiner großen Gnade und bitten von ganzem Herzen, Du wollest uns vor Unglauben Hoffart und Vermessenheit, auch vor Verzweiflung und andern Lastern gnädiglich behüten, damit wir unser Gebet vor Dir nicht zum Greuel machen, sondern uns Deines Sohnes Verdienstes allein trösten und Ihm zu Ehren christlich leben; durch diesen Deinen Sohn Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu Christ, Du höchstes Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Und weil ich denn in meinem Sinn,",
+                  "Wie ich zuvor geklaget,",
+                  "Auch ein betrübter Sünder bin,",
+                  "Den sein Gewissen naget,",
+                  "Und gerne möcht im Blute Dein",
+                  "Von Sünden losgesprochen sein,",
+                  "Wie David und Manasse:"
+                ],
+                "rechts": [
+                  "Also komm ich nun auch allhie,",
+                  "In meiner Angst geschritten,",
+                  "Und tu Dich mit gebeugtem Knie",
+                  "Von ganzem Herzen bitten:",
+                  "Verzeih mir doch genädiglich,",
+                  "Was ich mein Tage wider Dich",
+                  "Auf Erden hab begangen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 129-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 9, 15—18.",
+            "buch": "daniel",
+            "kapitel": 9,
+            "verse": "15-18"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, Der Du aus großer Güte und Gnade die Begierde Deiner Gläubigen übertriffst: Laß Deine Barmherzigkeit uns reichlich widerfahren, auf daß Du uns erlässest was unser Gewissen fürchtet, und uns gebest was wir nicht bitten dürfen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 15, 1—10.",
+            "buch": "1_korinther",
+            "kapitel": 15,
+            "verse": "1-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu Christ, Du höchstes Gut",
+            "strophen": [
+              {
+                "links": [
+                  "O HErr mein Gott, vergib mirs doch",
+                  "Um Deines Namens willen,",
+                  "Und tu in mir das schwere Joch",
+                  "Der Uebertretung stillen,",
+                  "Daß sich mein Herz zufrieden geb,",
+                  "Und Dir hinfort zu Ehren leb",
+                  "Mit kindlichem Gehorsam."
+                ],
+                "rechts": [
+                  "Stärk mich mit Deinem Freudengeist,",
+                  "Heil mich mit Deinen Wunden;",
+                  "Wasch mich mit Deinem Todesschweiß",
+                  "In meiner letzten Stunden,",
+                  "Und nimm mich einst, wann Dirs gefällt,",
+                  "Im rechten Glauben von der Welt",
+                  "Zu Deinen Auserwählten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer sich selbst erhöhet, der wird erniedriget werden;",
+              "Und wer sich selbst erniedriget, der wird erhöhet werden."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        563,
+        565
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "14"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, ich muß Dirs klagen",
+            "melodie": "69",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Gott, ich muß Dirs klagen,",
+                  "Daß ich so elend bin;",
+                  "Mein Herz will mir verzagen,",
+                  "Mein Sünd liegt mir im Sinn:",
+                  "Ich kann ihr'r nicht vergessen,",
+                  "Sie ist zu groß und schwer;",
+                  "Sie hat mich gar besessen,",
+                  "Bracht in Not und Gefähr."
+                ],
+                "rechts": [
+                  "Ich wollt auch herzlich gerne",
+                  "Bessern das Leben mein,",
+                  "Mit Werk Wort und Geberden",
+                  "Fromm und gottsfürchtig sein;",
+                  "Ich kanns so nicht vollbringen,",
+                  "Wie ichs oft hab bedacht;",
+                  "Ich laß mich davon dringen",
+                  "Des Satans List und Macht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 7, 36—50.",
+            "buch": "lukas",
+            "kapitel": 7,
+            "verse": "36-50"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, ich muß Dirs klagen",
+            "strophen": [
+              {
+                "links": [
+                  "So wahr, als Ich Selbst lebe,",
+                  "Sprichst Du, ewiger Gott:",
+                  "Ungern Ich übergebe",
+                  "Den Sünder in den Tod;",
+                  "Ich will, daß er umkehre",
+                  "Und ewig leb bei Mir.",
+                  "Darum komm ich, mein HErre,",
+                  "Ich komm wieder zu Dir."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 6, 11—18.",
+            "buch": "1_mose",
+            "kapitel": 6,
+            "verse": "11-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "7"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 8, 33—39.",
+            "buch": "roemers",
+            "kapitel": 8,
+            "verse": "33-39"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, ich muß Dirs klagen",
+            "strophen": [
+              {
+                "links": [
+                  "Mit Deinem heilgen Geiste",
+                  "Mein schwachen Glauben mehr,",
+                  "Mir Hilf und Beistand leiste,",
+                  "Sei mein gnädiger HErr.",
+                  "Leit mich auf Deine Stege;",
+                  "Vor aller Sünd und Schand,",
+                  "Vor Teufels Strick und Wege",
+                  "Bewahr durch Deine Hand."
+                ],
+                "rechts": [
+                  "Segne mein Leib und Leben,",
+                  "Auch mein Beruf und Werk;",
+                  "Was Du mir hast gegeben,",
+                  "Behüt durch Deine Stärk.",
+                  "Erhör mein Seufzn und Schreien,",
+                  "Und mein furchtsames Wort,",
+                  "Daß ich mich Dein kann freuen,",
+                  "Verachtn des Teufels Mord."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, wir danken Dir von Herzen, daß wir Dein seliges Evangelium haben. O laß uns Deine Gnade in starkem Glauben ergreifen. Nimm alle Zweifel aus unsrer Seele. Laß uns fest stehen gegen die Versuchung und Verhöhnung der Welt, gegen die Anfechtungen und Irrlehren falscher Geister. Gib Deiner Gemeinde auf Erden den heiligen Geist, den Geist der Wahrheit und der Kraft, der Heiligung und der Zucht, daß sie wieder ein Fels der Wahrheit und eine Burg des Glaubens werde. Sende uns Männer des Glaubens, die, aus Deiner Gnade geboren, alle Kräfte des Leibes und der Seele an Deinen Dienst setzen, daß die Wahrheit siege und Viele von ihrem Irrtum bekehrt werden. Deine Gnade sei mit uns für und für.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        566,
+        569
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "39"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wohl dem Menschen, der nicht wandelt",
+            "melodie": "158",
+            "strophen": [
+              {
+                "links": [
+                  "Wohl dem Menschen, der nicht wandelt",
+                  "In gottloser Leute Rat;",
+                  "Wohl Dem, der nicht unrecht handelt,",
+                  "Noch tritt auf der Sünder Pfad;",
+                  "Der der Spötter Freundschaft fleucht,",
+                  "Und von ihren Sesseln weicht;",
+                  "Der hingegen herzlich ehret",
+                  "Was uns Gott vom Himmel lehret."
+                ],
+                "rechts": [
+                  "Wohl Dem, der mit Lust und Freude",
+                  "Das Gesetz des Höchsten treibt,",
+                  "Und hier, als auf süßer Weide,",
+                  "Tag und Nacht beständig bleibt:",
+                  "Dessen Segen wächst und blüht",
+                  "Wie ein Palmbaum, den man sieht",
+                  "Bei den Flüssen an den Seiten",
+                  "Seine frischen Zweig ausbreiten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 18, 15—20.",
+            "buch": "matthaeus",
+            "kapitel": 18,
+            "verse": "15-20"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ich will mir die heimliche Beichte von Niemand nehmen lassen und wollte sie nicht um der ganzen Welt Schatz geben, denn ich weiß, was Stärke und Trost sie mir gegeben hat. Es weiß Niemand, was die heimliche Beichte vermag, denn der mit dem Teufel oft fechten und kämpfen muß. Ich wäre längst von dem Teufel überwunden und erwürgt worden, wenn mich diese Beichte nicht erhalten hätte. Denn es sind viele zweifelhafte und irrige Sachen, darin sich der Mensch allein nicht wohl schicken kann noch sie begreifen. Wenn er nun in einem solchen Zweifel steht und weiß nicht wo hinaus, so nimmt er seinen Bruder auf einen Ort und hält ihm vor seine anliegende Not, klagt ihm seine Gebrechen, seinen Unglauben und seine Sünde und bittet ihn um Trost und Rat. — Wir müssen auch viel Absolution haben, damit wir unser blödes Gewissen und verzagtes Herz gegen den Teufel und vor Gott stärken und trösten können; darum soll man die heimliche Beichte nicht verbieten noch Jemand davon halten.",
+            "quelle": "Martin Luther"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Gott, du unser Vater bist",
+            "strophen": [
+              {
+                "links": [
+                  "O Gott, Du unser Vater bist",
+                  "Durch Jesum Christ.",
+                  "Gib Deinen Geist uns Alln gemein,",
+                  "Der uns zur Wahrheit leite.",
+                  "Erhör uns doch zu dieser Stund,",
+                  "Oeffne den Mund",
+                  "Deins Dieners, daß er Dein",
+                  "Wort rein",
+                  "Und freimütig ausbreite.",
+                  "Dazu, o HErr, gnädiglich",
+                  "Oeffne uns Herzn und Ohren,",
+                  "Daß wir das hören fleißiglich,",
+                  "Und treulich bewahren,",
+                  "Auf daß wir mögen fruchtbarlich",
+                  "Dein Lob allzeit verklären."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 13, 10—16.",
+            "buch": "hesekiel",
+            "kapitel": 13,
+            "verse": "10-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Judae 17—25.",
+            "buch": "judas",
+            "kapitel": 1,
+            "verse": "17-25"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Tag ist hin",
+            "melodie": "131",
+            "strophen": [
+              {
+                "links": [
+                  "Der Tag ist hin,",
+                  "Mein Geist und Sinn",
+                  "Sehnt sich nach jenem Tage,",
+                  "Der uns völlig machen wird",
+                  "Frei von aller Plage.",
+                  "Die Nacht ist da;",
+                  "Sei Du mir nah,",
+                  "Jesu, mit hellen Kerzen:",
+                  "Treib der Sünden Dunkelheit",
+                  "Weg aus meinem Herzen."
+                ],
+                "rechts": [
+                  "Der Sonne Licht",
+                  "Uns jetzt gebricht:",
+                  "O unerschaffne Sonne,",
+                  "Brich mit Deinem Licht hervor,",
+                  "Mir zur Freud und Wonne.",
+                  "Was sich geregt",
+                  "Und vor bewegt,",
+                  "Ruht jetzt von seinen Werken:",
+                  "Laß mich, HErr, in stiller Ruh",
+                  "Dein Werk in mir merken."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        570,
+        572
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "46"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich weiß ein Blümlein",
+            "strophen": [
+              {
+                "links": [
+                  "Ich weiß ein Blümlein hübsch und fein,",
+                  "Das tut mir wohlgefallen;",
+                  "Es liebt mir in dem Herzen mein",
+                  "Das Blümelein",
+                  "Vor andern Blümlein allen."
+                ],
+                "rechts": [
+                  "Das Blümlein ist das göttlich Wort,",
+                  "Das Gott uns hat gegeben;",
+                  "Es leucht uns durch die enge Pfort,",
+                  "Ja hier und dort,",
+                  "Wohl in das ewge Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 5, 1—8.",
+            "buch": "markus",
+            "kapitel": 5,
+            "verse": "1-8"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich weiß ein Blümlein",
+            "strophen": [
+              {
+                "links": [
+                  "Er ist der Weg, das Licht, die Pfort,",
+                  "Die Wahrheit und das Leben;",
+                  "Wer Reu für seine Sünde hat,",
+                  "Und bitt um Gnad,",
+                  "Sind sie im Glaubn vergeben."
+                ],
+                "rechts": [
+                  "Er spricht Selber: Kommt her zu Mir",
+                  "All, die ihr seid beladen;",
+                  "Ich will nach eures Herzn Begier,",
+                  "Das glaubet Mir,",
+                  "Heilen all euren Schaden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "52"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 18, 1—9.",
+            "buch": "hesekiel",
+            "kapitel": 18,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "132"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 4, 1—2.",
+            "buch": "2_korinther",
+            "kapitel": 4,
+            "verse": "1-2"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich weiß ein Blümlein",
+            "strophen": [
+              {
+                "links": [
+                  "Wir bitten Dich, HErr Jesu Christ,",
+                  "Wohl durch Dein bitter Leiden,",
+                  "Weil Du für uns gestorben bist,",
+                  "HErr Jesus Christ,",
+                  "Du wollst nicht von uns scheiden.",
+                  "Nimm uns für Deine Kinder an,",
+                  "Daß wir Dich Alle loben;",
+                  "Dein Wort bekenn ein Jedermann,",
+                  "Auf rechter Bahn,",
+                  "Durch Jesum Christum. Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        572,
+        574
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "69"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "In meines Herzens Grunde",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "In meines Herzens Grunde",
+                  "Dein Nam, HErr Christ, allein",
+                  "Funkelt all Zeit und Stunde:",
+                  "Drauf kann ich fröhlich sein.",
+                  "Erschein mir in dem Bilde",
+                  "Zum Trost in meiner Not,",
+                  "Wie Du, HErr Christ, so milde",
+                  "Dich hast geblut zu Tod."
+                ],
+                "rechts": [
+                  "In meines Herzens Grunde",
+                  "Dein Nam, HErr Christ, allein",
+                  "Funkelt all Zeit und Stunde:",
+                  "Drauf kann ich fröhlich sein.",
+                  "Den will ich auch behalten",
+                  "In meines Herzens Schrein,",
+                  "Bis ich einst werd erkalten",
+                  "Und in Dir schlafen ein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 5, 9—17.",
+            "buch": "markus",
+            "kapitel": 5,
+            "verse": "9-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "In meines Herzens Grunde",
+            "strophen": [
+              {
+                "links": [
+                  "Laß mich Dein sein und bleiben,",
+                  "Du treuer Gott und HErr;",
+                  "Von Dir laß mich nicht treiben,",
+                  "Halt mich bei Deiner Lehr.",
+                  "HErr, laß mich nur nicht wanken,",
+                  "Gib mir Beständigkeit;",
+                  "Dafür will ich Dir danken",
+                  "In alle Ewigkeit."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "76"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 10, 1—7.",
+            "buch": "sprueche",
+            "kapitel": 10,
+            "verse": "1-7"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "71"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 26, 15—28.",
+            "buch": "apostelgeschichte",
+            "kapitel": 26,
+            "verse": "15-28"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Sonn hat sich mit ihrem Glanz gewendet",
+            "melodie": "31",
+            "strophen": [
+              {
+                "links": [
+                  "Die Sonn hat sich mit ihrem Glanz gewendet,",
+                  "Und was sie soll auf diesen Tag vollendet;",
+                  "Die dunkle Nacht dringt allenthalben zu,",
+                  "Bringt Menschen Vieh und alle Welt zur Ruh."
+                ],
+                "rechts": [
+                  "Ich preise Dich, Du HErr der Nächt und Tage,",
+                  "Daß Du mich heut vor aller Not und Plage",
+                  "Durch Deine Hand und hochberühmte Macht",
+                  "Hast unverletzt und frei hindurch gebracht."
+                ]
+              },
+              {
+                "links": [
+                  "Vergib, wo ich bei Tage so gelebet,",
+                  "Daß ich nach dem, was finster ist, gestrebet;",
+                  "Laß alle Schuld durch Deinen Gnadenschein",
+                  "In Ewigkeit bei Dir erloschen sein."
+                ],
+                "rechts": [
+                  "Und laß hernach, zugleich mit allen Frommen,",
+                  "Mich zu dem Glanz des andern Lebens kommen,",
+                  "Da Du uns hast den großen Tag bestimmt,",
+                  "Dem keine Nacht sein Licht und Klarheit nimmt."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        575,
+        577
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ruhe ist das beste Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Ruhe ist das beste Gut,",
+                  "Das man haben kann;",
+                  "Stille und ein guter Mut,",
+                  "Steiget himmelan:",
+                  "Die suche du;",
+                  "Hier und dort ist keine Ruh,",
+                  "Als bei Gott: zu Ihme zu!",
+                  "Gott ist die Ruh."
+                ],
+                "rechts": [
+                  "Ruhe geben kann allein",
+                  "Jesus, Gottes Sohn,",
+                  "Ladet alle Menschen ein",
+                  "Von des Himmels Thron",
+                  "Zur wahren Ruh.",
+                  "Hier und dort ist keine Ruh,",
+                  "Als bei Gott: zu Ihme zu!",
+                  "Gott ist die Ruh."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 5, 18—21.",
+            "buch": "markus",
+            "kapitel": 5,
+            "verse": "18-21"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ruhe ist das beste Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Ruh aus lauter Gnad verspricht",
+                  "Jesu treuer Mund;",
+                  "Sein so freundlich Angesicht",
+                  "Aus des Herzens Grund",
+                  "Lockt All herzu.",
+                  "Hier und dort ist keine Ruh,",
+                  "Als bei Gott: zu Ihme zu!",
+                  "Gott ist die Ruh."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "89"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 6, 16—21.",
+            "buch": "jeremia",
+            "kapitel": 6,
+            "verse": "16-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 12, 1—11.",
+            "buch": "apostelgeschichte",
+            "kapitel": 12,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ruhe ist das beste Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Ruhe hat wer williglich",
+                  "Christi sanftes Joch,",
+                  "Hingebücket nimmt auf sich:",
+                  "Ist es lieblich doch,",
+                  "Und schaffet Ruh!",
+                  "Hier und dort ist keine Ruh,",
+                  "Als bei Gott: zu Ihme zu!",
+                  "Gott ist die Ruh."
+                ],
+                "rechts": [
+                  "Ruhe nirgends lieber bleibt,",
+                  "Als wo Demut ziert;",
+                  "Was zur Niedrigkeit sein treibt",
+                  "Und herunter führt",
+                  "Gibt wahre Ruh.",
+                  "Hier und dort ist keine Ruh,",
+                  "Als bei Gott: zu Ihme zu!",
+                  "Gott ist die Ruh."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 11. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        578,
+        581
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "64"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O wie selig sind die Seelen",
+            "strophen": [
+              {
+                "links": [
+                  "O wie selig sind die Seelen,",
+                  "Die mit Jesu sich vermählen,",
+                  "Die Sein sanfter Liebeswind",
+                  "So gewaltiglich getrieben,",
+                  "Daß sie ganz daselbst geblieben,",
+                  "Wo sich ihr Magnet befindt."
+                ],
+                "rechts": [
+                  "Wenn die Seraphim sich decken",
+                  "Und vor Seiner Macht erschrecken,",
+                  "Wird Er doch von Seiner Braut",
+                  "In der wundervollen Krone",
+                  "Auf dem gloriösen Throne",
+                  "Ohne Decke angeschaut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 1—6.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "1-6"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O wie selig sind die Seelen",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn Jehovah man genennet,",
+                  "Wird nichts Höhres mehr erkennet",
+                  "Als die Herrlichkeit der Braut.",
+                  "Sie wird mit dem höchsten Wesen,",
+                  "Das sie sich zur Lust erlesen,",
+                  "Gar zu einem Geist vertraut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hosea 6, 4—9.",
+            "buch": "hosea",
+            "kapitel": 6,
+            "verse": "4-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 11, 1—8.",
+            "buch": "2_korinther",
+            "kapitel": 11,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "O wie selig sind die Seelen",
+            "strophen": [
+              {
+                "links": [
+                  "Drum wer wollte sonst was lieben,",
+                  "Und sich nicht beständig üben,",
+                  "Des Monarchen Braut zu sein?",
+                  "Muß man gleich dabei viel leiden,",
+                  "Sich von allen Dingen scheiden,",
+                  "Bringts ein Tag doch wieder ein."
+                ],
+                "rechts": [
+                  "Schenke, HErr, auf meine Bitte",
+                  "Mir ein göttliches Gemüte,",
+                  "Einen königlichen Geist,",
+                  "Mich als Dir verlobt zu tragen,",
+                  "Allem freudig abzusagen,",
+                  "Was nur Welt und irdisch heißt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

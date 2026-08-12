@@ -1,0 +1,935 @@
+{
+  "id": "trinitatis_10",
+  "titel": "10. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "10. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        537,
+        540
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55",
+              "1"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "An Wasserflüssen Babylon",
+            "melodie": "12",
+            "strophen": [
+              {
+                "links": [
+                  "An Wasserflüssen Babylon,",
+                  "Da saßen wir mit Schmerzen;",
+                  "Als wir gedachten an Zion,",
+                  "Da weinten wir von Herzen;",
+                  "Wir hingen auf mit schwerem Mut",
+                  "Die Harfen und die Orgeln gut",
+                  "An ihre Bäum der Weiden,",
+                  "Die drinnen sind in ihrem Land;",
+                  "Da mußten wir viel Schmach und Schand",
+                  "Täglich von ihnen leiden."
+                ],
+                "rechts": [
+                  "Wie sollen wir in solchem Zwang",
+                  "Und Elend, jetzt vorhanden,",
+                  "Dem HErren singen Sein Gesang",
+                  "So gar in fremden Landen?",
+                  "Jerusalem, vergeß ich dein,",
+                  "So wolle Gott der Rechten mein",
+                  "Vergessen in meinm Leben;",
+                  "Wenn ich nicht dein bleib eingedenk,",
+                  "Mein Zung sich oben annehäng,",
+                  "Und bleib am Gaumen kleben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 19, 41—48.",
+            "buch": "lukas",
+            "kapitel": 19,
+            "verse": "41-48"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Willst du Gnade hier und Gnade dort, so wirst du den Gnadenmitteln vertrauend nahen. Hier liegt das ganze Geheimnis: du kannst nichts, Gott aber kann alles durch Sein Wort und tut alles durch Sein Wort. Entziehe dich nur dem Worte nicht; selbst wenn dein Wille unrein wäre, wenn deine Unreinigkeit und Halbheit im Wollen des Guten dich hindern sollte: entziehe dich nur dem Worte nicht! Ob heut, ob morgen, — ob langsam oder plötzlich, — ob sanft, ob unsanft, das weiß ich nicht; aber siegen wird es bei Dem, der gerne hört und fleißig lernt, — die Gnadenzeit wird noch erkannt werden, ehe sie verrinnt — die Zukunft wird offenbart werden, ehe sie kommt — und noch ehe es ganz zu spät, noch so lang es Zeit ist, wird bedacht, wird geglaubt, wird befolgt und getan werden, was zum Frieden jenes Tages dient. Brüder, Schwestern, hören wollen wir, denn das können wir.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn doch auch du erkennetest zu dieser deiner Zeit,",
+              "Was zu Deinem Frieden dienet! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott, himmlischer Vater, wir bitten Dich herzlich: Du wollest durch die Angstthränen Deines Sohnes Jesu Christi unsere harten Herzen erweichen, damit wir nicht wie die verstockten Juden die angenehme Zeit Deiner gnädigen Heimsuchung versäumen, und durch unsre Unbußfertigkeit in zeitliche und ewige Strafe geraten, sondern wahre Buße tun, aus dem Schlaf der Sicherheit erwachen, in Deinem Bethause Dir angenehme Opfer bringen und gnädige Erhörung erlangen; durch Jesum Christum, Deinen Sohn, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du weinest vor Jerusalem",
+            "melodie": "8",
+            "strophen": [
+              {
+                "links": [
+                  "Du weinest vor Jerusalem,",
+                  "HErr Jesu, heiße Zähren,",
+                  "Zum Zeugnis, Dir sei angenehm,",
+                  "Wenn Sünder sich bekehren.",
+                  "Wenn ich vor Dir mit Buß erschein,",
+                  "Und über meine Sünde wein,",
+                  "So wäscht Du ab aus lauter Gnad",
+                  "All Uebeltat,",
+                  "So mich bisher gequälet hat."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 81-128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 7, 1—11.",
+            "buch": "jeremia",
+            "kapitel": 7,
+            "verse": "1-11"
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du Deine Allmächtigkeit am meisten mit Verschonen und Erbarmen offenbarest: laß Deine Barmherzigkeit über uns groß sein, auf daß wir uns an Deine Verheißung halten und der himmlischen Güter teilhaftig werden mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 12, 1—11.",
+            "buch": "1_korinther",
+            "kapitel": 12,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du weinest vor Jerusalem",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn Deines Vaters Zorn entbrennt",
+                  "Von wegen meiner Sünde:",
+                  "Zu Deinen Thränen ich mich wend,",
+                  "Da ich Erquickung finde.",
+                  "Vor Gott sind sie so hoch geschätzt;",
+                  "Wer seine Sünd hiermit benetzt,",
+                  "Den blickt Gott an mit Gütigkeit",
+                  "Zu jeder Zeit,",
+                  "Und sein betrübtes Herz erfreut."
+                ],
+                "rechts": [
+                  "Für diese Thränen dank ich Dir,",
+                  "Daß Du die Freudenkrone,",
+                  "HErr Christ, dadurch erworben mir",
+                  "Bei Dir ins Himmels Throne;",
+                  "Wenn Du mich holen wirst einmal",
+                  "Hinauf in Deinen Freudensaal:",
+                  "Dann will ich recht lobsingen Dir,",
+                  "O höchste Zier,",
+                  "Für Deine Thränen für und für."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es stehet geschrieben:",
+              "Mein Haus soll heißen ein Bethaus allen Völkern."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Du großer und gewaltiger Gott, sieh voll Erbarmen auf uns hernieder. Hilf Deiner heiligen Kirche und sende ihr den Geist der Kraft und der Freudigkeit. Wir danken Dir für alle gläubige Predigt und alle gesegnete Seelsorge, für alle Werke der äußeren und inneren Mission, für alle treuen Diener und Glieder, die Du unsrer Kirche schenkst. Wehre der Gottseligkeit und laß die Feinde Deines Reiches zu schanden werden. Sei Du Selbst der Schirmherr Deiner Kirche auf Erden und führe sie durch Stürme und Wetter dem Sieg entgegen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        541,
+        544
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "117"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nimm von uns, HErr, Du treuer Gott",
+            "melodie": "146",
+            "strophen": [
+              {
+                "links": [
+                  "Nimm von uns, HErr, Du treuer Gott,",
+                  "Die schwere Straf und große Rut,",
+                  "Die wir mit Sünden ohne Zahl",
+                  "Verdienet haben allzumal.",
+                  "Behüt vor Krieg und teurer Zeit,",
+                  "Vor Seuchen Feur und großem Leid."
+                ],
+                "rechts": [
+                  "Erbarm Dich Deiner bösen Knecht,",
+                  "Wir bitten Gnad und nicht das Recht.",
+                  "Denn so Du, HErr, den rechten Lohn",
+                  "Uns geben wollst nach unserm Tun:",
+                  "So müßt die ganze Welt vergehn,",
+                  "Und könnt kein Mensch vor Dir bestehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 23, 34—39.",
+            "buch": "matthaeus",
+            "kapitel": 23,
+            "verse": "34-39"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Jesu, Du barmherziger Heiland, nimm die Decke von Israels Antlitz! Wecke die Christenheit auf zu einem neuen Leben, damit sie den Juden, die unter uns leben, zum Vorbild des Glaubens und der Liebe werde. Stärke die Mission unter Israel und segne ihre Boten mit heiliger Geduld, mit aufrichtigem Erbarmen, mit tapferem Mut. Du strafest die Christen um ihren Unglauben. Weil sie von Dir abgefallen sind, hast Du sie in die Hand der Juden gegeben. Laß die Christenheit aufwachen und sich zu Dir bekehren. Laß uns nicht in die Sünde fallen, daß wir Dich verleugnen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nimm von uns, HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Die Sünd hat uns verderbet sehr,",
+                  "Der Teufel plagt uns noch viel mehr;",
+                  "Die Welt, auch unser Fleisch und Blut,",
+                  "Uns allezeit verführen tut:",
+                  "Solch Elend kennst Du, HErr, allein;",
+                  "Ach laß uns Dir befohlen sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 4, 3—16.",
+            "buch": "1_mose",
+            "kapitel": 4,
+            "verse": "3-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 20, 17—38.",
+            "buch": "apostelgeschichte",
+            "kapitel": 20,
+            "verse": "17-38"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nimm von uns, HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Gedenk an Deins Sohns bittern Tod,",
+                  "Sieh an Sein heilig Wunden rot:",
+                  "Die sind ja für die ganze Welt",
+                  "Die Zahlung und das Lösegeld;",
+                  "Des trösten wir uns allezeit,",
+                  "Und hoffen auf Barmherzigkeit."
+                ],
+                "rechts": [
+                  "Leit uns mit Deiner rechten Hand,",
+                  "Und segne unsre Stadt und Land;",
+                  "Gib uns allzeit Dein heiliges Wort,",
+                  "Behüt vors Teufels List und Mord;",
+                  "Verleih ein selges Stündelein,",
+                  "Auf daß wir ewig bei Dir sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        545,
+        547
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Tut mir auf die schöne Pforte",
+            "melodie": "144",
+            "strophen": [
+              {
+                "links": [
+                  "Tut mir auf die schöne Pforte,",
+                  "Führet mich in Zion ein:",
+                  "Ach wie wird an diesem Orte",
+                  "Meine Seele fröhlich sein!",
+                  "Hier ist Gottes Angesicht,",
+                  "Hier ist lauter Trost und Licht."
+                ],
+                "rechts": [
+                  "Ich bin, HErr, zu Dir gekommen,",
+                  "Komme Du nun auch zu mir;",
+                  "Wo Du Wohnung hast genommen,",
+                  "Da ist lauter Himmel hier.",
+                  "Zieh doch in mein Herz hinein,",
+                  "Laß es Deinen Tempel sein."
+                ]
+              },
+              {
+                "links": [
+                  "Laß in Furcht mich vor Dich treten,",
+                  "Heilge Du Leib Seel und Geist,",
+                  "Daß mein Singen und mein Beten",
+                  "Ein gefällig Opfer heißt.",
+                  "Heilge Du, HErr, Mund und Ohr,",
+                  "Zieh das Herze ganz empor."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 2, 13—17.",
+            "buch": "johannes",
+            "kapitel": 2,
+            "verse": "13-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Tut mir auf die schöne Pforte",
+            "strophen": [
+              {
+                "links": [
+                  "Mache mich zum guten Lande,",
+                  "Wenn Dein Samkorn auf mich fällt;",
+                  "Gib mir Licht in dem Verstande,",
+                  "Und was mir wird vorgestellt",
+                  "Präge meinem Herzen ein,",
+                  "Laß es mir zur Frucht gedeihn."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 7, 5—12.",
+            "buch": "1_samuel",
+            "kapitel": 7,
+            "verse": "5-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 2, 1—11.",
+            "buch": "roemers",
+            "kapitel": 2,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Tut mir auf die schöne Pforte",
+            "strophen": [
+              {
+                "links": [
+                  "Stärk in mir den schwachen Glauben,",
+                  "Laß Dein teures Kleinod mir",
+                  "Nimmer aus dem Herzen rauben;",
+                  "Halte stets Dein Wort mir für,",
+                  "Daß es mir zum Leitstern dient",
+                  "Und zum Trost im Herzen grünt."
+                ],
+                "rechts": [
+                  "Rede, HErr, so will ich hören,",
+                  "Und Dein Wille werd erfüllt;",
+                  "Nichts laß meine Andacht stören,",
+                  "Wenn der Brunn des Lebens quillt;",
+                  "Speise mich mit Himmelsbrot,",
+                  "Tröste mich in aller Not."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        548,
+        550
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, tu Dich erbarmen",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Gott, tu Dich erbarmen",
+                  "Durch Christum Deinen Sohn,",
+                  "Uebr Reich und über Armen,",
+                  "Hilf, daß wir Buße tun,",
+                  "Und sich ein Jedr erkennen tut.",
+                  "Ich fürcht: Gott hat gebundn ein Rut,",
+                  "Er will uns damit strafen,",
+                  "Den Hirten mit den Schafen;",
+                  "Es wird Ihm Keinr entlaufen."
+                ],
+                "rechts": [
+                  "Gott hat uns lang gerufen",
+                  "Durch Seine treuen Knecht;",
+                  "Unsr Ohrn sind abr nicht offen,",
+                  "Darum geschieht uns recht;",
+                  "Sein Straf habn wir jetzt in dem Land,",
+                  "Ich fürcht: ihr sind mehr vor der Hand;",
+                  "Gott woll sie von uns wenden,",
+                  "Und Seine Gnad uns senden,",
+                  "Es steht in Seinen Händen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 7, 19—32.",
+            "buch": "johannes",
+            "kapitel": 7,
+            "verse": "19-32"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, tu Dich erbarmen",
+            "strophen": [
+              {
+                "links": [
+                  "Die Welt läßt nun nicht abe,",
+                  "Das wild vielköpfig Tier,",
+                  "Man werf sie denn ins Grabe;",
+                  "Es wird geschehen schier.",
+                  "Der Teufel hats dahin gebracht,",
+                  "Daß man Gott und Sein Wort veracht,",
+                  "Fragt nicht nach Seinm Gebote,",
+                  "Treibet daraus nur Spotte;",
+                  "Sagt wohl: es sei kein Gotte!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "26"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 24, 17—23.",
+            "buch": "1_samuel",
+            "kapitel": 24,
+            "verse": "17-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "131"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 3, 11—17.",
+            "buch": "1_korinther",
+            "kapitel": 3,
+            "verse": "11-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, tu Dich erbarmen",
+            "strophen": [
+              {
+                "links": [
+                  "Die Axt ist schon geleget",
+                  "Dem Baum an seine Wurz,",
+                  "Als uns Johannes zeiget:",
+                  "Ins Feuer muß er kurz.",
+                  "Wohl dem, der es zu Herzen nimmt,",
+                  "Und wacht, wann sein Erlöser kömmt,",
+                  "Liebt allezeit das Gute;",
+                  "Der wird sein wohl behute,",
+                  "Ja vor der Höllen Glute."
+                ],
+                "rechts": [
+                  "Solchs alles ist verborgen",
+                  "In der Gottlosen Sinn;",
+                  "Das sieht man alle Morgen:",
+                  "Wie läuft die Welt dahin,",
+                  "Daß sie nur krieg das zeitlich Gut,",
+                  "Das ewge sie vergessen tut;",
+                  "Daran will Niemand denken,",
+                  "Tut Leib und Seel versenken;",
+                  "Manch Christen tut es kränken."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        551,
+        553
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heilger Geist, Du höchstes Gut",
+            "melodie": "146",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, Heilger Geist, Du höchstes Gut,",
+                  "Entzünd mein Herz mit Deiner Glut,",
+                  "Daß Deine süßen Flammen sich",
+                  "Zusammen schlagen über mich;",
+                  "Erweck in mir durch Deine Gunst,",
+                  "O HErr, der wahren Liebe Brunst."
+                ],
+                "rechts": [
+                  "Erleuchte mich, Du wahres Licht,",
+                  "Daß ich im Finstern sterbe nicht;",
+                  "Beschatte mich mit Deiner Kühl,",
+                  "Daß ich nicht fremde Hitze fühl.",
+                  "Erquicke meines Herzens Au",
+                  "Mit Deiner heilgen Gottheit Tau."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 35—44.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "35-44"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Komm, Heilger Geist, Du höchstes Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Gib, daß ich wie ein liebes Kind",
+                  "Gott fürcht und Ihm folge geschwind;",
+                  "Daß ich die Frömmigkeit erlang,",
+                  "Und Deiner Weisheit Licht empfang;",
+                  "Daß ich den Weg der Seligkeit",
+                  "Betrete mit Bescheidenheit."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 19, 1—6.",
+            "buch": "1_samuel",
+            "kapitel": 19,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 8, 1—8.",
+            "buch": "apostelgeschichte",
+            "kapitel": 8,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heilger Geist, Du höchstes Gut",
+            "strophen": [
+              {
+                "links": [
+                  "Gib mir die Stärke, daß ich kann",
+                  "Dir dienen, wie ein Kriegesmann;",
+                  "Dein Rat regiere meinen Sinn,",
+                  "Daß ich recht unterscheiden könn.",
+                  "Verleih mir göttlichen Verstand,",
+                  "Daß mir Dein Wille sei bekannt."
+                ],
+                "rechts": [
+                  "Geuß Deiner Weisheit güldnen Fluß",
+                  "In mich durch Deiner Liebe Kuß,",
+                  "Daß ich in meinem Herzen wiß,",
+                  "Wie gut Du bist, und wie so süß;",
+                  "Daß ich anschau zu jeder Frist",
+                  "Die Wahrheit, die Du Selber bist."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        554,
+        556
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "83"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wend ab Deinen Zorn, lieber Gott, in Gnaden",
+            "melodie": "70",
+            "strophen": [
+              {
+                "links": [
+                  "Wend ab Deinen Zorn, lieber Gott, in Gnaden,",
+                  "Und laß nicht wüten Deine blutge Rute:",
+                  "Richt uns nicht streng nach unsern Missetaten,",
+                  "Sondern nach Güte."
+                ],
+                "rechts": [
+                  "Denn so Du wolltest nach Verdienste strafen,",
+                  "Wer könnte Deinen Grimm und Zorn ertragen?",
+                  "Alls müßt vergehen, was Du hast geschaffen,",
+                  "Vor Deinen Plagen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 45—52.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "45-52"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wend ab Deinen Zorn",
+            "strophen": [
+              {
+                "links": [
+                  "Sind wir doch arme Würmlein Staub und Erden,",
+                  "Mit Erbsünd Schwachheit Not und Tod beladen:",
+                  "Warum sollen wir gar zu nichte werden,",
+                  "Im Zorn ohn Gnaden?"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "87"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 43, 22—28.",
+            "buch": "jesaja",
+            "kapitel": 43,
+            "verse": "22-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "77"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 11, 19—26.",
+            "buch": "apostelgeschichte",
+            "kapitel": 11,
+            "verse": "19-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wend ab Deinen Zorn",
+            "strophen": [
+              {
+                "links": [
+                  "Sieh an Deins Sohnes Kreuz und bitter Leiden,",
+                  "Der uns erlöset hat mit Seinem Blute,",
+                  "Und eröffnen lassen Sein Herz und Seiten,",
+                  "Der Welt zu gute."
+                ],
+                "rechts": [
+                  "Darum, ach Vater, laß uns nicht verderben,",
+                  "Dein Gnad und Geist durch Christum wollst uns geben:",
+                  "Mach uns samt Ihm des Himmelreiches Erben,",
+                  "Mit Dir zu leben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 10. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        556,
+        559
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "149"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Israel, bekehre dich!",
+            "strophen": [
+              {
+                "links": [
+                  "Israel, bekehre dich,",
+                  "Ach befehre dich noch heute,",
+                  "Und im Glauben dich bereite,",
+                  "Daß du könnest würdiglich",
+                  "Bei dem Abendmahl erscheinen,",
+                  "Wozu Jesus ruft die Seinen!"
+                ],
+                "rechts": [
+                  "Glaube Hoffnung und Geduld",
+                  "Liebe Demut und dergleichen",
+                  "Sind der Christen wahre Zeichen,",
+                  "Welche stehn in Christi Huld,",
+                  "Die Er kennet und heißt kommen,",
+                  "Daß sie werden aufgenommen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 53—56.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "53-56"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Israel, bekehre dich!",
+            "strophen": [
+              {
+                "links": [
+                  "Israel, bekehre dich,",
+                  "Weil es jetzt noch heißet: heute,",
+                  "Und im Glauben dich bereite,",
+                  "Daß du könnest würdiglich",
+                  "Bei dem Abendmahl erscheinen,",
+                  "Wozu Jesus ruft die Seinen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 24, 4—7.",
+            "buch": "jeremia",
+            "kapitel": 24,
+            "verse": "4-7"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 11, 1—8.",
+            "buch": "roemers",
+            "kapitel": 11,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du wollest uns das Kreuzgeheimnis lehren",
+            "strophen": [
+              {
+                "links": [
+                  "Wann, liebster Jesu, wann kommt Deine Stunde",
+                  "Zur Seligkeit des Volks vom alten Bunde?",
+                  "Wann wird es sich an Dessen Heil erlaben,",
+                  "Den ihre Väter einst durchstochen haben?",
+                  "Ach, wenn die auserwählte Stunde käme,",
+                  "Die ihre Decke von den Augen nähme;",
+                  "Und sie erführn, was Thomas dort empfunden,",
+                  "Als Jesus vor ihm stand mit Seinen Wunden:",
+                  "So hätten wir die erstgebornen Brüder",
+                  "In unsers lieben Vaters Hause wieder.",
+                  "Das würde dann ein Halleluja geben,",
+                  "Ein Lob des Lamms bis in das ewge Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, wir bitten Dich von ganzem Herzen für Israel, daß es seinen Unglauben aufgebe und Jesum Christum erkenne. Laß die Zeit bald kommen, da die Heidenvölker bekehrt sind und Israel gerettet wird. Rüste die Christenheit aus mit Glaubensmacht und heiligem Geiste, mit Liebe und rechtschaffenem Wandel, daß sie ein Vorbild sei für die Völker der Erde. HErr, wir flehen zu Dir auch für unser Volk, daß es sich zu Dir und Deinem heiligen Worte zurechtfinde. O, es sind so viele unter uns, die wollen nicht erkennen, was zu ihrem Frieden dient, und nicht glauben. Erschüttere Du die Seelen, erwecke die Gewissen, daß man das Kreuz Deines Sohnes, unseres Heilands, wieder ergreife.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}
