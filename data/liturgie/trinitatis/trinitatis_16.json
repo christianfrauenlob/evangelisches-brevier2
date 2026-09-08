@@ -1,0 +1,1007 @@
+{
+  "id": "trinitatis_16",
+  "titel": "16. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "16. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        668,
+        672
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86",
+              "11"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mitten wir im Leben sind",
+            "melodie": "107",
+            "strophen": [
+              {
+                "links": [
+                  "Mitten wir im Leben sind",
+                  "Mit dem Tod umfangen;",
+                  "Wen suchen wir, der Hilfe tu,",
+                  "Daß wir Gnad erlangen?",
+                  "Das bist Du, HErr, Alleine.",
+                  "Uns reuet unsre Missetat,",
+                  "Die Dich, HErr, erzürnet hat.",
+                  "Heiliger HErre Gott,",
+                  "Heiliger starker Gott,",
+                  "Heiliger barmherziger Heiland,",
+                  "Du ewiger Gott:",
+                  "Laß uns nicht versinken",
+                  "In des bittern Todes Not!",
+                  "Kyrie eleison."
+                ],
+                "rechts": [
+                  "Mitten in dem Tod anficht",
+                  "Uns der Höllen Rachen;",
+                  "Wer will uns aus solcher Not",
+                  "Frei und ledig machen?",
+                  "Das tust Du, HErr, Alleine.",
+                  "Es jammert Dein Barmherzigkeit",
+                  "Unsre Sünd und großes Leid.",
+                  "Heiliger HErre Gott,",
+                  "Heiliger starker Gott,",
+                  "Heiliger barmherziger Heiland,",
+                  "Du ewiger Gott:",
+                  "Laß uns nicht verzagen",
+                  "Vor der tiefen Höllen Glut!",
+                  "Kyrie eleison."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 7, 11—17.",
+            "buch": "lukas",
+            "kapitel": 7,
+            "verse": "11-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ich wünsche meine seligen Toten nicht auferweckt, wie den Jüngling zu Nain. Schon wenn ich an schweren Krankenbetten, wie ein Pfarrkind da steht, von denen ich weiß, daß sie wohl sterben können, kommt es mich hart an, die Hände zum Gebete um Genesung aufzulegen. Wer dem Tode so nahe ist, so bald überwunden haben könnte, so bald daheim sein bei dem HErrn und Seinen Heiligen, scheint mir keine Wohltat zu erfahren, wenn er umkehren und genesen wieder eintreten muß in dieses elende Leben, um dermaleins doch wieder zu kranken und zu sterben. Doch ich sollte, weil mein Herz sich sehnt und gerne bei den Abgeschiedenen wäre, sie sonst, die sich wiederauferweckt wissen wollen, wo sie sich dem Triumph in dem Streit zurückgestellt wissen, wo sie die Krone, welche sie schon haben, wieder verlieren könnten? Das sei ferne, was ich sorge und begehre; daß wir Alle die Stunde eines guten Todes finden. Dann ist das Uebrige alles gut.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der HErr sprach zu der Witwe:",
+              "Weine nicht! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, ein HErr über Tod und Leben, Der Du uns täglich Beispiele der Sterblichkeit vorstellest: hilf, daß wir solche mit christlichen Augen ansehen und uns unsres Endes immer erinnern, auch Deiner allmächtigen Stimme, die uns wieder lebendig machen wird, von Herzen trösten, daß wir also durch Tod und Leben Dir in sein und bleiben; um Deines lieben Sohnes Jesu Christi, unsres HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mitten wir im Leben",
+            "strophen": [
+              {
+                "links": [
+                  "Mitten in der Höllen Angst",
+                  "Unsre Sünd uns treiben.",
+                  "Wo sollen wir denn fliehen hin,",
+                  "Da wir mögen bleiben?",
+                  "Zu Dir, HErr Christ, Alleine!",
+                  "Vergossen ist Dein teures Blut,",
+                  "Das gnug für die Sünde tut.",
+                  "Heiliger HErre Gott,",
+                  "Heiliger starker Gott,",
+                  "Heiliger barmherziger Heiland,",
+                  "Du ewiger Gott:",
+                  "Laß uns nicht entfallen",
+                  "Von des rechten Glaubens Trost!",
+                  "Kyrie eleison."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 81-128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 5, 17—26.",
+            "buch": "job",
+            "kapitel": 5,
+            "verse": "17-26"
+          },
+          {
+            "typ": "gebet",
+            "text": "Ach HErr Gott, wir bitten Dich: laß uns Deine Gnade stets vorgehen und nachfolgen, auf daß wir allewege zu guten Werken geflissen sein mögen; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 5, 13—21.",
+            "buch": "epheser",
+            "kapitel": 5,
+            "verse": "13-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei, o HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Sei, o HErr, mit unserm Bunde,",
+                  "Laß uns leuchten als ein Licht,",
+                  "Das Du in der Abendstunde",
+                  "Auf dem Leuchter zugericht.",
+                  "Unser Wille",
+                  "Bleibe stille,",
+                  "Unser Mund und Hand vollende",
+                  "Die Geschäfte Deiner Hände."
+                ],
+                "rechts": [
+                  "Uns wird noch manch Stündlein schlagen;",
+                  "So der HErr will: immer her!",
+                  "Jesu Schmach ist leicht zu tragen,",
+                  "Selbstgemachte trägt sich schwer.",
+                  "Wir sind Christen,",
+                  "Die sich rüsten,",
+                  "Mit dem HErrn der Herrlichkeiten",
+                  "Dort zu prangen, hier zu streiten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es ist ein großer Prophet unter uns aufgestanden,",
+              "Und Gott hat Sein Volk heimgesucht."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Deine Kirche, o HErr, möge unaufhörliches Erbarmen läutern und leiten; und weil sie ohne Dich nicht wohl bestehen kann, so leite Du sie stets durch Deine Gnade; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        672,
+        675
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "21"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Durch bloßes Gedächtnis",
+            "strophen": [
+              {
+                "links": [
+                  "Durch bloßes Gedächtnis Dein, Jesu, genießen,",
+                  "Kann Sinnen und Herzen wie Honig durchsüßen;",
+                  "Willst aber Du Selber Dich bei uns befinden,",
+                  "Muß alles — geschweige der Honig — verschwinden.",
+                  "Man singet nichts Schöners in himmlischen Chören,",
+                  "Man kann auch auf Erden nichts Lieblichers hören;",
+                  "So ist auch im Denken nichts Süßres zu loben",
+                  "Als Jesus, die Gabe des Vaters von oben."
+                ]
+              },
+              {
+                "links": [
+                  "O Jesu, Du Hoffnung Des, der sich bekehret,",
+                  "Wie bist Du so milde, wenn man Dich begehret!",
+                  "Wie bist Du so gütig dem Suchen der Blinden,",
+                  "Wie wirst Du dem heißen, wenn man Dich wird finden!"
+                ]
+              },
+              {
+                "links": [
+                  "Dich such ich im Bette Des Nachts bis am Morgen,",
+                  "Wenn ich mich im Zimmer des Herzens verborgen",
+                  "So heimlich als öffentlich unter dem Haufen",
+                  "Sieht man mich mit Liebe Dir, Jesu, nachlaufen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 11, 25—30.",
+            "buch": "matthaeus",
+            "kapitel": 11,
+            "verse": "25-30"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, Du willst unser Beten erhören, darum kommen wir vor Dein heiliges Angesicht. Unser Verlangen steht nach Dir und Deiner heiligen Liebe. Wir sehnen uns nach Deiner Gemeinschaft und nach der Fülle Deiner Herrlichkeit. Und alles, was wir begehren, willst Du uns geben; ja, über Bitten und Verstehen willst Du unsre Seelen reich machen durch das Einwohnen Jesu Christi, Der unser Leben ist. So komm denn, HErr Jesu, durch den Glauben in unser Herz. Wohne und throne in uns, daß wir allezeit Deine heilige Nähe fühlen. Erfülle uns mit der Kraft Deiner Liebe, daß wir immer fester und tiefer in Deiner Gnade wurzeln und in Deinem Sterben und Auferstehen gegründet werden. Baue Dir in Heiligkeit Deine Gemeinde auf Erden, die Dich und den Vater im Himmel rühme, ehre und preise in Zeit und Ewigkeit.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Durch bloßes Gedächtnis",
+            "strophen": [
+              {
+                "links": [
+                  "So bleib denn, mein Liebster, vor meinem Gesichte;",
+                  "Erleuchte mich Armen mit himmlischem Lichte;",
+                  "Treib ferne das Dunkel vom Geist und vom Willen,",
+                  "Mich kleine Welt lieblich mit Lichte zu füllen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 12, 4—9.",
+            "buch": "1_mose",
+            "kapitel": 12,
+            "verse": "4-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 12, 18—24.",
+            "buch": "hebraeer",
+            "kapitel": 12,
+            "verse": "18-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Durch bloßes Gedächtnis",
+            "strophen": [
+              {
+                "links": [
+                  "Und gehst Du, so komm doch auch wieder zur Seelen,",
+                  "Laß leuchten die Wahrheit ob allem Verhehlen:",
+                  "So wird sich das Eitle der Welt von mir trennen,",
+                  "Ich werde vor Liebe zu brennen beginnen."
+                ]
+              },
+              {
+                "links": [
+                  "Kommt Seelen, kommt alle, lernt Jesum erkennen,",
+                  "Beginnet vor Liebe mit mir zu entbrennen;",
+                  "Kommt, laßt uns Ihn suchen mit Eifer auf Erden,",
+                  "Damit wir im Suchen noch brünstiger werden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        676,
+        678
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr unser Gott, laß nicht zu Schanden werden",
+            "melodie": "70",
+            "strophen": [
+              {
+                "links": [
+                  "HErr unser Gott, laß nicht zu Schanden werden",
+                  "Die, so in ihren Nöten und Beschwerden",
+                  "Bei Tag und Nacht auf Deine Güte hoffen,",
+                  "Und zu Dir rufen.",
+                  "Mache zu Schanden Alle, die Dich hassen,",
+                  "Die sich allein auf ihre Macht verlassen;",
+                  "Ach kehre Dich mit Gnaden zu uns Armen,",
+                  "Laß Dichs erbarmen!"
+                ],
+                "rechts": [
+                  "Und schaff uns Beistand wider unsre Feinde:",
+                  "Wenn Du ein Wort sprichst, werden sie bald Freunde.",
+                  "Sie müssen Wehr und Waffen niederlegen,",
+                  "Kein Glied mehr regen.",
+                  "Wir haben Niemand, dem wir uns vertrauen;",
+                  "Vergebens ists, auf Menschenhilfe bauen.",
+                  "Mit Dir wir wollen Taten tun und kämpfen,",
+                  "Die Feinde dämpfen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 17, 33—37.",
+            "buch": "lukas",
+            "kapitel": 17,
+            "verse": "33-37"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, unser Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Du bist der Held, Der Du kannst untertreten",
+                  "Und das bedrängte kleine Häuflein retten",
+                  "Wir traun auch Dich, wir schrein in Jesu Namen:",
+                  "Hilf Helfer! Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Chronika 15, 1—7.",
+            "buch": "2_chronik",
+            "kapitel": 15,
+            "verse": "1-7"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 19, 1—12.",
+            "buch": "apostelgeschichte",
+            "kapitel": 19,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Hier legt sich, unter Deiner Hut",
+            "strophen": [
+              {
+                "links": [
+                  "Hier legt sich, unter Deiner Hut,",
+                  "Die gegenwärtige Gemeine,",
+                  "Und was auf gleichem Grunde ruht,",
+                  "Von apostolischem Gesteine,",
+                  "Wo Jesus Christi Schätzen ist,",
+                  "Hier legt sich sie zu Deinen Füßen;",
+                  "Und weil Du unser Alles bist,",
+                  "Wirst Du uns auch vollenden müssen,",
+                  "Auch werd, insonderheit",
+                  "Zu dieser Gnadenzeit,",
+                  "Der Deinen Herzenswunsch erhöret:",
+                  "Daß unser Keiner sei,",
+                  "Der Glauben ohne Treu",
+                  "Und ohne Glauben Frommsein lehret."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Quatember-Mittwoch nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        679,
+        681
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, ich habe mißgehandelt",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, ich habe mißgehandelt,",
+                  "Ja, mich drückt der Sünden Last;",
+                  "Ich bin nicht den Weg gewandelt,",
+                  "Den Du mir gezeiget hast,",
+                  "Und jetzt wollt ich gern aus Schrecken",
+                  "Mich vor Deinem Zorn verstecken."
+                ],
+                "rechts": [
+                  "Drum ich muß es mir bekennen:",
+                  "HErr, ich habe mißgetan;",
+                  "Darf mich nicht Dein Kind mehr nennen,",
+                  "Ach nimm mich zu Gnaden an,",
+                  "Laß die Menge meiner Sünden",
+                  "Deinen Zorn nicht gar entzünden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 11, 16—24.",
+            "buch": "matthaeus",
+            "kapitel": 11,
+            "verse": "16-24"
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Die Litanei."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Vor Gricht, HErr Jesu, steh ich hier",
+            "melodie": "68",
+            "strophen": [
+              {
+                "links": [
+                  "Vor Gricht, HErr Jesu, steh ich hier,",
+                  "Beug in Demut meins Herzens Knie,",
+                  "Und seufze mit Wehklagen,",
+                  "Mein große Sünd und Missetat",
+                  "Mich verklagt und verdammet hat,",
+                  "Doch will ich nicht verzagen,",
+                  "HErr Jesu Christ, Dein Blut allein",
+                  "Macht mich von allen Sünden rein,",
+                  "Weil ich fest glaube, und dabei",
+                  "Im Herzen habe wahre Reu,",
+                  "HErr Jesu Christ, des dank ich Dir;",
+                  "Ich will mich bessern, hilf Du mir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Chronika 7, 11—22.",
+            "buch": "2_chronik",
+            "kapitel": 7,
+            "verse": "11-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "143"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 12, 12—17.",
+            "buch": "hebraeer",
+            "kapitel": 12,
+            "verse": "12-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "O frommer und getreuer Gott",
+            "melodie": "114",
+            "strophen": [
+              {
+                "links": [
+                  "O frommer und getreuer Gott,",
+                  "Ich hab gebrochen Dein Gebot,",
+                  "Und sehr gesündigt wider Dich:",
+                  "Das ist mir leid und reuet mich."
+                ],
+                "rechts": [
+                  "Auf dies Wort, lieber Vater fromm,",
+                  "Ich armer Sünder zu Dir komm,",
+                  "Und bitt Dich durch den bittern Tod",
+                  "Und heilige fünf Wunden rot."
+                ]
+              },
+              {
+                "links": [
+                  "Weil aber Du, o gnädger Gott,",
+                  "Nicht hast Gefallen am meinem Tod,",
+                  "Und ist Dein herzliches Begehren,",
+                  "Daß ich mich soll zu Dir bekehren:"
+                ],
+                "rechts": [
+                  "Deins lieben Sohnes Jesu Christ,",
+                  "Der mir zu gut Mensch worden ist,",
+                  "Laß Deine Gnad und Gütigkeit",
+                  "Mehr gelten, denn Gerechtigkeit."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        682,
+        684
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "62"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zion, gib dich nur zufrieden",
+            "melodie": "171",
+            "strophen": [
+              {
+                "links": [
+                  "Zion, gib dich nur zufrieden,",
+                  "Gott ist noch bei Dir bekannt,",
+                  "Du bist nicht von Ihm geschieden,",
+                  "Er hat einen Vatersinn.",
+                  "Wenn Er straft, so liebt Er auch,",
+                  "Dies ist Sein beliebter Brauch,",
+                  "Zion, lerne Ihm bedenken,",
+                  "Warum Du dich willst kränken."
+                ],
+                "rechts": [
+                  "Berg und Felsen möchten weichen,",
+                  "Ob sie noch so feste stehn;",
+                  "Ja die ganze Welt desgleichen",
+                  "Möchte gar auch untergehn;",
+                  "Dennoch hat es keine Not,",
+                  "In dem Leben und im Tod;",
+                  "Zion, du kannst doch nicht wanken",
+                  "Aus des Bundesgottes Schranken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 22—28.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "22-28"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Zion, gib dich nur zufrieden",
+            "strophen": [
+              {
+                "links": [
+                  "Dräut man dir mit Schmach und Banden,",
+                  "Mit dem Tod und Herzeleid;",
+                  "Ei, du wirst doch nicht zu Schanden,",
+                  "Denk nur an die Ewigkeit.",
+                  "Sei nur fröhlich wohlgemut,",
+                  "Denn der HErr ists, Der es tut;",
+                  "Zion, Gott wird dich schätzen;",
+                  "Dieses mußt du eben merken."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 17, 17—24.",
+            "buch": "1_koenige",
+            "kapitel": 17,
+            "verse": "17-24"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 3, 6—12.",
+            "buch": "1_johannes",
+            "kapitel": 3,
+            "verse": "6-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Zion, gib dich nur zufrieden",
+            "strophen": [
+              {
+                "links": [
+                  "Freue dich, nun ist das Ende",
+                  "Und der Abend schon herbei;",
+                  "Gib dich nur in Gottes Hände,",
+                  "Der dich nun will machen frei.",
+                  "Für die Trübsal Spott und Hohn",
+                  "Gibt Er dir die Freudenkron.",
+                  "Zion, du wirst wieder lachen,",
+                  "Drum laß dir die Welt nur machen."
+                ],
+                "rechts": [
+                  "Hallelujah! Deine Wonne,",
+                  "Liebes Zion, wird nun groß;",
+                  "Denn die schöne Gnadensonne",
+                  "Nimmt dich wieder in ihren Schoß,",
+                  "Gibt dir einen Freudengruß",
+                  "Und den rechten Liebeskuß.",
+                  "Zion, wo ist nun dein Klagen?",
+                  "Jetzt kannst du von Freuden sagen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Quatember-Freitag nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        684,
+        686
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wo soll ich fliehen hin",
+            "melodie": "16",
+            "strophen": [
+              {
+                "links": [
+                  "Wo soll ich fliehen hin,",
+                  "Weil ich beschweret bin",
+                  "Mit vielen großen Sünden?",
+                  "Wo soll ich Rettung finden?",
+                  "Wenn alle Welt herkäme,",
+                  "Mein Angst sie nicht wegnähme."
+                ],
+                "rechts": [
+                  "O Jesu voller Gnad,",
+                  "Auf Dein Gebot und Rat",
+                  "Kommt mein betrübt Gemüte;",
+                  "Zu Deiner großen Güte",
+                  "Laß Du auch mein Gewissen",
+                  "Ein Gnadetröpflein fließen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 29—32.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "29-32"
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Die Litanei."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wo soll ich fliehen hin",
+            "strophen": [
+              {
+                "links": [
+                  "Ist meine Bosheit groß,",
+                  "So werd ich ihrs doch los,",
+                  "Wenn ich Dein Blut auffasse",
+                  "Und mich darauf verlasse,",
+                  "Wer sich zu Dir nur findet,",
+                  "All Angst ihm bald verschwindet."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 8, 22—30.",
+            "buch": "1_koenige",
+            "kapitel": 8,
+            "verse": "22-30"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "143"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 9, 6—10.",
+            "buch": "hebraeer",
+            "kapitel": 9,
+            "verse": "6-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wo soll ich fliehen hin",
+            "strophen": [
+              {
+                "links": [
+                  "Darum allein auf Dich,",
+                  "HErr Christ, verlaß ich mich;",
+                  "Jetzt kann ichs nicht verderben;",
+                  "Dein Reich muß ich ererben;",
+                  "Denn Du hast mirs erworben,",
+                  "Da Du für mich gestorben."
+                ],
+                "rechts": [
+                  "Führ auch mein Herz und Sinn",
+                  "Durch Deinen Geist dahin,",
+                  "Daß ich mög alles meiden,",
+                  "Was mich und Dich kann scheiden,",
+                  "Und ich an Deinem Leibe",
+                  "Ein Gliedmaß ewig bleibe."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Quatember-Sonnabend nach dem 16. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        687,
+        690
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, der du meine Seele",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Der Du meine Seele",
+                  "Hast durch Deinen bittern Tod",
+                  "Aus des Teufels finstern Höhle",
+                  "Und der schweren Sündennot",
+                  "Kräftiglich herausgerissen,",
+                  "Und mich solches lassen wissen",
+                  "Durch Dein angenehmes Wort:",
+                  "Sei doch jetzt, o Gott, mein Hort."
+                ],
+                "rechts": [
+                  "HErr, ich muß es ja bekennen,",
+                  "Daß nichts Gutes wohnt in mir;",
+                  "Das zwar was wir wollen nennen,",
+                  "Halt ich meine Seelen für;",
+                  "Aber Fleisch und Blut zu zwingen,",
+                  "Und das Gute zu vollbringen,",
+                  "Folgt gar nicht, wie es soll:",
+                  "Was ich nicht will, tu ich wohl."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 43—45.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "43-45"
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Die Litanei."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, Der Du meine Seele",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Du hast weggenommen",
+                  "Meine Schulden durch Dein Blut,",
+                  "Laß es, o Erlöser, kommen",
+                  "Meiner Seligkeit zu gut:",
+                  "Und dieweil Du sehr zerschlagen",
+                  "Hast die Sünd am Kreuz getragen,",
+                  "Ei, so jüngst mich endlich frei,",
+                  "Daß ich ganz Dein eigen sei."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "3. Buch Mose 19, 11—18.",
+            "buch": "3_mose",
+            "kapitel": 19,
+            "verse": "11-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "143"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 9, 16—22.",
+            "buch": "hebraeer",
+            "kapitel": 9,
+            "verse": "16-22"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "O Geheimnis der Erlösung, großes Werk der Gnade, Werk unendlicher Liebe und Geduld! Das hat der Mensch nicht verdient, das konnte kein Engel vollbringen, haben doch die Propheten bewundert, die Apostel gesehen und verkündigt, die Gläubigen und Auserwählten zu allen Zeiten entzündet. Die Herzen stimmt zur Andacht, reinigt das Gemüte, zieht auf gen Himmel, zieht ab von der Welt, führet zu Christo und vereinet mit Christo. Ach, was nützte es mir, wenn ich nicht durch das Blut meines HErrn versöhnt wäre! Vater der Barmherzigkeit und Gott aller Trostes, um den verdammten Knecht zu erlösen, hast Du den Sohn dahingegeben! O über die wunderbare Liebe, die Mensch und Engel nicht begreifen kann!",
+            "quelle": "Thomas von Kempen"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Der Du meine Seele",
+            "strophen": [
+              {
+                "links": [
+                  "Nun, ich weiß, Du wirst mir stillen",
+                  "Mein Gewissen, das mich plagt;",
+                  "Es wird Deine Treu erfüllen",
+                  "Was Du Selber hast gesagt:",
+                  "Daß auf dieser weiten Erden",
+                  "Keiner auch verloren werden,",
+                  "Sondern ewig leben soll,",
+                  "Wenn nur er ist Glaubens voll."
+                ],
+                "rechts": [
+                  "HErr, ich glaube, hilf mir Schwachen,",
+                  "Laß mich ja verderben nicht;",
+                  "Du, Du kannst mich stärker machen,",
+                  "Wenn mich Sünd und Tod ansicht;",
+                  "Deiner Güte will ich trauen,",
+                  "Bis ich fröhlich werde schauen",
+                  "Dich, HErr Jesu, nach dem Streit",
+                  "In der süßen Ewigkeit."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

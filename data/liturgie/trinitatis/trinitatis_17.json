@@ -1,0 +1,1079 @@
+{
+  "id": "trinitatis_17",
+  "titel": "17. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "17. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        690,
+        695
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119",
+              "93"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Heut ist des HErren Ruhetag",
+            "melodie": "44",
+            "strophen": [
+              {
+                "links": [
+                  "Heut ist des HErren Ruhetag,",
+                  "Vergesset aller Sorg und Plag,",
+                  "Treibt eure Wochenarbeit nicht,",
+                  "Kommt vor des Höchsten Angesicht.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Erkennt mit dankbarem Gemüt,",
+                  "Wie Er allein durch Seine Güt",
+                  "Uns täglich schützet und ernährt,",
+                  "Und manches Unglück von uns kehrt.",
+                  "Hallelujah!"
+                ]
+              },
+              {
+                "links": [
+                  "Rühmt unsers Gottes Meistertat,",
+                  "Da Er aus Nichts geschaffen hat",
+                  "Den Himmel und die ganze Welt,",
+                  "Und was dieselbe in sich hält.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Denkt auch, daß heut geschehen ist",
+                  "Die Auferstehung Jesu Christ,",
+                  "Dadurch die wahre Freudigkeit",
+                  "In aller Not uns bereit ist.",
+                  "Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 14, 1—11.",
+            "buch": "lukas",
+            "kapitel": 14,
+            "verse": "1-11"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Mehr als die stille Ruhe des Sabbaths, mehr als heilige Uebungen, Gottesdienst im allereigentlichsten Sinne ist dem HErrn: Uebung der Barmherzigkeit. Kranke heilen ist Ihm mehr als sie feiern; Kranke pflegen, den Hungrigen das Brot brechen, Nackende kleiden, unabwendbare Arbeiten der Liebe vollenden ist Ihm Sabbatharbeit. Die Liebe hat sogar Erlaubnis, an dem Orte der Predigt und Lehre, während Predigt und Lehre schallt, ja während die Sakramente verwaltet werden, vorüberzugehen. — Sieh da Ausnahmen der rechten Lehre, die nicht in eigenem Nutzen, sondern in dem Nächsten ihren Grund haben. Um Deines Nächsten willen, wenn du als Arzt zu Deinem Bette beistehen kannst, oder als Pfleger, oder als Tröster gerufen bist — oder wenn du in Todesnöten beistehen kannst, oder früher nicht, später nicht doch so gut, — um solcher Liebeswerke willen bist du ohne Sünde, wenn du in der Versammlung des Eigentums fehlst. Sieh, so ist die Liebe Königin im Reiche der Wahrheit, aber der Eigennutz im Reiche des Wahns.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus griff den Wassersüchtigen an, und heilte ihn,",
+              "Und ließ ihn gehen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, regiere uns durch Deinen Geist, daß wir nicht hoffärtig seien, sondern Dein Wort am Sabbath mit Andacht hören, an Christum Deinen Sohn glauben, und unserm Nächsten gern behilflich seien, Deiner gnädigen Erhörung von Herzen uns trösten, auch endlich dazu gelangen mögen; um Christi unsers HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Heut ist des HErren Ruhetag",
+            "strophen": [
+              {
+                "links": [
+                  "O lieber Heiland Jesu Christ,",
+                  "Der Du vom Tod erstanden bist,",
+                  "Nicht unsre Herzen auf zu Dir,",
+                  "Daß sich der Sündenschlaf verlier.",
+                  "Hallelujah!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 129-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 8, 10—13.",
+            "buch": "prediger",
+            "kapitel": 8,
+            "verse": "10-13"
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, wir bitten Dich: gib Deinem Volk, daß es alle teuflische Vergiftung meide und Dir, unserm Gott, allein mit reinem Herzen nachfolge; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 4, 1—6.",
+            "buch": "epheser",
+            "kapitel": 4,
+            "verse": "1-6"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Nun sind in der Welt mancherlei Völker; aber die Christen sind ihr besonderes, besonderes Volk, und heißen nicht schlechthin Ecclesia, Kirche oder Volk, sondern Sancta Catholica Christiana, das ist: ein christliches, heiliges Volk, das da glaubt an Christum, nicht allein durch die Vergebung der Sünden, sondern es ist auch heilig, darum es ein christlich Volk heißt, und hat den Heiligen Geist, der sie täglich heiligt, nicht allein durch Abtun Aussegen und Töten der Sünden, davon sie ein heiliges Volk heißen, sondern auch durch Zutun Ausrichten Guts. Und ist nun die heilige christliche Kirche so viel als die heilige Christenheit, das Christen und heilig sei, oder wie man es zu reden pflegt: die heilige Christenheit, oder die ganze Christenheit. Daher nennt man es Catholicum.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Heut ist des HErren Ruhetag",
+            "strophen": [
+              {
+                "links": [
+                  "Gib Deiner Auferstehung Kraft,",
+                  "Daß dieser Trost ja bei uns haft,",
+                  "Und wir uns drauf verlassen fest,",
+                  "Wenn uns nun alle Welt verläßt.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "O heilger Geist, laß uns Dein Wort",
+                  "So hören heut und immerfort,",
+                  "Daß sich in uns durch Deine Lehr",
+                  "Glaub Lieb und Hoffnung reichlich mehr.",
+                  "Hallelujah!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer sich selbst erhöhet, der soll erniedriget werden;",
+              "Und wer sich selbst erniedriget, der soll erhöhet werden. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Deine Gnade, o HErr, möge uns immer zuvorkommen und uns begleiten, und uns immer zu allem guten Werk anleiten. Lieber Vater im Himmel, Du rechter Vater über alles was Kinder heißt im Himmel und auf Erden: sammle Deine Kinder im rechten Glauben! Du bist die Liebe; o, verbinde sie in brüderlichem Geist, daß sie einander in Geduld und Sanftmut vertragen. Heile die zerrissene Kirche und baue ihre Lücken. Wehre dem Unglauben und Aberglauben, daß Deine Wahrheit den Sieg gewinne. Segne Deinen heiligen Geist über die Christenheit aus, daß Buße und die Liebe zunehme. Behüte die Christen, die sich nach dem Namen Deines Sohnes nennen, vor Haß und Bosheit. Und wenn wir hier auf Erden nicht wieder eins werden, gib uns den Geist der Sanftmut in Worten und Gedanken. Du aber, HErr Jesu, Der Du um die Einigkeit Deiner Erlösten gebeten hast, erinnere uns daran, daß Du ein guter Hirt bist, Der alle Gläubigen zu einer einzigen großen Herde jammeln willst, und führe uns Alle der Seligkeit entgegen, wo der Streit aufhört und ewiger Friede ist.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        694,
+        697
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "50"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies sind die heilgen zehn Gebot",
+            "strophen": [
+              {
+                "links": [
+                  "Dies sind die heilgen zehn Gebot,",
+                  "Die uns gab unser HErre Gott",
+                  "Durch Mosen Seinen Diener treu,",
+                  "Hoch auf dem Berg Sinai.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Ich bin Allein dein Gott und HErr,",
+                  "Kein Götter sollst du haben mehr;",
+                  "Du sollst Mir ganz vertrauen dich,",
+                  "Von Herzensgrund lieben Mich.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Du sollst nicht führen zu Unehrn",
+                  "Den Namen Gottes, deines HErrn;",
+                  "Du sollst nicht preisen noch gut",
+                  "Ohn was Gott Selbst redt und tut.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Du sollst heiligen den siebten Tag,",
+                  "Daß du und dein Haus ruhen mag;",
+                  "Du sollst von deim Tun lassen ab,",
+                  "Daß Gott Sein Werk in dir hab.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Du sollst ehrn und gehorsam sein",
+                  "Dem Vater und der Mutter dein,",
+                  "Und wo dein Hand ihn'n dienen kann,",
+                  "So wirst du lang Leben han.",
+                  "Kyrieleis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 1—8.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "1-8"
+          },
+          {
+            "typ": "gebet",
+            "text": "Barmherziger Gott und Vater, wir danken Dir, daß Du den Sabbath gestiftet hast. Du willst nicht, daß wir in der Mühsal der Erde verkommen und verderben. So viele aber dahin ohne Sonntag, sind Sklaven der Erde und der Vergänglichkeit. Wecke in ihnen den Sinn für den Frieden des Sabbaths. Gib Deiner Kirche auf Erden Deinen Geist, daß sie die Herzen wieder erfülle mit Hunger und Durst nach Deinem Wort. Rühre das Gewissen, das Unrecht wehre und dem Seufzen der Mühseligen und Geplagten ein Ende mache. Wir möchten gerne gesegnet sein; denn Dein Segen ist besser als alles Mühen. Schenk uns, Du treuer Gott, Glauben und Gebet, kirchlichen Sinn und heiligen Geist. Hilf, daß der Sonntag mit seinem Frieden bei uns wieder zu Ehren komme und Dein Volk Dir freudig diene im heiligen Schmuck.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Dies sind die heilgen zehn Gebot",
+            "strophen": [
+              {
+                "links": [
+                  "Du sollst nicht töten zorniglich,",
+                  "Nicht hassen, noch selbst rächen dich,",
+                  "Geduld haben und sanften Mut,",
+                  "Und auch dem Feind tun das Gut.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Dein Eh sollst du bewahren rein,",
+                  "Daß auch dein Herz kein Andre mein,",
+                  "Und halten keusch das Leben dein",
+                  "Mit Zucht und Mäßigkeit fein.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Du sollst nicht stehlen Geld noch Gut,",
+                  "Nicht wuchern Jemands Schweiß und Blut;",
+                  "Du sollst auftun dein milde Hand",
+                  "Den Armen in deinem Land.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Du sollst nicht falscher Zeuge sein,",
+                  "Nicht lügen auf den Nächsten dein;",
+                  "Sein Unschuld sollst du auch retten",
+                  "Und sein Schand nicht weiter breiten.",
+                  "Kyrieleis."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 1—6.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "7"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 4, 9—15.",
+            "buch": "hebraeer",
+            "kapitel": 4,
+            "verse": "9-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies sind die heilgen zehn Gebot",
+            "strophen": [
+              {
+                "links": [
+                  "Du sollst deins Nächsten Weib und Haus",
+                  "Begehren nicht, noch etwas draus;",
+                  "Du sollst ihm wünschen alles Gut,",
+                  "Wie dir dein Herz selber tut.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Die Gebot all uns geben sind,",
+                  "Daß du dein Sünd, o Menschenkind,",
+                  "Erkennen sollst, und lernen wohl,",
+                  "Wie man vor Gott leben soll.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Das hilf uns der HErr Jesus Christ,",
+                  "Der unser Mittler worden ist!",
+                  "Es ist mit unserm Tun verlorn,",
+                  "Verdienen doch eitel Zorn.",
+                  "Kyrieleis."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        698,
+        700
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "37"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr, bringt uns zusammen",
+            "melodie": "104",
+            "strophen": [
+              {
+                "links": [
+                  "Dein Wort, o HErr, bringt uns zusammen,",
+                  "Daß wir in der Gemeinschaft stehn;",
+                  "Es läßt an uns die selgen Flammen",
+                  "Des Glaubens und der Liebe sehn.",
+                  "Wir werden durch das Wort der Gnaden",
+                  "Auch zur Gemeinschaft jener Schar,",
+                  "Die bei dem HErrn beständig war,",
+                  "Gelobt und kräftig eingeladen."
+                ],
+                "rechts": [
+                  "Nur Menschen, die von Gott geboren,",
+                  "Die unter e i n e m Haupte stehn,",
+                  "Die hat der HErr sich auserkoren,",
+                  "Die läßt Er Wunderliebe sehn.",
+                  "Gemeinschaft mit dem Vater haben",
+                  "Und mit dem Sohn im Heilgen Geist,",
+                  "Das ist was ihre Seele speist,",
+                  "Nur das kann sie vollkommen laben."
+                ]
+              },
+              {
+                "links": [
+                  "Der Glaubensgrund, auf dem wir stehen,",
+                  "Ist Christus und Sein teures Blut;",
+                  "Das einge Ziel, darauf wir sehen,",
+                  "Ist Christus, unser höchstes Gut.",
+                  "Sein Wort die Regel, die wir kennen,",
+                  "Nicht dieser oder jener Ort:",
+                  "Das ist's, was wir mit einem Wort",
+                  "Die heilige Gemeinde nennen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 13, 1—9.",
+            "buch": "matthaeus",
+            "kapitel": 13,
+            "verse": "1-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr, bringt",
+            "strophen": [
+              {
+                "links": [
+                  "Der Vater liebt und herzt die Kinder",
+                  "Und schenkt den Geist, der Abba schreit;",
+                  "Des Sohnes Treue schmückt die Sünder",
+                  "Mit ewger Gerechtigkeit;",
+                  "Der heilge Geist tritt mit dem Oele",
+                  "Des Friedens und der Freude zu:",
+                  "Das Herze schmecket Gottes Ruh,",
+                  "Die Kraft durchdringet Leib und Seele."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 7—11.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "7-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "124"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 11, 17—22.",
+            "buch": "1_korinther",
+            "kapitel": 11,
+            "verse": "17-22"
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr, bringt",
+            "strophen": [
+              {
+                "links": [
+                  "Die e i n e s HErren Leib gegessen,",
+                  "Sie stehen auch für e i n e n Mann;",
+                  "Macht sich der Feind an ein vermessen,",
+                  "Sobald greift sie sie Alle an.",
+                  "Sie fallen betend Gott zu Füßen",
+                  "Und siegen in des HErren Kraft;",
+                  "Sie wollen von der Brüderschaft",
+                  "Der Heiligen nicht die Kleinste missen."
+                ],
+                "rechts": [
+                  "Sie wollen mit vereinten Herzen",
+                  "Durchs Thränental ins Vaterland,",
+                  "Versüßen sich die bittern Schmerzen,",
+                  "Eins reicht dem Andern seine Hand,",
+                  "Und wollen sich mit Freuden dienen",
+                  "Mit Herz und Zunge, Hand und Fuß",
+                  "Bis zu dem völligen Genuß",
+                  "Des großen Guts: Ich Ich in ihnen!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        700,
+        703
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Einer ist König, Immanuel siegt",
+            "melodie": "35",
+            "strophen": [
+              {
+                "links": [
+                  "Einer ist König, Immanuel siegt,",
+                  "Betet ihr Feinde, und gebet die Flucht!",
+                  "Zion hingegen fühl innig vergnügt,",
+                  "Labe den Herzen mit himmlischer Frucht.",
+                  "Ewiges Leben, unendlichen Frieden,",
+                  "Freude die Fülle hat Er uns beschieden."
+                ],
+                "rechts": [
+                  "Halte, o Seele, im Leiden fein stille,",
+                  "Schlage die Rute des Vaters nicht aus;",
+                  "Bitte und schöpfe aus göttlicher Fülle",
+                  "Kräfte, zu siegen im Kampfe und Straus.",
+                  "Fluten der Trübsal veranlaßt, vergehen;",
+                  "Jesus der Treue bleibt ewig zu stehen."
+                ]
+              },
+              {
+                "links": [
+                  "Stärkte die Hände, ermuntert die Herzen,",
+                  "Traut mit Freuden dem ewigen Gott;",
+                  "Jesus die Liebe versüßet die Schmerzen,",
+                  "Reizet zu Neugen, sein Jammer und Not;",
+                  "Ewig muß unsre Seele genesen",
+                  "In den holdseligen lieblichen Wesen."
+                ],
+                "rechts": [
+                  "Zion, wie lange hast du nun geweinet?",
+                  "Auf, und erhebe dein sinkendes Haupt!",
+                  "Siehe: die Sonne der Freuden erscheinet",
+                  "Tausendmal heller als du es geglaubt.",
+                  "Zion der lebet, die Liebe regieret,",
+                  "Die zu den Quellen des Lebens dich führet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 19, 14—15.",
+            "buch": "johannes",
+            "kapitel": 19,
+            "verse": "14-15"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Einer ist König",
+            "strophen": [
+              {
+                "links": [
+                  "Laufet nicht hin und her — eilet zur Quelle!",
+                  "Jesus der bittet: Kommt Alle zu mir!",
+                  "Sehet: wie lieblich, wie lauter und helle",
+                  "Fließen die Ströme des Lebens allhier.",
+                  "Trinket, ihr Lieben, und werdet erquicket:",
+                  "Hier ist Erlösung für alles was drücket."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "57"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 12—15.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "12-15"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 14, 12—16.",
+            "buch": "offenbarung",
+            "kapitel": 14,
+            "verse": "12-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Einer ist König",
+            "strophen": [
+              {
+                "links": [
+                  "Streitet nun unverzagt, seht auf die Krone,",
+                  "Die euch der König des Himmels anbeut;",
+                  "Selbsten Jehovah wird Siegern zum Lohne,",
+                  "Wahrlich, dies Kleinod verlohnt sich den Streit.",
+                  "Streitet nur unverzagt, seht auf die Krone,",
+                  "Selbsten Jehovah wird Siegern zum Lohne."
+                ],
+                "rechts": [
+                  "Herrliches Lämmlein, da wird man sehen",
+                  "Eine gewaltige fliegende Schar;",
+                  "Deine unendliche Hoheit erhöhen;",
+                  "Alles was Odem hat ruft: Er ists gar!",
+                  "Sehet, wie Kronen und Thronen hinfallen,",
+                  "Höret, wie donnernde Stimmen erschallen:"
+                ]
+              },
+              {
+                "links": [
+                  "Reichtum Kraft Weisheit Preis Stärke Lob Ehre",
+                  "Gott, und dem Lamm, und dem Heiligen Geist!",
+                  "Wenn ich da sünde, o wenn ich da wäre!",
+                  "Springet ihr Bande, ihr Fesseln zerreißt!",
+                  "Amen, die Liebe wird wahrlich erhören.",
+                  "Alles was in mir ist lobe den HErren!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        703,
+        705
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Der Du bist Alleine",
+            "melodie": "11",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Der Du bist Alleine",
+                  "Haupt und König der Gemeine,",
+                  "Segne mich Dein armes Glied,",
+                  "Wollst mir neuen Einfluß geben",
+                  "Deines Geistes, Dir zu leben;",
+                  "Stärke mich durch Deine Güt."
+                ],
+                "rechts": [
+                  "Ach Dein Lebensgeist durchdringe,",
+                  "Gnade Kraft und Segen bringe",
+                  "Deinen Gliedern allzumal,",
+                  "Wo sie hier zerstreuet wohnen",
+                  "Unter allen Nationen,",
+                  "Die Du kennest überall."
+                ]
+              },
+              {
+                "links": [
+                  "O wie lieb ich, HErr, die Deinen,",
+                  "Die Dich suchen, Die Dich meinen;",
+                  "O wie fröhlich sind sie mir!",
+                  "Du weißt, wie mich oft erquicket,",
+                  "Wenn ich Seelen erblicket,",
+                  "Die sich ganz ergeben Dir."
+                ],
+                "rechts": [
+                  "Ich umfasse Die Dir dienen,",
+                  "Ich vereinge mich mit ihnen;",
+                  "Und vor Deinem Angesicht",
+                  "Wünsch ich Zion tausend Segen:",
+                  "Stärke sie in Deinen Wegen,",
+                  "Leite sie in Deinem Licht!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 19, 19—22.",
+            "buch": "johannes",
+            "kapitel": 19,
+            "verse": "19-22"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, Der Du bist alleine",
+            "strophen": [
+              {
+                "links": [
+                  "Die in Kreuz und Leiden leben,",
+                  "Stärke, daß sie sich ergeben,",
+                  "Ihre Seel in Deine Hand;",
+                  "Laß sie dadurch werden kleiner,",
+                  "Und von allen Schlacken reiner,",
+                  "Lauterlich in Dich gewandt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "76"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 16—19.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "16-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "71"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 21, 6—9.",
+            "buch": "offenbarung",
+            "kapitel": 21,
+            "verse": "6-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Der Du bist alleine",
+            "strophen": [
+              {
+                "links": [
+                  "Laß die Deinen auf Erden",
+                  "Ganz nach Deinem Herzen werden;",
+                  "Mache Deine Kinder schön",
+                  "Abgeschieden klein und stille,",
+                  "Sanft einfältig, wie Dein Wille",
+                  "Und wie Du sie gern willst sehn."
+                ],
+                "rechts": [
+                  "Sonderlich gedenke Deren,",
+                  "Die es, HErr, von mir begehren,",
+                  "Daß ich für sie beten soll;",
+                  "Auf Dein Herz will ich sie legen,",
+                  "Gib Du Jedem solchen Segen,",
+                  "Wie es not; Du kennest sie wohl."
+                ]
+              },
+              {
+                "links": [
+                  "Ach Du hast uns teur erworben,",
+                  "Da Du bist am Kreuz gestorben;",
+                  "Denke, Jesu, wir sind Dein!",
+                  "Halt uns fest, solang wir leben,",
+                  "Und in dieser Wüste schweben,",
+                  "Laß uns nimmermehr allein."
+                ],
+                "rechts": [
+                  "Bis wir einst mit allem Frommen",
+                  "Dort bei Dir zusammenkommen",
+                  "Und, von allen Flecken rein,",
+                  "Da vor Deinem Throne stehen,",
+                  "Uns in Dir, Dich in uns sehen,",
+                  "Ewig eins in Dir zu sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        706,
+        707
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O daß doch bald Dein Feuer",
+            "melodie": "43",
+            "strophen": [
+              {
+                "links": [
+                  "O daß doch bald Dein Feuer",
+                  "Entzünden Himmelsfunken,",
+                  "Du unaussprechlich Liebender,",
+                  "Und bald die ganze Welt erkennte,",
+                  "Daß Du König Gott und HErr!"
+                ],
+                "rechts": [
+                  "Und noch entzünden Himmelsfunken",
+                  "So manches kalte tote Herz,",
+                  "Und machen Durstige freudetrunken,",
+                  "Und heilen Sünd- und Höllenschmerz;"
+                ]
+              },
+              {
+                "links": [
+                  "Zwar brennt es schon in heller Flamme",
+                  "Jetzt hier, jetzt dort in Ost und West,",
+                  "Die dem für uns erwürgten Lamme",
+                  "Ein herrlich Pfingst- und Freudenfest."
+                ],
+                "rechts": [
+                  "Verzehre Stolz und Eigenliebe",
+                  "Und sondern ab was unrein ist,",
+                  "Und mehren jener flammen Triebe,",
+                  "Die nur den großen Einen küßt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 10—13.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "10-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O laß doch bald Dein Feuer",
+            "strophen": [
+              {
+                "links": [
+                  "Erwecke, läutre und vereine",
+                  "Des ganzen Christenvolkes Schar",
+                  "Und mach in Deinem Gnadenscheine",
+                  "Dein Heil noch Jedem offenbar."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "87"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 20—24.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "20-24"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "77"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 1, 15—20.",
+            "buch": "apostelgeschichte",
+            "kapitel": 1,
+            "verse": "15-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "O daß doch bald Dein Feuer",
+            "strophen": [
+              {
+                "links": [
+                  "Schmelz alles, was sich trennt, zusammen,",
+                  "Und baue Deinen Tempel aus;",
+                  "Laß leuchten Deine heilgen Flammen",
+                  "Durch Deines Vaters ganzes Haus."
+                ],
+                "rechts": [
+                  "Dann tönen Dir von Millionen",
+                  "Der Liebe Jubelharmonien,",
+                  "Und Alle, die auf Erden wohnen,",
+                  "Knien vor dem Thron des Lammes hin."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 17. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        708,
+        710
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Du zum Heil erschienen",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "Der Du zum Heil erschienen",
+                  "Der allerärmsten Welt,",
+                  "Und von den Cherubinen",
+                  "Zu Sündern Dich gesellt,",
+                  "Den sie mit freschem Stolze",
+                  "Verhöhnt für Seine Huld,",
+                  "Als Du am dürren Holze",
+                  "Versöhntest ihre Schuld:"
+                ],
+                "rechts": [
+                  "Damit wir Kinder würden",
+                  "Ginge Du vom Vater aus,",
+                  "Nahmst auf Dich unsre Bürden",
+                  "Und bautest uns ein Haus;",
+                  "Von Westen und von Süden,",
+                  "Von Morgen ohne Zahl",
+                  "Sind Gäste hin beschieden",
+                  "Zu Deinem Abendmahl."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 14—17.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "14-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Du zum Heil erschienen",
+            "strophen": [
+              {
+                "links": [
+                  "Drum kann nicht Friede werden,",
+                  "Bis Deine Liebe siegt,",
+                  "Und dieser Kreis der Erden",
+                  "Zu Deinen Füßen liegt;",
+                  "Bis Du im neuen Leben",
+                  "Die ausgesöhnte Welt",
+                  "Dem, Der sie Dir gegeben,",
+                  "Vors Angesicht gestellt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 5, 25—30.",
+            "buch": "5_mose",
+            "kapitel": 5,
+            "verse": "25-30"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 1, 21—26.",
+            "buch": "apostelgeschichte",
+            "kapitel": 1,
+            "verse": "21-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Du zum Heil erschienen",
+            "strophen": [
+              {
+                "links": [
+                  "Und siehe: tausend Fürsten",
+                  "Mit Völkern ohne Licht",
+                  "Stehn in der Nacht und dürsten",
+                  "Nach Deinem Angesicht;",
+                  "Auch sie hast Du gearbeit",
+                  "In Deinen Priesterschild,",
+                  "Am Brunnquell sie zu laben,",
+                  "Der Dir vom Herzen quillt."
+                ],
+                "rechts": [
+                  "So sprach Dein göttlich Werde,",
+                  "Laß Deinen Odem wehn,",
+                  "Daß auf die finstern Erde",
+                  "Die Toten auferstehn;",
+                  "Daß, wo man Götzen frönet,",
+                  "Und vor den Teufeln kniet,",
+                  "Ein williges Volk versöhnet",
+                  "Zu Deinem Tempel zieht."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

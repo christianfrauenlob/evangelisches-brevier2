@@ -1,0 +1,967 @@
+{
+  "id": "trinitatis_18",
+  "titel": "18. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "18. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        711,
+        714
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122",
+              "100"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Licht vom Licht, o Vaters Glanz",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "O Licht vom Licht, o Vaters Glanz,",
+                  "O Wahrheit und das Leben,",
+                  "Der Du als Gott und Mensch Dich ganz",
+                  "Zum Opfer hingegeben",
+                  "Für uns, und darauf Deine Macht",
+                  "Aus Deines großen Kraft",
+                  "Wie ein Held angenommen."
+                ],
+                "rechts": [
+                  "Derselbe hat Dich Seinen Sohn",
+                  "Gesetzt zu Seiner Rechten,",
+                  "Daß Du auf Deinem Ehrenthron",
+                  "Für Deine Braut sollst fechten,",
+                  "Und ihrer Feinde List und Werk",
+                  "Durch Deine große Löwenstärk",
+                  "Zu Spott und Schanden machen."
+                ]
+              },
+              {
+                "links": [
+                  "Als Hoherpriester stirbest Du,",
+                  "Als König hast Du wieder",
+                  "Verlassen Deine Todesruh",
+                  "Und mit Dir Deine Glieder",
+                  "Der Höll entführt, hast Deinen Lauf",
+                  "Nach ausgestandner Kreuzestauf",
+                  "Zum Vater fortgesetzt."
+                ],
+                "rechts": [
+                  "So hat durch Todesleiden Dich",
+                  "Mit Preis und Schmuck gekrönet,",
+                  "O Gott, Dein Gott, und wunderlich",
+                  "Den Stein, so da verhöhnet,",
+                  "Zum Eckstein Seiner Kirch erwählt,",
+                  "Zum Ehrenhaupt, das da beseelt",
+                  "Die Glieder Seines Leibes."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 22, 34—46.",
+            "buch": "matthaeus",
+            "kapitel": 22,
+            "verse": "34-46"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wenn erst das Gesetz uns zur Buße gebracht hat, dann kann uns das Evangelium Vergebung der Sünde predigen. Wenn wir traurig geworden, fassen wir den Trost; wenn wir hungrig geworden, die Speise. Das Evangelium ist nur für Bußfertige; wobei den unbußfertigen Leuten ist es ein Rätsel und ein versiegelter Brief. Wobei dem immer gleichmäßig Gesetz und Evangelium erfährt, der wird in dem Maße getröstet, als er einen Schritt weiter in der Buße und einen weiter in dem Glauben tut; so kommt man immer weiter und wandelt eine sichere Bahn. Und so bleibe es bei uns bis ans Ende des Lebens. Immer Buße, immer Trost — das wahre Leben ist ein getröstetes Elend. Immer Gesetz, immer Evangelium. Stab Weh, Stab Sanft — so weidet der Erzhirte Jesus.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Welches ist das vornehmste Gebot um Christus?",
+              "Du sollst lieben Gott Deinen HErrn."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott himmlischer Vater, Der Du uns Deinen Willen, dem wir nachkommen sollen, in den zwei Tafeln des Gesetzes offenbarest: gib, daß wir Dich mit ganzem Herzen Seele und Gemüte fürchten und lieben, und unsern Nächsten alles Gute erzeigen, und wo wir damit sündigen, so flehe Deinen Sohn Jesum Christum an, Der uns von aller Schuld los, und bringe uns dahin, da wir ohne Hindernis mit Freudigkeit Deinen heiligen Willen vollbringen; um Jesu Christi, Deines lieben Sohnes, unsres HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Licht vom Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Wir sind wohl selig, und von Dir",
+                  "Inwendig schön geschmücket;",
+                  "Doch sind wir uns verborgen schier,",
+                  "Weil uns noch täglich drücket",
+                  "Versuchung Schwachheit Furcht und Not,",
+                  "Und dieser Leib zu Staub und Kot",
+                  "Noch dermaleinst muß werden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Chronika 1, 7—12.",
+            "buch": "2_chronik",
+            "kapitel": 1,
+            "verse": "7-12"
+          },
+          {
+            "typ": "gebet",
+            "text": "Ach HErr, wir bitten Dich: laß die Wirkung Deiner großen Barmherzigkeit unsre Herzen regieren, denn ohne Dich können wir Dir nicht gefallen; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 1, 4—9.",
+            "buch": "1_korinther",
+            "kapitel": 1,
+            "verse": "4-9"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Darin stimmen alle rechtschaffenen heiligen Bücher überein, daß sie allesamt Christum predigen und treiben. Auch ist das der rechte Prüfstein, alle Bücher zu tadeln, wenn man sieht, ob sie Christum treiben oder nicht, sintemal alle Schrift Christum zeigt, Röm. 3, und Paulus nichts denn Christum wissen will, 1. Kor. 2, 2. Was Christum lehrt, das ist noch apostolisch, wenn gleich S. Petrus oder Paulus lehrte. Wiederum: was Christum nicht predigt, das wäre nicht apostolisch, und wenn's gleich Judas, Hannas, Pilatus und Herodes täte.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Licht vom Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Also bin ich, HErr Christ,",
+                  "Mit Dir in Gott verborgen,",
+                  "So lange, bis Du kommst hervor,",
+                  "Und vollends von den Sorgen",
+                  "Dein Zion, die geliebte Braut,",
+                  "Darauf Dein freundlich Auge schaut,",
+                  "Erlösen und befreien."
+                ],
+                "rechts": [
+                  "Dann will ich Dir, o Gotteslamm,",
+                  "Mit Pracht entgegengehen,",
+                  "Wie eine Braut dem Bräutigam,",
+                  "Und Dir zur Rechten stehen;",
+                  "Da soll Dein Esther frei vor Dir",
+                  "Im gläsern Meere für und für",
+                  "Auf ihrer Harfe spielen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Gib — wir bitten Dich, o HErr — Deinem Volk, daß es die teuflische Ansteckung meide und Dir, Der Du Allein Gott bist, mit reinem Gemüte folge; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        714,
+        717
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "47"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach wie nichtig, Ach wie flüchtig",
+            "melodie": "6",
+            "strophen": [
+              {
+                "links": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Ist der Menschen Leben!",
+                  "Wie ein Nebel bald entstehet",
+                  "Und auch wieder bald vergehet,",
+                  "So ist unser Leben, sehet."
+                ],
+                "rechts": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Ist der Menschen Freude!",
+                  "Wie sich wechseln Stund und Zeiten,",
+                  "Licht und Dunkel, Fried und Streiten,",
+                  "So sind unsre Fröhlichkeiten!"
+                ]
+              },
+              {
+                "links": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Sind der Menschen Tage!",
+                  "Wie ein Strom beginnt zu rinnen,",
+                  "Und im Laufen nicht hält innen,",
+                  "So fährt unsre Zeit von hinnen."
+                ],
+                "rechts": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Ist der Menschen Schöne!",
+                  "Wie ein Blümlein bald vergehet,",
+                  "Wenn ein rauhes Lüftlein wehet,",
+                  "So ist unsre Schönheit, sehet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 10, 17—27.",
+            "buch": "markus",
+            "kapitel": 10,
+            "verse": "17-27"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Jesu Christe, nimm uns in Deine Schule und zeig uns, wo es in unserm innern Leben fehlt. Behüte uns vor Selbstgerechtigkeit und erfüll uns mit Demut, daß wir Deine Gnade gern hinnehmen. Mach uns treu und gewissenhaft, Deine Gebote und Befehle mit allem Ernst zu erfüllen. Wenn wir irren und fehlen, behalt uns doch lieb, und verwirf uns nicht. O HErr, richte unsre mammonslüsterne Zeit, daß sie ihre Sünde erkenne, und gib den Reichen einen freudigen Sinn, viel Gutes zu tun und Dir zu dienen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach wie nichtig",
+            "strophen": [
+              {
+                "links": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Ist der Menschen Ehre!",
+                  "Ueber Den, dem man hat müssen",
+                  "Heut die Hände höflich küssen,",
+                  "Geht man morgen gar mit Füßen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 21, 18—21.",
+            "buch": "5_mose",
+            "kapitel": 21,
+            "verse": "18-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 2, 10—17.",
+            "buch": "jakobus",
+            "kapitel": 2,
+            "verse": "10-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Nun wollen wir aufs andere Teil, auf den äußerlichen Menschen. Hier wollen wir antworten allen Denen, die sich ärgern aus den vorigen Reden und zu sprechen pflegen: Ei, so der Glaube alle Dinge ist und gilt allein genugsam fromm zu machen, warum sind denn die guten Werke geboten? So wollen wir guter Ding sein und nichts tun. Nein, lieber Mensch, nicht also! Es wäre wohl also, wenn du allein ein innerlicher Mensch wärest und ganz geistlich und innerlich geworden, welches nicht geschieht bis am jüngsten Tag. Es ist und bleibt auf Erden dieser Unterschied und Zunehmen, das heißt es der Apostel primitias spiritus, das sind die ersten Früchte des Geistes; darum gehört hierher, was droben gesagt ist: ein Christenmensch ist ein dienstbarer Mensch und Jedermann untertan; gleich wie er frei ist, darf er nichts tun, wo er Knecht ist, mag er allerlei tun.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach wie nichtig",
+            "strophen": [
+              {
+                "links": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Ist der Menschen Prangen!",
+                  "Der im Purpur hoch vermessen",
+                  "Ist als wie ein Gott gesessen,",
+                  "Dessen wird im Tod vergessen."
+                ],
+                "rechts": [
+                  "Ach wie nichtig,",
+                  "Ach wie flüchtig",
+                  "Sind der Menschen Sachen!",
+                  "Alles alles was wir sehen,",
+                  "Das muß fallen und vergehen.",
+                  "Wer Gott fürcht, wird ewig stehen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        718,
+        720
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, Deine Gnad",
+            "melodie": "16",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Vater, Deine Gnad,",
+                  "Die Du mir früh und spat",
+                  "So reichlich hast erwiesen,",
+                  "Die sei von mir gepriesen;",
+                  "Jetzt und zu allen Zeiten",
+                  "Will ich Dein Lob ausbreiten."
+                ],
+                "rechts": [
+                  "Auf auf, mein Herz, empor,",
+                  "Hinauf zum Engelchor",
+                  "Sollst du dich eilig schwingen,",
+                  "Und mit demselben singen",
+                  "Lob Preis Kraft Macht und Stärke",
+                  "Dem HErrn so großer Werke!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 7, 14—23.",
+            "buch": "markus",
+            "kapitel": 7,
+            "verse": "14-23"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, Deine Gnad",
+            "strophen": [
+              {
+                "links": [
+                  "Wer Christi Blut ergreift,",
+                  "Dem wird dadurch bereift",
+                  "Vergebung seiner Sünden:",
+                  "Die sind nicht mehr zu finden,",
+                  "Ihm aber wird gegeben",
+                  "Trost Friede Freud und Leben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 30, 1—7.",
+            "buch": "jeremia",
+            "kapitel": 30,
+            "verse": "1-7"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 7, 2—8.",
+            "buch": "apostelgeschichte",
+            "kapitel": 7,
+            "verse": "2-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, Deine Gnad",
+            "strophen": [
+              {
+                "links": [
+                  "Drum Seele, wenn du nun",
+                  "In allem deinem Tun",
+                  "Im Licht vor Gott wirst wandeln",
+                  "Und christgebührend handeln,",
+                  "So wird dir noch auf Erden",
+                  "Viel Guts geschenket werden."
+                ],
+                "rechts": [
+                  "Es wird dich Seine Huld",
+                  "Täglich von aller Schuld",
+                  "Und innern Greul der Sünden",
+                  "Befreien und entbinden;",
+                  "Denn wo die Sünd vergeben,",
+                  "Da ist Geist Kraft und Leben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        721,
+        722
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "65"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Alles ist an Gottes Segen",
+            "melodie": "11",
+            "strophen": [
+              {
+                "links": [
+                  "Alles ist an Gottes Segen",
+                  "Und an Seiner Gnad gelegen",
+                  "Ueber alles Geld und Gut:",
+                  "Wer auf Gott sein Hoffnung setzet,",
+                  "Der behält ganz unverletzet",
+                  "Einen freien Heldenmut."
+                ],
+                "rechts": [
+                  "Der mich hat bisher ernähret,",
+                  "Und so manches Glück bescheret,",
+                  "Ist und bleibet ewig mein;",
+                  "Der mich wunderbar geführet,",
+                  "Der mich noch leitet und regieret,",
+                  "Wird forthin mein Helfer sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 7, 24—30.",
+            "buch": "markus",
+            "kapitel": 7,
+            "verse": "24-30"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Alles ist an Gottes Segen",
+            "strophen": [
+              {
+                "links": [
+                  "Hoffnung kann das Herz erquicken;",
+                  "Was ich wünsche wird sich schicken,",
+                  "So es anders Gott gefällt.",
+                  "Meine Seele Leib und Leben",
+                  "Hab ich Seiner Gnad ergeben,",
+                  "Und Ihm alles heimgestellt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "58"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 30, 8—11.",
+            "buch": "jeremia",
+            "kapitel": 30,
+            "verse": "8-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "131"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 7, 9—16.",
+            "buch": "apostelgeschichte",
+            "kapitel": 7,
+            "verse": "9-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Alles ist an Gottes Segen",
+            "strophen": [
+              {
+                "links": [
+                  "Er weiß schon nach Seinem Willen",
+                  "Mein Verlangen zu erfüllen;",
+                  "Es hat alles seine Zeit.",
+                  "Ich hab Ihm nichts vorzuschreiben,",
+                  "Wie Gott will, so muß es bleiben,",
+                  "Wenn Gott will, bin ich bereit."
+                ],
+                "rechts": [
+                  "Soll ich länger allhier leben,",
+                  "Will Ihm nicht widerstreben;",
+                  "Ich verlasse mich auf Ihn.",
+                  "Ist doch nichts das lang bestehet,",
+                  "Alles Irdische vergehet,",
+                  "Wies fährt wie ein Strom dahin."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        723,
+        725
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf Gott, und nicht auf meinen Rat",
+            "melodie": "154",
+            "strophen": [
+              {
+                "links": [
+                  "Auf Gott, und nicht auf meinen Rat,",
+                  "Will ich mein Glücke bauen,",
+                  "Und Dem, der mich erschaffen hat,",
+                  "Mit ganzer Seele trauen;",
+                  "Er, Der die Welt",
+                  "Allmächtig hält,",
+                  "Wird mich in meinen Tagen",
+                  "Als Gott und Vater tragen."
+                ],
+                "rechts": [
+                  "Er sah von aller Ewigkeit,",
+                  "Wie viel mir nützen würde,",
+                  "Bestimme meine Lebenszeit,",
+                  "Mein Glück und meine Bürde;",
+                  "Was zagt mein Herz?",
+                  "Ist auch ein Schmerz",
+                  "Der zu des Glaubens Ehre",
+                  "Nicht zu besiegen wäre?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 19, 16—22.",
+            "buch": "matthaeus",
+            "kapitel": 19,
+            "verse": "16-22"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf Gott und nicht",
+            "strophen": [
+              {
+                "links": [
+                  "Ist nicht ein ungestörtes Glück",
+                  "Weit schwerer oft zu tragen",
+                  "Als selbst das widrige Geschick,",
+                  "Bei dessen Last wir klagen?",
+                  "Die größte Not",
+                  "Geht doch am Tod;",
+                  "Und Ehre Glück und Habe",
+                  "Verläßt mich doch im Grabe."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 30, 12—17.",
+            "buch": "jeremia",
+            "kapitel": 30,
+            "verse": "12-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "135"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 7, 17—21.",
+            "buch": "apostelgeschichte",
+            "kapitel": 7,
+            "verse": "17-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf Gott und nicht",
+            "strophen": [
+              {
+                "links": [
+                  "An dem was wahrhaft glücklich macht",
+                  "Läßt Gott zu Keinem fehlen;",
+                  "Gesundheit Ehre Glück und Pracht",
+                  "Sind nicht das Glück der Seelen.",
+                  "Wer Gottes Rat",
+                  "Vor Augen hat,",
+                  "Der wird ein gut Gewissen",
+                  "Die Trübsal auch versüßen."
+                ],
+                "rechts": [
+                  "Was ist des Lebens Herrlichkeit?",
+                  "Wie bald ist sie verschwunden!",
+                  "Was ist das Leiden dieser Zeit?",
+                  "Wie bald ists überwunden!",
+                  "Hofft auf den HErrn,",
+                  "Er hilft uns gern,",
+                  "Seid fröhlich, ihr Gerechten!",
+                  "Der HErr hilft Seinen Knechten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        725,
+        727
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf meinen lieben Gott",
+            "melodie": "16",
+            "strophen": [
+              {
+                "links": [
+                  "Auf meinen lieben Gott",
+                  "Trau ich in Angst und Not,",
+                  "Der kann mich allzeit retten",
+                  "Aus Trübsal Angst und Nöten,",
+                  "Mein Unglück kann Er wenden,",
+                  "Steht alls in Seinen Händen."
+                ],
+                "rechts": [
+                  "Ob mich mein Sünd anficht,",
+                  "Will ich verzagen nicht;",
+                  "Auf Christum will ich bauen,",
+                  "Und Ihm Allein vertrauen;",
+                  "Ihm tu ich mich ergeben",
+                  "Im Tod und auch im Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 19, 23—26.",
+            "buch": "matthaeus",
+            "kapitel": 19,
+            "verse": "23-26"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf meinen lieben Gott",
+            "strophen": [
+              {
+                "links": [
+                  "O mein HErr Jesu Christ,",
+                  "Der Du so gduldig bist,",
+                  "Für mich am Kreuz gestorben,",
+                  "Hast mir das Heil erworben,",
+                  "Auch uns Allen zugleiche",
+                  "Das ewig Himmelreiche."
+                ],
+                "rechts": [
+                  "Erhöre gnädig mich,",
+                  "Mein Trost, das bitt ich Dich,",
+                  "Hilf mir am letzten Ende,",
+                  "Nimm mich in Deine Hände,",
+                  "Daß ich selig abscheide",
+                  "Zur himmlischen Freude."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "89"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 30, 18—22.",
+            "buch": "jeremia",
+            "kapitel": 30,
+            "verse": "18-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 7, 22—29.",
+            "buch": "apostelgeschichte",
+            "kapitel": 7,
+            "verse": "22-29"
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf meinen lieben Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Amen zu aller Stund",
+                  "Sprech ich aus Herzensgrund,",
+                  "Du wollest uns so leiten,",
+                  "HErr Christ, zu allen Zeiten,",
+                  "Auf daß wir Deinen Namen",
+                  "Ewiglich preisen. Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 18. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        728,
+        729
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "149"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Aus Gnaden soll ich selig werden",
+            "melodie": "119",
+            "strophen": [
+              {
+                "links": [
+                  "Aus Gnaden soll ich selig werden!",
+                  "Herz, glaubst du das, oder glaubst du das nicht?",
+                  "Was willst du dich so blöd geberden?",
+                  "Ists Wahrheit, was die Schrift verspricht,",
+                  "So muß auch dieses Wahrheit sein:",
+                  "Aus Gnaden ist der Himmel dein."
+                ],
+                "rechts": [
+                  "Aus Gnaden! Merk dies Wort: aus Gnaden!",
+                  "So oft dich deine Sünde plagt,",
+                  "So oft dir will der Satan schaden,",
+                  "So oft die Vernunft nicht fassen mag,",
+                  "Was die Vernunft nicht fassen kann,",
+                  "Das bietet dir Gott aus Gnaden an."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 19, 13—15.",
+            "buch": "matthaeus",
+            "kapitel": 19,
+            "verse": "13-15"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Aus Gnaden soll ich",
+            "strophen": [
+              {
+                "links": [
+                  "Aus Gnaden! Dieser Grund wird bleiben",
+                  "Solange Gott wahrhaftig heißt;",
+                  "Was alle Knechte Gottes schreiben,",
+                  "Was Gott in Seinem Wort anpreist,",
+                  "Worauf all unser Glaube ruht:",
+                  "Ist Gnade durch des Lammes Blut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 30, 23—24.",
+            "buch": "jeremia",
+            "kapitel": 30,
+            "verse": "23-24"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 7, 30—36.",
+            "buch": "apostelgeschichte",
+            "kapitel": 7,
+            "verse": "30-36"
+          },
+          {
+            "typ": "lied",
+            "titel": "Aus Gnaden soll ich",
+            "strophen": [
+              {
+                "links": [
+                  "Aus Gnaden! Hierauf will ich sterben,",
+                  "Ich fühle nichts, doch mir ist wohl;",
+                  "Ich kenn mein sündlichs Verderben,",
+                  "Doch auch Den, der mich heilen soll.",
+                  "Mein Geist ist froh, die Seele lacht,",
+                  "Weil mich die Gnad schon selig macht."
+                ],
+                "rechts": [
+                  "Aus Gnaden! Dies hör Sünd und Teufel!",
+                  "Ich schwinge meine Glaubensfahn,",
+                  "Und geh getrost, trotz allem Zweifel,",
+                  "Durchs rote Meer nach Kanaan;",
+                  "Ich glaub was Jesu Wort verspricht,",
+                  "Ich fühl es oder fühl es nicht."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

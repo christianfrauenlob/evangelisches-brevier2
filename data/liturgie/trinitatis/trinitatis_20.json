@@ -1,0 +1,979 @@
+{
+  "id": "trinitatis_20",
+  "titel": "20. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "20. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        753,
+        757
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "148",
+              "1"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Such, wer da will",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Such, wer da will,",
+                  "Ein ander Ziel",
+                  "Die Seligkeit zu finden!",
+                  "Mein Herz allein",
+                  "Bedacht soll sein",
+                  "Auf Christum sich zu gründen.",
+                  "Sein Wort sind wahr,",
+                  "Sein Wort sind klar,",
+                  "Sein heilger Mund",
+                  "Hat Kraft und Grund,",
+                  "All Feind zu überwinden."
+                ],
+                "rechts": [
+                  "Such, wer da will,",
+                  "Nothelfer viel,",
+                  "Die uns doch nichts erworben;",
+                  "Hier ist der Mann,",
+                  "Der helfen kann,",
+                  "Bei Dem wie nie verdorben.",
+                  "Uns wird das Heil",
+                  "Durch Ihn zuteil,",
+                  "Uns macht gerecht",
+                  "Der treue Knecht,",
+                  "Der für uns ist gestorben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 22, 1—14.",
+            "buch": "matthaeus",
+            "kapitel": 22,
+            "verse": "1-14"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "In Christo haben wir Vergebung und Leben — und wenn wir das haben, so haben wir, was wir zur Aufnahme in das ewige Reich bedürfen. So oft ich euch in meinem Amte absolviere, reiche ich euch Vergebung, sprech ich euch Christi Gerechtigkeit zu und kleide euch auch in Jesu Namen mit dem heiligen Gewande der Unschuld und Gerechtigkeit. Seid dem ihr solches glaubet, zieht ihr euch das hochzeitliche Kleid an. Kein Mensch, welcher im Glauben die Absolution empfängt und hält, wird an dem Tage der allgemeinen Schau aller Hinausgeworfenen werden. Sein Kleid rettet ihn.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Saget den Gästen: Siehe, Meine Mahlzeit habe Ich bereitet,",
+              "Kommt zur Hochzeit! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Getreuer Gott, himmlischer Vater, wir sagen Dir von Grund unsres Herzens Lob und Dank, daß Du uns zu Deiner ewigen Gnade und vortrefflichen Wohltaten Deines Sohnes Jesu Christi so fleißig einladen läßt, und bitten Dich demütiglich: Du wollest unsre Herzen mit Deinem heiligen Geist erleuchten und regieren, damit wir nicht die irdischen und vergänglichen Güter den himmlischen vorziehen, noch Deine gnadenreiche Einladung verachten, sondern uns gehorsam einstellen, mit der Unschuld Gerechtigkeit und Heiligkeit Deines Sohnes bekleiden lassen, und solch Gnadenkleid mit Sünden wider das Gewissen nicht besudeln, und dermaleinst nicht zu den Verstoßenen, sondern zu den Auserwählten gewiesen werden; um Jesu Christi, Deines lieben Sohnes, unsres HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Such, wer da will",
+            "strophen": [
+              {
+                "links": [
+                  "Ach sucht doch Den,",
+                  "Läßt alles stehn,",
+                  "Die ihr das Heil begehret;",
+                  "Er ist der HErr",
+                  "Und Keiner mehr,",
+                  "Der euch das Heil gewähret.",
+                  "Sucht Ihn all Stund",
+                  "Von Herzensgrund,",
+                  "Sucht Ihn Allein;",
+                  "Denn wohl wird sein",
+                  "Dem, der Ihn herzlich ehret."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 2, 1—8.",
+            "buch": "sprueche",
+            "kapitel": 2,
+            "verse": "1-8"
+          },
+          {
+            "typ": "gebet",
+            "text": "Ach HErr Gott, wir bitten: gib gnädiglich Deinen Gläubigen Vergebung der Sünden und Frieden, auf daß sie zugleich von allen Sünden gereinigt werden und Dir mit treuem Herzen dienen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 5, 15—21.",
+            "buch": "epheser",
+            "kapitel": 5,
+            "verse": "15-21"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wie pries ich Dich, mein Gott, da ich die Psalmen Davids las, die Lieder des Glaubens, die Töne der Gottesfurcht, die mit ihrem Schall der Aufgeblasenheit vertrieben; ich las sie als Katechumen, noch ein Neuling in der wahren Liebe zu Dir, da ich auf dem Landgute mit Alypius, der auch Katechumen war, die Ruhe hatte und die Mutter mit anhing in stiller Weiblichkeit, mit ihrem Glauben und der Sicherheit, die das Alter verleiht, mit mütterlicher Liebe, in christlicher Frömmigkeit. Wie pries ich Dich bei diesen Lobgesängen, wie ward ich durch sie zu Dir begeistert und entflammt, sie, wenn es möglich gewesen, dem ganzen Erdkreise zu verkündigen als heilsames Mittel wider den Menschen Stolz! Und doch werden sie auf dem ganzen Erdkreis gesungen, und Keiner ist, der sich vor Deiner Hitze verbirgt. — Wie habe ich geweint unter Deinen Hymnen und Gesängen, tief bewegt von dem Wohllaut der Stimmen Deiner Kirche. Jene Stimmen, die fluteten in mein Ohr, und durch sie ward die Wahrheit in mein Herz eingeflößt, und fromme Gefühle wallten in mir auf; die Tränen strömten und mir ward so selig in ihnen zu Mute.",
+            "quelle": "Augustinus"
+          },
+          {
+            "typ": "lied",
+            "titel": "Such, wer da will",
+            "strophen": [
+              {
+                "links": [
+                  "Meins Herzens Kron,",
+                  "Mein Freudensonn,",
+                  "Sollst Du, HErr Jesu, bleiben;",
+                  "Laß mich doch nicht",
+                  "Von Deinem Licht",
+                  "Durch Eitelkeit vertreiben.",
+                  "Bleib Du mein Preis,",
+                  "Dein Wort mich speis,",
+                  "Bleib Du mein Ehr,",
+                  "Dein Wort mich lehr,",
+                  "An Dich stets fest zu glauben."
+                ],
+                "rechts": [
+                  "Wend von mir nicht",
+                  "Dein Angesicht;",
+                  "Laß mich im Kreuz nicht zagen;",
+                  "Weich nicht von mir,",
+                  "Mein höchste Zier,",
+                  "Hilf mir mein Leiden tragen.",
+                  "Hilf mir zur Freud",
+                  "Nach diesem Leid;",
+                  "Hilf, daß ich mag",
+                  "Nach dieser Klag",
+                  "Dort ewig Dir Lob sagen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der König sprach zu ihm: Wie bist du hereingekommen,",
+              "Und hast doch kein hochzeitlich Kleid an?"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "In Deiner Gnade, Du erbarmungsreicher Jesu, wird unser Herz still und freudig; laß diese Gnade reichlich in unser Herz strömen. Wecke in unserm Volke und unsrer Kirche wieder die Liebe zu Deinen schönen Gottesdiensten und zur Sonntagsruhe, daß alle die Bedrückten und Bedrängten sich in Deinem Hause erquicken können, daß Leib und Seele sich wieder freuen in dem lebendigen Gott. Und weil es hier in der Zeit nie ganz Sabbath werden kann, so schenk uns nach aller Unruhe hier unten die ewige Seligkeit und ein Ausruhen vor Deinem Throne. HErr, wir haben Heimweh nach der Ewigkeit; laß uns nach Hause kommen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        757,
+        760
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "29"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du bist ja, Jesu",
+            "strophen": [
+              {
+                "links": [
+                  "Du bist ja, Jesu, meine Freude,",
+                  "Warum ist denn mein Herz betrübt?",
+                  "Kann denn die Freud auch bei dem Leide",
+                  "Sein in dem Herzen, das Dich liebt?",
+                  "Ach ja, mein Herz in Deiner süßen Liebe,",
+                  "So zeigt sich solche Freud oft an,",
+                  "Die keine Zung aussprechen kann."
+                ],
+                "rechts": [
+                  "Weil aber noch nicht ganz gedämpft ist",
+                  "In mir mein böses Fleisch und Blut,",
+                  "Und noch der Geist dawider kämpft,",
+                  "Wird oft dadurch gekränkt der Mut.",
+                  "Drum leg ich mich vor Dir zu flehen,",
+                  "Mein Heil, laß Hilfe mir geschehen,",
+                  "Und stärke mich in diesem Streit,",
+                  "Daß ich mög überwinden weit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 15, 1—8.",
+            "buch": "johannes",
+            "kapitel": 15,
+            "verse": "1-8"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du bist ja, Jesu",
+            "strophen": [
+              {
+                "links": [
+                  "Ich trau allein auf Deine Gnade,",
+                  "Die mir Dein teures Wort verspricht,",
+                  "Es sagt: daß nichts den Deinen schade,",
+                  "Weils nie an Deiner Kraft gebricht.",
+                  "Nun hast Du mich ja angenommen,",
+                  "Als ich bin flehend zu Dir kommen,",
+                  "Es hats mein Herz ja wohl gespürt,",
+                  "Als Du mich mit Deim Gnadenblick gerührt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 32, 10—13.",
+            "buch": "1_mose",
+            "kapitel": 32,
+            "verse": "10-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 14, 1—9.",
+            "buch": "roemers",
+            "kapitel": 14,
+            "verse": "1-9"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wir leben oder sterben, so sind wir des HErrn, ja wahrhaftig Domini, d. h. des HErrn, aber auch Herren, Domini, d. h. des HErrn sind wir, weil wir Seine Gliedmaßen sind; Herren, d. h. herrschen sind wir, weil wir durch den Glauben, welchen er uns verleiht, alles Kreuz und alle Not überwinden, und uns von Sünde Tod und Teufel nicht überwältigen lassen.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du bist ja, Jesu",
+            "strophen": [
+              {
+                "links": [
+                  "Weil dich denn nun in Deinem Leibe",
+                  "Ein Glied, wiewohl unwürdig, bin,",
+                  "So gib, daß ich stets in Dir bleibe,",
+                  "Und in mir habe Deinen Sinn,",
+                  "Laß mich nicht andre Helfer suchen,",
+                  "Laß falsche Lüste mich verfluchen,",
+                  "Besitze Du mein Herz alleine,",
+                  "Dein Leben laß mein Leben sein."
+                ],
+                "rechts": [
+                  "Gib, daß ich mich in Dir stets freue,",
+                  "Weil Dein Herz mich beständig liebt,",
+                  "Doch auch dabei Leiden scheue,",
+                  "Als welches meinen Glauben übt,",
+                  "Und macht, daß ich viel stärker glaube,",
+                  "Und immer näher in Dich dringe,",
+                  "Bis endlich nach beseitigter Pein",
+                  "In mir wird lauter Freude sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        760,
+        763
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du liebe Unschuld du",
+            "strophen": [
+              {
+                "links": [
+                  "Du liebe Unschuld Du,",
+                  "Wie schlecht wirst Du geacht;",
+                  "Wie oftmals wird Dein Tun",
+                  "Von aller Welt verlacht!",
+                  "Du dienest Deinem Gott,",
+                  "Hältst Dich nach Seinen Worten,",
+                  "Darüber höhnt man Dich,",
+                  "Und drückt Dich aller Orten."
+                ],
+                "rechts": [
+                  "Halt fest, o frommes Herz,",
+                  "Halt fest und bleib getreu",
+                  "In Widerwärtigkeit:",
+                  "Dein Gott Der steht dir bei;",
+                  "Laß Diesen deine Sach",
+                  "Handhaben schützen führen,",
+                  "So wirst du wohl bestehn",
+                  "Und endlich triumphieren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 10, 31—42.",
+            "buch": "johannes",
+            "kapitel": 10,
+            "verse": "31-42"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du liebe Unschuld du",
+            "strophen": [
+              {
+                "links": [
+                  "Gefällt du Menschen nicht;",
+                  "Das ist ein schlechter Schad;",
+                  "All ging es, wenn du hast",
+                  "Des ewgen Vaters Gnad.",
+                  "Ein Mensch kann doch nicht mehr",
+                  "Als irren fehlen lügen;",
+                  "Gott aber ist gerecht,",
+                  "Sein Urteil kann nicht trügen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "23"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Könige 2, 1—12.",
+            "buch": "2_koenige",
+            "kapitel": 2,
+            "verse": "1-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "127"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 14, 19—28.",
+            "buch": "apostelgeschichte",
+            "kapitel": 14,
+            "verse": "19-28"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du liebe Unschuld du",
+            "strophen": [
+              {
+                "links": [
+                  "Drum fasse deine Seel",
+                  "Ein wenig mit Geduld;",
+                  "Fahr immer fort, recht tu,",
+                  "Leb außer Sündenschuld.",
+                  "Halt, daß den höchsten Schatz",
+                  "Dort in dem andern Leben",
+                  "Des Höchsten milde Hand",
+                  "Dir werd aus Gnaden geben."
+                ],
+                "rechts": [
+                  "Was hier ist in der Welt,",
+                  "Da sei nur unbemüht;",
+                  "Wird dirs ersprießlich sein,",
+                  "Wies Gott am besten sieht,",
+                  "So glaube du gewiß,",
+                  "Er wird dir deinen Willen",
+                  "Schon geben, und mit Freud",
+                  "All dein Begehren stillen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        764,
+        766
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "146"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Geht hin, ihr gläubigen Gedanken",
+            "melodie": "119",
+            "strophen": [
+              {
+                "links": [
+                  "Geht hin, ihr gläubigen Gedanken,",
+                  "Ins weite Feld der Ewigkeit;",
+                  "Erhebt euch über alle Schranken",
+                  "Der alten und der neuen Zeit;",
+                  "Erwägt, daß Gott die Liebe sei,",
+                  "Die ewig und ewig neu!"
+                ],
+                "rechts": [
+                  "O Wunderliebe, die mich wählte",
+                  "Vor allem Anbeginn der Welt,",
+                  "Und mich zu ihren Kindern zählte,",
+                  "Für welche sie das Reich bestellt,",
+                  "O Vaterband, o Gnadentrieb,",
+                  "Der mich ins Buch des Lebens schrieb!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 10, 46—52.",
+            "buch": "markus",
+            "kapitel": 10,
+            "verse": "46-52"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Geht hin, ihr gläubigen Gedanken",
+            "strophen": [
+              {
+                "links": [
+                  "Wie wohl ist mir, wenn mein Gemüte",
+                  "Hinauf zu dieser Quelle steigt,",
+                  "Von welcher sich ein Strom der Güte",
+                  "Zu mir durch alle Zeiten neigt;",
+                  "Daß jeder Tag sein Zeugnis gibt:",
+                  "Gott hat mich je und je geliebt."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "60"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 6, 6—11.",
+            "buch": "sprueche",
+            "kapitel": 6,
+            "verse": "6-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "34"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 2, 7—11.",
+            "buch": "1_johannes",
+            "kapitel": 2,
+            "verse": "7-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Geht hin, ihr gläubigen Gedanken",
+            "strophen": [
+              {
+                "links": [
+                  "Im sichern Schatten Deiner Flügel",
+                  "Find ich die ungestörte Ruh,",
+                  "Der feste Grund hat dieses Siegel:",
+                  "„Wer Dein ist, HErr, den kennst Du!“",
+                  "Laß Erd und Himmel untergehn:",
+                  "Dies Wort der Wahrheit bleibet stehn."
+                ],
+                "rechts": [
+                  "Die Hoffnung schauet in die Ferne",
+                  "Durch alle Schatten dieser Zeit;",
+                  "Der Glaube schwingt sich durch die Sterne",
+                  "Und sieht ins Reich der Ewigkeit:",
+                  "Da zeigt mir Deine milde Hand",
+                  "Mein Erbteil und gelobtes Land."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        766,
+        769
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "98"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist und bleibt getreu",
+            "melodie": "125-127",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist und bleibt getreu:",
+                  "Sein Herze bricht von Lieben,",
+                  "Pflegt Er gleich oftermals",
+                  "Die Seinen zu betrüben;",
+                  "Er prüfet durch das Kreuz,",
+                  "Wie rein der Glaube sei,",
+                  "Wie standhaft die Geduld —",
+                  "Gott ist und bleibt getreu."
+                ],
+                "rechts": [
+                  "Gott ist und bleibt getreu:",
+                  "Er hilft ja Selber tragen",
+                  "Was Er uns auferlegt,",
+                  "Die Last der schweren Plagen,",
+                  "Er braucht die Rute oft,",
+                  "Und bleibet doch dabei",
+                  "Ein Vater, Der uns liebt —",
+                  "Gott ist und bleibt getreu."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 37—43.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "37-43"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott ist und bleibt getreu",
+            "strophen": [
+              {
+                "links": [
+                  "Er tröstet nach dem Weinen,",
+                  "Er läßt nach trüber Nacht",
+                  "Die Freudensonne scheinen;",
+                  "Der Sturm, der Kreuzessturm",
+                  "Geht augenblicks vorbei;",
+                  "Sei, Seele, nur getrost —",
+                  "Gott ist und bleibt getreu."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 21, 17—25.",
+            "buch": "1_koenige",
+            "kapitel": 21,
+            "verse": "17-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 5, 16—21.",
+            "buch": "1_johannes",
+            "kapitel": 5,
+            "verse": "16-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist und bleibt getreu",
+            "strophen": [
+              {
+                "links": [
+                  "Er stillet dein Begehren,",
+                  "Er will dein Glaubensgold",
+                  "In Trübsalsglut bewähren;",
+                  "Nimm an von Gottes Hand",
+                  "Den Kreuzkelch ohne Scheu;",
+                  "Der Lebensbecher folgt —",
+                  "Gott ist und bleibt getreu."
+                ],
+                "rechts": [
+                  "Laß alle Wetter krachen!",
+                  "Gott wird der Trübsal doch",
+                  "Ein solches Ende machen,",
+                  "Daß alles Kreuz und Not",
+                  "Dir ewig nützlich sei;",
+                  "So liebt der Höchste dich —",
+                  "Gott ist und bleibt getreu."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        770,
+        772
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "143"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott lebet noch",
+            "strophen": [
+              {
+                "links": [
+                  "Gott lebet noch!",
+                  "Seele, was verzagst du doch?",
+                  "Gott ist gut, Der aus Erbarmen",
+                  "Alle Hilf auf Erden tut,",
+                  "Der mit Macht und starken Armen",
+                  "Machet alles wohl und gut.",
+                  "Gott kann besser als wir denken",
+                  "Alle Not zum Besten lenken.",
+                  "Seele, so bedenke doch:",
+                  "Lebt doch unser HErr Gott noch!"
+                ],
+                "rechts": [
+                  "Gott lebet noch!",
+                  "Seele, was verzagst du doch?",
+                  "Der den Erdenkreis verhüllet",
+                  "Mit den Wolken weit und breit,",
+                  "Der die ganze Welt erfüllet,",
+                  "Ist von uns nicht fern und weit.",
+                  "Wer Gott liebt, dem will Er senden",
+                  "Hilf und Trost an allen Enden.",
+                  "Seele, so bedenke doch:",
+                  "Lebt doch unser HErr Gott noch!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 21, 1—4.",
+            "buch": "lukas",
+            "kapitel": 21,
+            "verse": "1-4"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott lebet noch",
+            "strophen": [
+              {
+                "links": [
+                  "Seele, was verzagst du doch?",
+                  "Wenn dich deine Sünden kränken,",
+                  "Dein Verbrechen quält dich sehr,",
+                  "Komm zu Gott, Er wird versenken",
+                  "Deine Sünden in das Meer.",
+                  "Mitten in der Angst der Höllen",
+                  "Kann Er dich zufrieden stellen.",
+                  "Seele, so bedenke doch:",
+                  "Lebt doch unser HErr Gott noch!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 19, 13—17.",
+            "buch": "sprueche",
+            "kapitel": 19,
+            "verse": "13-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 21, 27—36.",
+            "buch": "apostelgeschichte",
+            "kapitel": 21,
+            "verse": "27-36"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott lebet noch",
+            "strophen": [
+              {
+                "links": [
+                  "Seele, was verzagst du doch?",
+                  "Will dich schon die Welt verlassen",
+                  "Und weißt weder aus noch ein,",
+                  "Gott wird dennoch dich umfassen",
+                  "Und in Leiden bei dir sein.",
+                  "Wo Er ist der herzlich meinet,",
+                  "Wo die Not am größten scheinet,",
+                  "Seele, so bedenke doch:",
+                  "Lebt doch unser HErr Gott noch!"
+                ],
+                "rechts": [
+                  "Seele, was verzagst du doch?",
+                  "Müßt du schon geängstet wallen",
+                  "Auf der harten Dornenbahn,",
+                  "Es ist Gottes Wohlgefallen,",
+                  "Dich zu führen himmelan.",
+                  "Gott wird nach dem Jammerleben",
+                  "Friede Freud und Wonne geben.",
+                  "Seele, so bedenke doch:",
+                  "Lebt doch unser HErr Gott noch!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 20. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        773,
+        775
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "64"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Halt im Gedächtnis Jesum Christ",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Halt im Gedächtnis Jesum Christ,",
+                  "O Mensch, Der auf die Erden",
+                  "Vom Thron des Himmels kommen ist,",
+                  "Dein Bruder da zu werden.",
+                  "Vergiß nicht, daß Er dir zugut",
+                  "Angenommen Fleisch und Blut,",
+                  "Dank Ihm für diese Liebe."
+                ],
+                "rechts": [
+                  "Halt im Gedächtnis Jesum Christ,",
+                  "Der für dich hat gelitten,",
+                  "Ja gar am Kreuz gestorben ist,",
+                  "Und dadurch hat befritten",
+                  "Welt Sünde Teufel Höll und Tod,",
+                  "Und dich erlöst aus aller Not,",
+                  "Dank Ihm für diese Liebe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 18—22.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "18-22"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Halt im Gedächtnis Jesum Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Der nach den Leidenszeiten",
+                  "Gen Himmel aufgefahren ist,",
+                  "Die Stätt dir zu bereiten,",
+                  "Da du sollst bleiben allezeit",
+                  "Und sehen Seine Herrlichkeit:",
+                  "Dank Ihm für Seine Liebe."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "109"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 1, 24—28.",
+            "buch": "jesaja",
+            "kapitel": 1,
+            "verse": "24-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 7, 1—6.",
+            "buch": "roemers",
+            "kapitel": 7,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "Halt im Gedächtnis Jesum Christ",
+            "strophen": [
+              {
+                "links": [
+                  "Der einst wiederkommen wird,",
+                  "Und Sich, Was tot und lebend ist",
+                  "Zu richten vorgenommen.",
+                  "O denke, daß Du da bestehst",
+                  "Und mit Ihm in Sein Reich eingehst,",
+                  "Ihm ewiglich zu danken."
+                ],
+                "rechts": [
+                  "Gib, Jesu, gib, daß ich Dich kann",
+                  "Mit wahrem Glauben fassen,",
+                  "Und nie was Du an mir getan",
+                  "Mög aus dem Herzen lassen,",
+                  "Daß dessen ich in aller Not",
+                  "Mich trösten mög, und über den Tod",
+                  "Dir ins Leben dringen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

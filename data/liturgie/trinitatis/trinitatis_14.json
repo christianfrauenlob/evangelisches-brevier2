@@ -1,0 +1,952 @@
+{
+  "id": "trinitatis_14",
+  "titel": "14. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "14. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        624,
+        627
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84",
+              "9"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Von Gott will ich nicht lassen",
+            "melodie": "150/151",
+            "strophen": [
+              {
+                "links": [
+                  "Von Gott will ich nicht lassen,",
+                  "Denn Er läßt nicht von mir,",
+                  "Führt mich auf rechter Straßen,",
+                  "Da ich sonst irret sehr.",
+                  "Er reicht mir Seine Hand;",
+                  "Den Abend als den Morgen",
+                  "Tut Er mich wohl versorgen,",
+                  "Wo ich woll im Land."
+                ],
+                "rechts": [
+                  "Auf Ihn will ich vertrauen",
+                  "In meiner schweren Zeit;",
+                  "Es kann mich nicht gereuen:",
+                  "Er wendet alles Leid.",
+                  "Ihm sei es heimgestellt;",
+                  "Mein Leib, mein Seel, mein Leben",
+                  "Sei Gott dem HErrn ergeben:",
+                  "Er machs, wies Ihm gefällt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 17, 11—19.",
+            "buch": "lukas",
+            "kapitel": 17,
+            "verse": "11-19"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Die glänzende Krone auf dem Haupte des Samariters wäre so schön nicht, als das Wohlgefallen des HErrn. Ja, das Wohlgefallen des HErrn ist ein Heiligenschein um das Haupt des Samariters, welches dieses Wohlgefallen sich an ihm unwandelbar zeigt, und darin, daß der HErr in dem Augenblick, da der dankbare Samariter sich zu Seinen Füßen niederlegte, durch Sein heiliges Wort ihn allen Zeiten unauslöschlich vor die Augen malte. Wenn man eine Tat in vielen tausend Menschenliedern besänge, so würde für diese Eine, samt allen ehernen Gedenktafeln und Monumenten, die sie hätte, an jenem großen Tage doch nur in ewiges stummes Schweigen versinken; dagegen wird dann erst, wenn Himmel und Erde untergegangen, im Lichte erscheinen, was für ein ewiger Ruhm die Erzählung seines Dankes für den seligen Samariter sein wird.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie stunden von ferne, und sprachen:",
+              "Jesu, lieber Meister, erbarme Dich unser!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, Der Du durch Deinen Sohn Jesum Christum uns Gläubigen von dem greulichen Aussatz der Sünde durch Dein Wort und heilige Taufe gnädiglich geholfen hast, und noch täglich Deine gnädige Hilfe in dem, was wir bedürfen, beweisest; wir bitten Dich: erwecke unsre Herzen durch Deinen heiligen Geist, daß wir solche Wohltat nimmermehr vergessen, sondern in Deiner Furcht und herzlichem Vertrauen auf Deine Barmherzigkeit für und für mit fröhlichen Herzen Dir immerdar danken und Dich loben; durch . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 23, 1—7.",
+            "buch": "2_samuel",
+            "kapitel": 23,
+            "verse": "1-7"
+          },
+          {
+            "typ": "gebet",
+            "text": "Ach HErr, wir bitten: behüte Deine Kirche mit ewiger Begnadung; und weil ohne Deine Hilfe menschliche Schwachheit nichts vermag, so wollest Du alles vom Bösen abziehen und zum Guten befördern; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 5, 16—24.",
+            "buch": "galater",
+            "kapitel": 5,
+            "verse": "16-24"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Alle meine Hoffnung ruhet nur in Deinem übergroßen Erbarmen. Gib, was Du befiehlst, und befiehl, was Du willst. Du befiehlst uns Enthaltsamkeit. Da ich aber erfuhr, so sagt einer, daß nichts anders könnte züchtig machen, es sei denn Gott gebe es, so war dasselbige auch schon ein Stück Weisheit, erkennen, wes solche Gnade sei. Durch die Enthaltsamkeit werden wir ja gesammelt und zu dem Einen zurückgebracht, von welchem wir in Viele zerflossen sind. Weniger nämlich liebt Dich, wer mit Dir zugleich noch etwas Andres liebt, das er nicht um Deinetwillen liebt. — O Liebe, Du immer brennst und nimmer erlischest! Liebe, Du mein Gott, entzünde mich. Enthaltsamkeit befiehlst Du — gib, was Du befiehlst, und befiehl, was Du willst. — Ich hörte das Wort: Ich vermag alles durch Den, der mich mächtig macht. Gib, was Du befiehlst, und befiehl, was Du willst. — Der tägliche Verdruß ist die menschliche Zunge. Du legst uns auf diesem Gebiete Enthaltsamkeit auf: gib, was Du befiehlst, und befiehl, was Du willst. Du kennest darüber das Seufzen meines Herzens und die Ströme meiner Augen.",
+            "quelle": "Augustinus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Einer unter ihnen, da er sah, daß er gesund worden war:",
+              "Kehrte er um, und pries Gott mit lauter Stimme. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, gib uns, im Glauben Liebe und Hoffnung zunehmen; und, damit wir würdig werden zu erlangen was Du uns verheißest, laß uns das lieben was Du gebietest; durch . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        628,
+        631
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Was Gott tut, das ist wohlgetan",
+            "melodie": "154",
+            "strophen": [
+              {
+                "links": [
+                  "Was Gott tut, das ist wohlgetan,",
+                  "Es bleibt gerecht Sein Wille;",
+                  "Wie Er fängt meine Sachen an,",
+                  "Will ich Ihm halten stille.",
+                  "Er ist mein Gott,",
+                  "Der in der Not",
+                  "Mich wohl weiß zu erhalten:",
+                  "Drum laß ich Ihn nur walten."
+                ],
+                "rechts": [
+                  "Was Gott tut, das ist wohlgetan,",
+                  "Er wird mich nicht betrügen;",
+                  "Er führet mich auf rechter Bahn,",
+                  "So laß ich mir genügen",
+                  "An Seiner Huld,",
+                  "Und hab Geduld,",
+                  "Er wird mein Unglück wenden,",
+                  "Es steht in Seinen Händen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 5, 1—14.",
+            "buch": "johannes",
+            "kapitel": 5,
+            "verse": "1-14"
+          },
+          {
+            "typ": "gebet",
+            "text": "Liebster HErr Jesu, wir danken Dir für Deine liebreiche Hilfe an allen Krankenbetten. Du bist ein Heiland Leibes und der Seele. Sei es auch an uns! Behüte uns vor Sünden, die den Leib verwüsten, und halt auch unsern Geist gesund in der Kraft Deines heiligen Geistes. Gib der Christenheit, die nach Deinem Namen genannt ist, Liebeskraft zum Helfen und Freudigkeit zum Dienen. Laß alles Leid und alle Schmerzen den Menschen zum Heile gereichen und segne alle Häuser auf Erden, die Bethesda heißen oder sind, mit Deinem seligen Frieden.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Was Gott tut, das ist wohlgetan",
+            "strophen": [
+              {
+                "links": [
+                  "Was Gott tut, das ist wohlgetan,",
+                  "Er ist mein Licht und Leben,",
+                  "Der mir nichts Böses gönnen kann,",
+                  "Ich will mich Ihm ergeben;",
+                  "In Freud und Leid,",
+                  "Es kommt die Zeit,",
+                  "Da öffentlich erscheinet,",
+                  "Wie treulich Er es meinet."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 5, 15—26.",
+            "buch": "sprueche",
+            "kapitel": 5,
+            "verse": "15-26"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheum 1, 12—17.",
+            "buch": "1_timotheus",
+            "kapitel": 1,
+            "verse": "12-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Spät habe ich Dich geliebt, Du Schönheit, so alt und doch so neu, spät habe ich Dich geliebt! Und siehe: Du warest im Innern, und ich war draußen und suchte Dich dort; und ich, mißgestaltet, warf mich leidenschaftlich auf die schönen Gestalten, die Du geschaffen. Mit mir warst Du, und ich war nicht mit Dir. Die Außenwelt hielt mich lange von Dir fern, so wäre sie ohne Dich überhaupt nicht gewesen. Du riefst und schriest und durchbrachst meine Taubheit. Du blitztest und glänztest und verscheuchtest meine Blindheit. Du duftetest, und ich schöpfte Atem und lechze nach Dir. Ich kostete Dich und hungere und dürste. Du berührtest mich, und ich entbrannte in Deinem Frieden.",
+            "quelle": "Augustinus"
+          },
+          {
+            "typ": "lied",
+            "titel": "Was Gott tut, das ist wohlgetan",
+            "strophen": [
+              {
+                "links": [
+                  "Was Gott tut, das ist wohlgetan,",
+                  "Muß ich den Kelch gleich schmecken,",
+                  "Der bitter ist nach meinem Wahn,",
+                  "Laß ich mich doch nicht schrecken,",
+                  "Weil doch zuletzt",
+                  "Ich werd ergötzt",
+                  "Mit süßem Trost im Herzen;",
+                  "Da weichen alle Schmerzen."
+                ],
+                "rechts": [
+                  "Was Gott tut, das ist wohlgetan,",
+                  "Dabei will ich verbleiben;",
+                  "Es mag mich auf die rauhe Bahn",
+                  "Not Tod und Elend treiben;",
+                  "So wird Gott mich",
+                  "Ganz väterlich",
+                  "In Seinen Armen halten;",
+                  "Drum laß ich Ihn nur walten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        632,
+        633
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater der Barmherzigkeit",
+            "melodie": "2",
+            "strophen": [
+              {
+                "links": [
+                  "O Vater der Barmherzigkeit,",
+                  "Der Du Dir Deine Herden",
+                  "Gesammelt zur Apostel Zeit",
+                  "Und herrlich lassen werden:",
+                  "Du hast Dein Reiches Kraft",
+                  "Die große Schar der Heidenschaft",
+                  "Zu Deinem Reich berufen."
+                ],
+                "rechts": [
+                  "Ach sei doch auch zu dieser Zeit",
+                  "Uns, Vater, wieder gnädig,",
+                  "Und mach uns von dem falschen Streit",
+                  "Hinwieder frei und ledig,",
+                  "Gib, daß Dein Häuflein für und für",
+                  "In einem Geiste diene Dir,",
+                  "In Deiner Liebe lebe."
+                ]
+              },
+              {
+                "links": [
+                  "Aus ihrer Mannigfaltigkeit",
+                  "Des Streits und vieler Sprachen,",
+                  "Dadurch sie, in der Welt zerstreut,",
+                  "Sich von einander brachen,",
+                  "Hast sie zu einer Kirche geführt,",
+                  "Und sie mit Herrlichkeit geziert",
+                  "In Einigkeit des Glaubens."
+                ],
+                "rechts": [
+                  "Ach schaue, wie des Satans List",
+                  "Sie jämmerlich zertrennet,",
+                  "Wie sichs im Zanken beißt und frißt,",
+                  "Im Unverstande brennet;",
+                  "Wie alles in Verwirrung geht,",
+                  "Da Eins das Andre nicht versteht,",
+                  "Sich unnötig zweiet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 17, 1—4.",
+            "buch": "lukas",
+            "kapitel": 17,
+            "verse": "1-4"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Vater der Barmherzigkeit",
+            "strophen": [
+              {
+                "links": [
+                  "Ach HErr, hilf diesem Uebel ab,",
+                  "Versammle Deine Herde,",
+                  "Daß unter Deines Wortes Stab",
+                  "Sie wieder einig werde;",
+                  "Daß das Band der Vollkommenheit:",
+                  "Die Liebe, uns aus allem Streit",
+                  "In Deinem Geiste bringe."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 4, 20—27.",
+            "buch": "sprueche",
+            "kapitel": 4,
+            "verse": "20-27"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "13"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 9, 1—5.",
+            "buch": "2_korinther",
+            "kapitel": 9,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Vater der Barmherzigkeit",
+            "strophen": [
+              {
+                "links": [
+                  "Wie schön und lieblich sieht es aus,",
+                  "Wenn Brüder sind zusammen",
+                  "Eintrachtiglich in einem Haus,",
+                  "Und stehn in Liebesflammen;",
+                  "Wenn sie im Geist zusammenstehn,",
+                  "Zu Gott in einer Stimme flehn,",
+                  "Und halten an mit Beten."
+                ],
+                "rechts": [
+                  "Also fleußt Gottes Geistes Gnad",
+                  "Von Christo zu uns nieder,",
+                  "Auf Die, so Er erwählet hat,",
+                  "Auf alle Seine Glieder;",
+                  "Das ist die Frucht der Einigkeit:",
+                  "Heil Segen Leben allezeit",
+                  "Und alle Himmelsgüter."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        634,
+        636
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "50"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, Du Beistand Deiner Kreuzgemeine",
+            "melodie": "70",
+            "strophen": [
+              {
+                "links": [
+                  "Christe, Du Beistand Deiner Kreuzgemeine,",
+                  "Eile, mit Hilf und Rettung uns erscheine!",
+                  "Steure den Feinden, ihre Blutgedichte",
+                  "Mache zu nichte!"
+                ],
+                "rechts": [
+                  "Friede bei Kirch und Schulen uns bescheren,",
+                  "Friede zugleich der Obrigkeit gewähre,",
+                  "Friede dem Herzen, Friede dem Gewissen",
+                  "Gib zu genießen!"
+                ]
+              },
+              {
+                "links": [
+                  "Streite doch Selber für uns arme Kinder,",
+                  "Wehre dem Teufel, seine Macht verhinder;",
+                  "Alles was kämpft wider Deine Glieder",
+                  "Stürze darnieder!"
+                ],
+                "rechts": [
+                  "Also wird zeitlich Deine Güt erhoben;",
+                  "Also wird ewig und ohn Ende loben",
+                  "Dich, o Du Wächter Deiner armen Herde,",
+                  "Himmel und Erde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 13, 47—52.",
+            "buch": "matthaeus",
+            "kapitel": 13,
+            "verse": "47-52"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu Christ, Dich zu uns wend",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu Christ, Dich zu uns wend,",
+                  "Dein'n heilgen Geist Du zu uns send;",
+                  "Mit Hilf und Gnad Er uns regier,",
+                  "Und uns den Weg zur Wahrheit führ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 27, 1—6.",
+            "buch": "jesaja",
+            "kapitel": 27,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 14, 1—6.",
+            "buch": "1_korinther",
+            "kapitel": 14,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu Christ, Dich zu uns wend",
+            "strophen": [
+              {
+                "links": [
+                  "Tu auf den Mund zum Lobe Dein,",
+                  "Bereit das Herz zur Andacht sein;",
+                  "Den Glauben mehr, stärkt den Verstand,",
+                  "Daß uns Dein Nam werd wohl bekannt."
+                ],
+                "rechts": [
+                  "Bis wir singen mit Gottes Heer:",
+                  "Heilig heilig ist Gott der HErr!",
+                  "Und schauen Dich von Angesicht,",
+                  "In ewger Freud und selgem Licht."
+                ]
+              },
+              {
+                "links": [
+                  "Ehr sei dem Vater und dem Sohn,",
+                  "Dem Heiligen Geist in einem Thron:",
+                  "Der heiligen Dreifaltigkeit",
+                  "Sei Lob und Preis in Ewigkeit!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        637,
+        640
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich laß dich nicht",
+            "strophen": [
+              {
+                "links": [
+                  "Ich laß Dich nicht, Du mußt mein Jesus bleiben;",
+                  "Will raube Not,",
+                  "Welt Hölle Tod",
+                  "Mich aus dem Feld erbitter Treue treiben;",
+                  "Nur her! Ich halte mich,",
+                  "Mein starker Held, an Dich.",
+                  "Hör, was die Seele spricht:",
+                  "Du mußt mein Jesus bleiben;",
+                  "Ich laß Dich nicht."
+                ],
+                "rechts": [
+                  "Ich laß Dich nicht, Du süße Seelenstärke,",
+                  "Die mich erlabt",
+                  "Und Kraft begabt,",
+                  "Wenn ich in mir des Geistes Ohnmacht merke;",
+                  "Macht mich der Krankheit Ach",
+                  "Durch Schmerzensmächte schwach,",
+                  "Die frische Liebe spricht:",
+                  "Du süße Seelenstärke,",
+                  "Ich laß Dich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 7, 18—23.",
+            "buch": "lukas",
+            "kapitel": 7,
+            "verse": "18-23"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich laß dich nicht",
+            "strophen": [
+              {
+                "links": [
+                  "Ich laß Dich nicht; sollt ich den Segen lassen?",
+                  "Nein, Jesu, nein!",
+                  "Du bleibest mein.",
+                  "Dich halt ich noch, wenn ich nichts mehr kann fassen.",
+                  "Nach kurzer Nächte Lauf",
+                  "Geht mir der Segen auf;",
+                  "Von Dir, dem Segenslicht!",
+                  "Sollt ich den Segen lassen?",
+                  "Ich laß Dich nicht."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 9, 4—9.",
+            "buch": "daniel",
+            "kapitel": 9,
+            "verse": "4-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheum 5, 20—25.",
+            "buch": "1_timotheus",
+            "kapitel": 5,
+            "verse": "20-25"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ist der Heilige Geist eine Person, die dritte Person in der Gottheit, so ist Seine Mitteilung nicht die Mitteilung von bloßen Kräften; geschieht diese Mitteilung neben dem Wort, dem Gebet und der heiligen Taufe auch durch die Handauflegung, so wird auch in der Handauflegung der Prophetie, der Regierung, der Lehre, der Diakonie enthalten sein: die Handlung wird nicht eine bloße Form, sondern eine an sich, für sich kräftige, selbst eine Kraft sein. Handlungen ohne Kraft erkennt der Heilige Geist, erkennt die ganze heilige Schrift Alten und Neuen Testaments nicht an.",
+            "quelle": "Vilmar"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich laß dich nicht",
+            "strophen": [
+              {
+                "links": [
+                  "Ich laß Dich nicht, auch in dem Schoß der Freude,",
+                  "Denn wenn ich mich",
+                  "Sey ohne Dich,",
+                  "So ist die Lust mir eine Wermutweide.",
+                  "Mir graut vor ihrer Kost,",
+                  "Wenn nicht von Deinem Trost",
+                  "Mein Herz durchsüßet spricht:",
+                  "Auch in dem Schoß der Freude,",
+                  "Ich laß Dich nicht."
+                ],
+                "rechts": [
+                  "Ich laß Dich nicht, auch nicht das Grab, mein HErr,",
+                  "Mich reißt das Grab",
+                  "Von Dir nicht ab,",
+                  "Du hast für mich Dein Leben in Tod gegeben,",
+                  "Du starbst aus Liebe mir,",
+                  "Ich sag in Liebe Dir,",
+                  "Auch, mein HErr, mein Leben:",
+                  "Auch nicht das Grab, mein HErr,",
+                  "Ich laß Dich nicht."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        640,
+        642
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "78"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wollt ihr wissen",
+            "strophen": [
+              {
+                "links": [
+                  "Wollt ihr wissen was mein Preis?",
+                  "Wollt ihr lernen was ich weiß?",
+                  "Wollt ihr sehn mein Eigentum?",
+                  "Wollt ihr hören was mein Ruhm?",
+                  "Jesus, der Gekreuzigte!"
+                ],
+                "rechts": [
+                  "Wer ist meines Glaubens Grund?",
+                  "Wer stärkt und erweckt mein Mund?",
+                  "Wer trägt meine Straf und Schuld?",
+                  "Wer schafft mir des Vaters Huld?",
+                  "Jesus, der Gekreuzigte!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 7, 24—30.",
+            "buch": "lukas",
+            "kapitel": 7,
+            "verse": "24-30"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wollt ihr wissen",
+            "strophen": [
+              {
+                "links": [
+                  "Wer ist meines Leidens Trost?",
+                  "Wer schützt, wenn der Feind erbost?",
+                  "Wer erquickt mein mattes Herz?",
+                  "Wer verbindet meinen Schmerz?",
+                  "Jesus, der Gekreuzigte!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 52, 1—6.",
+            "buch": "jesaja",
+            "kapitel": 52,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "141"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 6, 11—18.",
+            "buch": "galater",
+            "kapitel": 6,
+            "verse": "11-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wollt ihr wissen",
+            "strophen": [
+              {
+                "links": [
+                  "Wer ist meines Todes Tod?",
+                  "Wer hilft in der letzten Not?",
+                  "Wer versetzt mich in Sein Reich?",
+                  "Wer macht mich den Engeln gleich?",
+                  "Jesus, der Gekreuzigte!"
+                ],
+                "rechts": [
+                  "Und so wißt ihr was ich weiß,",
+                  "Ihr wißt meinen Zweck und Preis,",
+                  "Glaubt, lebt, duldet, sterbt; aber wem?",
+                  "Daß wir sind recht angenehm",
+                  "Jesu, dem Gekreuzigten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 14. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        643,
+        645
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zion klagt mit Angst und Schmerzen",
+            "melodie": "171",
+            "strophen": [
+              {
+                "links": [
+                  "Zion klagt mit Angst und Schmerzen,",
+                  "Zion Gottes werte Stadt,",
+                  "Die Er trägt in Seinem Herzen,",
+                  "Die Er Ihm erwählet hat.",
+                  "Ach, spricht sie: wie hat mein Gott",
+                  "Mich verlassen in der Not,",
+                  "Und läßt sich so harte pressen!",
+                  "Meiner hat Er ganz vergessen."
+                ],
+                "rechts": [
+                  "Der Gott, Der mir hat versprochen",
+                  "Seinen Beistand jederzeit,",
+                  "Der läßt sich vergebens suchen",
+                  "Jetzt in meiner Traurigkeit.",
+                  "Ach will Er denn für und für",
+                  "Grausam zürnen über mir?",
+                  "Kann und will Er sich der Armen",
+                  "Jetzt nicht wie vorhin erbarmen?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 7, 31—35.",
+            "buch": "lukas",
+            "kapitel": 7,
+            "verse": "31-35"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Zion klagt mit Angst",
+            "strophen": [
+              {
+                "links": [
+                  "Zion, o du Vielgeliebte,",
+                  "Sprach zu ihr des HErren Mund,",
+                  "Zwar du bist jetzt die Betrübte,",
+                  "Doch stell alles Trauern ein:",
+                  "Wo mag eine Mutter sein,",
+                  "Die ihr eigen Kind kann hassen,",
+                  "Und aus ihrer Sorge lassen?"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "109"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Klagelieder 1, 17—22.",
+            "buch": "klagelieder",
+            "kapitel": 1,
+            "verse": "17-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 21, 10—14.",
+            "buch": "offenbarung",
+            "kapitel": 21,
+            "verse": "10-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Zion klagt mit Angst",
+            "strophen": [
+              {
+                "links": [
+                  "Laß dich nicht den Satan blenden,",
+                  "Der sonst nichts als schrecken kann;",
+                  "Siehe: hier in Meinen Händen",
+                  "Hab Ich dich gezeichnet an.",
+                  "Wie mag es denn anders sein?",
+                  "Ich muß ja gedenken dein;",
+                  "Deine Mauern muß Ich bauen,",
+                  "Und dich fort und fort anschauen."
+                ],
+                "rechts": [
+                  "Du bist Mir stets vor den Augen,",
+                  "Du liegst Mir in Meinem Schoß,",
+                  "Wie die Kindlein, die noch saugen,",
+                  "Meine Treu ist dir so groß;",
+                  "Dich und Mich kann keine Zeit,",
+                  "Keine Not Gefahr und Streit,",
+                  "Ja der Satan selbst nicht scheiden,",
+                  "Bleib getreu in allen Leiden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1015 @@
+{
+  "id": "trinitatis_19",
+  "titel": "19. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "19. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        730,
+        733
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "78",
+              "63"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Jesu, Dem die Seraphinen",
+            "melodie": "104",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Jesu, Dem die Seraphinen",
+                  "Im Glanz der höchsten Majestät",
+                  "Selbst mit bedecktem Antlitz dienen,",
+                  "Wenn Dein Befehl an sie ergeht,",
+                  "Die sollten blöde Fleischesaugen,",
+                  "Die nur verhaßte Sündennacht",
+                  "Mit ihrem Schatten trüb gemacht,",
+                  "Dein helles Licht zu schauen taugen?"
+                ],
+                "rechts": [
+                  "Doch gönne meinen Glaubensblicken",
+                  "Den Eingang in Dein Heiligtum,",
+                  "Und laß mich Deine Gnad erblicken",
+                  "Zu meinem Heil und Deinem Ruhm.",
+                  "Reich Deinen Scepter meiner Seele,",
+                  "Die sich wie Esther vor Dir neigt,",
+                  "Und Dir als Deine Braut sich zeigt,",
+                  "Sprich: Ja, du bists, die Ich erwähle."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 1—8.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "1-8"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Die Gläubigen beichten ihre Sünden von Herzen und sprechen mit Daniel täglich, in und außerhalb der heiligen Versammlung auch für alle Brüder in der Welt die Beichte. Sie bringen nicht bloß ihre eigene arme Seele bekennend und reuend herzu, sondern beten und beichten mit bittendem Herzen nicht für sich allein, sondern auch für Alle die Bußfertigen und um Frieden. Sie beten und beichten für Alle in der Christenheit; der HErr sieht ihren Glauben an und gibt ihnen ihren Frieden für sich und in Unbetracht der Andern, für deren Seele sie sorgten. Ihr Herz kennt drum kein selig'res Amt, als das der Absolution, seine fröhliche Gabe als die Vergebung der Sünde; und sie danken ohn Unterlaß, daß sie in der heiligen Kirche geboren, in ihrer Mitte großgezogen sind und von ihrem Schoß Zuspruch immer aufs Neue getröstet sind.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der HErr sprach zu dem Gichtbrüchigen:",
+              "Sei getrost, mein Sohn; deine Sünden sind dir vergeben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Deiner väterlichen Liebe und Gnade, daß Du uns Deinen Sohn in die Welt gesandt, daß Er uns von Sünden erlöse und selig mache; und bitten Dich: Du wollest uns Deine Barmherzigkeit erweisen, unsre Sünde vergeben, unsern Glauben stärken, und durch Deinen heiligen Geist also regieren, damit wir nicht durch Uebertretung Deiner Gebote zu Krankheiten und anderem Unheil Anlaß geben, sondern gegen Dich heilig, gegen unsern Nächsten gerecht, und gegen uns selbst keusch und züchtig leben; um Jesu Christi, unsres HErrn und Heilandes willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mein Jesu, dem die Seraphinen",
+            "strophen": [
+              {
+                "links": [
+                  "Ach laß mich Deine Weisheit leiten,",
+                  "Und nimm ihr Licht nicht von mir weg;",
+                  "Stell Deine Gnade mir zur Seiten,",
+                  "Daß ich auf Dir beliebtem Steg",
+                  "Beständig bis ans Ende wandle,",
+                  "Damit ich auch zu jeder Zeit",
+                  "In Lieb und Herzensfreudigkeit",
+                  "Nach Deinem Wort und Willen handle."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 24, 17—22.",
+            "buch": "5_mose",
+            "kapitel": 24,
+            "verse": "17-22"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger barmherziger Gott, wende gnädiglich von uns ab alle Gefahr und Widerwärtigkeit, auf daß wir, beide: an Leib und Seele, bereit sein mögen, mit freiem Herzen auszurichten was Dir gefällig ist; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 4, 22—32.",
+            "buch": "epheser",
+            "kapitel": 4,
+            "verse": "22-32"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Jesu, dem die Seraphinen",
+            "strophen": [
+              {
+                "links": [
+                  "Reich mir die Waffen aus der Höhe,",
+                  "Und stärk mich durch Deine Macht,",
+                  "Daß ich im Glauben fest und wach",
+                  "Wenn Stark und List der Feinde macht.",
+                  "So wird Dein Gnadenstand auf Erden",
+                  "Das Muster meiner Ehre führt,",
+                  "Und endlich gar mit Kronen ziert,",
+                  "Auch in mir ausgebreitet werden."
+                ],
+                "rechts": [
+                  "Ich steig hinauf zu Dir im Glauben,",
+                  "Steig Du in Lieb herab zu mir;",
+                  "Laß mir nichts diese Freude rauben,",
+                  "Erfülle mich nur ganz mit Dir.",
+                  "Ich will Dich fürchten lieben ehren,",
+                  "So lang in mir der Puls sich regt;",
+                  "Und wenn derselb auch nicht mehr schlägt,",
+                  "So soll doch noch die Liebe währen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Gichtbrüchige stund auf, und ging heim:",
+              "Da das Volk das sah, pries es Gott."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        733,
+        736
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "5"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der beste Freund ist in dem Himmel",
+            "melodie": "175",
+            "strophen": [
+              {
+                "links": [
+                  "Der beste Freund ist in dem Himmel,",
+                  "Auf Erden sind die Freunde rar,",
+                  "Denn bei dem falschen Weltgetümmel",
+                  "Ist Redlichkeit oft in Gefahr.",
+                  "Drum hab ichs immer so gemeint:",
+                  "Mein Jesus ist der beste Freund."
+                ],
+                "rechts": [
+                  "Die Menschen sind wie eine Wiege,",
+                  "Mein Jesus stehet felsenfest,",
+                  "Daß, wenn ich gleich darniederliege,",
+                  "Mich Seine Freundschaft doch nicht läßt.",
+                  "Er ists, Der mit mir lacht und weint:",
+                  "Mein Jesus ist der beste Freund."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 9, 24—41.",
+            "buch": "johannes",
+            "kapitel": 9,
+            "verse": "24-41"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der beste Freund",
+            "strophen": [
+              {
+                "links": [
+                  "Die Welt verkauft ihre Liebe",
+                  "Dem, der am meisten nutzen kann;",
+                  "Und scheinet dann das Glücke trübe,",
+                  "So steht die Freundschaft hinten an.",
+                  "Doch hier ists nicht so gemeint:",
+                  "Mein Jesus ist der beste Freund."
+                ],
+                "rechts": [
+                  "Er läßt Sich Selber für mich töten,",
+                  "Vergeußt für mich Sein eigen Blut,",
+                  "Er steht mir bei in allen Nöten,",
+                  "Er spricht für meine Schulden gut;",
+                  "Er hat mir niemals was verneint:",
+                  "Mein Jesus ist der beste Freund."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 5, 8—20.",
+            "buch": "",
+            "kapitel": 5,
+            "verse": "8-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 5, 13—20.",
+            "buch": "jakobus",
+            "kapitel": 5,
+            "verse": "13-20"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Darum dient das Gebet dazu, daß man ein Ding desto eher erlange, welches sonst länger würde verzogen, ja, draus wohl gar nichts würde. Und also dient es uns dahin, daß wir sollen unverschämte Bettler sein und geilen lernen, und uns nicht lassen milde machen, sondern sagen: HErr, wahr ists, ich bin ein armer und unwürdiger Sünder, das weiß ich wohl, und habe diese und viel größere Strafe wohl verdient mit meinem großen schweren Ungehorsam; aber eben darum, daß ich um solcher Sünd und Elend bin, komme ich zu Dir und rufe Dich an, auf Dein Gebot und Zusagen, Du wollest mir gnädig sein, meine Sünden vergeben, mir in dieser Not und Gefahr helfen und mich mit Deinem heiligen Geist regieren, mir geben was gut ist, mich vor bösem behüten etc.; item, auch Deiner Kirchen helfen, Dein Wort bei uns erhalten. Denn hier gilts nicht Disputatzien, wie fromm ich sei; es ist einzig Stück genug, daß ich es nötdürftig bin und Du es gern geben willst, was mir zu Leib und Seele nützlich ist.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der beste Freund",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Freund, Der mir sein Herze schenkt;",
+                  "Mein Freund, mein sein, und ich bin sein;",
+                  "Mein Freund, Der mich beständig liebt;",
+                  "Mein Freund bis über das Grab hinein;",
+                  "Ach, hab ich nun nicht recht gemeint?",
+                  "Mein Jesus ist der beste Freund."
+                ],
+                "rechts": [
+                  "Behalte, Welt, dir deine Freunde!",
+                  "Sie sind so hundertausend Feinde;",
+                  "Und hätt ich hunderttausend Feinde,",
+                  "So krümmen sie mir nicht ein Haar;",
+                  "Hier immer Freund, und nimmer Feind:",
+                  "Mein Jesus ist der beste Freund."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, unser Gott, barmherziger Vater, allmächtiger König! Du erhörst Gebet, Du willst thronen über den Dankpsalmen und Lobpreisungen Deines Volkes. Sieh gnädig hernieder auf uns und vernimm unser Flehen. Gib uns Glauben und Zuversicht, Weisheit und Ergebung, daß wir recht beten können. Erfülle die Kranken mit dem Geiste der Andacht und des Gebetes, daß sie Dich für ihren Arzt ansehen und auf Deine Hilfe hoffen. Gib ihnen auch die Kraft der Entsagung und der Hingebung, daß sie in stiller Selbstverleugnung ihr Kreuz weiter tragen, wenn es Dein heiliger Wille ist.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        736,
+        740
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "59"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr, ist milder Tau",
+            "melodie": "154",
+            "strophen": [
+              {
+                "links": [
+                  "Dein Wort, o HErr, ist milder Tau",
+                  "Für trostbedürftige Seelen;",
+                  "Laß keinem Pflänzchen Deiner Au",
+                  "Den Himmelsbalsam fehlen.",
+                  "Erquickt durch ihn",
+                  "Laß jedes blühn",
+                  "In und um Deine Zukunft Tagen",
+                  "Dir Frucht und Samen tragen."
+                ],
+                "rechts": [
+                  "Dein Wort ist, HErr, ein Fels, der Felsen spaltet,",
+                  "Ein Keil, der Felsen spaltet,",
+                  "Ein Feuer, das im Herze zehrt,",
+                  "Und Mark und Bein durchschaltet.",
+                  "O laß Dein Wort",
+                  "Noch fort und fort",
+                  "Der Sünde Macht zerscheitern",
+                  "Und alle Herzen läutern."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 6, 43—49.",
+            "buch": "lukas",
+            "kapitel": 6,
+            "verse": "43-49"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Ich suchte Trost und fand ihn nicht:",
+                  "Da ward das Wort der Gnade",
+                  "Mein Labsal, meine Zuversicht,",
+                  "Die Fackel meiner Pfade.",
+                  "Sie zeigte mir",
+                  "Den Weg zu Dir,",
+                  "Und leuchtet meinen Schritten",
+                  "Bis zu den ewgen Hütten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 10, 1—8.",
+            "buch": "",
+            "kapitel": 10,
+            "verse": "1-8"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 12, 12—25.",
+            "buch": "1_korinther",
+            "kapitel": 12,
+            "verse": "12-25"
+          },
+          {
+            "typ": "lied",
+            "titel": "Dein Wort, o HErr",
+            "strophen": [
+              {
+                "links": [
+                  "Nun halt ich mich mit festem Sinn",
+                  "Zu Dir dem sichern Horte;",
+                  "Wo wendt ich mich sonst anders hin?",
+                  "HErr, Du hast Lebensworte!",
+                  "Noch hör ich Dein",
+                  "„Komm, du bist Mein!“",
+                  "Das rief mir nicht vergebens,",
+                  "Ein Wort des ewgen Lebens."
+                ],
+                "rechts": [
+                  "Auf immer gilt Dein Segensbund;",
+                  "Dein Wort ist Ja und Amen.",
+                  "Nie weich es uns aus Geist und Mund,",
+                  "Und nie von unserm Namen.",
+                  "Laß immerfort",
+                  "Dein helles Wort",
+                  "In allen Lebenszeiten",
+                  "Uns trösten warnen leiten."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        740,
+        743
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "101"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "melodie": "20",
+            "strophen": [
+              {
+                "links": [
+                  "Befiehl du deine Wege",
+                  "Und was dein Herze kränkt",
+                  "Der allertreusten Pflege",
+                  "Des, der den Himmel lenkt;",
+                  "Der Wolken Luft und Winden",
+                  "Gibt Wege Lauf und Bahn,",
+                  "Der wird auch Wege finden,",
+                  "Da dein Fuß gehen kann."
+                ],
+                "rechts": [
+                  "Dem HErren mußt du trauen,",
+                  "Wenn dirs soll wohl ergehn;",
+                  "Auf Sein Werk mußt du schauen,",
+                  "Wenn dein Werk soll bestehn.",
+                  "Mit Sorgen und mit Grämen",
+                  "Und mit selbsteigner Pein",
+                  "Läßt Gott Ihm gar nichts nehmen,",
+                  "Es muß erbeten sein."
+                ]
+              },
+              {
+                "links": [
+                  "Dein ewge Treu und Gnade,",
+                  "O Vater, weiß und siehet,",
+                  "Was gut sei oder schade",
+                  "Dem sterblichen Gebüt't,",
+                  "Und was Du dann erlesen,",
+                  "Das treibst Du, starker Held,",
+                  "Und bringst zum Stand und Wesen,",
+                  "Was Deinem Rat gefällt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 8, 40—48.",
+            "buch": "lukas",
+            "kapitel": 8,
+            "verse": "40-48"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "strophen": [
+              {
+                "links": [
+                  "Weg hast Du allerwegen,",
+                  "In Mitteln fehlt Dirs nicht;",
+                  "Dein Tun ist lauter Segen,",
+                  "Dein Gang ist lauter Licht;",
+                  "Dein Werk kann Niemand hindern,",
+                  "Dein Arbeit darf nicht ruhn,",
+                  "Wenn Du, was Deinen Kindern",
+                  "Ersprießlich ist, willst tun."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "59"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 10, 9—14.",
+            "buch": "",
+            "kapitel": 10,
+            "verse": "9-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "132"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 12, 25—29.",
+            "buch": "hebraeer",
+            "kapitel": 12,
+            "verse": "25-29"
+          },
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "strophen": [
+              {
+                "links": [
+                  "Und ob gleich alle Teufel",
+                  "Hier wollten widerstehn,",
+                  "So wird doch ohne Zweifel",
+                  "Gott nicht zurücke gehn;",
+                  "Was Er Ihm vorgenommen",
+                  "Und was Er haben will,",
+                  "Das muß doch endlich kommen",
+                  "Zu seinem Zweck und Ziel."
+                ],
+                "rechts": [
+                  "Hoff, o du arme Seele,",
+                  "Hoff, und sei unverzagt;",
+                  "Gott wird dich aus der Höhle,",
+                  "Da dich der Kummer plagt,",
+                  "Mit großen Gnaden rücken;",
+                  "Erwarte nur der Zeit:",
+                  "So wirst du schon erblicken",
+                  "Die Sonn der schönsten Freud."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        744,
+        746
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "69"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "strophen": [
+              {
+                "links": [
+                  "Auf auf, gib deinem Schmerze",
+                  "Und Sorgen gute Nacht;",
+                  "Laß fahren was das Herze",
+                  "Betrübt und traurig macht;",
+                  "Bist du doch nicht Regente,",
+                  "Der alles führen soll:",
+                  "Gott sitzt im Regimente",
+                  "Und führet alles wohl."
+                ],
+                "rechts": [
+                  "Ihn, Ihn laß tun und walten!",
+                  "Er ist ein weiser Fürst",
+                  "Und wird sich so verhalten,",
+                  "Daß du dich wundern wirst,",
+                  "Wenn Er, wie Ihm gebühret,",
+                  "Mit wunderbarem Rat",
+                  "Die Sach hinausgeführet,",
+                  "Die Dich bekümmert hat."
+                ]
+              },
+              {
+                "links": [
+                  "Er wird zwar eine Weile",
+                  "Mit Seinem Trost verziehn,",
+                  "Und tun an Seinem Teile,",
+                  "Als hätt Er in Sinn,",
+                  "Er deiner Sich begeben,",
+                  "Und sollst du für und für",
+                  "In Angst und Nöten schweben,",
+                  "Als frag Er nichts nach dir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 8, 49—56.",
+            "buch": "lukas",
+            "kapitel": 8,
+            "verse": "49-56"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "strophen": [
+              {
+                "links": [
+                  "Wirds aber sich befinden,",
+                  "Daß du Ihm treu verbleibst,",
+                  "So wird Er dich entbinden,",
+                  "Da dus am wenigsten glaubst;",
+                  "Er wird dein Herze lösen",
+                  "Von der so schweren Last,",
+                  "Die du zu keinem Bösen",
+                  "Bisher getragen hast."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 10, 15—20.",
+            "buch": "",
+            "kapitel": 10,
+            "verse": "15-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 21, 8—14.",
+            "buch": "apostelgeschichte",
+            "kapitel": 21,
+            "verse": "8-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Befiehl du deine Wege",
+            "strophen": [
+              {
+                "links": [
+                  "Wohl dir, du Kind der Treue,",
+                  "Du hast und trägst davon",
+                  "Mit Ruhm und Dankgeschreie",
+                  "Den Sieg und Ehrenkron;",
+                  "Gott gibt dir Selbst die Palmen",
+                  "In deine rechte Hand,",
+                  "Und du singst Freudenpsalmen",
+                  "Dem, Der dein Leid gewandt."
+                ],
+                "rechts": [
+                  "Mach End, o HErr, mach Ende",
+                  "An aller unsrer Not;",
+                  "Stärk unsre Füß und Hände,",
+                  "Und laß bis in den Tod",
+                  "Uns allzeit Deiner Pflege",
+                  "Und Treu empfohlen sein,",
+                  "So gehen unsre Wege",
+                  "Gewiß zum Himmel ein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        746,
+        749
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Bis hieher hat mich Gott gebracht",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Bis hieher hat mich Gott gebracht",
+                  "Durch Seine große Güte,",
+                  "Bis hieher hat Er Tag und Nacht",
+                  "Bewahrt Herz und Gemüte,",
+                  "Bis hieher hat Er mich geleit,",
+                  "Bis hieher hat Er mich erfreut,",
+                  "Bis hieher mir geholfen."
+                ],
+                "rechts": [
+                  "Hab Lob, hab Ehr, hab Preis und Dank",
+                  "Für die bisherge Treue,",
+                  "Die Du, o Gott, mir lebenslang",
+                  "Bewiesen täglich neue,",
+                  "In mein Gedächtnis schreib ich an:",
+                  "Der HErr hat Großes an mir getan,",
+                  "Bis hieher mir geholfen."
+                ]
+              },
+              {
+                "links": [
+                  "Hilf fernerweit, mein treuster Hort,",
+                  "Hilf mir zu allen Stunden;",
+                  "Hilf mir an all und jedem Ort,",
+                  "Hilf durch Jesu Wunden,",
+                  "Damit ich sag bis in den Tod:",
+                  "Durch Christi Blut hilft mir mein Gott,",
+                  "Er hilft, wie Er geholfen!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 10—17.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "10-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach halt in Deiner treuen Hut",
+            "strophen": [
+              {
+                "links": [
+                  "Ach halt in Deiner treuen Hut",
+                  "Was sich bei Deiner Schar befindet;",
+                  "Denn, HErr, auf Deinen Tod und Blut",
+                  "Ist Haus und Hausgenoß gegründet.",
+                  "Ach, bitte, weil Du immer batst,",
+                  "Für uns in künftgen Tag und Jahren,",
+                  "Vertritt uns, wie Du immer tatst,",
+                  "Wenn wir vor Dir versammelt waren.",
+                  "Erleuchte dies Dein Haus",
+                  "Und wähle ein aus",
+                  "Vor Deinen lichten Augen geben,",
+                  "Der Eckstein ist Dein Herz,",
+                  "Der Bau das gute Teil:",
+                  "Drauf wolln wir ewiglich bestehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 10, 21—11, 9.",
+            "buch": "",
+            "kapitel": 10,
+            "verse": "21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 1, 6—10.",
+            "buch": "galater",
+            "kapitel": 1,
+            "verse": "6-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Liebe, komm und schütte Deine Segen",
+            "melodie": "Mein Salomo",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, Liebe, komm und schütte Deine Segen",
+                  "Noch heute über unser ganzes Haus!",
+                  "Es macht vor Dir nur e i n e Seele aus,",
+                  "O, laß Sich Deine Gnade drinnen regen.",
+                  "Gib, daß Dein Volk sich Deiner freuen mag,",
+                  "So wird bei ihm jeder Tag zum Sabbatstag."
+                ],
+                "rechts": [
+                  "Du treues Herz, Du Liebe ohne Ende,",
+                  "Du Ohr, das eh man ruft, schon hört;",
+                  "Du Auge, das sich nie von Jemand kehrt,",
+                  "Der ihm in Armut siehet auf die Hände;",
+                  "Du Kraft, Du Licht, Du Manna Deiner Schar:",
+                  "Gib Dich uns; denn, Liebe, Du bist gar."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 19. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        750,
+        752
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "92"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Nacht ist hin",
+            "melodie": "131",
+            "strophen": [
+              {
+                "links": [
+                  "Die Nacht ist hin,",
+                  "Mein Geist und Sinn",
+                  "Sehnt sich nach jenem Tage,",
+                  "Vor dem völlig weichen muß",
+                  "Finsternis und Plage."
+                ],
+                "rechts": [
+                  "Der Sonnen Licht,",
+                  "Aufs Neu anbricht,",
+                  "O unerschaffne Sonne,",
+                  "Brich mit Deinem Licht hervor",
+                  "Mir zur Freud und Wonne."
+                ]
+              },
+              {
+                "links": [
+                  "Der Tag ist da,",
+                  "Das Licht ist nah,",
+                  "Das Dunkle zu vertreiben;",
+                  "Vor Dir, Jesu, schönstes Licht,",
+                  "Kann nichts dunkel bleiben."
+                ],
+                "rechts": [
+                  "Der Menschen Schar,",
+                  "Die alt vor war,",
+                  "Greift jetzt zu ihren Werken:",
+                  "Laß mich, HErr, bei meinem Werk",
+                  "Dein Werk in mir merken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 28—36.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "28-36"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Die Nacht ist hin",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesulein,",
+                  "Gib Licht und Schein",
+                  "In unsern dunklen Zeiten:",
+                  "Führe uns aus der finstern Welt",
+                  "In die Ewigkeiten."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 11, 10—16.",
+            "buch": "",
+            "kapitel": 11,
+            "verse": "10-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 1, 11—24.",
+            "buch": "galater",
+            "kapitel": 1,
+            "verse": "11-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Laßt uns hier Hütten bauen",
+            "strophen": [
+              {
+                "links": [
+                  "Laßt uns hier Hütten bauen,",
+                  "Das sei mein ganz Begehr:",
+                  "Ihn immer anzuschauen,",
+                  "Nichts Schöners ist, als Er.",
+                  "Auf meines Freundes Todgeschicht",
+                  "Sei meines Geistes Auge",
+                  "Auf ewig hin gericht."
+                ],
+                "rechts": [
+                  "Und damit will ich schließen:",
+                  "Die Hand, an der ich geh,",
+                  "Wird mich zu halten wissen,",
+                  "Bis ich Ihn leiblich seh,",
+                  "Bis aber mir das Herze bricht,",
+                  "Und sich die Augen schließen,",
+                  "Vergeß ichs Leiden nicht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

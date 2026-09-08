@@ -1,0 +1,1020 @@
+{
+  "id": "trinitatis_15",
+  "titel": "15. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "15. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        645,
+        649
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86",
+              "10"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum willst du doch für morgen",
+            "melodie": "153",
+            "strophen": [
+              {
+                "links": [
+                  "Warum willst du doch für morgen,",
+                  "Armes Herz,",
+                  "Immerwärts",
+                  "Als ein Heide sorgen?",
+                  "Wozu dient dein täglich Grämen,",
+                  "Weil Gott will",
+                  "In der Still",
+                  "Sich der Not annehmen?"
+                ],
+                "rechts": [
+                  "Gott hat dir geschenkt das Leben",
+                  "Seel und Leib;",
+                  "Darum bleib",
+                  "Ihm Allein ergeben;",
+                  "Er wird ferner alles schenken;",
+                  "Traue fest,",
+                  "Er verläßt",
+                  "Nicht Die an Ihn denken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 6, 24—34.",
+            "buch": "matthaeus",
+            "kapitel": 6,
+            "verse": "24-34"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ach, könnte ich euch zum Trachten nach dem Reiche Christi bewegen! Ach, könnte ich machen, daß ihr nicht am ersten, nicht mehr vor allen Dingen nach dem Zeitlichen trachtetet! Was soll ich doch sagen, Brüder? Wodurch euch bewegen? Ich weiß ein Wort, vernehmt es! Wer sich den Sorgen ergibt, trachtet nicht am ersten nach dem Reiche Gottes und Seiner Gerechtigkeit, hat kein versöhntes Herz, kein verschöntes Herz, ist ein unrechter Mensch. Wo Sorgen herrschen, ist Heidentum. So gewiß zeigt das Abendrot den Abend an, nicht als die Sünde in der Seele noch Nacht ist, daß sie sündet. — O wecke durch den Ernst dieser Gedanken, HErr Gott heiliger Geist, aus der nächtlichen sündlichen Ruhe die armen sorgenvollen Herzen, daß sie nach dem trachten, was droben ist, und frei werden von den Banden des irdischen zeitlichen Lebens!",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr sollt nicht ängstlich sorgen;",
+              "Euer himmlischer Vater weiß, wessen ihr bedürfet."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Dir, daß Du uns Seele und Leib gegeben, und bisher alles, was wir zu diesem zeitlichen Leben nötig haben, reichlich gegeben hast; und bitten Dich: mache uns im Glauben stark und feste, und hilf, daß wir für unsre Seele und Leib fröhlich vertrauen, Dein Reich vor allen Dingen suchen, und alles Elend durch Deine Gnade überwinden; durch . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Warum willst du doch",
+            "strophen": [
+              {
+                "links": [
+                  "Laß die Welt denn sich bemühen",
+                  "Immerhin,",
+                  "Ich mein Sinn",
+                  "Soll zu Jesu fliehen,",
+                  "Er wird sorgen was mir fehlet,",
+                  "Ob Ers oft",
+                  "Unverhofft",
+                  "Eine Weil verhehlet."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33-80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 17, 8—16.",
+            "buch": "1_koenige",
+            "kapitel": 17,
+            "verse": "8-16"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, wir bitten Dich: Du wollest Deine Kirche mit ewiger Erbarmung reinigen und bewahren; und weil sie ohne Dich nicht bestehen kann, so wollest Du sie allzeit durch Deinen Schutz und Gabe regieren; durch . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 5, 25—6, 1.",
+            "buch": "galater",
+            "kapitel": 5,
+            "verse": "25"
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum willst du doch",
+            "strophen": [
+              {
+                "links": [
+                  "Nun, HErr Jesu, meine Freude,",
+                  "Meine Sonn,",
+                  "Meine Wonn,",
+                  "Meiner Seelen Weide,",
+                  "Sorge nur für meine Seelen,",
+                  "So wird mir",
+                  "Auch allhier",
+                  "Nichts am Leibe fehlen."
+                ],
+                "rechts": [
+                  "Ich will Dir mit Freuden danken",
+                  "Fort und fort,",
+                  "Hier und dort,",
+                  "Und will nimmer wanken.",
+                  "Lob und Preis sei Deinem Namen!",
+                  "Sei mein Teil,",
+                  "Hilf und Heil,",
+                  "Liebster Jesu! Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Trachtet am ersten nach dem Reich Gottes und nach Seiner Gerechtigkeit,",
+              "So wird euch solches alles zufallen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, Du hast uns in eine entscheidungsreiche Zeit gestellt; so gib uns Kraft und Klarheit, daß wir uns allezeit richtig entscheiden. Gib uns einen heiligen Abscheu vor dem Götzendienst des Zeitgeistes. Laß uns kalt allen Unglauben und Irrglauben, Schwachglauben und Kleinglauben ferne von uns sein. Stärke den wahren Glauben in uns, daß wir fest an Dir hangen und vor allem Bösen bewahrt bleiben. Segne unsre Häuser mit himmlischen Gütern. Laß Frömmigkeit und Liebe darin wohnen. Heilige das Ehebund, stärke die Kinderzucht, gib dem Gesinde Gehorsam und den Hauseltern Freundlichkeit. Wehre dem Ehebruch und der Ehescheidung unsers Volke. Laß die Häuser von Deinem Geist erfüllt werden, daß sie Dir zur Ehre und Christo darin freudig dienen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        649,
+        651
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "20"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer weiß, wie nahe mir mein Ende",
+            "melodie": "161",
+            "strophen": [
+              {
+                "links": [
+                  "Wer weiß, wie nahe mir mein Ende!",
+                  "Hin geht die Zeit, her kommt der Tod.",
+                  "Ach wie geschwinde und behende",
+                  "Kann kommen meine Todesnot!",
+                  "Mein Gott, ich bitt durch Christi Blut:",
+                  "Machs nur mit meinem Ende gut."
+                ],
+                "rechts": [
+                  "HErr, lehr mich stets mein End bedenken",
+                  "Und, wenn ich einsten sterben muß,",
+                  "Die Seel in Jesu Wunden senken",
+                  "Und ja nicht sparen meine Buß.",
+                  "Mein Gott, ich bitt durch Christi Blut:",
+                  "Machs nur mit meinem Ende gut."
+                ]
+              },
+              {
+                "links": [
+                  "Es kann vor Nachts leicht anders werden",
+                  "Als es am frühen Morgen war;",
+                  "Denn weil ich leb auf dieser Erden,",
+                  "Leb ich in steter Todsgefahr.",
+                  "Mein Gott . . ."
+                ],
+                "rechts": [
+                  "Laß mich bei Zeit mein Haus bestellen,",
+                  "Daß ich bereit sei für und für,",
+                  "Und sage stets in allen Fällen:",
+                  "HErr, wie Du willst, so schicks mit mir.",
+                  "Mein Gott . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 11, 1—11.",
+            "buch": "johannes",
+            "kapitel": 11,
+            "verse": "1-11"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wer weiß, wie nahe",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Vater, deck all meine Sünde",
+                  "Mit dem Verdienste Jesu zu;",
+                  "Darein ich mich jetzt gläubig winde;",
+                  "Das gibt recht erwünschte Ruh:",
+                  "Mein Gott, ich bitt durch Christi Blut:",
+                  "Machs nur mit meinem Ende gut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 48, 20—22.",
+            "buch": "jesaja",
+            "kapitel": 48,
+            "verse": "20-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Thessalonicher 3, 6—13.",
+            "buch": "2_thessalonicher",
+            "kapitel": 3,
+            "verse": "6-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer weiß, wie nahe",
+            "strophen": [
+              {
+                "links": [
+                  "So komm mein End heut oder morgen,",
+                  "Ich weiß, daß mirs mit Jesu glückt;",
+                  "Ich bin und bleib in Deinen Sorgen,",
+                  "Mit Jesu Blut schön ausgeschmückt.",
+                  "Mein Gott, ich bitt durch Christi Blut:",
+                  "Machs nur mit meinem Ende gut."
+                ],
+                "rechts": [
+                  "Ich leb indes mit Dir vergnüget,",
+                  "Und sterb ohn alle Kümmernis;",
+                  "Mir gnüget, wie es mein Gott füget,",
+                  "Ich glaub und bin es ganz gewiß:",
+                  "Durch Deine Gnad und Christi Blut",
+                  "Machst Du mit meinem Ende gut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        651,
+        654
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "135"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ist Gott für mich",
+            "melodie": "84",
+            "strophen": [
+              {
+                "links": [
+                  "Ist Gott für mich, so trete",
+                  "Gleich alles wider mich,",
+                  "So oft ich ruf und bete,",
+                  "Weicht alles hinter sich.",
+                  "Hab ich das Haupt zum Freunde",
+                  "Und bin geliebt bei Gott:",
+                  "Was kann mir tun der Feinde",
+                  "Und Widersacher Rott?"
+                ],
+                "rechts": [
+                  "Nun weiß und glaub ich feste,",
+                  "Ich rühms auch ohne Scheu,",
+                  "Daß Gott, der Höchst und Beste,",
+                  "Mir gänzlich günstig sei;",
+                  "Und daß in allen Fällen",
+                  "Er mir zur Rechten steh,",
+                  "Und dämpfe Sturm und Wellen,",
+                  "Und was mir bringet Weh."
+                ]
+              },
+              {
+                "links": [
+                  "Der Grund, da ich mich gründe,",
+                  "Ist Christus und Sein Blut;",
+                  "Das macht, daß ich finde",
+                  "Das ewge wahre Gut.",
+                  "An mir und meinem Leben",
+                  "Ist nichts auf dieser Erd;",
+                  "Was Christus mir gegeben,",
+                  "Das ist der Liebe wert."
+                ],
+                "rechts": [
+                  "Mein Jesus ist mein Ehre,",
+                  "Mein Glanz und helles Licht;",
+                  "Wenn Der nicht in mir wäre,",
+                  "So dürft und könnt ich nicht",
+                  "Vor Gottes Augen stehen",
+                  "Und vor dem strengen Sitz;",
+                  "Ich müßte grads vergehen",
+                  "Wie Wachs in Feuersglut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 46—50.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "46-50"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ist Gott für mich",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Jesus hat gelöschet",
+                  "Was mit sich führt den Tod,",
+                  "Der ist's, Der mich reinwäschet,",
+                  "Macht schneeweiß was ist rot.",
+                  "In Ihm kann ich mich freuen,",
+                  "Hab einen Heldenmut,",
+                  "Darf kein Gerichte scheuen,",
+                  "Wie sonst ein Sünder tut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 17, 1—6.",
+            "buch": "1_koenige",
+            "kapitel": 17,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 18, 1—11.",
+            "buch": "apostelgeschichte",
+            "kapitel": 18,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ist Gott für mich",
+            "strophen": [
+              {
+                "links": [
+                  "Nichts nichts kann mich verdammen,",
+                  "Nichts nimmt mir meine Herz;",
+                  "Die Höll und ihre Flammen",
+                  "Die sind mir nur ein Scherz;",
+                  "Kein Urteil mich erschrecket,",
+                  "Kein Unheil mich betrübt,",
+                  "Weil mich mit Flügeln decket",
+                  "Mein Heiland, Der mich liebt."
+                ],
+                "rechts": [
+                  "Sein Geist wohnt mir im Herzen,",
+                  "Regieret meinen Sinn,",
+                  "Vertreibt den Kummer und Schmerzen,",
+                  "Nimmt allen Kummer hin.",
+                  "Gibt Segen und Gedeihen",
+                  "Dem, was Er in mir schafft,",
+                  "Hilf mir das Abba schreien",
+                  "Aus aller meiner Kraft."
+                ]
+              },
+              {
+                "links": [
+                  "Und wenn an meinem Orte",
+                  "Sich Furcht und Schwachheit findt,",
+                  "So seufzt und spricht Er Worte,",
+                  "Die unaussprechlich sind,",
+                  "Mir zwar und meinem Munde,",
+                  "Gott aber wohl bewußt,",
+                  "Der an des Herzens Grunde",
+                  "Ersiehet Seine Lust."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        655,
+        658
+      ],
+      "stunden": {
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ist Gott für mich",
+            "strophen": [
+              {
+                "links": [
+                  "Die Welt die mag zerbrechen:",
+                  "Du stehst mir ewiglich;",
+                  "Kein Brennen Hauen Stechen",
+                  "Soll trennen mich und Dich;",
+                  "Kein Hunger und kein Dürsten,",
+                  "Kein Armut, keine Pein,",
+                  "Kein Zorn des großen Fürsten",
+                  "Soll mir ein Hindrung sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 18, 21—24; 36—39.",
+            "buch": "1_koenige",
+            "kapitel": 18,
+            "verse": "21-24, 36-39"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sein Geist spricht meinem Geiste",
+            "strophen": [
+              {
+                "links": [
+                  "Sein Geist spricht meinem Geiste",
+                  "Manch süßes Trostwort zu:",
+                  "Wie Gott dem Hilfe leiste,",
+                  "Und wie Er hab erbauet",
+                  "Ein edle neue Stadt,",
+                  "Da Aug und Herze schauet",
+                  "Was es gesuchet hat.",
+                  "Da ist mein Teil, mein Erbe",
+                  "Mir prächtig zugericht;",
+                  "Wenn ich gleich fall und sterbe,",
+                  "Fällt doch mein Himmel nicht.",
+                  "Muß ich auch dieser Zeit",
+                  "Mit Tränen meine Zeit",
+                  "Durchführt alles Leid."
+                ],
+                "rechts": [
+                  "Wer sich mit Dem verbindet,",
+                  "Den Satan fleucht und haßt,",
+                  "Der wird verfolgt, und findet",
+                  "Eine harte schwere Last",
+                  "Zu leiden in Hohn und Spott,",
+                  "Das Kreuz und alle Plagen",
+                  "Die sind sein täglich Brot.",
+                  "Das ist mir nicht verborgen,",
+                  "Doch bin ich unverzagt,",
+                  "Dich will ich lassen sorgen,",
+                  "Dem ich mich zugesagt.",
+                  "Es koste Leib und Leben,",
+                  "Und alles was ich hab:",
+                  "An Dir will ich sie festhalten",
+                  "Und nimmer lassen ab."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 20, 45—47.",
+            "buch": "lukas",
+            "kapitel": 20,
+            "verse": "45-47"
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "129"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 10, 1—8.",
+            "buch": "2_korinther",
+            "kapitel": 10,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ist Gott für euch",
+            "strophen": [
+              {
+                "links": [
+                  "Kein Engel, keine Freuden,",
+                  "Kein Thron, kein Herrlichkeit,",
+                  "Kein Lieben und kein Leiden,",
+                  "Kein Angst kein Herzeleid;",
+                  "Was man nur kann erdenken,",
+                  "Es sei klein oder groß,",
+                  "Der keines soll mich lenken",
+                  "Aus Deinem Arm und Schoß."
+                ],
+                "rechts": [
+                  "Mein Herze geht in Springen",
+                  "Und kann nicht traurig sein;",
+                  "Ich voller Freud und Singen,",
+                  "Sieht lauter Sonnenschein:",
+                  "Die Sonne, die mir lachet,",
+                  "Ist mein HErr Jesu Christ,",
+                  "Das, was mich singend machet,",
+                  "Ist was im Himmel ist."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        658,
+        661
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "147"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wär Gott nicht mit uns",
+            "strophen": [
+              {
+                "links": [
+                  "Wär Gott nicht mit uns diese Zeit,",
+                  "So soll Israel sagen;",
+                  "Wär Gott nicht mit uns diese Zeit,",
+                  "Wir hätten müßt verzagen,",
+                  "Die so ein armes Häuflein sind,",
+                  "Veracht von so viel Menschenkind,",
+                  "Die an uns setzen Alle."
+                ],
+                "rechts": [
+                  "Auf uns ist so zornig ihr Sinn,",
+                  "Wo Gott hätt das zugeben,",
+                  "Verschlungen hätten sie uns hin",
+                  "Mit ganzem Leib und Leben;",
+                  "Wir wärn als die ein Flut ersäuft,",
+                  "Und über die groß Wasser läuft,",
+                  "Und mit Gewalt verschwemmet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 21, 5—9.",
+            "buch": "lukas",
+            "kapitel": 21,
+            "verse": "5-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Du gestern und auch heute",
+            "melodie": "37",
+            "strophen": [
+              {
+                "links": [
+                  "Du gestern und auch heute",
+                  "Der Kirche lieber Herz,",
+                  "Dich spüren Deine Leute",
+                  "Tagtäglich herrlicher;",
+                  "Weil sich an jedem Gliede",
+                  "Dein treues Herz beweist",
+                  "Und uns Dein teurer Friede",
+                  "Bei Tag und Nacht umschleußt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 3, 17—21.",
+            "buch": "hesekiel",
+            "kapitel": 3,
+            "verse": "17-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 4, 1—5.",
+            "buch": "offenbarung",
+            "kapitel": 4,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Gottesseraphim",
+            "strophen": [
+              {
+                "links": [
+                  "Die Gottesseraphim",
+                  "Erheben ihre Stimm,",
+                  "Mächtig und froh vor Ihm.",
+                  "Ihr heilges Chor,",
+                  "Voll Glanz und Licht,",
+                  "Singt mit bedecktem Angesicht:",
+                  "Heilig, heilig ist Gott,",
+                  "Heilig ist Gott, der HErre Zebaoth!"
+                ],
+                "rechts": [
+                  "Und Jesu Brautgemein,",
+                  "Sein Fleisch und Sein Gebein,",
+                  "Singt fröhlich Amen drein.",
+                  "Ihr Lied, das hier",
+                  "Und droben tönt,",
+                  "Ist: Dank sei Dem, Der uns versöhnt.",
+                  "Ehre dem Gotteslamm!",
+                  "Am Kreuzesstamm! Ehre Gott und dem Lamm."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        662,
+        663
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "79"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Verzage nicht, Du Häuflein klein",
+            "melodie": "148",
+            "strophen": [
+              {
+                "links": [
+                  "Verzage nicht, Du Häuflein klein,",
+                  "Obschon die Feinde willens sein,",
+                  "Dich gänzlich zu verstören,",
+                  "Und suchen deinen Untergang,",
+                  "Davon dir recht angst und bang:",
+                  "Es wird nicht lange währen."
+                ],
+                "rechts": [
+                  "Tröste dich nur, daß deine Sach",
+                  "Ist Gottes; Dem befiehl die Rach,",
+                  "Laß Ihn Alleine walten.",
+                  "Er wird durch Seinen Gideon,",
+                  "Den Er wohl kennt, dir helfen schon,",
+                  "Dich und Sein Wort erhalten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 21, 10—19.",
+            "buch": "lukas",
+            "kapitel": 21,
+            "verse": "10-19"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Verzage nicht, du Häuflein klein",
+            "strophen": [
+              {
+                "links": [
+                  "Amen! Das hilf, HErr Jesu Christ,",
+                  "Dieweil Du unser Schutzherr bist,",
+                  "Hilf uns durch Deinen Namen:",
+                  "So wollen wir, Deine Gemein,",
+                  "Dich loben und Dir dankbar sein,",
+                  "Und fröhlich singen. Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 41, 15—20.",
+            "buch": "jesaja",
+            "kapitel": 41,
+            "verse": "15-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 19, 1—10.",
+            "buch": "offenbarung",
+            "kapitel": 19,
+            "verse": "1-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott wolln wir loben",
+            "strophen": [
+              {
+                "links": [
+                  "Gott wolln wir loben,",
+                  "Der mit edlen Gaben",
+                  "Seine Kirch, die heilige Stadt,",
+                  "Herrlich erbauet hat,",
+                  "Mit Geist und Worte",
+                  "Um lieblichen Orte,",
+                  "Auf den schönen Berg Zion,",
+                  "Auf Christum, seinen Sohn,",
+                  "Da kein Trübsal sie verletzen kann,",
+                  "Sondern mächtig wächst und blüht vor Jedermann,",
+                  "Schön und zart",
+                  "In Wohlfahrt,",
+                  "In Lieb und in Einigkeit",
+                  "Zu ihrer Seligkeit."
+                ],
+                "rechts": [
+                  "Schaut da: welche Gaben",
+                  "Hilf und Rat wir haben,",
+                  "Gottes Wort und Sakrament,",
+                  "Ein schönes Regiment,",
+                  "Sichere Wohnung,",
+                  "Gute Zucht und Ordnung,",
+                  "Treue Diener, die durchaus",
+                  "Bewahren Gotteshaus.",
+                  "Ja, da ruht und wohnt selbst unser Gott,",
+                  "Unser König, der HErr Zebaoth;",
+                  "Der tut uns",
+                  "Lieb und Gunst",
+                  "Jetzt zur gnadenreichen Zeit",
+                  "Und bis in Ewigkeit."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 15. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        666,
+        668
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "106"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Treuer Wächter Israel",
+            "strophen": [
+              {
+                "links": [
+                  "Treuer Wächter Israel,",
+                  "Des sich freuet Leib und Seel,",
+                  "Der Du weißest alles Leid",
+                  "Deiner armen Christenheit,",
+                  "O Wächter, Der Du nicht",
+                  "Schläfst noch schlummerst, zu uns richt",
+                  "Dein hilfreiches Angesicht."
+                ],
+                "rechts": [
+                  "Schau: wie große Not und Qual",
+                  "Trifft Dein Volk jetzt überall;",
+                  "Täglich wird der Trübsal mehr:",
+                  "Hilf, ach hilf! Schütz Deine Lehr!",
+                  "Wir verderben, wir vergehn,",
+                  "Nichts wir sonst vor Augen sehn,",
+                  "Wo Du nicht bei uns wirst stehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 21, 20—24.",
+            "buch": "lukas",
+            "kapitel": 21,
+            "verse": "20-24"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Treuer Wächter Israel",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Der Du Jesus heißt,",
+                  "Als ein Jesus Hilfe leist!",
+                  "Hilf mit Deiner starken Hand!",
+                  "Menschenhilf hat sich gewandt.",
+                  "Eine Mauer um uns bau,",
+                  "Daß dem Feinde davor grau",
+                  "Und mit Zittern sie anschau."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 37, 33—38.",
+            "buch": "jesaja",
+            "kapitel": 37,
+            "verse": "33-38"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 16, 4—9.",
+            "buch": "offenbarung",
+            "kapitel": 16,
+            "verse": "4-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Treuer Wächter Israel",
+            "strophen": [
+              {
+                "links": [
+                  "Liebster Schatz, Immanuel,",
+                  "Du Beschützer meiner Seel,",
+                  "Gott mit uns in aller Not,",
+                  "Lieben uns in und mit Gott,",
+                  "Gott für uns zu aller Zeit:",
+                  "Trotz dem, der uns tut ein Leid!",
+                  "Gottes Straf ist ihm bereit."
+                ],
+                "rechts": [
+                  "Andre trauen ihrer Kraft,",
+                  "Ihrem Glück und Ritterschaft;",
+                  "Deine Christen sehn auf Dich,",
+                  "Trauen Dir sich festiglich.",
+                  "Laß sie werden nicht zu Schand,",
+                  "Bleib ihr Helfer und Beistand;",
+                  "Sind sie Dir doch ganz bekannt!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}
