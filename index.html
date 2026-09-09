@@ -416,6 +416,34 @@ function showTag(wocheId, tagId) {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+// ── TAGESZEIT → STUNDE ──
+// Welche Hore ist jetzt "dran"?
+//   Morgengebet  03:00–11:59
+//   Mittagsgebet 12:00–17:59
+//   Abendgebet   18:00–02:59
+function stundeNachUhrzeit() {
+  const h = new Date().getHours();
+  if (h >= 3  && h < 12) return 'morgen';
+  if (h >= 12 && h < 18) return 'mittag';
+  return 'abend';
+}
+
+// Index der Stunde, die beim Öffnen eines Tages aufgeschlagen sein soll.
+// Fehlt die zur Uhrzeit passende Hore an diesem Tag, wird die Ersatzkette
+// abgearbeitet; findet sich gar nichts, bleibt es bei der ersten Stunde.
+function aktiveStundeIndex(liste) {
+  const kette = {
+    morgen: ['morgen', 'mittag', 'abend', 'nacht'],
+    mittag: ['mittag', 'morgen', 'abend', 'nacht'],
+    abend:  ['abend', 'nacht', 'mittag', 'morgen']
+  }[stundeNachUhrzeit()];
+  for (const s of kette) {
+    const i = liste.indexOf(s);
+    if (i >= 0) return i;
+  }
+  return 0;
+}
+
 // ── RENDER SYSTEM FÜR DIE TAGE ──
 async function renderTag(tag) {
   const stunden = tag.stunden || {};
@@ -424,14 +452,15 @@ async function renderTag(tag) {
     document.getElementById('content').innerHTML = `<div class="codex"><div class="title-block"><div class="feast">${esc(tag.titel)}</div></div><p class="leer-hinweis">Dieser Abschnitt ist noch nicht transkribiert.</p></div>`;
     return;
   }
-  
+
+  const aktiv = aktiveStundeIndex(liste);
   const labels = { morgen:'Morgengebet', mittag:'Mittagsgebet', abend:'Abendgebet', nacht:'Nachtgebet' };
-  const tabs = liste.map((s,i) => `<button class="hora-btn${i===0?' active':''}" onclick="showHora('${s}',this)">${labels[s]||s}</button>`).join('');
+  const tabs = liste.map((s,i) => `<button class="hora-btn${i===aktiv?' active':''}" onclick="showHora('${s}',this)">${labels[s]||s}</button>`).join('');
   
   let panels = '';
   for(let i=0; i<liste.length; i++) {
     const s = liste[i];
-    panels += `<div id="hora-${s}" class="hora-panel${i===0?' active':''}">` + (await renderBlöcke(stunden[s])) + `</div>`;
+    panels += `<div id="hora-${s}" class="hora-panel${i===aktiv?' active':''}">` + (await renderBlöcke(stunden[s])) + `</div>`;
   }
 
   const sr = tag.seiten ? (Array.isArray(tag.seiten) ? `Evang. Brevier · S. ${tag.seiten[0]}–${tag.seiten[1]}` : `Evang. Brevier · S. ${tag.seiten}`) : '';
