@@ -1,0 +1,501 @@
+{
+  "id": "zweiter_christtag",
+  "titel": "Zweiter Christtag / Fest des hl. Stephanus (26. Dezember)",
+  "kirchenzeit": "weihnachten",
+  "reihe": 3,
+  "band": 1,
+  "datum": "12-26",
+  "tage": [
+    {
+      "id": "zweiter_christtag",
+      "titel": "Zweiter Christtag",
+      "wochentag": "fest",
+      "seiten": [
+        223,
+        228
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Uns ist ein Kind geboren,",
+              "Und Sein Name heißt: Gott und Held."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45",
+              "48"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gelobet seist Du, Jesu Christ",
+            "melodie": "55",
+            "strophen": [
+              {
+                "links": [
+                  "Gelobet seist Du, Jesu Christ,",
+                  "Daß Du Mensch geboren bist",
+                  "Von einer Jungfrau, das ist wahr,",
+                  "Des freuet sich der Engel Schar.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Den aller Welt Kreis nie beschloß,",
+                  "Der liegt in Marien Schoß;",
+                  "Er ist ein Kindlein worden klein,",
+                  "Der alle Ding erhält allein.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Des ewgen Vaters einig Kind",
+                  "Jetzt man in der Krippen findt;",
+                  "In unser armes Fleisch und Blut",
+                  "Verkleidet sich das ewig Gut.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Das ewig Licht geht da herein,",
+                  "Gibt der Welt ein neuen Schein;",
+                  "Es leucht wohl mitten in der Nacht",
+                  "Und uns des Lichtes Kinder macht.",
+                  "Kyrieleis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Christus kommt her aus den Vätern im Fleisch, Hallelujah!",
+              "Welcher ist Gott über alles, hochgelobt in Ewigkeit. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 2, 15—20.",
+            "buch": "lukas",
+            "kapitel": 2,
+            "verse": "15-20"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wenn der Geist sich zum Bekenntnis seines Urhebers aufschwingt — sei es in Gebetsseufzern, in jubelndem Lobpreis oder bei der Darbringung des Opfers — so berührt er in seinem geistigen Schauen nichts häufiger, nichts zuverlässiger als die Tatsache, daß Gottes Sohn, aus dem gleichewigen Vater gezeugt, doch auch in menschlichem Wesen geboren ist. Aber kein Tag kündet unsern Herzen mehr als der heutige. Denn heute ist der Urheber der Welt aus jungfräulichem Schoße geboren worden; heute erschien Gottes Wort im Kleide des Fleisches. Was Menschenaugen nie sehen konnten, wird nun mit Händen greifbar. Während wir die Geburt unsres Erlösers anbeten, denken wir zugleich an den Anfang unsres eigenen Heils; denn die Geburt Christi ist die Geburt des christlichen Volkes: der Geburtstag des Hauptes ist auch der des Leibes.",
+            "quelle": "Leo"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Und das Wort ward Fleisch, und wohnete unter uns,",
+              "Und wir sahen Seine Herrlichkeit, eine Herrlichkeit als des Eingebornen Sohnes vom Vater, voller Gnade und Wahrheit."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir danken Dir, HErr Jesu Christe, Du Sohn des lebendigen Gottes, Der Du bist das Wort und Ebenbild des ewigen Vaters und unser Immanuel, daß Du menschliche Natur hast angenommen und erhältst und beschirmst Deine Christenheit wider das Gift Deines Widersachers, vergibst unsre Sünde und gibst uns das ewige Leben, weil Du unser Mittler und Fürsprecher bist und uns erhören und helfen willst. Wir bitten Dich, erbarme Dich unser, bitte für uns bei Deinem Vater, heilige und regiere uns mit Deinem heiligen Geiste, beschirme uns wider alle List und Gewalt, Lügen und Mord des bösen Geistes, auf daß wir mit reinem und fröhlichem Herzen Dir dienen mögen; Der Du . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lumen inclytum refulget",
+            "untertitel": "Hymnus in natali Domini",
+            "strophen": [
+              {
+                "links": [
+                  "Lumen inclytum refulget maximo orto sidere,",
+                  "Quod per omnem splendet orbem noctis umbras aufugans.",
+                  "Dux Judaeae, quem prophetam jam diu praedixerat,",
+                  "Nobis laetus ecce venit Bethle nascens inclyta.",
+                  "Hunc regalis virgo mater partu gaudens edidit,",
+                  "Gabriel quem nuntiavit Salvatorem gentium.",
+                  "Cum pastores excubantes cura morderet gravis,",
+                  "Ad laetandum clarus ipsos est hortatus nuntius.",
+                  "Concinebant angelorum turba laeta laudibus,",
+                  "Terrae pacem praedicantes coelo reddunt gloriam.",
+                  "Gaude coelum cum supernis angelorum milibus",
+                  "Terrae et omnis plenitudo: pontus astra lumina."
+                ]
+              },
+              {
+                "links": [
+                  "Herrlich strahlt ein Licht vom Himmel, seit der größte Stern erschien,",
+                  "Das die ganze Welt durchstrahlet und der Nächte Graun verscheucht.",
+                  "Judas König, wie vor Zeiten der Prophet vorausgesagt:",
+                  "Freudvoll ist Er uns gekommen aus der edlen Davids Stadt:",
+                  "Den die königliche Jungfrau, hoch in Ihm erfreut, gebar,",
+                  "Den als Heiland aller Völker Gabriel verkündete;",
+                  "Als die Hirten schwerbekümmert auf dem Felde lagerten,",
+                  "Machte Gottes lichter Bote aus dem Erschrecken: Freuet euch!",
+                  "Und die frohe Schar der Engel brach in Lobgesang hervor:",
+                  "Ehre sei Gott in der Höhe, Fried auf Erden! jauchzten sie.",
+                  "Himmel, freue Dich mit Deinen Tausenden im Engelchor!",
+                  "Erd und aller Wesen Fülle, freut euch, Sterne, Ströme, Meer!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Singet dem HErrn ein neues Lied, Hallelujah!",
+              "Denn Er tut Wunder. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr hat kundgemacht, Hallelujah!",
+              "Sein Heil. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "100"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Micha 5, 1—3.",
+            "buch": "mica",
+            "kapitel": 5,
+            "verse": "1-3"
+          },
+          {
+            "typ": "gebet",
+            "text": "Heiliger, heiliger HErr Zebaoth, wunderbarer Menschensohn! Lobgesang der Heerscharen, Lobgesang Deiner Kirche; höchste Zier Deines Vaters: tiefster Friede der Welt; Wohlgefallen Gottes und aller erlösten Sünder; Heiland der Welt, heiliger, heiliger HErr Zebaoth! Bei Dir, bei Deiner Krippe verstummt mein lallender Mund. Selig, die Dir reden; selig, die stille sind in Dir. Hallelujah!",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Geboren hat die Mutter den König, Des Name ewig ist.",
+              "Mutterschaftsfreuden hat sie vereint mit jungfräulicher Ehre. Keine vorher ist ihr gleich, und keine wird es künftig sein. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an Titus 3, 4—7.",
+            "buch": "titus",
+            "kapitel": 3,
+            "verse": "4-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gelobet seist Du, Jesu Christ",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der Sohn des Vaters, Gott von Art,",
+                  "Ein Gast in der Welten ward",
+                  "Und führt uns aus dem Jammertal,",
+                  "Er macht uns Erben in Seim Saal.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Er ist auf Erden kommen arm,",
+                  "Daß Er unser sich erbarm,",
+                  "Und in dem Himmel machet reich",
+                  "Und Seinen lieben Engeln gleich.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Das hat Er alles uns getan,",
+                  "Sein groß Lieb zu zeigen an;",
+                  "Des freu sich alle Christenheit",
+                  "Und dank Ihm des in Ewigkeit.",
+                  "Kyrieleis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Welches Herrschaft ist auf Seiner Schulter, Hallelujah!",
+              "Und Er heißt Wunderbar Rat Kraft Held Ewig-Vater Friedefürst. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich will Dir auf Deinen Stuhl setzen",
+              "Die Frucht Deines Leibes."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater: Wir danken Deiner großen Gnade und Barmherzigkeit, daß Du Deinen Eingebornen Sohn in unser Fleisch kommen und uns durch Ihn von Sünden und ewigem Tod gnädiglich helfen lassen, und bitten Dich: erleuchte unsre Herzen durch Deinen heiligen Geist, daß wir für solche Deine Gnade Dir dankbar seien und uns derselben in allen Nöten und Anfechtungen trösten; durch Denselben Deinen Sohn, Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "stephanus",
+      "titel": "Fest des hl. Stephanus (26. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        229,
+        233
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Christum, den Neugeborenen, der heute den Stephanus gekrönt hat —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Willig ertrug er den Steinhagel;",
+              "Alle Seelen der Gerechten folgen ihm nach."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "3"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Stephanus sah den Himmel offen, und ging ein zur Herrlichkeit;",
+              "Selig ist der Mann, dem der Himmel sich auftut."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 23, 34—39.",
+            "buch": "matthaeus",
+            "kapitel": 23,
+            "verse": "34-39"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Die Pforten des Himmels öffnen sich dem Blutzeugen Christi, dem seligen Stephanus, dem ersten unter den Märtyrern. Darum steht er auch mit dem Siegerkranze da. Denn er war der Erste, der das Gegenopfer darbrachte für den Tod, den der Heiland am Kreuz erlitt."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Gestern haben wir das zeitliche Geburtsfest unsres ewigen Königs gefeiert; heute begehen wir das herrliche Leiden Seines Vorkämpfers. Gestern hat sich unser König ins Fleischesgewand gekleidet, aus der Jungfrau Schoß hervorgehend, hat er gnädig die Welt besucht; heute legt der Streiter die Leibeshülle ab, und zieht triumphierend in den Himmel ein. Stephanus stieg hinauf, von den Juden gesteinigt, weil Christus, herabgestiegen, von der Engel Lobgesang begleitet war; so haben gestern die himmlischen Heerscharen jubelnd den Stephanus aufgenommen in ihren Chor. Allein ist der HErr herniedergestiegen, um zu Sich viele zu ziehen; der König hat Sich erniedrigt, um für Ihn zu streiten. — Um den Kranz („stephanos“) seines Namens zu erringen, stritt Stephanus mit den Waffen der Liebe, und errang allenthalben den Sieg. Aus Liebe ermahnte er die Verblendeten, daß sie sich bekehrten; aus Liebe betete er für die Steiniger, daß sie die Strafe nicht ereilen möchte.",
+            "quelle": "Fulgentius"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Stephanus, voll Glaubens und Kräfte, tat Wunder",
+              "Und große Zeichen unter dem Volk."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, himmlischer Vater, Der Du den heiligen Stephanus Deines Namens halber hast leiden und streiten lassen, uns damit anzuzeigen, daß Dein Reich nicht von dieser Welt sei, sondern in ein anderes gehöre: wir bitten Dich, wo wir um Deines Wortes und Namens willen auch leiden müssen, stärke unsre Herzen mit Deiner heiligen Gnade, daß wir fest bestehen und uns mit den ewigen Gütern anstatt der zeitlichen trösten mögen; durch Deinen lieben Sohn . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Heri mundus exsultavit",
+            "untertitel": "De S. Stephano",
+            "strophen": [
+              {
+                "links": [
+                  "Heri mundus exsultavit",
+                  "Et exsultans celebravit",
+                  "Christi natalitia;",
+                  "Heri chorus angelorum",
+                  "Proseculus est coelorum",
+                  "Regem cum laetitia."
+                ],
+                "rechts": [
+                  "Gestern jauchzt auf allen Wegen",
+                  "Die beglückte Welt entgegen",
+                  "Der Geburt von Gottes Sohn;",
+                  "Gestern sangen Engelchöre",
+                  "Zu des Himmelskönigs Ehre",
+                  "Mit der hellsten Freudenton."
+                ]
+              },
+              {
+                "links": [
+                  "Protomartyr et Levita,",
+                  "Clarus fide, clarus vita,",
+                  "Clarus et miraculis,",
+                  "Sub hac luce triumphavit",
+                  "Et triumphans insultavit",
+                  "Stephanus incredulis."
+                ],
+                "rechts": [
+                  "Heute hat der erste Zeuge,",
+                  "Stephanus, der Wunderreiche,",
+                  "Groß durch Tat und Frömmigkeit,",
+                  "Im Triumphgang sich verschönet,",
+                  "Des Unglaubens Hohn verhöhnet",
+                  "Im glorreichen Todesstreit."
+                ]
+              },
+              {
+                "links": [
+                  "Pro corona non marcenti",
+                  "Perfer brevis vim tormenti:",
+                  "Te manet victoria;",
+                  "Tibi fiet natis rota,",
+                  "Tibi poena terminalis,",
+                  "Dat vitae primordia."
+                ],
+                "rechts": [
+                  "Für die Kron in ewgen Strahlen",
+                  "Trag die Macht der kurzen Qualen;",
+                  "Denn der Sieg ist wartet Dein;",
+                  "Dir ist Tod Geburt zum Leben,",
+                  "Dir wird neues Licht gegeben",
+                  "Wird die Strafe kurze Pein."
+                ]
+              },
+              {
+                "links": [
+                  "Ne peccatum statuatur",
+                  "Iis a quibus lapidatur,",
+                  "Genu ponit et precatur.",
+                  "Condolens insaniae:",
+                  "In Christo sic obdormivit",
+                  "Qui Christo sic obedivit",
+                  "Et cum Christo semper vivit",
+                  "Martyrum primitiae."
+                ],
+                "rechts": [
+                  "Daß die Sünde sei verziehen",
+                  "Denen, die ihn zu Tod sie ziehen,",
+                  "Betet selbst noch auf den Knien",
+                  "Trauernd für die Blinden er.",
+                  "In Christo zum neuen Leben",
+                  "Geht er, Christo ganz ergeben,",
+                  "Sich zu Christo aufzuheben,",
+                  "Erstling aller Märtyrer."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Du überschüttest ihn mit gutem Segen;",
+              "Du setzest eine güldene Krone auf sein Haupt."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Sie steinigten Stephanus, der anrief und sprach:",
+              "HErr Jesu, nimm meinen Geist auf."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "11"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 7, 12—20.",
+            "buch": "jeremia",
+            "kapitel": 7,
+            "verse": "12-20"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Zum Himmel aufblickend, sah Stephanus die Herrlichkeit Gottes, und sprach: Siehe: ich sehe den Himmel offen, und des Menschen Sohn zur Rechten Gottes stehen. Wie er aber voll heiligen Geistes war, sah er auf gen Himmel, und sah die Herrlichkeit Gottes."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, wir bitten Dich: gib, daß wir dem nachfolgen, was wir heute feiern, und unsre Feinde lieben lernen, dieweil wir das himmlische Geburtsfest dessen, Der es vermochte, auch für Seine Feinde zu bitten, begehen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Stephanus kniete nieder, und schrie laut:",
+              "HErr, behalt ihnen diese Sünde nicht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "15"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 6, 8—10 und 7, 54—59.",
+            "buch": ""
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Er wird wohnen in Deiner Hütte, Er wird bleiben auf Deinem heiligen Berge."
+              },
+              {
+                "art": "text",
+                "inhalt": "Du setzest ihn zum Segen ewiglich; Du erfreuest ihn mit Freude vor Deinem Antlitz."
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie bestatteten Stephanus gottesfürchtige Männer,",
+              "Und hielten eine große Klage über ihn."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

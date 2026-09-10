@@ -1,0 +1,309 @@
+{
+  "id": "vigil_weihnachten",
+  "titel": "Vigil von Weihnachten (24. Dezember)",
+  "kirchenzeit": "weihnachten",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "vigil_weihnachten",
+      "titel": "Vigil von Weihnachten (24. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        212,
+        217
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Heute sollt ihr wissen, daß der HErr kommt.",
+              "Und morgen werdet ihr Seine Herrlichkeit schauen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Erhebet eure Häupter!",
+              "Sehet: es naht eure Erlösung."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Willkommen, mein Heiland, Trost und Hort!",
+            "melodie": "137",
+            "strophen": [
+              {
+                "links": [
+                  "Willkommen, mein Heiland, Trost und Hort!",
+                  "Sich: meines Herzens Ehrenpfort",
+                  "Ist Dir zu Diensten aufgericht,",
+                  "Ich hoff, HErr, Du verschmähst sie nicht."
+                ],
+                "rechts": [
+                  "Zumal wenn Du schaust dies Gebäu,",
+                  "Daß es ganz ist von Buß und Reu",
+                  "Zu Deinem Einzug ausgeziert",
+                  "Und durch den Glauben aufgeführt."
+                ]
+              },
+              {
+                "links": [
+                  "Ei nun, wohlan! So zieh herein!",
+                  "Du sollst herzlich willkommen sein.",
+                  "Du Friedensfürst, erfüll doch ganz",
+                  "Mein Herz mit Deinem Gnadenglanz."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Seid getrost und unverzagt, Hallelujah!",
+              "Ihr werdet sehen des HErrn Hilfe über euch. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 12, 28—32.",
+            "buch": "johannes",
+            "kapitel": 12,
+            "verse": "28-32"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heiligt euch heute und seid bereit; denn morgen werdet ihr die Hoheit Gottes unter euch schauen. Heut sollt ihr wissen, daß der HErr kommen wird, und morgen werdet ihr Seine Herrlichkeit sehen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre .."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Ihr Erdgeborenen alle und ihr Menschenkinder, höret! Ihr, die im Staube seid, wachet auf und lobet! Es kommt der Arzt zu den Kranken, der Erlöser zu den Schuldverhafteten; zu den Irrenden der Weg, zu den Toten das Leben. Er kommt, in die Tiefen aller unsrer Schwachheit versenkt, um uns zu unsrer ursprünglichen und eigentlichen Größe zurückzuführen; und noch mehr ist zu verwundern die Weise, daß Der, Welcher helfen konnte, gerade auf diese Weise helfen wollte. Heute so seid ihr, wisset ihr, daß der HErr kommen wird; und morgen, so heißt es, werdet ihr Seine Herrlichkeit schauen. O Morgen! O Tag, der in den Vorhöfen des HErrn besser ist als sonst tausend!",
+            "quelle": "Bernhard"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn die Sonne aufgeht am Himmel, werdet ihr sehen den König der Könige,",
+              "Welcher hervorgeht vom Vater, wie ein Bräutigam aus seiner Kammer."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "gebet",
+            "text": "HErr, unser Gott und Vater, Du hast uns Deinen Sohn gegeben, daß Er unser Heiland und Leben werde. Wir rüsten uns darauf, Seine heilige Geburt zu feiern. O, laß in kindlicher Einfalt den Weg nach Bethlehem finden, schenk uns dazu einen demütigen bußfertigen gläubigen Geist. Lehre uns erleuchte unsre Herzen, daß wir unsre Armut und Deinen Reichtum, unsre Sünde und Deine Gnade erkennen. Deine Geburt sei uns Wiedergeburt. Wir nahen uns Deiner Krippe. Komm, HErr Jesu! Immanuel, und denke an Dein Kreuz, sei mit uns.",
+            "amen": ""
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies est laetitiae",
+            "strophen": [
+              {
+                "links": [
+                  "Dies est laetitiae",
+                  "In ortu regali.",
+                  "Nam processit hodie",
+                  "De ventre virginali",
+                  "Puer admirabilis,",
+                  "Totus delectabilis",
+                  "In humanitate,",
+                  "Qui inaestimabilis",
+                  "Est et ineffabilis",
+                  "In divinitate."
+                ],
+                "rechts": [
+                  "Heute ist der Freudentag,",
+                  "Da zur Welt geboren,",
+                  "Ja der HErr erkoren,",
+                  "Als ein Knäblein wunderbar,",
+                  "Durch und durch rein, süß und klar,",
+                  "Menschlich an Gebärden,",
+                  "Dessen Gottesmajestät",
+                  "Ueber alle Himmel geht,",
+                  "Die Er Selbst hieß werden."
+                ]
+              },
+              {
+                "links": [
+                  "Angelus pastoribus",
+                  "Juxta suum gregem",
+                  "Noete vigilantibus",
+                  "Natum coeli regem",
+                  "Nuntiat cum gaudio",
+                  "Jacentem in praesepio",
+                  "Infantem pannosum,",
+                  "Angelorum dominum",
+                  "Et prae natis hominum",
+                  "Forma speciosum."
+                ],
+                "rechts": [
+                  "Tät bei Nacht ein Engelsmund",
+                  "Hirten auf der Weiden",
+                  "Die Geburt des Königs kund",
+                  "Mit viel tausend Freuden:",
+                  "Wie in reinen Windelein",
+                  "Als ein jauchzend Kindelein",
+                  "Schlummre in der Krippen,",
+                  "Dem die Engel dienstbar sind,",
+                  "Schön vor allem Menschenkind,",
+                  "Hold von Aug und Lippen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er sendet Erlösung Seinem Volke,",
+              "Und verheißt, daß Sein Bund ewiglich bleiben soll."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "93"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 23, 4—6.",
+            "buch": "jeremia",
+            "kapitel": 23,
+            "verse": "4-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Bleibet fest im Glauben, so werdet ihr schauen die Hilfe des HErrn über euch. Judäa und Jerusalem, fürchtet euch nicht. Morgen werdet ihr ausziehen, und der HErr wird mit euch sein."
+              },
+              {
+                "art": "text",
+                "inhalt": "Heiliget euch, ihr Kinder Israels, und seid bereit."
+              },
+              {
+                "art": "text",
+                "inhalt": "Morgen . . . . sein."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns alle Jahre wieder durch die Erwartung unsres Heils erfreust: gib, daß wir Deinen Eingebornen, Den wir als Erlöser mit Freude aufnehmen, auch als kommenden Richter mit Zuversicht anschauen, unsern HErrn Jesum Christum Deinen Sohn; Welcher mit Dir . . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Friedefürst ist hoch erhaben,",
+              "Dessen Titel die ganze Erde erreicht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 1, 10—12.",
+            "buch": "1_petrus",
+            "kapitel": 1,
+            "verse": "10-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heiliget euch, ihr Kinder Israels; denn morgen wird der HErr herabsteigen, und die Krankheit von euch wegnehmen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Morgen soll der Sündenschuld der Erde getilgt werden, und der Heiland der Welt wird über uns herrschen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und alle . . . . wegnehmen."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies ist die Nacht, da mir erschienen",
+            "melodie": "119",
+            "strophen": [
+              {
+                "links": [
+                  "Dies ist die Nacht, da mir erschienen",
+                  "Das große Gottes Freundlichkeit,",
+                  "Das Kind, dem alle Engel dienen,",
+                  "Bringt Licht in meine Dunkelheit,",
+                  "Und dieses Welt- und Himmelslicht",
+                  "Weicht hunderttausend Sonnen nicht."
+                ],
+                "rechts": [
+                  "Laß dich erleuchten, meine Seele,",
+                  "Versäume nicht die Gnadenschein,",
+                  "Der Glanz in dieser kleinen Höhle",
+                  "Streckt sich in alle Welt hinein;",
+                  "Er treibet weg der Höllen Macht,",
+                  "Der Sünden und des Kreuzes Nacht."
+                ]
+              },
+              {
+                "links": [
+                  "Drum Jesu, schöne Weihnachtssonne,",
+                  "Bestrahle mich mit Deiner Gunst,",
+                  "Dein Licht sei meine Weihnachtswonne,",
+                  "Und lehre mich die Weihnachtskunst,",
+                  "Wie ich im Lichte wandeln soll,",
+                  "Und les des Weihnachtsglanzes voll."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Aller Welt Ende soll sehen, Hallelujah, Hallelujah!",
+              "Das Heil unsres Gottes. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Aufgehen wird wie die Sonne der Heiland der Welt,",
+              "Und eingehen in der Jungfrau Schoß, wie der Regen auf das Gras. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O lieber Gott, Der Du diese allerhöchste Nacht mit dem Schimmer des wahren Lichts helle und klar gemacht hast: wir bitten Dich, Du wollest uns verleihen, daß wir das Geheimnis dieses Lichtes auf Erden erkannt haben, also auch seine Freude im Himmel genießen mögen; durch unsern HErrn . .",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

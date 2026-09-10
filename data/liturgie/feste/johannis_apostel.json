@@ -1,0 +1,278 @@
+{
+  "id": "johannis_apostel",
+  "titel": "Fest des hl. Apostels Johannes (27. Dezember)",
+  "kirchenzeit": "weihnachten",
+  "reihe": 5,
+  "band": 1,
+  "datum": "12-27",
+  "tage": [
+    {
+      "id": "johannis_apostel",
+      "titel": "Fest des hl. Apostels Johannes (27. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        259,
+        243
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Apostel, den HErrn —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: das ist Mein Knecht, Ich erhalte ihn;",
+              "Und Mein Auserwählter, an welchem Meine Seele Wohlgefallen hat."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Preiswürdig ist der heilige Johannes,",
+              "Der beim Abendmahle an Jesu Brust lag."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 21, 20—24.",
+            "buch": "johannes",
+            "kapitel": 21,
+            "verse": "20-24"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Dies ist der glückselige Evangelist und Apostel Johannes, der gewürdigt wurde, durch besondere Liebesbeweisung vom HErrn vor allen übrigen Aposteln geehrt zu werden;"
+              },
+              {
+                "art": "text",
+                "inhalt": "Dies ist der Jünger, den Jesus lieb hatte, der auch beim Abendmahl an der Brust des HErrn lag; der gewürdigt wurde,"
+              },
+              {
+                "art": "text",
+                "inhalt": "Durch . . geehrt zu werden."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Als der heilige Evangelist Johannes, der zu Ephesus lebte, hochbetagt von seinen Jüngern in die Kirche getragen, seine lange Ansprache nicht mehr halten konnte, pflegte er bei den Zusammenkünften nur folgende Worte immer und immer wieder zu sagen: Kindlein, liebet euch untereinander! Schließlich sagten seine Jünger und Mitbrüder, die stets bei den gebeten seine Worte überdrüssig waren: Meister, warum wiederholst Du immer dasselbe? Da gab er ihnen die eines Johannes würdige Antwort: Weil es das Gebot des HErrn ist; wenn es allein haltet, ist es alles gut.",
+            "quelle": "Hieronymus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Selig ist der Apostel,",
+              "Dem die himmlischen Geheimnisse offenbart wurden."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Erleuchte gnädig Deine Kirche, o HErr, und laß sie, durch das Licht der Lehre Deines Apostels und Evangelisten Johannes erhellt, zum Besitz der ewigen Güter erlangen; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Aeterna Christi munera",
+            "strophen": [
+              {
+                "links": [
+                  "Aeterna Christi munera,",
+                  "Apostolorum gloriam,",
+                  "Laudes canentes debitas,",
+                  "Laetis canamus mentibus."
+                ],
+                "rechts": [
+                  "Die ewgen Gaben Jesu Christs,",
+                  "Seiner Apostel hohen Ruhm",
+                  "Laßt uns mit dankerfülltem Sinn",
+                  "Durch unser schuldges Lob erhöhn."
+                ]
+              },
+              {
+                "links": [
+                  "Ecclesiarum principes,",
+                  "Belli triumphales duces,",
+                  "Caelestis aulae milites,",
+                  "Et vera mundi lumina."
+                ],
+                "rechts": [
+                  "Der Kirchen Fürsten sind sie doch,",
+                  "Siegreiche Herzoge im Krieg,",
+                  "Soldaten dort im Himmelshof,",
+                  "Und wahre Lichter dieser Welt."
+                ]
+              },
+              {
+                "links": [
+                  "Devota sanctorum fides,",
+                  "Invicta spes credentium,",
+                  "Perfecta Christi caritas,",
+                  "Mundi triumphat principem."
+                ],
+                "rechts": [
+                  "Der Heilgen Treue, die nicht wankt,",
+                  "Der gläubgen Hoffnung, unbesiegt,",
+                  "Und die vollkomme Christusliebe",
+                  "Fällt selbst den Fürsten dieser Welt."
+                ]
+              },
+              {
+                "links": [
+                  "In his Paterna gloria,",
+                  "In his voluntas Spiritus,",
+                  "Exsultat in his Filius,",
+                  "Caelum repletur gaudio."
+                ],
+                "rechts": [
+                  "In ihnen glänzt des Vaters Ruhm,",
+                  "Des Geistes Wille wird erfüllt,",
+                  "Durch sie frohlockt der Gottessohn,",
+                  "Den Himmel füllt mit Jubel sich."
+                ]
+              },
+              {
+                "links": [
+                  "Te nunc Redemptor quaesumus,",
+                  "Ut ipsorum consortio",
+                  "Jungas precantes servulos",
+                  "In sempiterna saecula.",
+                  "Amen."
+                ],
+                "rechts": [
+                  "Drum bitten wir, Erlöser Dich:",
+                  "Hör Deiner armen Knechte Flehn,",
+                  "Und reih sie in die heilge Schar,",
+                  "Damit sie bleiben ewiglich.",
+                  "Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Wie ein Palmbaum grünet der Gerechte;",
+              "Wie eine Zeder auf dem Libanon steht er da."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es leben Etliche hie, die nicht schmecken werden den Tod,",
+              "Bis daß sie des Menschen Sohn kommen sehen in Seinem Reich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 15, 1—6.",
+            "buch": ""
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Dies ist der Jünger, der von diesen Dingen zeuget, und hat dies geschrieben. Und wir wissen, daß sein Zeugnis wahrhaftig ist."
+              },
+              {
+                "art": "text",
+                "inhalt": "Das lebendige Wasser des Evangeliums hat er aus der heiligen Quelle, der Brust des HErrn, selber getrunken."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und wir . . wahrhaftig ist."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei .."
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Dies ist mein Jünger;",
+              "Ich will, daß er bleibe, bis Ich komme."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 5, 9—13.",
+            "buch": "1_johannes",
+            "kapitel": 5,
+            "verse": "9-13"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Wer überwindet, den will Ich machen zum Pfeiler in Meinem Tempel, Und will auf ihn schreiben Meinen Namen und den Namen des neuen Jerusalem."
+              },
+              {
+                "art": "text",
+                "inhalt": "Wer überwindet, dem will Ich zu essen geben von dem Holz des Lebens, Das im Paradiese Gottes ist."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und will . . . Jerusalem."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Sei getreu bis an den Tod,",
+              "So will Ich dir die Krone des Lebens geben."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Da ging eine Rede aus unter den Brüdern:",
+              "Dieser Jünger stirbt nicht."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

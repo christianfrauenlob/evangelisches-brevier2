@@ -1,0 +1,446 @@
+{
+  "id": "unschuldige_kinder",
+  "titel": "Am 28. Dezember / Fest der unschuldigen Kinder",
+  "kirchenzeit": "weihnachten",
+  "reihe": 6,
+  "band": 1,
+  "datum": "12-28",
+  "tage": [
+    {
+      "id": "am_28_dezember",
+      "titel": "Am 28. Dezember",
+      "wochentag": "fest",
+      "seiten": [
+        244,
+        249
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Das Wort ward Fleisch und wohnte unter uns;",
+              "Und wir sahen Seine Herrlichkeit."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "89"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Tag der ist",
+            "untertitel": "Dies est laetitiae",
+            "strophen": [
+              {
+                "links": [
+                  "Der Tag der ist so freudenreich",
+                  "Aller Kreature,",
+                  "Denn Gottes Sohn vom Himmelreich",
+                  "Ueber die Nature",
+                  "Von einer Magd ist Er geborn,",
+                  "Maria, Du bist auserkorn,",
+                  "Daß Du Mutter wärest,",
+                  "Was geschah so wunderlich?",
+                  "Gottes Sohn vom Himmelreich,",
+                  "Der ist Mensch geboren."
+                ],
+                "rechts": [
+                  "Ein Kindelein so löblich",
+                  "Ist uns geboren heute,",
+                  "Von einer Jungfrau säuberlich,",
+                  "Zu Trost uns armen Leuten.",
+                  "Wär uns das Kindlein nicht geborn,",
+                  "So wärn wir allzumal verlorn;",
+                  "Das Heil ist unser aller,",
+                  "Ei, Du süßer Jesu Christ,",
+                  "Der Du Mensch geboren bist,",
+                  "Behüt uns vor der Hölle."
+                ]
+              },
+              {
+                "links": [
+                  "Als die Sonne durchscheint das Glas",
+                  "Mit ihrem klaren Scheine,",
+                  "Und doch nicht verletzet das,",
+                  "So merkt allgemeine,",
+                  "Zu gleicher Weis geboren ward",
+                  "Von einer Jungfrau rein und zart",
+                  "Gottes Sohn der HErre.",
+                  "In ein Kripp ward Er gelegt,",
+                  "Große Marter für uns trägt,",
+                  "Hier auf dieser Erde."
+                ],
+                "rechts": [
+                  "Die Hirten auf dem Felde schrien,",
+                  "Erfuhren neue Märe,",
+                  "Von den engelischen Scharn,",
+                  "Wie Christ geboren wäre:",
+                  "Ein König über all Könige groß;",
+                  "Herodis Rede war ihm sehr verdroß,",
+                  "Aussandt er seine Boten,",
+                  "Ei, wie gar ein falsche List",
+                  "Erdacht wird wider Jesum Christ:",
+                  "Die Kindlein ließ er töten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 1, 18—25.",
+            "buch": "matthaeus",
+            "kapitel": 1,
+            "verse": "18-25"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Die Aussprüche der Propheten und Evangelisten begeistern und belehren uns so, daß wir die Geburt des HErrn, wodurch das Wort Fleisch geworden ist, weniger als ein Vergangenes verehren, sondern sie mehr als ein Gegenwärtiges betrachten. Denn der Engel der Hirten, die des Weges Herden hüteten, verkündet das, was erfüllt wird uns: Siehe, ich verkündige euch große Freude, das allem Volke widerfahren wird; denn euch ist heute der Heiland geboren, Welcher ist Christus der HErr. Und dazu ist Zeugnis der großen himmlischen Heerscharen: Ehre sei Gott in der Höhe, und Frieden auf Erden den Menschen, die guten Willens sind. Durch denselben Geist nämlich, durch welchen Christus aus dem Schoße der unversehrten Mutter geboren wird, wird auch der Christ wiedergeboren aus dem Schoße der heiligen Kirche; der Christ, dessen wahrer Friede darin besteht, vom Willen Gottes nicht geschieden zu sein und allein an dem Freude zu haben, was Gott gefällt.",
+            "quelle": "Leo"
+          },
+          {
+            "typ": "gebet",
+            "text": "O Du treuster Jesu, habe Dank, daß Du in diese arme dunkle sündige Welt gekommen bist. Du hättest wohl mögen Freude haben und erduldetest doch die harte Krippe. Du warst umjauchzt von dem Hallelujah der himmlischen Heerscharen und bist herniedergestiegen in das Geschrei Deiner Feinde, in Schande und Schmach, in Spott und Hohn. Wir aber sehen durch Deine Niedrigkeit in Deine große Herrlichkeit, in Deine reiche Liebe, in Dein ewiges Erbarmen. HErr, laß Keinen in Sünde sterben! Du willst uns Alle selig machen. Laß Alle in Dir von neuem geboren werden und ewig leben.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "In dulci jubilo",
+            "strophen": [
+              {
+                "links": [
+                  "In dulci jubilo,",
+                  "Nun singet und seid froh!",
+                  "Unsres Herzens Wonne",
+                  "Leit in praesepio,",
+                  "Und leuchtet als die Sonne",
+                  "Matris in gremio.",
+                  "Alpha es et O, alpha es et O."
+                ]
+              },
+              {
+                "links": [
+                  "O Jesu parvule,",
+                  "Nach Dir ist mir so weh!",
+                  "Tröst mir mein Gemüte,",
+                  "O puer optime,",
+                  "Durch alle Deine Güte,",
+                  "O princeps gloriae,",
+                  "Trahe me post Te, trahe me post Te!"
+                ]
+              },
+              {
+                "links": [
+                  "Ubi sunt gaudia?",
+                  "Nirgends mehr denn da,",
+                  "Da die Engel singen",
+                  "Nova cantica",
+                  "Und die Schellen klingen",
+                  "In regis curia.",
+                  "Eya, wärn wir da! Eya, wärn wir da!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "148"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 42, 5—9.",
+            "buch": "jesaja",
+            "kapitel": 42,
+            "verse": "5-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Holdselig sind Deine Lippen;",
+              "Darum segnet Dich Gott ewiglich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "152"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 3, 1—5.",
+            "buch": "1_johannes",
+            "kapitel": 3,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der Tag der ist",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die Zeit ist nun ganz freudenreich",
+                  "Zu Lobe Gottes Namen,",
+                  "Daß Christus von dem Himmelreich",
+                  "Auf Erden ist gekommen,",
+                  "Es ist in groß Demütigkeit,",
+                  "Ob Gott vom Himmel bei uns sei,",
+                  "Ein Knecht ist Er geworden,",
+                  "Ohn alle Sünde uns gar gleich,",
+                  "Dadurch wir werden ewig reich:",
+                  "Trug unsre Sündenbürde."
+                ],
+                "rechts": [
+                  "Wohl dem, der nur des Glaubens ist,",
+                  "Mit ganzem Herzen trauet;",
+                  "Dem ist die Seligkeit gewiß,",
+                  "Wohl dem, der darauf bauet,",
+                  "Daß Christus hat das getan,",
+                  "Für uns, darum Er ausgegangen",
+                  "Von Gott dem ewgen Vater.",
+                  "O wie so große Wundertat!",
+                  "Christus trägt unsre Missetat",
+                  "Und stillt unsern Hader."
+                ]
+              },
+              {
+                "links": [
+                  "Des dank Ihm all die Christenheit",
+                  "Für solche große Güte,",
+                  "Und bitt Sein Barmherzigkeit,",
+                  "Daß Er uns fort behüte",
+                  "Vor falscher Lehr und bösem Wahn."
+                ],
+                "rechts": [
+                  "Er woll uns das vergeben,",
+                  "Gott Vater Sohn und Heilger Geist,",
+                  "Wir bitten von Dir allermeist:",
+                  "Laß uns im Frieden leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Jesu Christe, Du Gottessohn voll Herrlichkeit und Gnaden, Du Menschensohn in Armut und Niedrigkeit, wir beten Dich an in der Krippe. Du bist vom Himmel gekommen, um bei uns zu herbergen; nun geh auch in unsre Herzen. Wir sind ein armes Volk, arm an Geist und Glauben; beschere uns zu Weihnacht Licht und Kraft. Wir sind eine arme Kirche; mach uns reich an Segen und Liebe. Du heißest Immanuel; sei denn mit uns nach Deiner Verheißung. Zeuge unsre Herzen, und dann halte Einzug. Heilige unsre Geister, und laß uns ewig leben.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "unschuldige_kinder",
+      "titel": "Fest der unschuldigen Kinder (28. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        249,
+        253
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Märtyrer, den HErrn —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Aus dem Munde der jungen Kinder und Säuglinge",
+              "Hast Du eine Macht zugerichtet um Deiner Feinde willen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Herodes ließ in seinem Zorne viele Knäblein töten,",
+              "In der Davidsstadt Bethlehem im jüdischen Lande."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 2, 16—18.",
+            "buch": "matthaeus",
+            "kapitel": 2,
+            "verse": "16-18"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Ich sah unter dem Altar die Seelen Derer, die erwürgt waren, und sie sprachen: HErr, wielange rächest Du nicht unser Blut? Und es ward ihnen die Antwort, daß sie ruheten noch eine kleine Weile, bis daß vollends dazukämen ihre Mitknechte und Brüder."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Heute, liebe Brüder, begehen wir den Geburtstag jener Knäblein, von deren grausamer Ermordung durch den König Herodes uns das Evangelium erzählt. Es freue sich daher die Erde, die fruchtbare Mutter so vieler Himmelsstreiter und so herrlicher Tugenden. — Gepriesen seist Du, Bethlehem im jüdischen Lande! Du erhieltest den Vorzug, daß Du Kinder für ein seligeres ewiges Leben, als es diese Erde geben kann, gebären durftest; denn sie haben die Gnade des ewigen Lebens eher erlangt, als sie in diesem irdischen Leben heimisch geworden waren. Sie, die die Nachstellung des Herodes als Säuglinge von der Mutterbrust riß, werden mit Recht „Märtyrerblumen“ genannt; denn als die ersten Blumenknospen, welche die Kirche entfaltete, hat sie in der Winterkälte des Unglaubens der rauhe Sturm der Verfolgung welken lassen.",
+            "quelle": "Ps.-Augustinus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Diese sind's, die dem Lamm nachfolgen,",
+              "Wo es hingehet."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, die unschuldigen Märtyrerkinder haben heute Dein Lob verkündet, nicht durch Worte, aber durch ihren Tod; ertöte in uns alles was sündhaft und böse ist, damit wir mit heiligem Lebenswandel den Glauben bewähren, den unsre Zunge bekennt; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Salvete flores martyrum",
+            "untertitel": "De Innocentibus",
+            "strophen": [
+              {
+                "links": [
+                  "Salvete flores martyrum, quos lucis ipso in limine",
+                  "Christi insecutor sustulit ceu turbo nascentes rosas.",
+                  "Vos prima Christi victima, grex immolatorum tener",
+                  "Aram ante ipsam simplices palma et coronis luditis.",
+                  "Exclamat amens nuntio: Successor instat, pellimur;",
+                  "Satelles, i, ferrum rape, perfunde cunas sanguine.",
+                  "Quo proficit tantum nefas? Quid crimen Herodem juvat?",
+                  "Unus tot inter funera impune Christus tollitur."
+                ],
+                "rechts": [
+                  "Heil Blüten euch der Märtyrer, die an des Lebens Schwelle schon",
+                  "Christi Verfolger hingerafft, wie junge Rosen knickt der Sturm.",
+                  "Ihr zarten Lämmer, Erstlingschar für Christum hingeopfert!",
+                  "In Einfalt am Altare noch spielt ihr mit Palm und Siegerkranz!",
+                  "Wahnsinnig tobet der Tyrann: Ein Erbe zürnt nach meinem Reich!",
+                  "Wohlauf, Trabant, das Schwert hervor! In jeder Wiege ströme Blut!",
+                  "Was frommte solcher Frevel Dir? Was nützt, Herodes, Dir die Schuld?",
+                  "Durch so viel Leichen, unversehrt, trägt man den einen Christ dahin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Freuet euch des HErrn, und seid fröhlich, ihr Gerechten;",
+              "Und rühmet, alle ihr Frommen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die Gerechten werden ewig leben;",
+              "Ihr Lohn ist bei dem HErrn."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 31, 15—20.",
+            "buch": "jeremia",
+            "kapitel": 31,
+            "verse": "15-20"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Sie haben Blut vergossen um Jerusalem her; Und war Niemand, der begrub."
+              },
+              {
+                "art": "text",
+                "inhalt": "Sie haben die Leichname Deiner Knechte den Vögeln unter dem Himmel zu fressen gegeben und das Fleisch Deiner Heiligen den Tieren im Lande;"
+              },
+              {
+                "art": "text",
+                "inhalt": "Und war Niemand, der begrub."
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ihre Engel im Himmel sehen allezeit",
+              "Das Angesicht des Vaters im Himmel."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 14, 1—5.",
+            "buch": "offenbarung",
+            "kapitel": 14,
+            "verse": "1-5"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Sie beten Den an, Der da lebet von Ewigkeit zu Ewigkeit."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und warfen ihre Kronen vor dem Stuhl des HErrn, ihres Gottes."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und fielen vor dem Stuhl auf ihr Antlitz und beteten an Den, Der da lebet von Ewigkeit zu Ewigkeit."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und warfen . . Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Wenn die Gerechten schreien, so höret der HErr;",
+              "Und errettet sie aus all ihrer Not."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Die unschuldigen Kindlein wurden um Christi willen getötet; von dem gottlosen König wurden die Säuglinge hingemordet.",
+              "Nun folgen sie Ihm, dem Lamme ohne Fehl, und rufen unaufhörlich: Ehre sei Dir, o HErr!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
