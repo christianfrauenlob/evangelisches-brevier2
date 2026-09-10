@@ -11,6 +11,36 @@
       "status": "fertig"
     },
     {
+      "id": "advent_2",
+      "titel": "Die zweite Adventswoche",
+      "datei": "advent_2.json",
+      "pfad": "liturgie/advent/",
+      "band": 1,
+      "kirchenzeit": "advent",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "advent_3",
+      "titel": "Die dritte Adventswoche",
+      "datei": "advent_3.json",
+      "pfad": "liturgie/advent/",
+      "band": 1,
+      "kirchenzeit": "advent",
+      "reihe": 3,
+      "status": "fertig"
+    },
+    {
+      "id": "advent_4",
+      "titel": "Die vierte Adventswoche",
+      "datei": "advent_4.json",
+      "pfad": "liturgie/advent/",
+      "band": 1,
+      "kirchenzeit": "advent",
+      "reihe": 4,
+      "status": "fertig"
+    },
+    {
       "id": "karwoche",
       "titel": "Karwoche",
       "datei": "karwoche.json",
