@@ -1,0 +1,320 @@
+{
+  "id": "johannis",
+  "titel": "Johannis des Täufers Fest (24. Juni)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Johannis des Täufers Fest (24. Juni)",
+      "wochentag": "fest",
+      "seiten": [
+        918,
+        922
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König des Vorläufers, den HErrn —",
+              "Kommt, laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Johannes soll sein Name sein,",
+              "Und Viele werden sich seiner Geburt freuen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wir wollen singen ein Lobgesang",
+            "strophen": [
+              {
+                "links": [
+                  "Wir wollen singn ein Lobgesang",
+                  "Christo dem HErrn zu Preis und Dank,",
+                  "Der Sankt Johann vor Ihm gesandt,",
+                  "Durch ihn Sein Zukunft macht bekannt."
+                ],
+                "rechts": [
+                  "Wir danken Dir, HErr Jesu Christ,",
+                  "Des Vorläufers Johannis ist;",
+                  "Hilf, daß wir folgen seiner Lehr,",
+                  "So tun wir ihm sein rechte Ehr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Bereitet dem HErrn den Weg, Halleluja!",
+              "Machet Seine Steige richtig. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 1, 57–68.",
+            "buch": "lukas",
+            "kapitel": 1,
+            "verse": "57-68"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Unter Denen, so vom Weibe geboren, ist kein Größerer als Johannes der Täufer.",
+                  "Er ists, der dem HErrn den Weg bereitete in der Wüste.",
+                  "Es war ein Mensch, von Gott gesandt, dessen Name hat Johannes geheißen.",
+                  "Er ists . . Wüste.",
+                  "Ehre sei ..."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Lobgesang"
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Benedictus Dominus Deus Israel",
+            "absätze": [
+              "Benedictus Dominus Deus Israel, Quia visitavit, et fecit redemptionem plebis suae; Et erexit cornu salutis nobis, In domo David pueri sui. Sicut locutus est per os sanctorum, Qui a saeculo sunt, prophetarum ejus. Salutem ex inimicis nostris, Et de manu omnium, qui oderunt nos, Ad faciendam misericordiam cum patribus nostris, Et memorari testamenti sui sancti. Jusjurandum, quod juravit ad Abraham patrem nostrum, Daturum se nobis; Ut sine timore, de manu inimicorum nostrorum liberati, Serviamus illi, In sanctitate et justitia Coram ipso, omnibus diebus nostris. — Et tu puer, propheta altissimi vocaberis: Praeibis enim ante faciem Domini parare vias ejus; Ad dandam scientiam salutis plebi ejus, In remissionem peccatorum eorum; Per viscera misericordiae Dei nostri, In quibus visitavit nos, oriens ex alto, Illuminare his, qui in tenebris, et in umbra mortis sedent, Ad dirigendos pedes nostros in viam pacis. Gloria Patri ...."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Alsbald ward sein Mund und seine Zunge aufgetan,",
+              "Und er redete, und lobte Gott."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, Der Du durch den heiligen Täufer Johannes uns allen zu Trost hast bezeugen lassen, daß Jesus Christus das wahre unschuldige Lämmlein wäre, welches der ganzen Welt Sünde tragen sollte, in Welchem all alle Gläubigen das ewige Leben überkommen werden; wir bitten Dich von Herzen: Du wollest uns durch Deinen heiligen Geist erleuchten, daß wir uns allezeit solches Zeugnisses von unserm Heiland Jesu Christo trösten und erfreuen im rechten Glauben, darin beständig beharren und endlich mit Johanne und allen Gläubigen die ewige Seligkeit überkommen mögen; durch denselben ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der du dem hohen Himmel entstiegst (Ut queant laxis resonare fibris)",
+            "strophen": [
+              {
+                "links": [
+                  "Ut queant laxis resonare fibris",
+                  "Mira gestorum famuli tuorum,",
+                  "Solve polluti labii reatum,",
+                  "Sancte Joannes."
+                ],
+                "rechts": [
+                  "Der du dem hohen Himmel entstiegst, der Bote,",
+                  "Sagte dich dem Vater ob großen Sohn an,",
+                  "Nannte dich beim Namen, und weckte Leben",
+                  "Führen du würdest."
+                ]
+              },
+              {
+                "links": [
+                  "Nuntius celso veniens olympo,",
+                  "Te patri magnum fore nasciturum,",
+                  "Nomen et vitae seriem gerendae",
+                  "Ordine promit."
+                ],
+                "rechts": [
+                  "Der du dem hohen Himmel entstiegst, der Bote,",
+                  "Sagte dem Vater ob großen Sohn an,",
+                  "Nannte dich beim Namen, und weckte Leben",
+                  "Führen du würdest."
+                ]
+              },
+              {
+                "links": [
+                  "Ceteri tantum cecinere vatum",
+                  "Corde praesago jubar afuturum;",
+                  "Tu quidem mundi scelus auferentem",
+                  "Indice prodis."
+                ],
+                "rechts": [
+                  "Seher vor dir haben in dunkler Ahnung",
+                  "Nur vom Aufgehn strahlenden Lichts gesungen;",
+                  "Aber du: Der Welt mit dem Finger zeigst du",
+                  "Ihren Erlöser."
+                ]
+              },
+              {
+                "links": [
+                  "Non fuit vasti spatium per orbis",
+                  "Sanctior quisquam genitus Joanne,",
+                  "Qui nefas saecli meruit lavantem",
+                  "Tingere lymphis."
+                ],
+                "rechts": [
+                  "Niemand war im Raum des weiten Erdrunds",
+                  "Heiliger als Johannes geboren, welcher",
+                  "Der der Welt Schuld Tilgenden würdig war zu",
+                  "Netzen im Strome."
+                ]
+              },
+              {
+                "links": [
+                  "Nunc potens nostri meritis opimis",
+                  "Pectoris duros lapides repelle,",
+                  "Asperum planans iter, et reflexos",
+                  "Dirige calles."
+                ],
+                "rechts": [
+                  "Mächtig Du durch deiner Verdienste Größe",
+                  "Sprenge Du das Felsengestein der Herzen,",
+                  "Ebne rauhen Steig, und verleihe richtiger",
+                  "Irrenden Pfaden."
+                ]
+              },
+              {
+                "links": [
+                  "Ut pius mundi sator et redemptor,",
+                  "Mentibus pulsa livione puris,",
+                  "Rite dignetur veniens sacratos",
+                  "Ponere gressus."
+                ],
+                "rechts": [
+                  "Daß der Welt Urheber, der Welt Erlöser,",
+                  "Wenn die Seelen rein von Schuld Befleckung",
+                  "Nicht verschmäht die heiligen Schritt in unsre",
+                  "Mitte zu setzen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Siehe: Ich sende Meinen Engel vor Dir her, Halleluja!",
+              "Der Deinen Weg vor Dir bereiten soll. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich kannte dich, ehe Ich dich bereitete,",
+              "Und sonderte dich aus, ehe du von der Mutter geboren wurdest."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "15"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 40, 1–8.",
+            "buch": "jesaja",
+            "kapitel": 40,
+            "verse": "1-8"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Es war ein Mensch, gesandt von Gott, dessen Name war Johannes.",
+                  "Derselbe kam zum Zeugnis, daß er von dem Licht zeugete, zuzurichten dem HErrn ein bereit Volk.",
+                  "Johannes war in der Wüste, und predigte eine Taufe der Buße.",
+                  "Derselbe kam . . Volk."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Dir von Herzen für Deine große Gnade, daß Du es bei der Predigt und Lehre des Gesetzes nicht hast bleiben lassen, sondern den heiligen Johannem gesendet, daß er auf Christum mit seinem Finger weise, Vergebung der Sünden, Heiligkeit und Gerechtigkeit durch Ihn zu erlangen; wir bitten Dich herzlich Du wollest durch Deinen heiligen Geist unsere Herzen erleuchten, daß wir der Anweisung Johannis gern folgen und sie mit rechtem Glauben annehmen und endlich selig werden; durch Denselben ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du Kindlein wirst ein Prophet des Höchsten heißen,",
+              "Du wirst vor dem HErrn hergehen, daß Du Seinen Weg bereitest."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 19, 1–7.",
+            "buch": "apostelgeschichte",
+            "kapitel": 19,
+            "verse": "1-7"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Sie winkten seinem Vater, wie er ihn wollte heißen lassen. Und er forderte ein Täfelein, und schrieb also: Er heißt Johannis. Und alsbald ward sein Mund und seine Zunge aufgetan, und er weissagte und sprach: Er heißt Johannis. Ehre sei .."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Der Zacharias ganz verstummt,",
+                  "Bis daß von seinem Weibe kommt",
+                  "Ein Sohn durch Gottes Güte,",
+                  "Von welchem die Zusag ist geschehn,",
+                  "Daß er sollt vor dem HErrn hergehn,",
+                  "Des freut sich sein Gemüte.",
+                  "Der Geist die Sprach ihm wiederbringt,",
+                  "Mit Freuden hebt er an und singt:",
+                  "Gelobet sei der HErre!",
+                  "Ganz Israel Gott ehre!",
+                  "Er hat besucht, Er hat erlöst",
+                  "Sein Volk, glaubets und seid getrost."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Er wird groß sein vor dem HErrn, Halleluja!",
+              "Denn Seine Hand ist mit ihm. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Knabe, der uns geboren, ist größer denn ein Prophet; denn dieß ist, von dem der HErr sprach: Unter Weibern Geborenen ist nicht größer aufkommen denn Johannes der Täufer."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns den heutigen Tag, wo wir die Geburt des heiligen Johannes feiern, verehrungswürdig gemacht hast: gib Deinen Völkern die Gnade geistlicher Freuden, und leite die Herzen aller Gläubigen auf den Weg des ewigen Heils; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

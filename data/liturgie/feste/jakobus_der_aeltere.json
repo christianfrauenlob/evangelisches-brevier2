@@ -1,0 +1,35 @@
+{
+  "id": "jakobus_der_aeltere",
+  "titel": "S. Jakobus der Ältere (25. Juli)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Jakobus der Ältere (25. Juli)",
+      "wochentag": "fest",
+      "seiten": 930,
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 20–23.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "20-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 4, 9–13.",
+            "buch": "1_korinther",
+            "kapitel": 4,
+            "verse": "9-13"
+          }
+        ]
+      }
+    }
+  ]
+}

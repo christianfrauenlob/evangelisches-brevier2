@@ -1,0 +1,214 @@
+{
+  "id": "mariae_heimsuchung",
+  "titel": "Mariä Heimsuchung (2. Juli)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Mariä Heimsuchung (2. Juli)",
+      "wochentag": "fest",
+      "seiten": [
+        926,
+        929
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Laßt uns feiern die Heimsuchung der Jungfrau Maria;",
+              "Christum ihren Sohn, den HErrn — kommt laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Maria stund in diesen Tagen auf und ging auf das Gebirge zu der Stadt Juda,",
+              "Und kam in das Haus Zachariä und grüßte Elisabeth."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "8",
+              "19"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Maria zu Elisbeth geht",
+            "strophen": [
+              {
+                "links": [
+                  "Maria zu Elisbeth geht,",
+                  "Johanns Jesum im Leib empfäht,",
+                  "Elisbeth rühmt Mariam sein,",
+                  "Nennt sie den HErren Mutter sein."
+                ],
+                "rechts": [
+                  "Sie loben Beide Gottes Tat,",
+                  "Die Er bei ihn'n angefangen hat;",
+                  "Maria singt von Gottes Stärk,",
+                  "Erzählt Sein große Wunderwerk."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Meine Seele erhebt den HErren, Halleluja!",
+              "Und mein Geist freuet sich Gottes meines Heilands. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 1, 39–47.",
+            "buch": "lukas",
+            "kapitel": 1,
+            "verse": "39-47"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Wer ist die, die aufgehet wie die Sonne und schön wie Jerusalem?",
+                  "Die Töchter Zions sahen sie und priesen sie glücklich, und Königinnen lobten sie.",
+                  "Und wie Frühlingstage umkränzen sich die Rosenblüten und die Lilien des Tals.",
+                  "Die Töchter . . lobten sie."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Es ist, meine teuren Brüder, eine eigene Weisheit der Kirche, daß sie die Feier der Heimsuchung Mariens, d. i. des Besuchs Maria bei Elisabeth, nicht gleich nach dem Feste der Verkündigung, wohin sie der Zeit nach gehört, sondern auf diese heiße, festtaglose Sommerzeit verlegt. Eine süße Feier, wie Tau und Balsam mit einem Erquicken in der Hitze! Ein Blick aufs Gebirge, wo Gottes Lüfte wehen! Ein Blick nach Kanaan, der Sehnsucht weckt und uns ermuntert, dem Einfluß des Elements und der Arbeit nicht zu erliegen, sondern die müden Knie, die lahmen Hände zu stärken. — O HErr, lehr Du uns in den heißen Sommern fröhlich mit Deiner Mutter singen, Deiner ewig froh und durch Dich selig werden! Amen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Als Elisabeth den Gruß Marias hörte, rief sie laut und sprach:",
+              "Woher kommt mir das, daß die Mutter meines HErrn zu mir kommt? Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Dir für alle Deine Wohltat geistlich und leiblich, die Du uns so reichlich hast widerfahren lassen, und bitten Dich: behüte uns vor Hoffart und Sicherheit, daß wir nicht in Undankbarkeit und Sünde geraten und Deine Huld verlieren; wie die liebe Jungfrau Maria in ihrem Lobgesange gesungen hat, daß weder Weisheit Gewalt oder Reichtum die helfen soll, die Dich nicht fürchten; gib uns aber ein solches Herz, das in Deiner Furcht bleibe, an Deinem Worte hange, auf daß wir Deinen Segen behalten und endlich selig werden mögen; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Magnificat"
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Magnificat anima mea Dominum",
+            "absätze": [
+              "Magnificat anima mea Dominum, Et exsultavit spiritus meus in Deo salutari meo. Quia respexit humilitatem ancillae suae; ecce enim ex hoc beatam me dicent omnes generationes. Quia fecit mihi magna qui potens est, et sanctum nomen ejus. Et misericordia ejus a progenie in progenies timentibus eum. Fecit potentiam in brachio suo, dispersit superbos mente cordis sui. Deposuit potentes de sede, et exaltavit humiles. Esurientes implevit bonis, et divites dimisit inanes. Suscepit Israel puerum suum, recordatus misericordiae suae. Sicut locutus est ad patres nostros, Abraham et semini ejus in saecula."
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Seine Barmherzigkeit währet für und für, Halleluja!",
+              "Bei Denen, die Ihn fürchten. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es erhebe den HErrn",
+              "Die ganze Schar der Gläubigen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 11, 1–5.",
+            "buch": "jesaja",
+            "kapitel": 11,
+            "verse": "1-5"
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, o HErr, laß Deinen Dienern die Gabe der himmlischen Gnade zuteil werden, damit Allen, denen durch die Mutterschaft der seligen Jungfrau der Anfang des Heils zuteil geworden, die Gedächtnisfeier ihrer Heimsuchung Mehrung des Friedens bringe; durch ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wie herrlich und gepriesen hat Gott gemacht",
+              "Auf der ganzen Erde eine niedrige Magd."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "127",
+              "147"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 16, 1–5.",
+            "buch": "roemers",
+            "kapitel": 16,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Den HErren meine Seel erhebt",
+            "strophen": [
+              {
+                "links": [
+                  "Den HErren meine Seel erhebt,",
+                  "Der herzlich liebt und ewig lebt,",
+                  "Mein Geist ist voller Freude,",
+                  "Daß Gott mein Gott und Heiland ist,",
+                  "Der mich Ihm Selbst hat auserkiest,",
+                  "Die ich hier Armut leide."
+                ],
+                "rechts": [
+                  "Er hat mit Gnaden angeblickt",
+                  "Mich Seine Magd, und recht erquickt,",
+                  "Zum Wird mich selig preisen",
+                  "Auch Kindeskind und Jedermann,",
+                  "Denn Gott hat viel an mir getan,",
+                  "Das wird sich kürzlich weisen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Er stößt die Gewaltigen vom Stuhl, Halleluja!",
+              "Und erhebt die Niedrigen. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Selig werden mich preisen alle Geschlechter,",
+              "Denn Gott hat Seine niedrige Magd angesehen. Halleluja!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

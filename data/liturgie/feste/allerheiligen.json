@@ -1,0 +1,251 @@
+{
+  "id": "allerheiligen",
+  "titel": "Allerheiligen (1. November)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Allerheiligen (1. November)",
+      "wochentag": "fest",
+      "seiten": [
+        951,
+        955
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Könige, den HErrn —",
+              "Kommt, laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr kennet den Weg der Gerechten,",
+              "Die von Seinem Gesetze reden Tag und Nacht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19",
+              "45"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jerusalem, du hochgebaute Stadt",
+            "melodie": "85",
+            "strophen": [
+              {
+                "links": [
+                  "Jerusalem, du hochgebaute Stadt,",
+                  "Wollt Gott, ich wär in dir!",
+                  "Mein sehnlich Herz so groß Verlangen hat,",
+                  "Und ist nicht mehr bei mir:",
+                  "Weit über Berg und Tale,",
+                  "Weit über blaches Feld",
+                  "Schwingt es sich über alle",
+                  "Und eilt aus dieser Welt."
+                ]
+              },
+              {
+                "links": [
+                  "O Ehrenburg, nun sei gegrüßet mir,",
+                  "Du auf die Gnadenpfort!",
+                  "Wie große Zeit hat verlangt nach dir,",
+                  "Eh ich bin kommen fort",
+                  "Aus jenem bösen Leben,",
+                  "Aus jener Nichtigkeit,",
+                  "Und mir hat Gott gegeben",
+                  "Das Erb der Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ihr seid kommen zu dem Berge Zion, Halleluja!",
+              "Und zu der Stadt des lebendigen Gottes. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 5, 1–12.",
+            "buch": "matthaeus",
+            "kapitel": 5,
+            "verse": "1-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Meine Heiligen, die ihr im Fleisch wallend, den guten Kampf gekämpft habt,",
+                  "Ich will euch geben den Lohn für eure Mühe und Arbeit. Kommt, ihr Gesegneten",
+                  "Meines Vaters, erbet das Reich. Ich will . . Arbeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Thomas von Kempen",
+            "text": "Also erseufzen betrübte Christen, wenn sie den heutigen Zustand Elend und Jammer, wo nicht ansehen, doch erfahren. Nun wohlan! Es wird zwar unserer Seelen lang, zu wohnen bei Denen, die den Frieden hassen. Jedoch wird der Seele Tag und noch viel schönste Stund vermaleins andrehen. Mit was fröhlichem Gesicht, mit was heiligen Gedanken muß doch die abgeholte Seel die Himmelsstadt ansehen, wenn sie derselbigen sich nahet! Sie kann fürwahr nicht schweigen, das Herz schüttet sie aus, der Mund geht über: Die Heiligen, die ihr im Fleisch wallend, den guten Kampf gekämpft habt, Jch will euch geben den Lohn für eure Mühe und Arbeit. Kommt ihr Gesegneten meines Vaters, erbet das Reich. Ich will . . Arbeit. Die wahren Freunde Christi, haben ihrem HErrn gedient in Hunger und Durst, in Arbeit und Mühe, in Wachen und Fasten, in heiligen Gebeten und Betrachtungen, in manchergestalt Verfolgung und Schmach. O, wie viele schwere Leiden duldeten die Apostel, die Märtyrer, die Bekenner der Wahrheit, die heiligen Jungfrauen und alle Andern, die den Fußstapfen Christi nachfolgen wollten! Sie haben ihr Leben in dieser Welt gehaßt, um das ewige Leben zu erlangen. Sie waren arm an irdischen Dingen, aber wie reich an Gnade und Tugenden! Fremde dieser Welt, waren sie Gottes innigste und vertrauteste Freunde. Allen Frommen hingestellt, sollten sie uns vielmehr zum Eifer im Guten auffordern, als daß ihre Zahl uns zur Trägheit verführe. Die Fußstapfen, die sie uns hinterlassen haben, bezeugen es uns, daß wahrhaftig heilige und vollkommene Männer sie waren, die so wahrhaftig gekämpft und die Welt überwunden haben."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Dich lobt im Glanz seines Ruhmes der Chor der Apostel; Dich der",
+              "Propheten lobwürdige Zahl; Dich der Märtyrer weißgewandetes",
+              "Heer; Dich preisen einstimmig alle Heiligen und Erwählten, Du selige",
+              "Dreifaltigkeit, Du Einiger Gott."
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Das Te Deum."
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger HErr Gott himmlischer Vater, wir bitten Dich: Du wollest Deinen heiligen Geist in unsre Herzen geben, uns in Deiner Gnad und Wahrheit ewiglich erhalten, in aller Anfechtung behüten und trösten, vor allen Feinden Deines Wortes bewahren, und Deiner armen Christenheit heilsamen Frieden verleihen; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jerusalem, hochgebaute",
+            "strophen": [
+              {
+                "links": [
+                  "Ein edles Volk und ein sehr werte Schar",
+                  "Kommt dann gezogen schon;",
+                  "Was in der Welt von Auserwählten war,",
+                  "Sah ich: die beste Kron,",
+                  "Die Jesus mir, der HErre,",
+                  "Entgegen hat gesandt,",
+                  "Da ich noch war so ferne",
+                  "In meinem Tränenland."
+                ],
+                "rechts": [
+                  "Propheten groß und Patriarchen hoch,",
+                  "Auch Christen insgemein,",
+                  "Die weiland dort trugen des Kreuzes Joch",
+                  "Und der Tyrannen Pein,",
+                  "Schau ich in Ehren schweben,",
+                  "In Freiheit überall,",
+                  "Mit Klarheit hell umgeben,",
+                  "Mit sonnenlichtem Strahl."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ihr seid kommen zu dem himmlischen Jerusalem, Halleluja!",
+              "Und zu der Menge vieler Engel. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wie herrlich ist Dein Name, o HErr!",
+              "Denn mit Ehre und Schmuck hast Du Deine Heiligen gekrönt, und zu Herren gemacht über Deiner Hände Werk."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 5, 1–9.",
+            "buch": "",
+            "kapitel": 5,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ihr Gerechten, freuet euch des HErrn, und danket Ihm,",
+              "Und preiset Seine Heiligkeit."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116",
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 7, 2–12.",
+            "buch": "offenbarung",
+            "kapitel": 7,
+            "verse": "2-12"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Bernhard",
+            "text": "Die Gedächtnistage der Heiligen entzünden wie Funken, ja gleich brennenden Fackeln die andächtigen Herzen, daß sie danach dürsten, sie anzuschauen und zu umarmen. Die Heiligen sehnen sich nach uns, aber wir achten es nicht; die Gerechten warten auf uns, und wir merken nicht darauf. Laßt uns doch endlich aufwachen; laßt uns mit Christo und durch den Verkehr mit gleichgesinnten rechten Brüdern, mit reiligiöser Hinsicht ein Herz und eine Seele sein, erträglicher: wie viel süßer, wie viel lieblicher und beseligender wird jene Vereinigung sein, wo die Liebe, die da ist das Band der Vollkommenheit, alle unlöslich vereinet!"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jerusalem, hochgebaute",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wenn dann zuletzt ich angelanget bin",
+                  "Ins schöne Paradeis:",
+                  "Von höchster Freud erfüllet wird der Sinn",
+                  "Der Mund von Lob und Preis,",
+                  "Das Halleluja reine",
+                  "Man spielet in Heiligkeit,",
+                  "Das Hosianna feine",
+                  "Ohn End in Ewigkeit."
+                ],
+                "rechts": [
+                  "Mit Jubelklang, mit Instrumenten schön,",
+                  "Auf Chören ohne Zahl:",
+                  "Da geht der Schall und von dem süßen Ton",
+                  "Sich reget der Freudsaal",
+                  "Mit hunderttausend Zungen,",
+                  "Wie von Anfang gesungen,",
+                  "Das himmlische Heer."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ihr seid kommen zu der Gemeine der Erstgebornen, die im Himmel angeschrieben sind, Halleluja!",
+              "Und zu Gott, dem Richter über Alle, und zu den Geistern der vollendeten Gerechten. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O wie herrlich ist das Reich, in welchem sich mit Christo freuen alle Heiligen,",
+              "Angetan mit weißen Kleidern, zu folgen dem Lamme, wohin es geht."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

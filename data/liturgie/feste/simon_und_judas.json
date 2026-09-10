@@ -1,0 +1,38 @@
+{
+  "id": "simon_und_judas",
+  "titel": "S. S. Simon und Judas Thaddäus (28. Oktober)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. S. Simon und Judas Thaddäus (28. Oktober)",
+      "wochentag": "fest",
+      "seiten": [
+        946,
+        947
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 15, 17–25.",
+            "buch": "johannes",
+            "kapitel": 15,
+            "verse": "17-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 4, 7–13.",
+            "buch": "epheser",
+            "kapitel": 4,
+            "verse": "7-13"
+          }
+        ]
+      }
+    }
+  ]
+}

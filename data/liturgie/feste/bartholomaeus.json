@@ -1,0 +1,40 @@
+{
+  "id": "bartholomaeus",
+  "titel": "S. Bartholomäus (24. August)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Bartholomäus (24. August)",
+      "wochentag": "fest",
+      "seiten": 930,
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 6, 12–19.",
+            "buch": "lukas",
+            "kapitel": 6,
+            "verse": "12-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 12, 27–31.",
+            "buch": "1_korinther",
+            "kapitel": 12,
+            "verse": "27-31"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du uns an diesem Tage eine ehrwürdige und Freude durch das Fest Deines heiligen Apostels Bartholomäus bereitet hast: gib Deiner Kirche — wir bitten Dich — das zu lieben was er geglaubt hat, und das zu predigen was er gelehrt hat; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

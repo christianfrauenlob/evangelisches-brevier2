@@ -1,0 +1,225 @@
+{
+  "id": "hagelfeier",
+  "titel": "Hagelfeier (Bettag für die Früchte der Erde)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Hagelfeier (Bettag für die Früchte der Erde)",
+      "wochentag": "fest",
+      "seiten": [
+        931,
+        934
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mache Dich auf und hilf uns,",
+              "Und erhöre uns um Deiner Güte willen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "23",
+              "33"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach HErre, Du gerechter Gott",
+            "melodie": "168",
+            "strophen": [
+              {
+                "links": [
+                  "Ach HErre, Du gerechter Gott,",
+                  "Wir habens wohl verdienet,",
+                  "Mit unsrer Sünd und Missetat,",
+                  "Daß unser Feld nicht grünet,",
+                  "Daß Menschen und Vieh traurig sein;",
+                  "Wann Du zuschleußt den Himmel Dein,",
+                  "So müssen sie verschmachten."
+                ],
+                "rechts": [
+                  "HErr, unsre Sünd bekennen wir,",
+                  "Die wollt Du uns verzeihen;",
+                  "All unsre Hoffnung steht zu Dir;",
+                  "Troft Hilf tu uns verleihen,",
+                  "Gib uns Regen und Segen Dein",
+                  "(Gib uns den lieben Sonnenschein)",
+                  "Um Deines Namens willn allein,",
+                  "HErr, unser Gott und Vater."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Das Verlangen der Elenden hörest Du, Halleluja!",
+              "Ihr Herz ist gewiß, daß Dein Ohr darauf merket. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 5–13.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "5-13"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Er läßt Seine Sonne aufgehen über die Bösen und über die Guten,",
+              "Und läßt regnen über Gerechte und Ungerechte."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr allmächtiger Gott, Der Du alles was da ist regierest und nährest, ohn Welches Gnade nichts geschehen kann: gib Deinen Kindern, lieber Vater, einen beständigen Sonnenschein (gnädigen Regen), daß unser Land durch Deinen Segen mit seinen Früchten erfüllet werde, und wir Dich in allen Deinen Wohltaten erkennen und loben; um Jesu Christi ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Gott Vater im Throne",
+            "strophen": [
+              {
+                "links": [
+                  "O Gott Vater im Throne,",
+                  "O Jesu Christ, Gottes Sohne,",
+                  "O Heiliger Geist im Throne,",
+                  "Verleih uns Deinen Segen,",
+                  "Wollst uns gnädig sein,",
+                  "Und gib uns auf das Erdreich einen gnädigen Regen (Sonnenschein).",
+                  "Laß uns, lieber HErr, unsre Sünde nicht entgelten;",
+                  "Behüt unser Getreide und auch uns selber.",
+                  "Kyrieleis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, erzeige uns Deine Gnade und Güte,",
+              "Daß unser Land sein Gewächs gebe."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es hoffen auf Dich, die Deinen Namen kennen,",
+              "Denn Du verläßest nicht Die Dich, HErr, suchen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Mose 9, 13–35.",
+            "buch": "2_mose",
+            "kapitel": 9,
+            "verse": "13-35"
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, allmächtiger Gott: gib uns, daß wir, die wir in unserer Trübsal auf Dich trauen, durch Deinen Schutz beständig gegen alle Widerwärtigkeiten sicher seien; durch ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er erhört von Seinem heiligen Tempel meine Stimme, Halleluja!",
+              "Und mein Geschrei kommt vor Seine Ohren. Halleluja!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121",
+              "147"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 5, 16–20.",
+            "buch": "jakobus",
+            "kapitel": 5,
+            "verse": "16-20"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "O Du allmächtiger HErre Gott, Vater unsers HErrn Jesu Christi: wir bitten, tu auf Deine milde Hand, erleucht Dein Angesicht durchs ganze Land und begnad uns mit schönem Wetter, mach das Land voll Frucht, treuer Wohltäter (Oder: Gib und bewahre die Frucht auf dem Land, geuß auf uns hernieder milden Regen und Segen), treuer HErr über Deinen vollen Segen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Auf daß aller Welt werde offenbar, daß Du bist unser Gott, und wir sind Dein Volk immerdar. HErr Gott, Du trocknest (feuchtest) die Berge von oben her, schaffst Frucht und nährst Menschen und Dich zu Deiner Ehr. Preis Lob und Dank sei Dir für solche Mildigkeit, jetzt und allezeit, von nun an bis in Ewigkeit."
+              },
+              {
+                "art": "text",
+                "inhalt": "Auf daß . . immerdar."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O großer Gott von Macht",
+            "strophen": [
+              {
+                "links": [
+                  "O großer Gott von Macht",
+                  "Und reich von Gütigkeit,",
+                  "Willst Du das ganze Land",
+                  "Strafen mit Grimmigkeit?",
+                  "Vielleicht möchten noch Fromme sein,",
+                  "Die täten nach dem Willen Dein,",
+                  "Drum wollest Du verschonen,",
+                  "Nicht nach den Werken lohnen."
+                ],
+                "rechts": [
+                  "O großer Gott von Lob,",
+                  "Wenn ja das Maß erfüllt",
+                  "Von Sünden, und aus Zorn",
+                  "Uns gar verderben willt:",
+                  "So möchten doch die Kinderlein",
+                  "Tun nach dem rechten Willen Dein,",
+                  "Der wollest Du verschonen,",
+                  "Und nicht nach Sünden lohnen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, gib uns einen gnädigen Regen (Sonnenschein),",
+              "Und erquicke Dein Erbe."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Bittet, so wird euch gegeben; suchet, so werdet ihr finden;",
+              "Klopfet an, so wird euch aufgetan."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

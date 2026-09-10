@@ -1,0 +1,451 @@
+{
+  "id": "gedaechtnis_der_verstorbenen",
+  "titel": "Gedächtnis der Verstorbenen (Allerseelen, 2. November)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Gedächtnis der Verstorbenen (Allerseelen, 2. November)",
+      "wochentag": "fest",
+      "seiten": [
+        955,
+        961
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König, Dem Alles lebt —",
+              "Kommt, laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du erhörest Gebet,",
+              "Darum kommt alles Fleisch zu Dir."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "5",
+              "27"
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Ein Lied der letzten Woche des Kirchenjahres."
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Wir haben keine bleibende Statt, Halleluja!",
+              "Sondern die zukünftige suchen wir. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 5, 25–29.",
+            "buch": "johannes",
+            "kapitel": 5,
+            "verse": "25-29"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "HErr, errette mich vom ewigen Tode an jenem schrecklichen Tage,",
+                  "wenn Himmel und Erde sich bewegen, wenn Du kommst, die Welt durch Feuer zu richten.",
+                  "Zitternd siehe ich und bange, wenn das Strafgericht kommt und die drohende Rache,",
+                  "wenn Himmel und Erde sich bewegen.",
+                  "HErr, gib ihnen die ewige Ruhe, und das währende Licht leuchte ihnen!",
+                  "HErr, errette mich . . Feuer zu richten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Martin Luther",
+            "text": "Darum wenn wir Schmerz haben, wenn wir leiden, wenn wir sterben, so richte sich unser Blick hier her; und laßt uns tapfer glauben und gewiß sein, daß nicht wir oder nicht wir allein, sondern Christus und Seine Kirche mit uns Schmerz haben, leiden und sterben. Denn also hat Christus dafür gesorgt, daß wir den Weg des Todes nicht einsam zu gehen brauchen, vor dem jeder Mensch zurückschreckt, sondern treten unter dem Geleit der ganzen Kirche auf den Weg des Leidens und des Todes, und die Kirche trägt kräftiger als wir selbst, sodaß wir in Wahrheit jenes Wort des Elisa 2. Kön. 6 auf uns anwenden können, da er zu seinem furchtsamen Diener sprach: Fürchte dich nicht; denn Derer ist mehr, die bei uns sind, denn Derer, die bei ihnen sind. Dies eine bleibt auch für uns übrig, daß wir darum bitten, daß uns die Augen geöffnet werden und wir die Kirche um uns her erblicken — ich meine die Augen des Glaubens; dann gibt es nichts, davor wir uns fürchten sollten, wie auch in Psalm 125,2 gesagt ist: 'Berge sind um ihn her'; und der HErr ist um Sein Volk her von nun an bis in Ewigkeit."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "(Jesaia 38,10–20): Ich bin die Auferstehung und das Leben: Wer an",
+              "Mich glaubt, der wird leben, ob er gleich stürbe;",
+              "Und wer da lebt, und glaubt an Mich, der wird nimmermehr sterben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du durch den Mund des heiligen Paulus, Deines Apostels, uns gelehrt hast, daß wir ob den Verstorbenen nicht betrübt sein sollen: wir bitten Dich, verleihe uns, daß, wenn Dein Sohn, unser HErr Jesus Christus, zu Gericht kommen wird, wir mit allen entschlafenen Christen zur ewigen Freude sogleich geführet werden mögen; durch ...",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Dies irae. (Strophe 1.2.7.8.13.14 / 3.4.9.10.15.16 / 5.6.11.12.17 / 18 – jeweils eigene Melodiezeile.)"
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies irae, dies illa",
+            "strophen": [
+              {
+                "links": [
+                  "Dies irae, dies illa",
+                  "Solvet saeclum in favilla,",
+                  "Teste David cum Sibylla."
+                ],
+                "rechts": [
+                  "Tag des Zorns, der Tag der Klagen",
+                  "Wird die Welt zu Staub zerschlagen,",
+                  "Wie Sibyll und David sagen!"
+                ]
+              },
+              {
+                "links": [
+                  "Quantus tremor est futurus,",
+                  "Quando judex est venturus,",
+                  "Cuncta stricte discussurus."
+                ],
+                "rechts": [
+                  "Welch ein Zittern wird angehen,",
+                  "Wenn der Richter sich läßt sehen,",
+                  "Prüfend alles was geschehen!"
+                ]
+              },
+              {
+                "links": [
+                  "Tuba mirum spargens sonum",
+                  "Per sepulcra regionum,",
+                  "Coget omnes ante thronum."
+                ],
+                "rechts": [
+                  "Bei der Tuba Wundertöne",
+                  "Rasch aus jeder Gräberzone",
+                  "Sammelt Alles sich am Throne."
+                ]
+              },
+              {
+                "links": [
+                  "Mors stupebit et natura,",
+                  "Cum resurget creatura,",
+                  "Judicanti responsura."
+                ],
+                "rechts": [
+                  "Selbst der Tod sich zeigt mit Beben,",
+                  "Wenn die Wesen sich erheben,",
+                  "Antwort im Gericht zu geben."
+                ]
+              },
+              {
+                "links": [
+                  "Liber scriptus proferetur,",
+                  "In quo totum continetur,",
+                  "Unde mundus judicetur."
+                ],
+                "rechts": [
+                  "Ein Buch wird dann entfalten,",
+                  "Darin lückenlos enthalten",
+                  "Aller Menschen Tun und Walten."
+                ]
+              },
+              {
+                "links": [
+                  "Judex ergo cum sedebit,",
+                  "Quidquid latet apparebit,",
+                  "Nil inultum remanebit."
+                ],
+                "rechts": [
+                  "Hat der Richter Platz genommen,",
+                  "Wird ans Licht Versteckstes kommen,",
+                  "Nichts wird unbestraft entkommen."
+                ]
+              },
+              {
+                "links": [
+                  "Quid sum miser tunc dicturus?",
+                  "Quem patronum rogaturus?",
+                  "Cum vix justus sit securus?"
+                ],
+                "rechts": [
+                  "Was soll Armer ich anfangen,",
+                  "Welchen Anwalt dann verlangen,",
+                  "Wo sogar Gerechte bangen?"
+                ]
+              },
+              {
+                "links": [
+                  "Rex tremendae maiestatis,",
+                  "Qui salvandos salvas gratis,",
+                  "Salva me, fons pietatis."
+                ],
+                "rechts": [
+                  "HErr, zu Dem wir zitternd eilen,",
+                  "Du willst Heil umsonst austeilen;",
+                  "Wollst mich, Brunn der Huld, auch heilen!"
+                ]
+              },
+              {
+                "links": [
+                  "Recordare, Jesu pie,",
+                  "Quod sum causa Tuae viae;",
+                  "Ne me perdas illa die."
+                ],
+                "rechts": [
+                  "Mußt Dir, liebster Jesu, sagen:",
+                  "Ich war Ursach Deiner Plagen!",
+                  "Wolle mich doch nicht zerschlagen!"
+                ]
+              },
+              {
+                "links": [
+                  "Quaerens me sedisti lassus,",
+                  "Redemisti crucem passus;",
+                  "Tantus labor non sit cassus."
+                ],
+                "rechts": [
+                  "Hast, mich suchend, mild gesessen,",
+                  "Trugst die Kreuzespein unermessen:",
+                  "Solche Qual sei nie vergessen!"
+                ]
+              },
+              {
+                "links": [
+                  "Juste Judex ultionis,",
+                  "Donum fac remissionis",
+                  "Ante Diem rationis."
+                ],
+                "rechts": [
+                  "Du müßtest mich verhaften, —",
+                  "Löse mich, den Schuldverhaft'ten,",
+                  "Vor dem Tag der Rechenschaften!"
+                ]
+              },
+              {
+                "links": [
+                  "Ingemisco tamquam reus,",
+                  "Culpa rubet vultus meus,",
+                  "Supplicanti parce, Deus."
+                ],
+                "rechts": [
+                  "Ich bin angeklagt, voll Bangen,",
+                  "Schuldbewußtsein färbt die Wangen;",
+                  "Dennoch laß mich Gnad erlangen!"
+                ]
+              },
+              {
+                "links": [
+                  "Qui Mariam absolvisti",
+                  "Et latronem exaudisti,",
+                  "Mihi quoque spem dedisti."
+                ],
+                "rechts": [
+                  "Der Maria hat befreiet",
+                  "Und den Schächer hat erhöret,",
+                  "Hast auch mir Hoffnung gewähret."
+                ]
+              },
+              {
+                "links": [
+                  "Preces meae non sunt dignae,",
+                  "Sed Tu bonus fac benigne,",
+                  "Ne perenni cremer igne."
+                ],
+                "rechts": [
+                  "Wenig fruchtet ja mein Flehen,",
+                  "Doch Du Gütiger, den wir kennen,",
+                  "Laß mich nur nicht ewig brennen!"
+                ]
+              },
+              {
+                "links": [
+                  "Inter oves locum praesta,",
+                  "Et ab haedis me sequestra,",
+                  "Statuens in parte dextra."
+                ],
+                "rechts": [
+                  "Heiß mich stehen bei den Schafen,",
+                  "Sicher vor der Böcke Strafen,",
+                  "Stell mich rechts zu Deinen Braven."
+                ]
+              },
+              {
+                "links": [
+                  "Confutatis maledictis,",
+                  "Flammis acribus addictis,",
+                  "Voca me cum benedictis."
+                ],
+                "rechts": [
+                  "Wenn die Bösen Lohn empfangen,",
+                  "Und von Flammen sind umfangen,",
+                  "Laß zu Selgen mich gelangen."
+                ]
+              },
+              {
+                "links": [
+                  "Oro supplex et acclinis,",
+                  "Cor contritum quasi cinis,",
+                  "Gere curam mei finis."
+                ],
+                "rechts": [
+                  "Flehend und im Staube wende",
+                  "Ich zu Dir so Herz wie Hände:",
+                  "Trage Sorge für mein Ende!"
+                ]
+              },
+              {
+                "links": [
+                  "Lacrimosa dies illa,",
+                  "Qua resurget ex favilla",
+                  "Judicandus homo reus.",
+                  "Huic ergo parce, Deus,",
+                  "Pie Jesu Domine,",
+                  "Dona eis requiem.",
+                  "Amen."
+                ],
+                "rechts": [
+                  "Thränenreich der Tag — das glaube —",
+                  "Wenn nun aus des Grabes Staube",
+                  "Zum Gericht der Schuldige steiget,",
+                  "Gott, sei huldvoll ihm geneigt!",
+                  "Jesu, milder HErre Du,",
+                  "Schenk ihnen die ewge Ruh!",
+                  "Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ich weiß, daß mein Erlöser lebt, Halleluja!",
+              "Und als der Letzte wird Er über dem Staube Sich erheben. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die Seelen der Gerechten sind in Gottes Hand,",
+              "Und es rühret sie nicht an die Qual der Gottlosen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Makkabäer 12, 39–46.",
+            "buch": "",
+            "kapitel": 12,
+            "verse": "39-46"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "HErr, wenn Du kommst, die Erde zu richten — wo soll ich hinfliehen vor dem Grimm Deines Angesichts?",
+                  "Denn ich viel gesündigt habe in meinem Leben.",
+                  "Ich zittre ob meiner Missetaten und bin schamrot vor Dir; wenn Du zum Gerichte kommst, so verwirf mich nicht.",
+                  "Denn ich . . Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Dem Du eigen ist, allezeit sich zu erbarmen und zu verschonen: wir bitten Dich flehend für die Seelen Deiner Kinder, die Du aus dieser Welt hast scheiden lassen, laß sie nicht in die Hände des bösen Feindes fallen, und vergiß ihrer nicht auf immer, sondern laß sie von den heiligen Engeln aufgenommen werden und ins Vaterland des Paradieses gebracht werden, damit sie, weil sie auf Dich gehofft und an Dich geglaubt, nicht die höllische Pein erdulden, sondern die ewigen Freuden erlangen, durch ...",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gott wird abwischen alle Tränen von den Augen der Heiligen;",
+              "Und es wird nicht mehr sein der Tod, noch Leid, noch Geschrei, noch Schmerzen, denn das Erste ist vergangen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116",
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 15, 51–57.",
+            "buch": "1_korinther",
+            "kapitel": 15,
+            "verse": "51-57"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ich weiß, daß mein Erlöser lebt, und ich werde am jüngsten Tage vom Staube auferstehen;",
+                  "Und ohne mein Fleisch werde ich Gott sehen.",
+                  "Denselben ich sehen, und kein Fremder, und meine Augen werden Ihn schauen.",
+                  "Und ohne . . sehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Selig sind die Toten, die in dem HErrn sterben, Halleluja!",
+              "Sie ruhen von ihrer Arbeit, denn ihre Werke folgen ihnen nach. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Alles was Mir Mein Vater gibt, das kommt zu Mir;",
+              "Und Wer zu Mir kommt, den werde Ich nicht hinausstoßen."
+            ]
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Vor den Pforten der Hölle",
+                  "Bewahre, o HErr, ihre Seelen!",
+                  "Sie mögen ruhen in Frieden.",
+                  "Amen.",
+                  "Ewige Ruhe schenk ihnen, o HErr,",
+                  "Und das währende Licht leuchte ihnen,",
+                  "Sie mögen ruhen in Frieden!",
+                  "Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger, heiliger Gott, Du HErr über Leben und Tod, bei Dir suchen wir Trost in unsrer Trübsal und Traurigkeit. Wohin sollen wir gehen, als zu Dir! Du kannst uns trösten, wie eine Mutter tröstet, und noch viel seliger. Du hast Deinen Eingebornen Sohn in den Tod gegeben und unvergängliches Wesen und Leben an das Licht gebracht. Nun zieh Du uns zu Ihm, daß wir unter Seinem Kreuze Frieden und Leben finden. Wenn wir sterben, so bist Du, HErr Jesu, unser ewiges Heil. Du hast uns die Stätte bereitet in Deines Vaters Reich. Gib uns Freudigkeit, auf den Himmel zu warten, bis wir uns hier im heiligen Wandel.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

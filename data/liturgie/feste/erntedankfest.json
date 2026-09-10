@@ -1,0 +1,192 @@
+{
+  "id": "erntedankfest",
+  "titel": "Erntedankfest",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Erntedankfest",
+      "wochentag": "fest",
+      "seiten": [
+        938,
+        942
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Alle gute Gabe und alle vollkommene Gabe kommt von oben herab,",
+              "Von dem Vater des Lichts."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "65",
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Allmächtiger gütiger Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Allmächtiger gütiger Gott,",
+                  "Du ewiger HErr Zebaoth,",
+                  "Aller Augen warten auf Dich,",
+                  "Und Du speisest sie gnädiglich."
+                ],
+                "rechts": [
+                  "Wenn Du auftust Deine milde Hand,",
+                  "So freuen sie sich allesamt,",
+                  "Genießen Deiner guten Gaben,",
+                  "Davon sie Dich herzlich loben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Danket dem HErrn, denn Er ist freundlich, Halleluja!",
+              "Und Seine Güte währet ewiglich. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 13–21.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "13-21"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Wir wollen keine Stufe des Dankes verschmähen, so wie wir auch keine Stufe des Gebetes verschmähen, und am Ende auch das Schreien der Raben und das Brüllen der jungen Löwen nach Raub für Gebet gelten lassen müssen. Es will aber der Vater angebetet sein im Geist und in der Wahrheit; wir bitten Ihn, nimmt Er Seine Auserwählten von der Welt, vergibt Er ihnen ihre Sünden, erfüllt Er sie mit Seinem Geist und kommt Selber mit Seinem Sohne in ihre Herzen zu wohnen bei in Ihm, so sind sie, die also in Gott sind, sie seien Christen und die können sie also fromm dann sagen, sie seien in Gott, sie sind in Gott völlig eins."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wirket Speise, nicht die vergänglich ist, sondern die da bleibet in das ewige Leben,",
+              "Welche euch des Menschen Sohn geben wird."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott himmlischer Vater, Der Du uns Leib und Leben gegeben und durch göttlichen Segen bisher erhalten hast: wir bitten Dich, laß Deinen Segen ferner bei uns bleiben, auf daß wir zu allen Zeiten mit Dankfagung empfangen und haben alles was uns nütz und not ist, Dich dafür lieben, Dir dienen und vertrauen mögen, daß Du wie die Vögel uns speisen und wie die Blümlein uns kleiden werdest; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gesegen uns, HErr, die Gaben Dein",
+            "melodie": "129",
+            "strophen": [
+              {
+                "links": [
+                  "Gesegen uns, HErr, die Gaben Dein,",
+                  "Die Speis laß unsre Nahrung sein;",
+                  "Hilf, daß dadurch erquicket werd",
+                  "Der dürftig Leib auf dieser Erd."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Aller Augen warten auf Dich, HErr, Halleluja!",
+              "Und Du gibst ihnen ihre Speise zu seiner Zeit. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gott hat vom Himmel Regen und fruchtbare Zeiten gegeben,",
+              "Und unsre Herzen erfüllet mit Speise und Freude."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Mose 8, 21–22.",
+            "buch": "1_mose",
+            "kapitel": 8,
+            "verse": "21-22"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger und allgütiger Gott, wir danken Dir und loben Deinen heiligen Namen. Wie ein Vater für seine Kinder sorgt, aber viel herrlicher, weiser und mächtiger sorgst Du für uns. Auch im vergangenen Jahr hast Du unsre Arbeit gesegnet und unsre Felder fruchtbar gemacht nach Deiner Verheißung. Wir sind so vieler Güter nicht wert, aber Du bist die Liebe; darum läßest Du uns nehmen aus Deiner Hand ohne Ende und Gute. Wir erkennen unsre Schwachheit und Schuld und bringen unsre Bitte vor Dich: Du wollest heute am Erntedankfest alles vergeben, was wir bei unsrer Arbeit gesündigt haben, verzeih uns alle Untreue und Trägheit in unserm Beruf, alle Sonntagsheiligung und Verachtung des Gottesdienstes, Lohnsucht bei Reich und Arm. Sonderlich bitten wir Dich, HErr, Du wollest in dem bittern Streite und Kampfe der Stände und Klassen die Herzen zum Frieden lenken, daß der Haß aufhöre und die Liebe Deine Erlösten wieder verbinde.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Schmeckt und sehet, wie freundlich der HErr ist;",
+              "Wohl Dem, der auf Ihn trauet!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 9, 6–11.",
+            "buch": "2_korinther",
+            "kapitel": 9,
+            "verse": "6-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Danket dem HErrn heut",
+            "strophen": [
+              {
+                "links": [
+                  "Danket dem HErrn heut und allzeit,",
+                  "Groß ist Sein Güt und Mildigkeit,",
+                  "Als Fleisch Er speiset und erhält,",
+                  "Denn Sein Geschöpf Ihm wohlgefällt."
+                ],
+                "rechts": [
+                  "Billig wird Er von uns gepreist,",
+                  "Daß Er uns so reichlich speist,",
+                  "O Vater, für Dein Gütigkeit",
+                  "Sagn wir Dir Dank in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Du tust Deine Hand auf, Halleluja!",
+              "Und erfüllst alles was lebet mit Wohlgefallen. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sehet zu, und hütet euch vor dem Geiz,",
+              "Denn Niemand lebet davon, daß er viel Güter hat."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger und allgütiger Gott, wir danken Dir und loben Deinen heiligen Namen. Wie ein Vater für seine Kinder sorgt, aber viel herrlicher, weiser und mächtiger sorgst Du für uns. Auch im vergangenen Jahr hast Du unsre Arbeit gesegnet und unsre Felder fruchtbar gemacht nach Deiner Verheißung. Wir sind so vieler Güter nicht wert, aber Du bist die Liebe; darum läßest Du uns nehmen aus Deiner Hand ohne Ende und Gute. Wir erkennen unsre Schwachheit und Schuld und bringen unsre Bitte vor Dich: Du wollest heute am Erntedankfest alles vergeben, was wir bei unsrer Arbeit gesündigt haben, verzeih uns alle Untreue und Trägheit in unserm Beruf, alle Sonntagsheiligung und Verachtung des Gottesdienstes, Lohnsucht bei Reich und Arm. Sonderlich bitten wir Dich, HErr, Du wollest in dem bittern Streite und Kampfe der Stände und Klassen die Herzen zum Frieden lenken, daß der Haß aufhöre und die Liebe Deine Erlösten wieder verbinde.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ],
+  "regel": "erster_sonntag_oktober"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "peter_paulstag",
+  "titel": "Peter-Paulstag (29. Juni)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Peter-Paulstag (29. Juni)",
+      "wochentag": "fest",
+      "seiten": [
+        923,
+        925
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: Ich sende euch wie Schafe mitten unter die Wölfe;",
+              "Darum seid klug wie die Schlangen, und ohne Falsch wie die Tauben."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19",
+              "34"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Sie verkündeten die Werke Gottes, Halleluja!",
+              "Und machten bekannt all Sein Tun. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Matthäus 16, 13–19.",
+            "buch": "matthaeus",
+            "kapitel": 16,
+            "verse": "13-19"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "1. Klemensbrief",
+            "text": "Nehmen wir die tapferen Vorbilder unseres Geschlechts. Wegen Eifersucht und Neid wurden die größten und gerechtesten Säulen verfolgt und kämpften bis zum Tode. Stellen wir die guten Apostel vor Augen: Den Petrus, der wegen ungerechter Eifersucht nicht eine oder zwei, sondern viele Fährlichkeiten ertrug und so nach Ablegung seiner Zeugenschaft zu dem ihm gebührenden Orte der Herrlichkeit wanderte. Wegen Eifersucht und Streitsucht zeigte Paulus den Weg zum Kampfpreise geduldigen Ausharrens: in Banden war er siebenmal, in der Verbannung floh er, gesteinigt wurde er, als Herold trat er im Osten und im Westen auf, und deswegen erwarb er herrlichen Ruhm für seinen Glauben. Denn die ganze Welt hat er für die Gerechtigkeit gelehrt, bis zum äußersten Westen vorgedrungen, und vor den Machthabern hat er sein Zeugnis abgelegt; so ward er dann aus der Welt genommen, und wanderte an den heiligen Ort, das größte Vorbild der Geduld."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Was ihr auf Erden binden werdet, soll auch im Himmel gebunden sein;",
+              "Und was ihr auf Erden lösen werdet, soll auch im Himmel los sein."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du Deiner Kirche den heutigen Tag durch das Martyrium Deiner Apostel Petrus und Paulus geheiligt hast: gib Deiner Kirche, daß sie in allen Stücken dem Gebot Derer folge, durch die sie den Anfang ihres Gottesglaubens empfangen hat; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Licht der Ewigkeit, wie schmückest du so hold (Decora lux aeternitatis)",
+            "strophen": [
+              {
+                "links": [
+                  "Decora lux aeternitatis, auream",
+                  "Diem beatis irrigavit ignibus,",
+                  "Apostolorum quae coronat principes,",
+                  "Reisque in astra liberam pandit viam."
+                ],
+                "rechts": [
+                  "O Licht der Ewigkeit, wie schmückest du so hold",
+                  "Den festlich hehren Tag mit deinem Strahlen-",
+                  "Da die Apostelfürsten ihre Kron empfahn [gold!",
+                  "Und Sündern offen steht die freie Himmelsbahn."
+                ]
+              },
+              {
+                "links": [
+                  "Mundi magister atque caeli janitor,",
+                  "Romae parentes arbitrique gentium,",
+                  "Per ensis ille, hic per crucis victor necem,",
+                  "Vitae senatum laureati possident."
+                ],
+                "rechts": [
+                  "Der Himmelspförtner und der Lehrer aller Welt,",
+                  "Die Väter Roms, zu Völkerrichtern aufgestellt,",
+                  "Gehn rein zum himmlischen Senate hochgeehrt,",
+                  "Der Eine durch das Kreuz, der Andere durch [das Schwert."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du wirst sie zu Fürsten setzen",
+              "In aller Welt."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 1, 9–19.",
+            "buch": "jeremia",
+            "kapitel": 1,
+            "verse": "9-19"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, habe Dank Lob und Preis, daß Du uns arme sündige Menschen nicht verwirfst, sondern willst uns selig machen in Christo, Deinem Sohne, unserm hochgelobten Heiland. Du, HErr Jesu, hast den blutgierigen Saulus zu einem gläubigen Paulus umgewandelt und sein Herz mit Deiner großen Liebe erfüllt. Du wirst auch uns nicht von Dir stoßen, sondern uns in Deinen Gnaden annehmen zum ewigen Leben. HErr, wir sind Dein und wollen keines Andern sein.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "113",
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 12, 1–11.",
+            "buch": "apostelgeschichte",
+            "kapitel": 12,
+            "verse": "1-11"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "In alle Welt gehet aus ihr Schall, Halleluja!",
+              "Und ihre Worte bis an der Welt Ende. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Heute hat Simon Petrus das Gerüst des Kreuzes bestiegen, Halleluja!",
+              "Heute ist er mit Freuden zu Christus eingegangen. Halleluja!",
+              "Heute ist der Apostel Paulus, die Leuchte des Erdkreises, geneigten Hauptes um des Namens Christi willen mit dem Märtyrertod gekrönt worden. Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber Vater im Himmel, wir danken Dir, daß Du Deine Kirche auf Erden im heiligen Geiste gebaut hast. Du hast ihr Männer des Glaubens geschenkt und herrliche Apostel, in deren Seele Dein Leben war. Besonders danken wir Dir für den großen Apostel der Heiden, den Prediger des Glaubens und der Liebe. Laß uns von ihnen lernen, alles für unsern Heiland, Deinen Sohn, dahinzugeben. Und Du, HErr Jesu, durch Den wir alles vermögen, lebe in uns, wie Du in Deinen Aposteln lebendig warst und ewig bleibst. Nimm Dich Deiner Kirche auf Erden an und erwecke ihr Glaubenshelden und Geistesmenschen.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

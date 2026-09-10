@@ -1,0 +1,207 @@
+{
+  "id": "kirchweihfest",
+  "titel": "Kirchweihfest",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Kirchweihfest",
+      "wochentag": "fest",
+      "seiten": [
+        942,
+        946
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Lieber HErr, erhöre gnädig Die Dein heilig Haus betreten.",
+              "Kommt herzu .."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist in Seinem heiligen Tempel;",
+              "Der HErr ist in dem Himmel. Halleluja!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24",
+              "46"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 19, 1–10.",
+            "buch": "lukas",
+            "kapitel": 19,
+            "verse": "1-10"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Heute ist diesem Hause Heil widerfahren,",
+              "Sintemal er auch Abrahams Sohn ist."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du alljährlich den Weihetag dieses Deines Hauses Heil widerfahren und uns immer wohlbehalten an den heiligen Geheimnissen teilnehmen läßest: erhör die Bitten Deines Volkes und verleih, daß Wer diesen Tempel betritt, um Wohltaten zu erbitten, sich über die Gewährung aller Bitten freuen möge; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Stadt Jerusalem, du hohe (Urbs Jerusalem beata)",
+            "strophen": [
+              {
+                "links": [
+                  "Urbs Jerusalem beata,",
+                  "Dicta pacis visio,",
+                  "Quae construitur in caelis",
+                  "Vivis ex lapidibus,",
+                  "Et angelis coronata",
+                  "Ut sponsata comite."
+                ],
+                "rechts": [
+                  "Stadt Jerusalem, du hohe,",
+                  "'Friedensbild' genannt so traut,",
+                  "Die aus lebenden Gesteinen",
+                  "In dem Himmel aufgebaut,",
+                  "Von der Engelschar umkrönet,",
+                  "Wie von Brautgeleit die Braut."
+                ]
+              },
+              {
+                "links": [
+                  "Nova veniens e coelo",
+                  "Nuptiali thalamo",
+                  "Preparata ut sponsata",
+                  "Copuletur Domino,",
+                  "Plateae et muri ejus",
+                  "Ex auro purissimo."
+                ],
+                "rechts": [
+                  "Züchtig von dem Himmel nieder",
+                  "Schwebt sie bräutlich angetan,",
+                  "Daß aufs neue sie die Treue",
+                  "Ihrem HErrn gelobe an,",
+                  "Aus dem reinsten lautern Golde",
+                  "Stadt und Mauer erbaute man."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, ich habe lieb die Stätte Deines Hauses, Halleluja!",
+              "Und den Ort, da Deine Ehre wohnet. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mein Haus soll heißen",
+              "Ein Bethaus."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 8.",
+            "buch": "1_koenige",
+            "kapitel": 8,
+            "verse": "1-66"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Gott hat geheiliget das Zelt Seines Zeugnisses. Dies ist Gottes Haus, in welchem angerufen wird Sein Name, von welchem geschrieben steht: Hierselbst wird Mein Name sein, spricht Gott der HErr. Ehre sei .."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du durch Deinen heiligen Geist die ganze Christenheit heiligest und regierest: erhör unser Gebet, und gib gnädiglich, daß sie mit allen ihren Gliedern in reinem Glauben durch Deine Gnade Dir dienen; durch ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr hat Zion erwählet",
+              "Und hat Lust daselbst zu wohnen."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 21, 1–5.",
+            "buch": "offenbarung",
+            "kapitel": 21,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich hab ein herzlich Freud",
+            "strophen": [
+              {
+                "links": [
+                  "Ich hab ein herzlich Freud und groß Gefallen",
+                  "Ins Haus des HErren allezeit zu wallen,",
+                  "Du lieber Gott vom Himmel, hilf uns Allen,"
+                ],
+                "rechts": [
+                  "Dein Haus ist Dir zu Lob und hohen Ehren",
+                  "Erbaut, darin zu beten und zu lehren,",
+                  "Dein Christenheit daneben zu vermehren."
+                ]
+              },
+              {
+                "links": [
+                  "Wenn wir nun einig All zusammentreten,",
+                  "Dein heiligs Wort anhören, seufzen, beten,",
+                  "So hilf Du uns, o Gott, in unsern Nöten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Halleluja, Halleluja, Halleluja! Eine Stimme des Frohlockens und des Heiles",
+              "Ist in den Wohnungen der Gerechten. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wie heilig ist diese Stätte!",
+              "Hie ist nichts anderes denn Gottes Haus, und hie ist die Pforte des Himmels."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du unsichtbar alles umfaßt und dennoch zum Heil des Menschengeschlechts die Zeichen Deiner Macht sichtbar werden läßt: verherrliche diesen Tempel durch Dein kräftiges Beiwohnen, damit Alle, die hier zum Beten zusammenkommen, aus welcher Trübsal heraus sie auch Dich anrufen mögen, die Wohltaten Deiner Tröstung erlangen; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

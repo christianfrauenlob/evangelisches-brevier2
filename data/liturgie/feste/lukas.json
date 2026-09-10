@@ -1,0 +1,35 @@
+{
+  "id": "lukas",
+  "titel": "S. Lukas (18. Oktober)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Lukas (18. Oktober)",
+      "wochentag": "fest",
+      "seiten": 946,
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 10, 1–9.",
+            "buch": "lukas",
+            "kapitel": 10,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 8, 16–24.",
+            "buch": "2_korinther",
+            "kapitel": 8,
+            "verse": "16-24"
+          }
+        ]
+      }
+    }
+  ]
+}

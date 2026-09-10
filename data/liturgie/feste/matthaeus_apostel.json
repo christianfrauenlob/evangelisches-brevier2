@@ -1,0 +1,47 @@
+{
+  "id": "matthaeus_apostel",
+  "titel": "S. Matthäus (21. September)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Matthäus (21. September)",
+      "wochentag": "fest",
+      "seiten": [
+        930,
+        931
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 9–13.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "9-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 1, 10–14.",
+            "buch": "hesekiel",
+            "kapitel": 1,
+            "verse": "10-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 12–15.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "12-15"
+          }
+        ]
+      }
+    }
+  ]
+}

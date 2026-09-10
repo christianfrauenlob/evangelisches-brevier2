@@ -1,0 +1,226 @@
+{
+  "id": "reformationsfest",
+  "titel": "Reformationsfest",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Reformationsfest",
+      "wochentag": "fest",
+      "seiten": [
+        947,
+        950
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Dein Wort ist eine rechte Lehre;",
+              "Heiligkeit ist die Zierde Deines Hauses, o HErr, ewiglich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19",
+              "27"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ein feste Burg ist unser Gott",
+            "melodie": "39",
+            "strophen": [
+              {
+                "links": [
+                  "Ein feste Burg ist unser Gott,",
+                  "Ein gute Wehr und Waffen,",
+                  "Er hilft uns frei aus aller Not,",
+                  "Die uns jetzt hat betroffen.",
+                  "Der alt böse Feind",
+                  "Mit Ernst ers jetzt meint,",
+                  "Groß Macht und viel List",
+                  "Sein grausam Rüstung ist,",
+                  "Auf Erd ist nicht seinsgleichen."
+                ],
+                "rechts": [
+                  "Mit unsrer Macht ist nichts getan,",
+                  "Wir sind gar bald verloren;",
+                  "Es streit für uns der rechte Mann,",
+                  "Den Gott hat selbst erkoren.",
+                  "Fragst du, wer der ist?",
+                  "Er heißt Jesus Christ,",
+                  "Der HErr Zebaoth,",
+                  "Und ist kein andrer Gott,",
+                  "Das Feld muß Er behalten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr unser Gott, sei mit uns, Halleluja!",
+              "Wie Du gewesen bist mit unsern Vätern. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 5, 1–12.",
+            "buch": "matthaeus",
+            "kapitel": 5,
+            "verse": "1-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "HErr, Dein Wort bleibet ewiglich, soweit der Himmel ist.",
+                  "Dein Wort ist meines Fußes Leuchte und ein Licht auf meinem Wege.",
+                  "HErr, ich habe lieb die Stätte Deines Hauses und den Ort, da Deine Ehre wohnet.",
+                  "Selig sind die Gottes Wort hören und bewahren.",
+                  "Ehre sei . . wohnet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Martin Luther",
+            "text": "Man erkennt äußerlich das heilige, christliche Volk bei dem Heiltum des heiligen Kreuzes, das ist, daß es alles Unglück und Verfolgung, allerlei Anfechtung und Übel vom Teufel Welt und Fleisch, inwendig trauern, blöde sein, erschrecken, äußerlich arm, krank und schwach sein müssen, damit es dem Haupte, Christus, gleich hält und also im Christus willen leide. Sie müssen fromm still gehorsam sein, bereit, mit Leib und Gut Aller Obrigkeit und Jedermann zu dienen, Niemand kein Leid tun. Wo aber kein Volk auf Erden solchen bittern Haß leiden . . . und doch nicht darum, daß sie Ehebrecher Mörder Diebe oder Schälke sind, sondern daß sie Christum allein und keinem und keinen Gott haben. Wo Du in dem Elende siehst, da wisse, daß die heilige christliche Kirche sei, wie Er spricht Matth. 5,11–12. Denn mit diesem Heiltum will der heilige Geist dies Volk nicht allein heilig, sondern auch selig."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wachet, und seid im Glauben,",
+              "Seid männlich, und seid stark."
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Das Te Deum."
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir bitten Dich: Du wollest Deinen heiligen Geist uns in Deiner Gnad und Wahrheit ewiglich erhalten, uns in aller Anfechtung behüten und trösten, und Deiner armen Christenheit heilsamen Frieden verleihen; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Gott, Dir sei Dank Lob Preis und Ehr,",
+              "Erhalt uns nun bei Deiner Lehr,",
+              "Und unser Herz zu Dir bekehr.",
+              "Amen."
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, Dein Wort ist die rechte Lehre, Halleluja!",
+              "Heiligkeit ist die Zierde Deines Hauses ewiglich. Halleluja!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "46"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Habakuk 2, 1–4.",
+            "buch": "habakuk",
+            "kapitel": 2,
+            "verse": "1-4"
+          },
+          {
+            "typ": "gebet",
+            "text": "Halleluja! mein Gott und HErr, ich will Dich loben mit allen Evangelischen auf der ganzen Erde; ja, die ganze Christenheit soll Deinen Namen preisen. Wir, die wir Dein reines Wort und Dein heiliges Sakrament haben, dürfen voller Freude sein bei Deinen gnadenreichen Führungen. Wir haben eitel Lust an Deinen heiligen Offenbarungen. Es ist wohl viel Abfall, aber auch viel lebendiger Glaube. Vergib unserer Kirche, unserm Volke alle Untreue und Zweifel, alle Lauheit und Gleichgültigkeit. Wecke die Schläfer auf und mache die Toten lebendig. Wir hoffen auf Dich im Rate der Frommen und in der Gemeinde.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Einen andern Grund kann Niemand legen",
+              "Denn den, der gelegt ist, welcher ist Jesus Christus."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "111",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 5, 1–15.",
+            "buch": "galater",
+            "kapitel": 5,
+            "verse": "1-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ein feste Burg",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Und wenn die Welt voll Teufel wär",
+                  "Und wollt uns gar verschlingen,",
+                  "So fürchten wir uns nicht zu sehr,",
+                  "Es soll uns doch gelingen.",
+                  "Der Fürst dieser Welt,",
+                  "Wie sau'r er sich stellt,",
+                  "Tut er uns doch nicht,",
+                  "Das macht: er ist gericht,",
+                  "Ein Wörtlein kann ihn fällen."
+                ],
+                "rechts": [
+                  "Das Wort sie sollen lassen stahn",
+                  "Und kein Dank dazu haben;",
+                  "Er ist bei uns wohl auf dem Plan",
+                  "Mit Seinem Geist und Gaben.",
+                  "Nehmen sie den Leib,",
+                  "Gut Ehr Kind und Weib —",
+                  "Laß fahren dahin!",
+                  "Sie habens kein Gewinn:",
+                  "Das Reich muß uns doch bleiben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Tue wohl an Zion nach Deiner Gnade, Halleluja!",
+              "Und baue die Mauern zu Jerusalem. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus Christus, gestern und heute,",
+              "Und Derselbe auch in Ewigkeit."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr unser Gott, Du HErr und König Deiner Kirche! Wir danken Dir, daß Du unsern Vätern gnädig gewesen bist und ihnen Dein Licht aufleuchten lassen. Du hast unsre evangelische Kirche auf Adlersflügeln getragen, hast sie durch Trübsal und Verfolgung, durch Sturm und Wetter, durch Dürre und Unglauben hindurchgeführt, daß sie lebt und arbeitet und in ihren Händen trägt und bringt das Evangelium unsern Volke und fernen Heiden in der ganzen Welt. Aber Du weißt auch, HErr, wie unsre Kirche zerrissen und gespalten ist, wie Unglaube und falsche Lehren ihr Mark zerfressen. Schaffe Du Einigkeit in der Kirche der Reformation, und segne auch die andern Kirchen mit Glaubenskraft und Gnadentrost. Laß uns näher an das Ziel herankommen, daß Ein Hirt und Eine Herde werde; und wenn es gestritten sein muß um die Wahrheit, laß es uns in der Liebe tun. Sammle Du in der Unruhe der Zeit eine Schar von Gläubigen und Heiligen, damit Deine Kirche auf Erden recht gebauet werde.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

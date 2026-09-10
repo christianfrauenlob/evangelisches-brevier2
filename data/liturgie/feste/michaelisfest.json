@@ -1,0 +1,310 @@
+{
+  "id": "michaelisfest",
+  "titel": "Michaelisfest (29. September)",
+  "kirchenzeit": "feste",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Michaelisfest (29. September)",
+      "wochentag": "fest",
+      "seiten": [
+        934,
+        938
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Erzengel, den HErrn —",
+              "Kommt laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Lasset uns loben den HErrn, Welchen loben die Engel,",
+              "Dem die Cherubim und Seraphim heilig heilig heilig singen."
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Gott, dich loben alle wir",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Gott, Dich loben Alle wir,",
+                  "Und sollen billig danken Dir",
+                  "Für Dein Geschöpf der Engel schon,",
+                  "Die um Dich schweben in Deinem Thron."
+                ],
+                "rechts": [
+                  "Sie feiern auch und schlafen nicht,",
+                  "Ihr Fleiß ist gar dahin gericht,",
+                  "Daß sie, HErr Christe, um Dich sein,",
+                  "Und Dein armes Häuflein."
+                ]
+              },
+              {
+                "links": [
+                  "Sie glänzen hell und leuchten klar,",
+                  "Sie loben Dich ganz offenbar,",
+                  "Dein Stimm sie hören allezeit,",
+                  "Und sind voll göttlicher Weisheit."
+                ],
+                "rechts": [
+                  "Darum wir billig loben Dich",
+                  "Und danken Dir, Gott, ewiglich,",
+                  "Wie die lieben Engel Schar",
+                  "Dich preisest heut und immerdar."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Der Engel des HErrn lagert sich um Die her, so Ihn fürchten, Halleluja!",
+              "Und hilft ihnen aus. Halleluja!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 18, 1–11.",
+            "buch": "matthaeus",
+            "kapitel": 18,
+            "verse": "1-11"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Dich, heiliger Gott, loben alle Engel in der Höhe und sagen:",
+                  "Dir gebühret Lob und Ehre, o HErre.",
+                  "Cherubim und Seraphim singen Dir Heilig, und alle himmlischen Heerscharen sprechen:",
+                  "Dir gebühret Lob und Ehre, o HErre.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Daß es Engel gibt: viele große heilige und Verschiedenheit des unaussprechlichen und ewigen Glanzes, das ist nicht, was uns heute bewegt. Aber das ist es, was doch erfreut, zur Dankbarkeit gegen Gott und die seligen Engel selbst reizt und treibt, in ihrem König Christus in allem, in der Liebe zu uns und unsern Kindern, und in der Gemeinschaft der Menschwerdung, zur Erlösung steigt Gottes Sohn herunter bis zu uns. Da zieht auch das Heer der Engel Ihn nach. Er liebt, so lieben auch sie. Er dient, so dienen auch sie. Er liebt die Kinder vor allen Verlorenen, herzt, küßt und segnet sie: Da stehen auch sie um die Wiegen und Kinderbetten und hüten mit langer Lust die Schäflein Jesu, die Geliebten. Wir haben unter den Kreaturen keine heiligeren seligeren und liebevolleren Freunde als die heiligen Engel."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es ward eine große Stille im Himmel, da der Drache sich erhub zu streiten;",
+              "Und Michael kämpfte mit ihm und siegte über ihn. Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger HErr Gott Vater, wir danken Dir von Herzen, daß Du Deine heiligen Engel zu dienstbaren Geistern geschaffen und verordnet hast, daß sie um alle ihren gottesfürchtigen sieben sollen, denselbigen allenthalben dienen, sie auch als eine Wagenburg umringen, damit sie samt Leib und Seel unbeleidigt bewahret werden mögen; wir bitten Dich von Herzen: Du wollest uns durch Deinen heiligen Geist erhalten im rechten Glauben an Jesum Christum und wahrhaftigen Gehorsam Deines Willens, damit wir in der Beschützung Deiner lieben Engel sein und bleiben allenthalben an Leib und Leben, Haus Hof Frauen und Kinder und was sonst auf Erden haben, zu Tag und Nacht mögen sein befriedigt; um ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Christe, der Menschen Heiland, HErr und Meister (Christe sanctorum decus angelorum)",
+            "strophen": [
+              {
+                "links": [
+                  "Christe sanctorum decus angelorum,",
+                  "Gentis humanae sator et redemptor,",
+                  "Coelitum nobis tribuas beatas",
+                  "Scandere sedes."
+                ],
+                "rechts": [
+                  "Christe, der Menschen Heiland HErr und Meister,",
+                  "Wonne der Engel Deiner reinen Geister:",
+                  "Laß uns die Freude Derer, die uns schützen,",
+                  "Ewig besitzen."
+                ]
+              },
+              {
+                "links": [
+                  "Angelus pacis Michael in aedes",
+                  "Coelitus nostras veniat; serenae",
+                  "Auctor ut pacis lacrimosa in orcum",
+                  "Bella releget."
+                ],
+                "rechts": [
+                  "Sende des Friedens Engel uns hernieder,",
+                  "Michael bringe Lieb und Eintracht wieder:",
+                  "Stürze die Kriege von der rechten Schwelle",
+                  "Tief in die Hölle."
+                ]
+              },
+              {
+                "links": [
+                  "Angelus fortis Gabriel ut hostes",
+                  "Pellat antiquos et amica coelo",
+                  "Quae triumphator statuit per orbem",
+                  "Templa revisat."
+                ],
+                "rechts": [
+                  "Gabriel, mache du den Satan fliehen!",
+                  "Komme die Tempel, die vor Andacht glühen",
+                  "Und die durch Dich den mächtgen Sieger sehen",
+                  "Wieder zu sehen."
+                ]
+              },
+              {
+                "links": [
+                  "Angelus nostrae medicus salutis",
+                  "Adsit e coelo, Raphael, ut omnes",
+                  "Sanet aegrotos dubiosque vitae",
+                  "Dirigat actus."
+                ],
+                "rechts": [
+                  "Raphael, schenke Kraft und Heil den Kranken,",
+                  "Jenen, die furchtsam im Entschlusse wanken,",
+                  "Zeige — entfernt von zweifelsvollem Pfade —",
+                  "Stärkung und Gnade."
+                ]
+              },
+              {
+                "links": [
+                  "Praestet hoc nobis Deitas beata",
+                  "Patris et nati pariterque sancti",
+                  "Spiritus, cuius resonat per omnem",
+                  "Gloria mundum."
+                ],
+                "rechts": [
+                  "Dieses verleih der Vater mit dem Sohne",
+                  "Und mit dem Tröster: Gott, Den auf dem Throne",
+                  "Hohe Gesänge loben, die von allen",
+                  "Zungen erschallen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Lobet den HErrn, alle Seine Engel, Halleluja!",
+              "Preiset Ihn, Seine Heerscharen und Diener, die ihr Seinen Willen tut. Halleluja!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 7, 9–11.",
+            "buch": "daniel",
+            "kapitel": 7,
+            "verse": "9-11"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Es stund ein Engel am Altar des Tempels und hatte ein goldenes Rauchfaß in seiner Hand.",
+                  "Ehre sei . .",
+                  "Es stieg der Wohlgeruch des Rauchopfers empor zum HErrn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger barmherziger Gott, Der Du wunderbarlicher Weise der Engel und Menschen Dienst verordnet hast, wir bitten Dich: verleihe uns gnädiglich, daß unser Leben hier auf Erden behütet und beschirmet werde von Denen, die Deiner göttlichen Majestät allezeit beiwohnen im Himmel; durch ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105",
+              "117"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 12, 7–12.",
+            "buch": "offenbarung",
+            "kapitel": 12,
+            "verse": "7-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Es stieg der Wohlgeruch des Rauchopfers empor zum HErrn aus der Hand der Engel.",
+                  "Ehre sei . .",
+                  "Vor den Engeln will ich Dir lobsingen, mein Gott."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe Du Glanz und Zier der Engelscharen",
+            "melodie": "97",
+            "strophen": [
+              {
+                "links": [
+                  "Christe Du Glanz und Zier der Engelscharen,",
+                  "Der Du dieselben schufft und tust bewahren:",
+                  "Nimm uns zu Dir, das bitten wir zugleiche,",
+                  "Ins Himmelreiche."
+                ],
+                "rechts": [
+                  "Laß Deine lieben Engel bei uns wachen,",
+                  "Uns zu behüten in all unsern Sachen,",
+                  "Und zu bewahren vor des Teufels Listen",
+                  "Dein arme Christen."
+                ]
+              },
+              {
+                "links": [
+                  "Dein Engel uns regier in unserm Wandel,",
+                  "Und steh uns bei in allem Tun und Handel;",
+                  "Auf daß wir Dir in unsern Sachen allen",
+                  "Gar wohl gefallen."
+                ],
+                "rechts": [
+                  "Das geb der ewig Gott im höchsten Throne,",
+                  "Gott Vater, und samt Seinem lieben Sohne",
+                  "Der Heilig Geist, Welcher Lob über Alle",
+                  "In der Welt schalle."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Lobet den HErrn, ihr starken Engel, Halleluja!",
+              "Die ihr Seinen Befehl ausrichtet. Halleluja!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Da das heilige Gesicht erblickte Johannes, sprach der Erzengel Michael mit Posaunenstimme:",
+              "Du bist würdig, HErr unser Gott, zu nehmen das Buch und aufzutun sein Siegel. Halleluja!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
