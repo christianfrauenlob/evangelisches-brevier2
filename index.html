@@ -65,6 +65,7 @@
   .doppel-btn { background: transparent; border: 1px solid var(--rule); color: var(--ink-light); font-family: 'EB Garamond', serif; font-size: .85rem; padding: .4rem .9rem; border-radius: 20px; cursor: pointer; transition: background .18s, color .18s, border-color .18s; }
   .doppel-btn:hover { border-color: var(--rubric); color: var(--rubric); }
   .doppel-btn.active { background: rgba(122,32,32,.1); color: var(--rubric); border-color: var(--rubric); font-weight: 500; }
+  .doppel-btns { display: flex; gap: .5rem; flex-wrap: wrap; }
   .doppel-close { margin-left: auto; background: none; border: none; color: var(--margin-note); font-size: 1rem; cursor: pointer; line-height: 1; padding: 0 .2rem; }
   .doppel-close:hover { color: var(--rubric); }
 
@@ -146,9 +147,8 @@
 
 <main id="main">
   <div id="doppel-banner" class="doppel-banner">
-    <span class="doppel-text">Heute treffen zwei Texte zusammen – welcher soll angezeigt werden?</span>
-    <button id="doppel-btn-regulaer" class="doppel-btn" onclick="wähleDoppelbesetzung('regulaer')"></button>
-    <button id="doppel-btn-fest" class="doppel-btn" onclick="wähleDoppelbesetzung('fest')"></button>
+    <span class="doppel-text">Heute treffen mehrere Texte zusammen – welcher soll angezeigt werden?</span>
+    <div id="doppel-btns" class="doppel-btns"></div>
     <button class="doppel-close" title="Ausblenden" onclick="document.getElementById('doppel-banner').style.display='none'">✕</button>
   </div>
   <div id="content">
@@ -299,9 +299,17 @@ function liturgischeWoche(heute) {
   // uns z. B. im Januar befinden (relevant für den Jahreswechsel).
   for (const adventJahr of [jahr - 1, jahr]) {
     const advent4 = sonntagVorOderAm(new Date(adventJahr, 11, 24));
+    const heiligabend = new Date(adventJahr, 11, 24);
     for (let n = 1; n <= 4; n++) {
       const start = addTage(advent4, -7 * (4 - n));
-      bereiche.push([start, addTage(start, 7), 'advent_' + n]);
+      // Die letzte Adventswoche darf nicht in die Weihnachtsoktav
+      // hineinreichen (die eigenen, datumsbasierten Einträge ab Heiligabend
+      // haben ab dann Vorrang). Fällt der 4. Advent selbst auf Heiligabend,
+      // wird dieses Zeitfenster leer und der Tag kommt vollständig über die
+      // Weihnachtszeit-Einträge (Vigil von Weihnachten).
+      let ende = addTage(start, 7);
+      if (n === 4 && ende > heiligabend) ende = heiligabend;
+      bereiche.push([start, ende, 'advent_' + n]);
     }
   }
 
@@ -348,7 +356,28 @@ function hübscherKalenderName(id) {
 const FESTREGELN = {
   // Sachsen: Haupttermin für den Erntedankgottesdienst ist traditionell
   // der 1. Sonntag im Oktober.
-  erster_sonntag_oktober: (jahr) => sonntagAufOderNach(new Date(jahr, 9, 1))
+  erster_sonntag_oktober: (jahr) => sonntagAufOderNach(new Date(jahr, 9, 1)),
+
+  // "Sonntag nach Weihnachten (bezw. 27. Dezember)": der nächste Sonntag ab
+  // dem 26. Dezember. Fällt Heiligabend selbst auf einen Sonntag, wäre der
+  // nächste Sonntag erst der 1. Januar (außerhalb der Weihnachtsoktav) –
+  // in diesem Fall weicht das Brevier selbst auf den 27. Dezember als
+  // festes Datum aus (daher "bezw." = beziehungsweise im Originaltitel).
+  sonntag_nach_weihnachten: (jahr) => {
+    const kandidat = sonntagAufOderNach(new Date(jahr, 11, 26));
+    if (kandidat.getFullYear() === jahr) return kandidat;
+    return new Date(jahr, 11, 27);
+  },
+
+  // "Sonntag nach Neujahr (bezw. 2. Januar)": der nächste Sonntag ab dem
+  // 2. Januar. Fällt Neujahr selbst auf einen Sonntag, wäre der nächste
+  // Sonntag erst der 8. Januar (nach Epiphanias) – auch hier weicht das
+  // Brevier auf ein festes Datum aus, den 2. Januar.
+  sonntag_nach_neujahr: (jahr) => {
+    const kandidat = sonntagAufOderNach(new Date(jahr, 0, 2));
+    if (kandidat.getDate() <= 5) return kandidat;
+    return new Date(jahr, 0, 2);
+  }
 };
 
 function festdatumFuerJahr(eintrag, jahr) {
@@ -362,22 +391,35 @@ function festdatumFuerJahr(eintrag, jahr) {
   return null;
 }
 
-// Liefert { eintrag, tag } des besonderen Festes, das genau auf "heute"
-// fällt, oder null. Geprüft wird nur innerhalb der kirchenzeit "feste".
-function heutigesFest(idx, heute) {
+// Liefert ALLE Einträge aus den Kirchenzeiten "feste" und "weihnachten",
+// deren festes oder regelbasiertes Datum genau auf "heute" fällt. Es können
+// mehrere Treffer gleichzeitig vorkommen – "Sonntag nach Weihnachten" bzw.
+// "Sonntag nach Neujahr" fallen praktisch jedes Jahr auf einen der fest
+// datierten Tage der Weihnachtsoktav bzw. der Tage nach Neujahr.
+// Enthält ein Eintrag mehrere "tage" (z. B. Zweiter Christtag + Fest des hl.
+// Stephanus am 26. Dezember, beide im selben JSON), wird als Vorschlag nur
+// tage[0] verwendet; der jeweils andere Tag bleibt über die Seitenleiste von
+// Hand erreichbar.
+function heutigeFeste(idx, heute) {
   const jahr = heute.getFullYear();
+  const treffer = [];
   for (const w of idx.wochen) {
-    if (w.kirchenzeit !== 'feste') continue;
+    if (w.kirchenzeit !== 'feste' && w.kirchenzeit !== 'weihnachten') continue;
     const d = festdatumFuerJahr(w, jahr);
     if (!d) continue;
     if (d.getFullYear() === heute.getFullYear() && d.getMonth() === heute.getMonth() && d.getDate() === heute.getDate()) {
       const woche = (window._wochenCache || {})[w.id];
       const tag = woche && woche.tage && woche.tage[0];
       if (!tag) continue; // Datei fehlt/noch nicht geladen -> keine Kollision melden
-      return { eintrag: w, tag };
+      treffer.push({ eintrag: w, tag });
     }
   }
-  return null;
+  return treffer;
+}
+
+// Rückwärtskompatibel: liefert nur den ersten Treffer (oder null).
+function heutigesFest(idx, heute) {
+  return heutigeFeste(idx, heute)[0] || null;
 }
 
 // Klappt im Verzeichnis die Woche auf und zeigt den Tag an – gemeinsam
@@ -392,35 +434,47 @@ function öffneAutomatisch(eintrag, tag) {
   document.getElementById('nav-' + tag.id)?.scrollIntoView({ block: 'center' });
 }
 
-// Zeigt das Auswahl-Banner bei einer Doppelbesetzung (bewegliche Woche
-// UND festes Fest treffen auf denselben Tag). Standardmäßig wird die
-// reguläre Wochenreihe geöffnet; per Klick kann zum Fest gewechselt werden.
-function zeigeDoppelbesetzungsHinweis(regulaerEintrag, regulaerTag, festEintrag, festTag) {
-  window._doppelHeute = { regulaerEintrag, regulaerTag, festEintrag, festTag };
+// Zeigt das Auswahl-Banner bei einer Mehrfachbesetzung (mehrere Kandidaten
+// treffen auf denselben Tag – z. B. bewegliche Woche + festes Fest, oder
+// zwei feste Feste gleichzeitig wie Johannis + "Sonntag nach Weihnachten").
+// "kandidaten" ist ein Array aus { key, titel, eintrag, tag }; standardmäßig
+// wird der erste Kandidat geöffnet, per Klick kann gewechselt werden.
+function zeigeMehrfachbesetzung(kandidaten) {
+  window._mehrfachHeute = kandidaten;
   const banner = document.getElementById('doppel-banner');
-  if (!banner) { öffneAutomatisch(regulaerEintrag, regulaerTag); return; }
-  document.getElementById('doppel-btn-regulaer').textContent = regulaerTag.titel;
-  document.getElementById('doppel-btn-fest').textContent = festTag.titel || festEintrag.titel;
+  const btnContainer = document.getElementById('doppel-btns');
+  if (!banner || !btnContainer) { öffneAutomatisch(kandidaten[0].eintrag, kandidaten[0].tag); return; }
+  btnContainer.innerHTML = '';
+  for (const k of kandidaten) {
+    const btn = document.createElement('button');
+    btn.className = 'doppel-btn';
+    btn.id = 'doppel-btn-' + k.key;
+    btn.textContent = k.titel;
+    btn.onclick = () => wähleMehrfachbesetzung(k.key);
+    btnContainer.appendChild(btn);
+  }
   banner.style.display = 'flex';
-  wähleDoppelbesetzung('regulaer');
+  wähleMehrfachbesetzung(kandidaten[0].key);
 }
 
-function wähleDoppelbesetzung(welche) {
-  const d = window._doppelHeute;
-  if (!d) return;
-  document.getElementById('doppel-btn-regulaer')?.classList.toggle('active', welche === 'regulaer');
-  document.getElementById('doppel-btn-fest')?.classList.toggle('active', welche === 'fest');
-  if (welche === 'regulaer') öffneAutomatisch(d.regulaerEintrag, d.regulaerTag);
-  else öffneAutomatisch(d.festEintrag, d.festTag);
+function wähleMehrfachbesetzung(key) {
+  const liste = window._mehrfachHeute || [];
+  const gewählt = liste.find(k => k.key === key);
+  if (!gewählt) return;
+  for (const k of liste) {
+    document.getElementById('doppel-btn-' + k.key)?.classList.toggle('active', k.key === key);
+  }
+  öffneAutomatisch(gewählt.eintrag, gewählt.tag);
 }
 
 // Öffnet nach dem Laden automatisch die heutige Woche/den heutigen Tag,
 // sofern beide bereits im Verzeichnis vorhanden sind. Prüft zusätzlich auf
-// eine Doppelbesetzung mit einem festen Fest desselben Tages.
+// eine Mehrfachbesetzung mit einem oder mehreren festen Festen desselben
+// Tages (kirchenzeit "feste" und "weihnachten").
 function automatischHeuteZeigen(idx) {
   const heute = heuteOhneUhrzeit();
   const heuteInfo = liturgischeWoche(heute);
-  const fest = heutigesFest(idx, heute);
+  const feste = heutigeFeste(idx, heute);
   const hinweis = document.getElementById('welcome-hinweis');
 
   const regulaerEintrag = heuteInfo ? idx.wochen.find(w => w.id === heuteInfo.id) : null;
@@ -432,12 +486,20 @@ function automatischHeuteZeigen(idx) {
     }
   }
 
-  if (fest && regulaerTag) {
-    zeigeDoppelbesetzungsHinweis(regulaerEintrag, regulaerTag, fest.eintrag, fest.tag);
+  const kandidaten = [];
+  if (regulaerEintrag && regulaerTag) {
+    kandidaten.push({ key: 'regulaer', titel: regulaerTag.titel, eintrag: regulaerEintrag, tag: regulaerTag });
+  }
+  feste.forEach((f, i) => {
+    kandidaten.push({ key: 'fest' + i, titel: f.tag.titel || f.eintrag.titel, eintrag: f.eintrag, tag: f.tag });
+  });
+
+  if (kandidaten.length > 1) {
+    zeigeMehrfachbesetzung(kandidaten);
     return;
   }
-  if (fest) {
-    öffneAutomatisch(fest.eintrag, fest.tag);
+  if (kandidaten.length === 1) {
+    öffneAutomatisch(kandidaten[0].eintrag, kandidaten[0].tag);
     return;
   }
 

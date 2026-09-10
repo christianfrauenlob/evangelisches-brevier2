@@ -41,6 +41,72 @@
       "status": "fertig"
     },
     {
+      "id": "vigil_weihnachten",
+      "titel": "Vigil von Weihnachten (24. Dezember)",
+      "datei": "vigil_weihnachten.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 1,
+      "status": "fertig",
+      "datum": "12-24"
+    },
+    {
+      "id": "christfest",
+      "titel": "Das hohe Christfest (25. Dezember)",
+      "datei": "christfest.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 2,
+      "status": "fertig",
+      "datum": "12-25"
+    },
+    {
+      "id": "zweiter_christtag",
+      "titel": "Zweiter Christtag / Fest des hl. Stephanus (26. Dezember)",
+      "datei": "zweiter_christtag.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 3,
+      "status": "fertig",
+      "datum": "12-26"
+    },
+    {
+      "id": "sonntag_nach_weihnachten",
+      "titel": "Sonntag nach Weihnachten (bezw. 27. Dezember)",
+      "datei": "sonntag_nach_weihnachten.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 4,
+      "status": "fertig",
+      "regel": "sonntag_nach_weihnachten"
+    },
+    {
+      "id": "johannis_apostel",
+      "titel": "Fest des hl. Apostels Johannes (27. Dezember)",
+      "datei": "johannis_apostel.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 5,
+      "status": "fertig",
+      "datum": "12-27"
+    },
+    {
+      "id": "unschuldige_kinder",
+      "titel": "Am 28. Dezember / Fest der unschuldigen Kinder",
+      "datei": "unschuldige_kinder.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 6,
+      "status": "fertig",
+      "datum": "12-28"
+    },
+    {
       "id": "karwoche",
       "titel": "Karwoche",
       "datei": "karwoche.json",
