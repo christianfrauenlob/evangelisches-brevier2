@@ -1,0 +1,217 @@
+{
+  "id": "am_30_dezember",
+  "titel": "Am 30. Dezember",
+  "kirchenzeit": "weihnachten",
+  "reihe": 8,
+  "band": 1,
+  "datum": "12-30",
+  "tage": [
+    {
+      "id": "am_30_dezember",
+      "titel": "Am 30. Dezember",
+      "wochentag": "fest",
+      "seiten": [
+        257,
+        261
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "98"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Fröhlich soll mein Herze springen",
+            "melodie": "54",
+            "strophen": [
+              {
+                "links": [
+                  "Fröhlich soll mein Herze springen",
+                  "Dieser Zeit,",
+                  "Da vor Freud",
+                  "Alle Engel singen.",
+                  "Hört, hört, wie mit vollen Chören",
+                  "Alle Luft",
+                  "Laute ruft:",
+                  "Christus ist geboren!"
+                ],
+                "rechts": [
+                  "Sollt uns Gott nun können hassen,",
+                  "Der uns gibt",
+                  "Was Er liebt",
+                  "Ueber alle Maßen?",
+                  "Gott gibt, unserm Leid zu wehren,",
+                  "Seinen Sohn",
+                  "Aus dem Thron",
+                  "Seiner Macht und Ehren."
+                ]
+              },
+              {
+                "links": [
+                  "Heute geht aus Seiner Kammer",
+                  "Gottes Held,",
+                  "Der die Welt",
+                  "Reißt aus allem Jammer.",
+                  "Gott wird Mensch, dir Mensch zugute,",
+                  "Gottes Kind,",
+                  "Das verbindt",
+                  "Sich mit unserm Blute."
+                ],
+                "rechts": [
+                  "Sollte von uns sein gekehret",
+                  "Der Sein Reich",
+                  "Und zugleich",
+                  "Sich selbst uns verehret?",
+                  "Sollt uns Gottes Sohn nicht lieben,",
+                  "Der jetzt kömmt,",
+                  "Von uns nimmt",
+                  "Was uns will betrüben?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 2, 25—32.",
+            "buch": "lukas",
+            "kapitel": 2,
+            "verse": "25-32"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Liebe Brüder! Engel sehet und höret ihr nicht: Christum in Seiner Krippe und Seine heilige Umgebung könnt ihr nicht schauen, wie die Hirten; auch hört ihr nicht mit Auge und Ohren zeugen, wie die Bethlehemiten. Aber einerlei Botschaft, die Hirten wie Maria und die Bethlehemiten vernahmen; ihr hört allerdings diese Botschaft nur durch uns armselige Prediger; aber uns, die unzählbare Schar von Zeugen, ist eine Kirche von neunzehnhundert Jahren, die Spitze der Engel, die Mutter Gottes, die Hirten, die Apostel Zeugen. Unser armes Zeugnis wird stark, wenn ihr bedenkt, daß wir mit Namen von so vielen Tausenden und Millionen vor uns dieses Zeugnis ablegen; ja, warum ihrs verschmähet wollt, auch mit Namen so vieler Tausende oder Millionen, die noch kommen werden und ebenso zeugen wie wir. Es ist eine unabsehbare und — davon sind wir gewisse Weissagung des HErrn — immerzu wachsende Zeugenwolke, in deren Namen wir reden.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "gebet",
+            "text": "Himmlischer Vater, gnädiger Gott! Mit den Seligen und Vollendeten loben wir Dich und Deine unbegreiflich große Herrlichkeit. Deinen Eingebornen Sohn hast Du unsern Bruder werden lassen, hast Er sich freimachte von Sünde und Strafe, von Tod und Hölle. O habe Dank, HErr und Heiland, für Deine Liebe! Du hast das Seufzen der Menschheit gehört und bist hernieder gekommen in eine Welt, die Dich kreuzigte. Wie Dich Dein Vater liebt, so lieb Du mich unsinnigen Menschen. Laß uns Dich wieder lieben in Zeit und Ewigkeit.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Quem pastores laudavere",
+            "untertitel": "De nativitate Domini",
+            "strophen": [
+              {
+                "links": [
+                  "Quem pastores laudavere,",
+                  "Quibus angeli dixere:",
+                  "Absit vobis jam timere!",
+                  "Natus est rex gloriae;"
+                ],
+                "rechts": [
+                  "Dem der Hirten Lieder klangen,",
+                  "Welchem Engel also sangen,",
+                  "„Fern sei jetzund euer Bangen,",
+                  "Nah zur Welt der Herrlichste“,"
+                ]
+              },
+              {
+                "links": [
+                  "Ad quem reges ambulabant,",
+                  "Aurum myrrham thus portabant,",
+                  "Hoc sincere immolabant",
+                  "Principi victoriae."
+                ],
+                "rechts": [
+                  "Der, zu Welchem Könige schritten,",
+                  "Weihrauch, Myrrhen, Gold ihm spreiten,",
+                  "Dies mit reinem Herze weihten",
+                  "Sie dem Siegeskönige."
+                ]
+              },
+              {
+                "links": [
+                  "Exsultemus cum Maria",
+                  "Et coelesti hierarchia",
+                  "Jubilando voce pia",
+                  "Dulci cum symphonia!"
+                ],
+                "rechts": [
+                  "Laßt uns mit Maria loben,",
+                  "Jauchzen mit den Selgen droben;",
+                  "Süß einstimmend werd erhoben",
+                  "Liederjubel, Ihm geweiht."
+                ]
+              },
+              {
+                "links": [
+                  "Christo regi incarnato",
+                  "Per Mariam nobis dato",
+                  "Accinatur hoc afflato",
+                  "Laus honor et gloria!"
+                ],
+                "rechts": [
+                  "Fleischgewordner HErr vom Throne,",
+                  "Dir, o Christ, Marien Sohne",
+                  "Rufen wir im Jubeltone:",
+                  "Lob und Ehr und Herrlichkeit!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "93"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 5, 1—9.",
+            "buch": "2_korinther",
+            "kapitel": 5,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Fröhlich soll mein Herze springen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nun, Er liegt in Seiner Krippen,",
+                  "Ruft zu Sich",
+                  "Mich und dich,",
+                  "Spricht mit süßen Lippen:",
+                  "Lasset fahrn, o lieben Brüder,",
+                  "Was euch quält,",
+                  "Was euch fehlt,",
+                  "Ich bring alles wieder."
+                ],
+                "rechts": [
+                  "Die ihr arm seid und elende,",
+                  "Kommt herbei,",
+                  "Füllet frei",
+                  "Eures Glaubens Hände;",
+                  "Hier sind alle guten Gaben",
+                  "Und das Gold,",
+                  "Da ihr sollt",
+                  "Euer Herz mit laben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, unser Gott, Du Allwissender, Dessen Augen sind wie Feuerflammen, siehe auf uns hernieder und prüfe uns. Wir erkennen unsre Sünde und bekennen sie von Herzen. Verwirf uns nicht von Deinem Angesicht. Nimm unsre Beichte gnädig auf. Vergib uns alles, was wir im Herzen und im Hause, im Amte und in unsrer Arbeit gesündigt haben, unsre geheimen und offenbaren, unsre groben und feinen Sünden. Sprich zu unsrer Beichte Dein Friedenswort: Deine Sünden sind Dir vergeben. Auch unserm Volk, unsrer Kirche sei gnädig. Decke alle Missetaten gnädig und schenk uns für das neue Jahr Deinen heiligen Geist. Jesus Christus, gestern und heute und Derselbe in alle Ewigkeit, sei und bleibe Du unser Meister und Erlöser, unser Arzt und König in Zeit und Ewigkeit.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}
