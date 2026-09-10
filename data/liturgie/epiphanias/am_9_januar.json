@@ -1,0 +1,183 @@
+{
+  "id": "am_9_januar",
+  "titel": "Am 9. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 4,
+  "band": 1,
+  "datum": "01-09",
+  "tage": [
+    {
+      "id": "am_9_januar",
+      "titel": "Am 9. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        306,
+        309
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "49"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Glück zu! der frommen Heidenschar",
+            "melodie": "12",
+            "strophen": [
+              {
+                "links": [
+                  "Glück zu! der frommen Heidenschar,",
+                  "Glück zu! den Weisen,",
+                  "Die weit von Morgen mit Gefahr",
+                  "Sind kommen, hoch zu preisen",
+                  "Das neugeborne Kindelein!",
+                  "Dies laß mir einen Glauben sein!",
+                  "Denn ob sie fast nicht wissen",
+                  "Als Bileam, sind sie doch schnell",
+                  "Zu suchen Gott geflissen."
+                ],
+                "rechts": [
+                  "Folg ihrem Fleiß, o Sündenkind,",
+                  "Mit Freuden nachzugeben",
+                  "Dem höchsten Gut; ach sei nicht blind,",
+                  "Ermuntre Dich zu sehen",
+                  "Das Jesulein in Seinem Wort;",
+                  "Es liegt nicht an entlegnem Ort;",
+                  "Da findest du die Krippen,",
+                  "Da ruhet Er gar säuberlich",
+                  "Und lehret dich mit honigsüßen Lippen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 1, 29—34.",
+            "buch": "johannes",
+            "kapitel": 1,
+            "verse": "29-34"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Der Stern, den die Weisen im Morgenlande gesehen hatten, zog vor ihnen her, bis sie an den Ort kamen, wo das Kind war. Und als sie ihn sahen, freuten sie sich sehr."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und sie gingen in das Haus und fanden das Kind mit Maria Seiner Mutter, fielen nieder und beteten Ihn an. Als sie . . . sehr."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Augustinus",
+            "text": "Um den Sohn der Jungfrau anzubeten, kamen Weise aus dem Morgenlande. Uns hat die Zunge der Apostel gepredigt, ihnen ein Stern, gleichsam die Zunge des Himmels. Uns haben dieselben Apostel — jenen ein anderer Himmel — Gottes Ehre erzählt. Ein großes Geheimnis ist es: der HErr lag in der Krippe und ward doch von den Weisen aus dem Morgenlande ausgefunden. Den Toren blieb Er verborgen, von den Weisen aber wurde Er als Hoheit anerkannt. Seine Hoheit und Erniedrigung zugleich sollten dargestellt werden: durch die Sternzeichen am offenen Himmel sollte Er als der Großgewiesene, in der engen Herberge jedoch als der Schwache erfunden werden, auf daß die Weisen Ihn anbeten könnten und die Bösen Ihn fürchten."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wir haben Seinen Stern gesehen im Morgenlande",
+              "Und kommen mit Geschenken, anzubeten den HErrn."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Glück zu! der frommen Heidenschar",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Glück zu! aus Reich Arabia",
+                  "Kam doch die Königin gezogen",
+                  "Gen Salem, daß sie fünde da",
+                  "Den Mann, der sie bewogen",
+                  "Durch seiner Weisheit Glanz und Sonn';",
+                  "Ach, wie ist mehr denn Salomon!",
+                  "Wer wollte denn nicht eilen",
+                  "Dem Kindelein zu ziehen nach?",
+                  "Der Weg belohnt es tausendfach,",
+                  "Hätt er gleich tausend Meilen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "26"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 12, 1—4.",
+            "buch": "1_mose",
+            "kapitel": 12,
+            "verse": "1-4"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 11, 1—18.",
+            "buch": "apostelgeschichte",
+            "kapitel": 11,
+            "verse": "1-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Glück zu! der frommen Heidenschar",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Betrachte die Beständigkeit",
+                  "Der Weisen, die zwar kamen",
+                  "In Gottes Herz, jedoch bereit",
+                  "Und gleichwohl nichts vernahmen",
+                  "Vom neuen König in der Stadt,",
+                  "Die den berühmten Tempel hat.",
+                  "Ei wohl, sie ließen stehen",
+                  "Jerusalem und gingen fort:",
+                  "Das Jesulein an andern Ort,",
+                  "Zu Bethlehem zu sehen."
+                ],
+                "rechts": [
+                  "O fromme Herz, folg abermal,",
+                  "Dies süße Kind zu finden,",
+                  "Und laß Dich keine Not noch Qual",
+                  "Im Suchen überwinden:",
+                  "Wohl angefangen ist zwar gut,",
+                  "Viel besser, wenn man standhaft tut:",
+                  "So kann man freudig sagen:",
+                  "Gekämpft hab ich als ein Held,",
+                  "Und wohl gerennet in der Welt,",
+                  "Bald werd ich Kronen tragen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Herodes fragte die Weisen: Welches Zeichen sahet ihr über dem neugeborenen König?",
+              "Einen strahlenden Stern sahen wir, einen, dessen Glanz die ganze Welt erleuchtet."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

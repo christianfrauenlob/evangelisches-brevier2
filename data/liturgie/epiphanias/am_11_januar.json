@@ -1,0 +1,158 @@
+{
+  "id": "am_11_januar",
+  "titel": "Am 11. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 6,
+  "band": 1,
+  "datum": "01-11",
+  "tage": [
+    {
+      "id": "am_11_januar",
+      "titel": "Am 11. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        312,
+        314
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommt, laßt uns unser Jesulein",
+            "melodie": "12",
+            "strophen": [
+              {
+                "links": [
+                  "Kommt, laßt uns unser Jesulein",
+                  "Besuchen jetzt mit Freuden",
+                  "Und samt den Weisen tätig sein;",
+                  "Denn das wird unser Leiden",
+                  "Verkehren bald in Lieb und Lust:",
+                  "Es ist ja uns sein Schatz bewußt;",
+                  "Der fröhlich machen",
+                  "Das Herz, das hochbestimmet ist,",
+                  "Als unser Heiland Jesus Christ,",
+                  "Der stärket auch die Schwachen."
+                ],
+                "rechts": [
+                  "Was acht ich Reichtum, Ehr und Pracht,",
+                  "Was Schweigen, Tanzen, Springen?",
+                  "Ei, das veracht in einer Nacht,",
+                  "Kann auch wohl Herzleid bringen;",
+                  "Die rechte Lust besitzet nur,",
+                  "Wer in Gott, nicht in der Kreatur:",
+                  "Nur Gott kann Freud erregen",
+                  "Den Schwachen, welche Sünd und Tod",
+                  "Oft führen in die höchste Not,",
+                  "Ja schier der Höll einlegen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 14, 15.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "14-15"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Zu Dir werden kommen, die Dich verleumdeten,",
+              "Und sie werden Deiner Füße Spuren verehren."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Kommt, laßt uns unser Jesulein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Kommt, laßt uns mit der Weisen Schar",
+                  "Vor dieses Kindlein treten,",
+                  "Dasselbe mitten in Gefahr",
+                  "Voll Glaubens anzubeten:",
+                  "Wer kommen will, der komm jetzt früh",
+                  "Und fall in Demut auf die Knie:",
+                  "So muß man Ehr erweisen",
+                  "Dem HErren aller Herrlichkeit,",
+                  "Von ganzer Seele Ihn preisen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 36, 22—33.",
+            "buch": "job",
+            "kapitel": 36,
+            "verse": "22-33"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 10, 16—18.",
+            "buch": "roemers",
+            "kapitel": 10,
+            "verse": "16-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommt, laßt uns unser Jesulein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wo aber bleiben die Geschenk,",
+                  "Als Weihrauch, Gold und Myrrhen?",
+                  "Ach Gott, wenn ich daran gedenk,",
+                  "Empfind ich ein Verwirren",
+                  "In meinem Sinn, als der ich nicht",
+                  "Erwogen dießfalls meine Pflicht,",
+                  "Das Kindlein zu begaben;",
+                  "Doch was ich nicht verrichten kann,",
+                  "Dafür wirst Du zu nehmen an,",
+                  "HErr, diese schlechten Gaben."
+                ],
+                "rechts": [
+                  "Ich will hinfort mit freiem Mut",
+                  "An denen Lieb erweisen,",
+                  "Die dürftig sind, so soll mein Gut",
+                  "Die Diener Jesu speisen.",
+                  "Denn weil Du, lieber Gottes Sohn,",
+                  "Uns gibst so großen Gnadenlohn:",
+                  "Nach diesem laß mich streben,",
+                  "Auch das, was Dein, nicht unser ist,",
+                  "Mit Dir das ewge Leben."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

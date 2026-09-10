@@ -1,0 +1,194 @@
+{
+  "id": "am_8_januar",
+  "titel": "Am 8. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 3,
+  "band": 1,
+  "datum": "01-08",
+  "tage": [
+    {
+      "id": "am_8_januar",
+      "titel": "Am 8. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        301,
+        305
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gott, gib Dein Gericht dem Könige,",
+              "Und Deine Gerechtigkeit des Königs Sohn."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O König aller Ehren",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "O König aller Ehren,",
+                  "Jesu Christ, Davids Sohn,",
+                  "Dein Reich soll ewig währen,",
+                  "Im Himmel ist Dein Thron;",
+                  "Hilf, daß allhier auf Erden",
+                  "Den Menschen weit und breit",
+                  "Dein Reich bekannt mög werden",
+                  "Zur Seelen Seligkeit."
+                ],
+                "rechts": [
+                  "Von Deinem Reich auch zeugen",
+                  "Die Leut aus Morgenland;",
+                  "Die Knie sie vor Dir beugen,",
+                  "Weil sie Ihn wohl bekannt.",
+                  "Der neu Stern auf Dich weiset,",
+                  "Dazu das göttlich Wort;",
+                  "Drum man Dich billig preiset,",
+                  "Daß Du unser Hort."
+                ]
+              },
+              {
+                "links": [
+                  "Du bist ein großer König,",
+                  "Wie uns die Schrift vermeldt,",
+                  "Doch achtest Du gar wenig",
+                  "Vergänglich Gut und Geld;",
+                  "Prangst nicht mit teurem Rosse,",
+                  "Trägst keine güldne Kron,",
+                  "Sitzt nicht in steinerm Schlosse:",
+                  "Hier hast Du Spott und Hohn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 22—30.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "22-30"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Augustinus",
+            "text": "Nun also, Geliebteste, Kinder der Gnade und Miterben, sehet auf eure Berufung; dem von Juden und Heiden offenbar gewordenen Christus, dem Eckstein, hanget in treuer Liebe an! Er hat Sich offenbaret den Ungelehrten und Ungerechten. Beide verband der Eckstein mit Sich: kam Er doch und erwählte das Törichte dieser Welt, um die Weisen zu beschämen; wollte Er doch nicht die Gerechten, sondern die Sünder rufen. Kein Großer sollte hochmütig werden, kein Geringer verzagen. Wir wollen bleiben, was wir sind: nicht mehr Gäste und Fremdlinge, sondern Mitbürger mit den Heiligen und Gottes Hausgenossen, erbaut auf den Grund der Apostel und Propheten, da Jesus Christus der Eckstein ist. Er macht aus beiden Eins. So wollen auch wir mit Ihm in der Einheit lieben."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Drei Gaben sinds, welche die Weisen dem HErrn darbrachten: Gold, Weihrauch und",
+              "Myrrhe, für den Gottessohn, den großen König. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O König aller Ehren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Doch bist Du schön gezieret,",
+                  "Dein Glanz erstreckt sich weit;",
+                  "Dein Gut allzeit floriert",
+                  "Und Dein Gerechtigkeit.",
+                  "Du wollst die Frommen schützen",
+                  "Durch Deine Macht und Gewalt,",
+                  "Daß sie im Frieden sitzen,",
+                  "Die Bösen stürzen bald."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Betet Gott an, Hallelujah!",
+              "Alle Seine Engel. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "155"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 49, 1—13.",
+            "buch": "jesaja",
+            "kapitel": 49,
+            "verse": "1-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Bringet her dem HErrn Ehre und Stärke;",
+              "Betet an den HErrn in Seinem Heiligtum."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "12"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 3, 1—12.",
+            "buch": "epheser",
+            "kapitel": 3,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "O König aller Ehren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Du wollst Dich mein erbarmen,",
+                  "In Dein Reich nimm mich auf;",
+                  "Dein Güte schenk mir Armen",
+                  "Und segne meinen Lauf.",
+                  "Mein' Feinden wollst Du wehren,",
+                  "Daß sie mich nicht versehren;",
+                  "Rett mich aus aller Not!"
+                ],
+                "rechts": [
+                  "Du wollst in mir entzünden",
+                  "Dein Wort, den schönen Stern,",
+                  "Daß falsche Lehr und Sünden",
+                  "Sein von meim Herzen fern;",
+                  "Hilf, daß ich Dich erkenne",
+                  "Und mit der Christenheit",
+                  "Dich meinen König nenne",
+                  "Jetzt und in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ein Licht vom Lichte bist Du erschienen, Christe,",
+              "Dem die Weisen Geschenke darbringen. Hallelujah, Hallelujah, Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

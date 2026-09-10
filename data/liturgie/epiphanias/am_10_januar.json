@@ -1,0 +1,164 @@
+{
+  "id": "am_10_januar",
+  "titel": "Am 10. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 5,
+  "band": 1,
+  "datum": "01-10",
+  "tage": [
+    {
+      "id": "am_10_januar",
+      "titel": "Am 10. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        309,
+        311
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "98"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer im Herzen will erfahren",
+            "melodie": "5",
+            "strophen": [
+              {
+                "links": [
+                  "Wer im Herzen will erfahren",
+                  "Und darum bemühet ist,",
+                  "Daß der König Jesus Christ",
+                  "Sich in ihm mög offenbaren:",
+                  "Der muß suchen in der Schrift,",
+                  "Bis er diesen Schatz antrifft."
+                ],
+                "rechts": [
+                  "Er muß gehen mit den Weisen,",
+                  "Bis der Morgenstern aufgeht,",
+                  "Und im Herzen stille steht;",
+                  "So kann man sich selig preisen,",
+                  "Weil des HErren Angesicht",
+                  "Glänzt von Klarheit, Recht und Licht."
+                ]
+              },
+              {
+                "links": [
+                  "Denn wo Jesus ist geboren,",
+                  "Da erweiset sich fein bald",
+                  "Seine göttlich Gestalt,",
+                  "Die im Herzen war verloren;",
+                  "Seine Klarheit spiegelt sich",
+                  "In der Seelen kräftiglich."
+                ],
+                "rechts": [
+                  "Alles Fragen, alles Sagen",
+                  "Von diesem Jesulein,",
+                  "Und von dessen Gnadenschein,",
+                  "Dem sie fort und fort nachjagen,",
+                  "Bis die Seele endlich hat",
+                  "Diesen Schatz gefunden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 23—27.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "23-27"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Die Heiden werden in Deinem Lichte wandeln,",
+              "Und die Könige im Glanz, der über Dir aufgehet. Hallelujah!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wer im Herzen will erfahren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach wie weit sind die zurücke,",
+                  "Die nur fragen in der Welt:",
+                  "Wo ist Reichtum, Gut und Geld?",
+                  "Wo ist Ansehn, Ruhm und Ehr?",
+                  "Und noch solcher Torheit mehr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 55, 3—5.",
+            "buch": "jesaja",
+            "kapitel": 55,
+            "verse": "3-5"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Kolosser 1, 24—29.",
+            "buch": "kolosser",
+            "kapitel": 1,
+            "verse": "24-29"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer im Herzen will erfahren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, laß mich auf der Erden",
+                  "Nichts suchen allein als Dich,",
+                  "Daß Du mögest bei mir sein",
+                  "Und ich Dir mög ähnlich werden",
+                  "In dem Leben dieser Zeit",
+                  "Und in jener Ewigkeit."
+                ],
+                "rechts": [
+                  "So will ich mit allen Weisen,",
+                  "Die die Welt für Toren acht,",
+                  "Dich anbeten Tag und Nacht",
+                  "Und Dich loben, rühmen, preisen,",
+                  "Liebster Jesu, und vor Dir",
+                  "Christlich wandeln für und für."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie werden aus Saba Alle kommen, Gold und Weihrauch bringen",
+              "Und des HErrn Lob verkündigen. Hallelujah, Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

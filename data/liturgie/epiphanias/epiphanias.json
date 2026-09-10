@@ -1,0 +1,310 @@
+{
+  "id": "epiphanias",
+  "titel": "Epiphanias",
+  "kirchenzeit": "epiphanias",
+  "reihe": 1,
+  "band": 1,
+  "datum": "01-06",
+  "tage": [
+    {
+      "id": "epiphanias",
+      "titel": "Epiphanias (Fest der Erscheinung des HErrn)",
+      "wochentag": "fest",
+      "seiten": [
+        289,
+        295
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Christus ist uns erschienen.",
+              "Kommt, lasset uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mache Dich auf, werde licht;",
+              "Denn die Herrlichkeit des HErrn gehet auf über Dir."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72",
+              "96"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Was fürchtest Du",
+            "untertitel": "Hostis Herodis impie",
+            "strophen": [
+              {
+                "links": [
+                  "Was fürchtst Du, Feind Herodes, sehr,",
+                  "Daß uns geborn kommt Christ der HErr?",
+                  "Er sucht kein sterblich Königreich,",
+                  "Der zu uns bringt Sein Himmelreich."
+                ],
+                "rechts": [
+                  "Die Tauf im Jordan an Sich nahm",
+                  "Das himmlische Gotteslamm;",
+                  "Dadurch Er, Der rein kein Sünde tat,",
+                  "Von Sünden uns gewaschen hat."
+                ]
+              },
+              {
+                "links": [
+                  "Dem Sterne die Weisen folgen nach,",
+                  "Solch Licht zum rechten Licht sie bracht;",
+                  "Sie zeigen mit den Gaben drei:",
+                  "Dies Kind Gott, Mensch und König sei."
+                ],
+                "rechts": [
+                  "Ein Wunderwerk da neu geschah:",
+                  "Sechs steinerne Krüge man da sah",
+                  "Voll Wassers, das verlor sein Art:",
+                  "Roter Wein durch Sein Wort draus ward."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Lobet den HErrn, alle Heiden, Hallelujah!",
+              "Preiset Ihn, alle Völker. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 2, 1—12.",
+            "buch": "matthaeus",
+            "kapitel": 2,
+            "verse": "1-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heute hat, als der HErr im Jordan getauft ward, der Himmel sich aufgetan; und wie eine Taube schwebte der Geist über Ihn; und im Donner sprach des Vaters Stimme: Das ist Mein lieber Sohn, an Welchem Ich Wohlgefallen habe."
+              },
+              {
+                "art": "text",
+                "inhalt": "Es stieg der Heilige Geist in Gestalt einer Taube nieder, und eine Stimme erscholl vom Himmel: Das ist .. habe."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Leo",
+            "text": "Freuet euch, Geliebteste, und abermals sage ich: Freuet euch! Denn kurz nach der Feier der Geburt Christi ist uns das Fest Seiner Erscheinung aufgeleuchtet. Denn an jenem Tage gebar die Jungfrau, heute ward die Welt gewahr. So erstrahlte durch die Weisen, die vom Glauben geleitet wurden, der Aufgang der Sonne der Gerechtigkeit, und auch wir, meine Lieben, sollen in den anbetenden Weisen die Erstlinge unserer Berufung und unseres Glaubens erkennen. Seit diesem Tage sind wir in das ewige Erbe eingeladen worden, und uns ist das Geheimnis der Schriften erschlossen, die von Christus reden. Laßt uns also diesen hochheiligen Tag ehren, an dem der Urheber unsres Heils offenbar erschien. Den die Weisen in der Krippe ehrten, den wollen wir als den Allmächtigen in den Himmeln anbeten."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Heute ist dem himmlischen Bräutigam die Kirche vermählt worden, da Christus im Jordan ihre Sünden abwusch;",
+              "Mit Gaben eilen die Weisen zur Königshochzeit; und am Wein, aus Wasser verwandelt, freuen sich die Hochzeitsgäste. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Gott, himmlischer Vater, Der Du Deinen eingeborenen Sohn Jesum Christum durch Erscheinung eines Sternes den Heiden geoffenbaret hast, und auch uns mit demselbigen Lichte Deines göttlichen Wortes zur Erkenntnis Deines lieben Sohnes hast kommen lassen: wir bitten Dich von ganzem Herzen, Du wollest uns durch Deinen heiligen Geist also begnaden und begaben, daß wir dies Licht Deiner Wahrheit annehmen und immerdar darnach wandeln mögen, und daß wir auch unsre zeitlichen Güter darein wenden, daß Deine arme Christenheit dadurch gebessert und Deinem Sohn Jesu Christo gedienet werde; um desselbigen Deines Sohnes, unsers HErrn, willen."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hostis Herodis impie",
+            "untertitel": "De Epiphania Domini",
+            "strophen": [
+              {
+                "links": [
+                  "Hostis Herodis impie,",
+                  "Christum venire quid times?",
+                  "Non eripit mortalia,",
+                  "Qui regna dat coelestia."
+                ],
+                "rechts": [
+                  "Lavacra puri gurgitis",
+                  "Coelestis agnus attigit;",
+                  "Peccata quae non detulit",
+                  "Nos abluendo sustulit."
+                ]
+              },
+              {
+                "links": [
+                  "Ibant magi, quam viderant",
+                  "Stellam sequentes praeviam:",
+                  "Lumen requirunt lumine,",
+                  "Deum fatentur munere."
+                ],
+                "rechts": [
+                  "Novum genus potentiae:",
+                  "Aquae rubescunt hydriae,",
+                  "Vinumque jussa fundere,",
+                  "Mutavit unda originem."
+                ]
+              },
+              {
+                "links": [
+                  "Lob, Ehr und Dank sei Dir gesagt,",
+                  "Christi, geboren von der reinen Magd,",
+                  "Mit Vater und dem heilgen Geist,",
+                  "Von nun an bis in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "(Übersetzung Luthers s. Morgengebet!)"
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, Du erleuchtest unsre Leuchte, Hallelujah!",
+              "Und machest unsre Finsternis licht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: es kommt der König und HErr, Hallelujah!",
+              "Und in Seiner Hand ist das Reich, und die Kraft, und die Herrlichkeit! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 60, 1—6.",
+            "buch": "jesaja",
+            "kapitel": 60,
+            "verse": "1-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Werde licht, werde licht, Jerusalem, denn Dein Licht kommt, und die Herrlichkeit des HErrn geht auf über Dir, Jerusalem: Christus, der König der ewigen Gnade, ist hernieder gestiegen, und Seine Herrlichkeit erscheinet über Dir."
+              },
+              {
+                "art": "text",
+                "inhalt": "Und die Heiden werden in Deinem Lichte wandeln, und die Könige im Glanz, der über Dir aufgeht. Und die Herrlichkeit .. über Dir."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Ach HErr, sehnsüchtiger als unser Sehnen war das Sehnen der Väter, und Du wollest doch nicht versäumen zu bedenken, was ihrem Frieden diente. Laß uns doch, wenn wir am Wege in Abrahams, Isaacs und Jacobs Gesellschaft der Gnade den Weg unter den Füßen verlieren wollen, treue Leitsterne, wie wir sie bedürfen: Hirten und Aelteste, die uns arme Schäflein führen und unsrer Schwachheit und Krankheit zustatten kommen, daß wir nicht müde werden zu wallen, bis wir zu Dir sind, wo ewiges Licht ist, und in diesem Deinem Lichte Deine Helden, Deine Juden, Deine heilige Kirche und alle Glieder [ruhen]."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 4, 3—6.",
+            "buch": "2_korinther",
+            "kapitel": 4,
+            "verse": "3-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "In einer Taube Gestalt erschien der Heilige Geist; und des Vaters Stimme war zu hören: Das ist Mein lieber Sohn, an Welchem Ich Wohlgefallen habe."
+              },
+              {
+                "art": "text",
+                "inhalt": "Der Himmel war offen über Ihm, und im Donner sprach des Vaters Stimme: Das ist .. habe."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, großer Wunderstern",
+            "melodie": "102",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, großer Wunderstern,",
+                  "Der aus Jakob ist erschienen:",
+                  "Meine Seele will so gern",
+                  "Dir an Deinem Feste dienen.",
+                  "Nimm doch, nimm doch mich zu eigen,",
+                  "Was ich Armer schenken kann."
+                ],
+                "rechts": [
+                  "Nimm den Weihrauch des Gebets,",
+                  "Laß denselben Dir gefallen;",
+                  "Herz und Lippen sollen stets",
+                  "Ihn zu opfern vor Dir liegen;",
+                  "Wenn ich bete, nimm es auf",
+                  "Und sprich Ja und Amen drauf."
+                ]
+              },
+              {
+                "links": [
+                  "Nimm das Gold des Glaubens hin,",
+                  "Wie ichs von Dir selber habe;",
+                  "So damit beschenket bin:",
+                  "So ist Dirs die liebste Gabe;",
+                  "Laß es euch bewährt und rein",
+                  "In dem Kreuzesofen sein."
+                ],
+                "rechts": [
+                  "Nimm die Myrrhen bittrer Reu,",
+                  "Ach wie schmerzet meine Sünde!",
+                  "Aber Du bist fromm und treu,",
+                  "Daß ich Trost und Gnade finde;",
+                  "Und nun fröhlich sprechen kann:",
+                  "Jesus nimmt mein Opfer an."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Es wird ein Stern aus Jakob aufgehen, Hallelujah!",
+              "Und ein Scepter aus Israel aufkommen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Einen heiligen Tag in dreier Wunder Zier begehen wir heute:",
+              "Heute führte der Stern die Weisen zur Krippe;",
+              "Heute ist bei der Hochzeit Wein aus Wasser verwandelt;",
+              "Heute wollte Christus im Jordan von Johannes getauft werden, um uns zu erretten. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Allmächtiger ewiger Gott, himmlischer Vater, Der Du auf diesen heutigen Tag Deinen eingeborenen Sohn Jesum Christum den Heiden durch Erscheinung und Leitung des Sternes offenbaret hast: verleihe uns gnädiglich, daß wir Denselben im rechten Glauben erkennen und in Ihm bis zur Anschauung Deiner herrlichen Klarheit geführet werden; durch denselbigen Deinen Sohn, unsern HErrn."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "am_7_januar",
+  "titel": "Am 7. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 2,
+  "band": 1,
+  "datum": "01-07",
+  "tage": [
+    {
+      "id": "am_7_januar",
+      "titel": "Am 7. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        296,
+        300
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Meer und Wasserströme, lobet den HErrn;",
+              "Preiset und rühmet Ihn ewiglich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christ unser HErr zum Jordan kam",
+            "untertitel": "urspr. zu: Es wollt uns Gott genädig sein",
+            "strophen": [
+              {
+                "links": [
+                  "Christ, unser HErr, zum Jordan kam",
+                  "Nach Seines Vaters Willen,",
+                  "Von Sanct Johanns die Taufe nahm,",
+                  "Sein Werk und Amt zu erfüllen;",
+                  "Da wollt Er stiften uns ein Bad,",
+                  "Zu waschen uns von Sünden,",
+                  "Ersäufen auch den bittern Tod",
+                  "Durch Sein selbst Blut und Wunden;",
+                  "Es galt ein neues Leben."
+                ],
+                "rechts": [
+                  "So hört und merket alle wohl,",
+                  "Was Gott heißt selbst die Taufe,",
+                  "Und was ein Christ glauben soll,",
+                  "Zu meiden Ketzerhaufen:",
+                  "Gott spricht und will, daß Wasser sei",
+                  "Doch nicht allein schlecht Wasser;",
+                  "Sein heiligs Wort ist auch dabei",
+                  "Mit reichem Geist ohn Maßen;",
+                  "Der ist allhie der Täufer."
+                ]
+              },
+              {
+                "links": [
+                  "Solchs hat Er uns beweiset klar",
+                  "Mit Bildern und mit Worten,",
+                  "Des Vaters Stimm man offenbar",
+                  "Daselbst am Jordan hörte,",
+                  "Er sprach: das ist Mein lieber Sohn,",
+                  "An dem Ich hab Gefallen,",
+                  "Den will Ich euch befohlen han,",
+                  "Daß ihr Ihn höret alle",
+                  "Und folget Seiner Lehre."
+                ],
+                "rechts": [
+                  "Auch Gottes Sohn hie stehet dran",
+                  "In Seiner zarten Menschheit,",
+                  "Der heilig Geist herab auch fahrt",
+                  "In Taubenbild verkleidet,",
+                  "Daß wir nicht sollen zweifeln dran,",
+                  "Wenn wir getauft sind,",
+                  "All drei Person getauft han,",
+                  "Damit bei uns auf Erden",
+                  "Zu wohnen sich ergeben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Das Volk, so im Finstern wandelt, siehet ein großes Licht, Hallelujah!",
+              "Und über die, so da wohnen im finstern Lande, scheinet es helle. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 3, 13—17.",
+            "buch": "matthaeus",
+            "kapitel": 3,
+            "verse": "13-17"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Bischof Maximus",
+            "text": "Am heutigen Tage müssen wir, Geliebte, nach den Berichten, die uns von den Vätern überliefert sind, uns über viele Geheimnisse freuen. Sie berichten nämlich: heute sei durch die Leitung des Sternes der HErr von den Heiden gefunden und angebetet worden; heute habe Er als Gast bei einer Hochzeit Wasser in Wein verwandelt; heute habe Er durch die von Johannes empfangene Taufe die Gewässer des Jordan geweiht und zugleich Seinen Täufer geheiligt. Alles, was immer geschah, ist nur unseretwegen geschehen: Die Chaldäer wurden durch das Leuchten eines gar glänzenden Sternes zur Anbetung Christi geführt: das gab den Heiden die Hoffnung, zur Erkenntnis des wahren Gottes zu gelangen, dazu aufgefordert durch die Verheißung. Wasser wird auf wunderbare Weise in Wein verwandelt: ein andeutendes Vorbild des neuen sakramentalen Kelches. Das Lamm Gottes wird getauft: dadurch wird das Weihegeschenk der Taufe der Wiedergeburt angedeutet."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Vom Morgenland kamen Weise nach Bethlehem, um den HErrn anzubeten; sie schlossen ihre Schätze auf und brachten Ihm köstliche Geschenke dar:",
+              "Gold dem großen Könige, Weihrauch dem wahren Gotte, Myrrhen für Sein Begräbnis. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Jesu Christe, Du großer König der Mission, komm zu uns in dieser Stunde und treibe Dein Werk an unsern Herzen, treibe Deine innerste Mission an uns allen, daß unsre Seelen lebendig werden durch den Hauch und Odem Deiner Liebe, daß wir es recht erkennen, und schenke uns starke Begeisterung für dies Dein Werk, das Du Deiner Kirche auf Seele und Gewissen gelegt hast. Gib uns allen Buße für das, was wir versäumet haben, und einen neuen Trieb des Geistes, Dein Werk zu tun, HErr Jesu, lege ihn in uns in der Kraft Deines heiligen Geistes."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Christ unser HErr zum Jordan kam",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Sein Jünger heißt der HErre Christ:",
+                  "Geht hin, all Welt zu lehren,",
+                  "Daß sie verlorn in Sünden ist,",
+                  "Sich soll zur Buße kehren;",
+                  "Wer glaubet und sich taufen läßt,",
+                  "Soll dadurch selig werden,",
+                  "Ein neugeborner Mensch er heißt,",
+                  "Der nicht mehr kann sterben,",
+                  "Das Himmelreich soll erben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 2, 2—5.",
+            "buch": "jesaja",
+            "kapitel": 2,
+            "verse": "2-5"
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Jesu Christe, schenk uns rechte Heidenliebe, daß wir an dem heiligen Werke der Heidenbekehrung mitarbeiten. Mache alle Missionsfreunde treuer, belebe die Missionsfeinde, und laß Dein Evangelium sich ausbreiten in aller Welt. Erwecke Dir auch in dem evangelischen Deutschland viele Männer und Jünglinge, die gern unter den Missionsfreunden streiten wollen, und erwecke die Andern, daß sie gern für die Mission geben und beten."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Dein Licht kommt, Jerusalem, und die Herrlichkeit des HErrn ist über Dir aufgegangen;",
+              "Die Heiden werden wandeln in Deinem Lichte. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 2, 11—18.",
+            "buch": "epheser",
+            "kapitel": 2,
+            "verse": "11-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Christ unser HErr zum Jordan kam",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wer nicht glaubt dieser großen Gnad,",
+                  "Der bleibt in seinen Sünden,",
+                  "Und ist verdammt zum ewgen Tod,",
+                  "Tief in der Höllen Gründen;",
+                  "Nichts hilft ihm seine Heiligkeit,",
+                  "All sein Tun ist verloren;",
+                  "Die Erbsünd machts zur Nichtigkeit,",
+                  "Darin er ist geboren,",
+                  "Vermag ihm selbst nicht helfen."
+                ],
+                "rechts": [
+                  "Das Aug allein das Wasser sieht,",
+                  "Wie Menschen Wasser gießen,",
+                  "Der Glaub im Geist die Kraft versteht",
+                  "Des Blutes Jesu Christ,",
+                  "Und ist vor Ihm ein rote Flut,",
+                  "Von Christi Blut gefärbet,",
+                  "Die allen Schaden heilen tut,",
+                  "Von Adam ererbet,",
+                  "Und auch von uns selbst begangen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Als die Weisen den Stern sahen, wurden sie hoch erfreut und gingen in das Haus und brachten Ihm Geschenke dar:",
+              "Gold, Weihrauch und Myrrhen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Jesu, Du König der ewigen Herrlichkeit, auf Dessen Reich wir warten: wir wollen nichts, als Dir zu dienen, wir haben keine Lust, als Dir zu opfern; Dir wollen wir ein ewiges Opfer sein, o Jesu."
+          }
+        ]
+      }
+    }
+  ]
+}

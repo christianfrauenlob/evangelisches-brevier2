@@ -1,0 +1,140 @@
+{
+  "id": "am_12_januar",
+  "titel": "Am 12. Januar",
+  "kirchenzeit": "epiphanias",
+  "reihe": 7,
+  "band": 1,
+  "datum": "01-12",
+  "tage": [
+    {
+      "id": "am_12_januar",
+      "titel": "Am 12. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        314,
+        316
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Christ, man dankt Dir insgemein",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Christ, man dankt Dir insgemein",
+                  "Für Deines Wortes hellen Schein,",
+                  "Damit Du uns hast angeblickt",
+                  "Und unser mattes Herz erquickt."
+                ],
+                "rechts": [
+                  "Wir saßen vor im Todestal",
+                  "Sehr tief gefangen allzumal:",
+                  "Dank hab, Du liebstes Jesulein,",
+                  "Daß wir durch Dich erlöset sein."
+                ]
+              },
+              {
+                "links": [
+                  "Hilf, daß Dein Licht uns leuchten mag",
+                  "Bis an den lieben jüngsten Tag,",
+                  "Und wir auch wandeln jederzeit",
+                  "Auf rechtem Weg der Seligkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 13, 16—20.",
+            "buch": "johannes",
+            "kapitel": 13,
+            "verse": "16-20"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Kündlich groß ist das gottselige Geheimnis: Gott ist offenbaret im Fleisch,",
+              "Gerechtfertiget im Geist, erschienen den Engeln,",
+              "Geprediget den Heiden, geglaubet von der Welt, aufgenommen in die Herrlichkeit."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Christ, man dankt Dir insgemein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr Christ, man dankt Dir,",
+                  "O wahrer Mensch, o Gottes Sohn,",
+                  "Dem König aller Ehren schon:",
+                  "Niemand von uns verdienet hat",
+                  "Solch eine Lieb und große Gnad."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 4, 1—19.",
+            "buch": "sprueche",
+            "kapitel": 4,
+            "verse": "1-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an Timotheus 1, 1—6.",
+            "buch": "2_timotheus",
+            "kapitel": 1,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Christ, man dankt Dir insgemein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Dein guter Geist will uns regieren,",
+                  "Daß wir sein heilig Leben führen;",
+                  "Der weißt, o großer Menschenfreund,",
+                  "Wie wir so unvermögend seind."
+                ],
+                "rechts": [
+                  "Nimm an zum Opfer, lieber HErr,",
+                  "Das Seufzen unsrer Herzen schwer,",
+                  "Die arme Christen ehren Dich",
+                  "Als unsern König ewiglich."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
