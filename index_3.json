@@ -1,0 +1,477 @@
+{
+  "wochen": [
+    {
+      "id": "advent_1",
+      "titel": "1. Adventssonntag",
+      "datei": "advent_1.json",
+      "pfad": "liturgie/advent/",
+      "band": 1,
+      "kirchenzeit": "advent",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "karwoche",
+      "titel": "Karwoche",
+      "datei": "karwoche.json",
+      "pfad": "liturgie/karwoche/",
+      "band": 1,
+      "kirchenzeit": "karwoche",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "osterwoche",
+      "titel": "Osterwoche",
+      "datei": "osterwoche.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "quasimodogeniti",
+      "titel": "Quasimodogeniti (1. S. n. Ostern)",
+      "datei": "quasimodogeniti.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "misericordias_domini",
+      "titel": "Misericordias Domini (2. S. n. Ostern)",
+      "datei": "misericordias_domini.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 3,
+      "status": "fertig"
+    },
+    {
+      "id": "jubilate",
+      "titel": "Jubilate (3. S. n. Ostern)",
+      "datei": "jubilate.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 4,
+      "status": "fertig"
+    },
+    {
+      "id": "cantate",
+      "titel": "Cantate — Singesonntag",
+      "datei": "cantate.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 5,
+      "status": "fertig"
+    },
+    {
+      "id": "rogate",
+      "titel": "Rogate — Bittsonntag mit Himmelfahrt (5. S. n. Ostern)",
+      "datei": "rogate.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 6,
+      "status": "fertig"
+    },
+    {
+      "id": "exaudi",
+      "titel": "Exaudi — Am Sonntag nach Himmelfahrt",
+      "datei": "exaudi.json",
+      "pfad": "liturgie/ostern/",
+      "band": 2,
+      "kirchenzeit": "ostern",
+      "reihe": 6,
+      "status": "fertig"
+    },
+    {
+      "id": "pfingstwoche",
+      "titel": "Die Pfingstwoche",
+      "datei": "pfingstwoche.json",
+      "pfad": "liturgie/pfingsten/",
+      "band": 2,
+      "kirchenzeit": "pfingsten",
+      "reihe": 7,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis",
+      "titel": "Fest der Heiligen Dreifaltigkeit",
+      "datei": "trinitatis.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 2,
+      "kirchenzeit": "trinitatis",
+      "reihe": 8,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_1",
+      "titel": "1. Sonntag nach Trinitatis",
+      "datei": "trinitatis_1.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_2",
+      "titel": "2. Sonntag nach Trinitatis",
+      "datei": "trinitatis_2.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_3",
+      "titel": "3. Sonntag nach Trinitatis",
+      "datei": "trinitatis_3.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_4",
+      "titel": "4. Sonntag nach Trinitatis",
+      "datei": "trinitatis_4.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_5",
+      "titel": "5. Sonntag nach Trinitatis",
+      "datei": "trinitatis_5.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_6",
+      "titel": "6. Sonntag nach Trinitatis",
+      "datei": "trinitatis_6.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_7",
+      "titel": "7. Sonntag nach Trinitatis",
+      "datei": "trinitatis_7.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_8",
+      "titel": "8. Sonntag nach Trinitatis",
+      "datei": "trinitatis_8.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_9",
+      "titel": "9. Sonntag nach Trinitatis",
+      "datei": "trinitatis_9.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_10",
+      "titel": "10. Sonntag nach Trinitatis",
+      "datei": "trinitatis_10.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_11",
+      "titel": "11. Sonntag nach Trinitatis",
+      "datei": "trinitatis_11.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_12",
+      "titel": "12. Sonntag nach Trinitatis",
+      "datei": "trinitatis_12.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_13",
+      "titel": "13. Sonntag nach Trinitatis",
+      "datei": "trinitatis_13.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_14",
+      "titel": "14. Sonntag nach Trinitatis",
+      "datei": "trinitatis_14.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_15",
+      "titel": "15. Sonntag nach Trinitatis",
+      "datei": "trinitatis_15.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_16",
+      "titel": "16. Sonntag nach Trinitatis",
+      "datei": "trinitatis_16.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_17",
+      "titel": "17. Sonntag nach Trinitatis",
+      "datei": "trinitatis_17.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_18",
+      "titel": "18. Sonntag nach Trinitatis",
+      "datei": "trinitatis_18.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_19",
+      "titel": "19. Sonntag nach Trinitatis",
+      "datei": "trinitatis_19.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_20",
+      "titel": "20. Sonntag nach Trinitatis",
+      "datei": "trinitatis_20.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "johannis",
+      "titel": "Johannis des Täufers Fest (24. Juni)",
+      "datei": "johannis.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 1,
+      "status": "fertig",
+      "datum": "06-24"
+    },
+    {
+      "id": "peter_paulstag",
+      "titel": "Peter-Paulstag (29. Juni)",
+      "datei": "peter_paulstag.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 2,
+      "status": "fertig",
+      "datum": "06-29"
+    },
+    {
+      "id": "mariae_heimsuchung",
+      "titel": "Mariä Heimsuchung (2. Juli)",
+      "datei": "mariae_heimsuchung.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 3,
+      "status": "fertig",
+      "datum": "07-02"
+    },
+    {
+      "id": "jakobus_der_aeltere",
+      "titel": "S. Jakobus der Ältere (25. Juli)",
+      "datei": "jakobus_der_aeltere.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 4,
+      "status": "fertig",
+      "datum": "07-25"
+    },
+    {
+      "id": "bartholomaeus",
+      "titel": "S. Bartholomäus (24. August)",
+      "datei": "bartholomaeus.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 5,
+      "status": "fertig",
+      "datum": "08-24"
+    },
+    {
+      "id": "matthaeus_apostel",
+      "titel": "S. Matthäus (21. September)",
+      "datei": "matthaeus_apostel.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 6,
+      "status": "fertig",
+      "datum": "09-21"
+    },
+    {
+      "id": "hagelfeier",
+      "titel": "Hagelfeier (Bettag für die Früchte der Erde)",
+      "datei": "hagelfeier.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 7,
+      "status": "fertig"
+    },
+    {
+      "id": "michaelisfest",
+      "titel": "Michaelisfest (29. September)",
+      "datei": "michaelisfest.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 8,
+      "status": "fertig",
+      "datum": "09-29"
+    },
+    {
+      "id": "erntedankfest",
+      "titel": "Erntedankfest",
+      "datei": "erntedankfest.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 9,
+      "status": "fertig",
+      "regel": "erster_sonntag_oktober"
+    },
+    {
+      "id": "kirchweihfest",
+      "titel": "Kirchweihfest",
+      "datei": "kirchweihfest.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 10,
+      "status": "fertig"
+    },
+    {
+      "id": "lukas",
+      "titel": "S. Lukas (18. Oktober)",
+      "datei": "lukas.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 11,
+      "status": "fertig",
+      "datum": "10-18"
+    },
+    {
+      "id": "simon_und_judas",
+      "titel": "S. S. Simon und Judas Thaddäus (28. Oktober)",
+      "datei": "simon_und_judas.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 12,
+      "status": "fertig",
+      "datum": "10-28"
+    },
+    {
+      "id": "reformationsfest",
+      "titel": "Reformationsfest",
+      "datei": "reformationsfest.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 13,
+      "status": "fertig",
+      "datum": "10-31"
+    },
+    {
+      "id": "allerheiligen",
+      "titel": "Allerheiligen (1. November)",
+      "datei": "allerheiligen.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 14,
+      "status": "fertig",
+      "datum": "11-01"
+    },
+    {
+      "id": "gedaechtnis_der_verstorbenen",
+      "titel": "Gedächtnis der Verstorbenen (Allerseelen, 2. November)",
+      "datei": "gedaechtnis_der_verstorbenen.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 15,
+      "status": "fertig",
+      "datum": "11-02"
+    }
+  ]
+}
