@@ -495,6 +495,76 @@
       "status": "fertig"
     },
     {
+      "id": "trinitatis_21",
+      "titel": "21. Sonntag nach Trinitatis",
+      "datei": "trinitatis_21.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_22",
+      "titel": "22. Sonntag nach Trinitatis",
+      "datei": "trinitatis_22.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_23",
+      "titel": "23. Sonntag nach Trinitatis",
+      "datei": "trinitatis_23.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_24",
+      "titel": "24. Sonntag nach Trinitatis",
+      "datei": "trinitatis_24.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_25",
+      "titel": "25. Sonntag nach Trinitatis",
+      "datei": "trinitatis_25.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_26",
+      "titel": "26. Sonntag nach Trinitatis",
+      "datei": "trinitatis_26.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "trinitatis_27",
+      "titel": "27. Sonntag nach Trinitatis",
+      "datei": "trinitatis_27.json",
+      "pfad": "liturgie/trinitatis/",
+      "band": 1,
+      "kirchenzeit": "trinitatis",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
       "id": "johannis",
       "titel": "Johannis des Täufers Fest (24. Juni)",
       "datei": "johannis.json",
