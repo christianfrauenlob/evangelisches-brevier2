@@ -1,0 +1,147 @@
+{
+  "id": "am_3_januar",
+  "titel": "Am 3. Januar",
+  "kirchenzeit": "weihnachten",
+  "reihe": 12,
+  "band": 1,
+  "datum": "01-03",
+  "tage": [
+    {
+      "id": "am_3_januar",
+      "titel": "Am 3. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        279,
+        283
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wer von der Erde ist, der redet von der Erde; der vom Himmel kommt, der ist über Alle.",
+              "Und was Er gesehen und gehöret hat, das zeuget Er, und Sein Zeugnis nimmt Niemand an.",
+              "Wer aber annimmt Sein Zeugnis, der versiegelt es, daß Gott wahrhaftig ist."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "20"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nachdem das alte Jahr",
+            "untertitel": "Erquicke mich, du Heil",
+            "strophen": [
+              {
+                "links": [
+                  "Nachdem das alte Jahr verflossen",
+                  "Und wir, die Gott nunmehr verneut,",
+                  "Desselben Gnad aufs Neu genossen,",
+                  "So sind wir billig höchst erfreut,",
+                  "Daß uns Dieselbe Glück und Leben",
+                  "So reichlich bis hieher gegeben."
+                ],
+                "rechts": [
+                  "Der geb uns lauter neue Kräfte,",
+                  "Damit so Will als auch Verstand",
+                  "Sich fest an Jhn allein anhefte",
+                  "Und nimmermehr abgewandt,",
+                  "Er geb uns auch den neuen Willen,",
+                  "Sein neu Gebot nun zu erfüllen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 4, 16—21.",
+            "buch": "lukas",
+            "kapitel": 4,
+            "verse": "16-21"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nachdem das alte Jahr",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nachdem das alte Jahr verflossen,",
+                  "Er laß aufs Neu Sein Licht aufgehen,",
+                  "Gleich wie die Sonn je höher steigt,",
+                  "Sein Gnadenglanz bleib ob uns stehn,",
+                  "Bis sich die Welt zum Ende neigt,",
+                  "Damit wir wie die Frommen handeln",
+                  "Und immerfort im Tage wandeln."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Samuelis 2, 1—10.",
+            "buch": "1_samuel",
+            "kapitel": 2,
+            "verse": "1-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 8, 24—32.",
+            "buch": "roemers",
+            "kapitel": 8,
+            "verse": "24-32"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nachdem das alte Jahr",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der Name, den Er Selbst bekommen,",
+                  "Als Er für uns beschnitten ward,",
+                  "Durch den wir unser Heil vernommen,",
+                  "Sei unser Weg zur Lebensfahrt:",
+                  "Der sei der Schmuck für unsre Krone,",
+                  "Und zier uns vor dem Höchsten Throne."
+                ],
+                "rechts": [
+                  "Er lehr uns unser Herz bestimmen",
+                  "Von allem was uns von Jhm trennt;",
+                  "Er füll uns mit erneuten Freuden,",
+                  "Die nie kein weltlich Herz erkennt:",
+                  "Damit was alt an uns erstirbe",
+                  "Und unser Geist Sein Reich ererbe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, der Du Deinen lieben Sohn unter das Gesetz getan hast, auf daß Er die, so unter dem Gesetz waren, vom Fluch des Gesetzes erlöse: hilf, daß wir solcher Erlösung teilhaftig werden und bleiben durch Denselben . .",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}
