@@ -107,6 +107,94 @@
       "datum": "12-28"
     },
     {
+      "id": "am_29_dezember",
+      "titel": "Am 29. Dezember",
+      "datei": "am_29_dezember.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 7,
+      "status": "fertig",
+      "datum": "12-29"
+    },
+    {
+      "id": "am_30_dezember",
+      "titel": "Am 30. Dezember",
+      "datei": "am_30_dezember.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 8,
+      "status": "fertig",
+      "datum": "12-30"
+    },
+    {
+      "id": "am_31_dezember",
+      "titel": "Am 31. Dezember",
+      "datei": "am_31_dezember.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 9,
+      "status": "fertig",
+      "datum": "12-31"
+    },
+    {
+      "id": "neujahr",
+      "titel": "Tag der Beschneidung Jesu (Neujahr)",
+      "datei": "neujahr.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 10,
+      "status": "fertig",
+      "datum": "01-01"
+    },
+    {
+      "id": "sonntag_nach_neujahr",
+      "titel": "Sonntag nach Neujahr (bezw. 2. Januar)",
+      "datei": "sonntag_nach_neujahr.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 11,
+      "status": "fertig",
+      "regel": "sonntag_nach_neujahr"
+    },
+    {
+      "id": "am_3_januar",
+      "titel": "Am 3. Januar",
+      "datei": "am_3_januar.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 12,
+      "status": "fertig",
+      "datum": "01-03"
+    },
+    {
+      "id": "am_4_januar",
+      "titel": "Am 4. Januar",
+      "datei": "am_4_januar.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 13,
+      "status": "fertig",
+      "datum": "01-04"
+    },
+    {
+      "id": "am_5_januar",
+      "titel": "Am 5. Januar (Vigil von Epiphanias)",
+      "datei": "am_5_januar.json",
+      "pfad": "liturgie/weihnachten/",
+      "band": 1,
+      "kirchenzeit": "weihnachten",
+      "reihe": 14,
+      "status": "fertig",
+      "datum": "01-05"
+    },
+    {
       "id": "karwoche",
       "titel": "Karwoche",
       "datei": "karwoche.json",
