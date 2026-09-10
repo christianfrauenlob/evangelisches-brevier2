@@ -1,0 +1,1274 @@
+{
+  "id": "advent_3",
+  "titel": "Die dritte Adventswoche",
+  "kirchenzeit": "advent",
+  "reihe": 3,
+  "band": 1,
+  "tage": [
+    {
+      "id": "advent_3_so",
+      "titel": "Der dritte Sonntag im Advent",
+      "wochentag": "sonntag",
+      "seiten": [
+        165,
+        170
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Nahe ist schon der HErr; kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Kommen wird der HErr, und nicht säumen;",
+              "Und Er wird uns Licht bringen was im Finstern verborgen ist, und Sich allen Völkern offenbaren. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "95"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mit Ernst, o Menschenkinder",
+            "melodie": "Auch A. M. 150",
+            "strophen": [
+              {
+                "links": [
+                  "Mit Ernst, o Menschenkinder,",
+                  "Das Herz in euch bestellt!",
+                  "Bald wird das Heil der Sünder,",
+                  "Der wunderstarke Held,",
+                  "Den Gott aus Gnad allein",
+                  "Der Welt zum Licht und Leben",
+                  "Versprochen hat zu geben,",
+                  "Bei Allen kehren ein."
+                ],
+                "rechts": [
+                  "Bereitet doch sein tüchtig",
+                  "Den Weg dem großen Gast,",
+                  "Macht Seine Steige richtig,",
+                  "Laßt alles was Er hast;",
+                  "Macht alle Bahnen recht:",
+                  "Die Tal laßt sein erhöhet,",
+                  "Macht niedrig, was hoch stehet,",
+                  "Was krumm ist, gleich und schlecht (= schlicht)."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 11, 2–10.",
+            "buch": "matthaeus",
+            "kapitel": 11,
+            "verse": "2-10"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Siehe: es kommt die Zeit, spricht der HErr, da will Ich dem David ein gerecht Gewächs erwecken, und soll ein König kommen, Der wohl regieren wird und Recht und Gerechtigkeit auf Erden anrichten. Und dies wird Sein Name sein, daß man Ihn nennen wird: der HErr unsere Gerechtigkeit."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Zu derselbigen Zeit soll Juda geholfen werden, und Israel sicher wohnen.",
+                  "Und dies . . . Gerechtigkeit."
+                ]
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ehre sei . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löbe",
+            "text": "Dem Manne, welcher die Anfechtung erduldet, ist eine herrliche Der Krone des Lebens versprochen: warum soll sie vor allen Heiligen allein Johannis entbehren? Ist er doch nicht besiegt worden seiner Anfechtung, sondern im Gegenteil: er hat sich in seinem bösen Ständen so schön benommen, hat eine so nachahmenswerte Schönheit, daß uns der Wunsch: Johannes möchte nicht angefochten worden sein, fast schwer werden könnte; denn wäre er nicht angefochten worden, so würden wir das edelste männliche Beispiel, die schöne Regel eines heiligen Benehmens in Anfechtung entbehren. Christi Versuchung und Sieg sind wir über unsre Sphären, wir verstehen sie nicht; unsre Versuchungen sind die Versuchungen Gefallener; uns steht ein versuchter Johannes näher, und doch steht er zugleich so glänzend und hehr vor uns in seiner Wahrhaftigkeit und Einfalt."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Auf dem Stuhle Davids und in Seinem Königreiche",
+              "Wird Er sitzen ewiglich. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, wir bitten Dich: Du wollest Deine Ohren neigen zu unserm Gebet und durch Deine gnädige Heimsuchung die Finsternis unseres Herzens vertreiben; Der Du mit dem Vater und Heiligen Geiste lebest und regierest.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mit Ernst",
+            "strophen": [
+              {
+                "links": [
+                  "Ein Herz, das Demut liebet,",
+                  "Bei Gott am höchsten steht;",
+                  "Ein Herz, das Hochmut übet,",
+                  "Mit Unlust zu Grunde geht;",
+                  "Ein Herz, das richtig ist",
+                  "Und folget Gottes Leiten:",
+                  "Das kann sich recht bereiten,",
+                  "Zu dem kommt Jesus Christ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Es werden die Heiden fürchten den Namen des HErrn,",
+              "Und alle Könige auf Erden Seine Ehre."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ausgießen will ich Heil über Zion,",
+              "Und Meine Herrlichkeit über Jerusalem."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 81-128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 40, 1–8.",
+            "buch": "jesaja",
+            "kapitel": 40,
+            "verse": "1-8"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Siehe: es kommt die Fülle der Zeiten, in der Gott Seinen Sohn auf Erden gesandt hat, geboren von der Jungfrau und unter das Gesetz getan; auf daß Er die, so unter dem Gesetze sind, erlöse."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Um der großen Gnade willen, damit uns Gott geliebet, hat Er Seinen Sohn in der Gestalt des sündigen Fleisches gesandt,",
+                  "Auf daß Er . . . erlöse."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es ist eine Stimme eines Predigers in der Wüste:",
+              "Bereitet dem HErrn den Weg!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 4, 1–5.",
+            "buch": "1_korinther",
+            "kapitel": 4,
+            "verse": "1-5"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Bethlehem, du Stadt des großen Gottes, aus dir wird kommen, Der in Israel HErr ist, Dessen Ausgang von Anfang und von Ewigkeit her gewesen ist; und Er wird groß sein auf Erden, wenn Er kommt."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Frieden sagt Er zu den Heiden,",
+                  "Und Seine Macht reicht von Meer zu Meer.",
+                  "Und Er wird . . . kommen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mit Ernst",
+            "strophen": [
+              {
+                "links": [
+                  "Das war Johannis Stimme.",
+                  "Das war Johannis Lehr.",
+                  "Gott strafet Den mit Grimme,",
+                  "Der Ihm gibt die Ehr.",
+                  "O HErr Gott, mach auch mich",
+                  "Zu Deines Kindes Krippen",
+                  "So sollen meine Lippen",
+                  "Mit Ruhm erheben Dich."
+                ],
+                "rechts": [
+                  "Ach mache Du mich Armen",
+                  "Zu dieser heilgen Zeit",
+                  "Aus Güte und Erbarmen,",
+                  "HErr Jesu, Selbst bereit,",
+                  "Auch in mein Herz hinein",
+                  "Vom Stall und von der Krippen",
+                  "So werden Herz und Lippen",
+                  "Dir allzeit dankbar sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr, gedenke unser nach Deiner Gnade;",
+              "Beweise uns Deine Hilfe."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Selig bist du, Maria, die du dem HErrn geglaubet hast;",
+              "Nun wird erfüllt, was dir vom HErrn verkündet ward. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, himmlischer Vater, der Du Deinen Sohn als unsern Heiland in die Welt gesandt hast, Der Sich auch darin mit süßem Evangelio hören und mit großen Wundertaten sehen lassen, daß wir an Ihn glauben und durch den Glauben an Ihn selig würden: wir bitten Dich, gib uns Deinen heiligen Geist, daß wir in solchem Glauben, dazu Du uns gebracht hast, nicht wanken, noch uns an Deinem Sohne ärgern und ewig selig werden; durch Denselben Jesum Christum, Deinen Sohn, unsern HErrn.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_mo",
+      "titel": "Montag nach dem 3. Advent",
+      "wochentag": "montag",
+      "seiten": [
+        170,
+        174
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du Hirte Israels, höre, Der Du Josephs hütest wie die Schafe:",
+              "Erscheine, Der Du sitzest über Cherubim."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "17"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommst Du, kommst Du",
+            "strophen": [
+              {
+                "links": [
+                  "Kommst Du, kommst Du, Licht der Heiden?",
+                  "Ja, Du kommst und säumest nicht,",
+                  "Weil Du weißt was uns gebricht,",
+                  "O Du starker Trost im Leiden!",
+                  "Jesu, meines Herzens Thür",
+                  "Steht Dir offen: komm zu mir."
+                ],
+                "rechts": [
+                  "Ja, Du bist bereit zugegen,",
+                  "Du Weltheiland, Jungfrausohn:",
+                  "Meine Sinne spüren schon",
+                  "Deinen gnadenvollen Segen,",
+                  "Deine Wunder-Seelenkraft,",
+                  "Deine Frucht und Herzensaft."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 3, 1–11.",
+            "buch": "matthaeus",
+            "kapitel": 3,
+            "verse": "1-11"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Hieronymus",
+            "text": "Obgleich dies Alles schon durch die Menge der Wunder erfüllt war, wie es in seiner Jesus zu den Johannisjüngern verkündigt sprach: Gehet hin und meldet Johannes wieder, wie ihr sehet und höret: Die Blinden sehen, die Lahmen gehen, die Aussätzigen werden rein, die Tauben hören, die Toten stehen auf, und den Armen wird das Evangelium verkündigt: so gefällt es sich doch täglich weiter unter den Boidenvölkern, wenn Die, so vorher blind waren und sich und ihre eigenen und ihre Götzen anbeteten, das Licht der Wahrheit schauen; und wenn Die, so tauben Ohres die Worte der Schrift nicht hören konnten, sich nun über Gottes Gebote freuen; wenn die Wege wichen, nun, nach dem Vorbilde ihrer Lehrer, springen können wie Hirsche; und wenn die Zunge der Stummen vernommen wird, deren Mund der Satan nicht sollten haben, damit sie zu einen Herrn nicht sollten. Aus dem Grunde aber werden die Augen aufgetan, hören die Ohren, springen die Lahmen und wird gelöst die Zunge der Stummen, weil in der Kirche die Taufwasser zum Heile entsprungen sind und die verschiedenen geistlichen Gnadengüter."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es wird eine Rute aufgehen von dem Stamme Isai, und alles Land wird voll werden der Herrlichkeit des HErrn,",
+              "Und alles Fleisch wird Gottes Heil schauen."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Kommst Du.",
+            "strophen": [
+              {
+                "links": [
+                  "Adle mich durch Deine Liebe,",
+                  "Jesu, nimm mein Fleben hin,",
+                  "Schaffe, daß mein Geist und Sinn",
+                  "Sich in Deinem Lieben übe.",
+                  "Sonst zu lieben Dich, mein Licht,",
+                  "Steht in meinen Kräften nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Es kommt ein Stärkerer nach mir,",
+              "Dem ich nicht genugsam bin, daß ich die Riemen Seiner Schuhe auflöse."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wenn des Menschen Sohn kommt,",
+              "Meinst du, daß Er Glauben findet auf Erden?"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Haggai 2, 2–10.",
+            "buch": "haggai",
+            "kapitel": 2,
+            "verse": "2-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr macht Sich auf von Seiner heiligen Wohnung;",
+              "Er kommt und erwecket Sein Volk."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an Timotheus 4, 5–8.",
+            "buch": "2_timotheus",
+            "kapitel": 4,
+            "verse": "5-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Kommst Du.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, rege mein Gemüte,",
+                  "Jesu, öffne mir den Mund,",
+                  "Daß Dich meines Herzens Grund",
+                  "Innig preise für die Güte,",
+                  "Die Du mir, o Seelengast,",
+                  "Lebens Zeit erwiesen hast."
+                ],
+                "rechts": [
+                  "Laß durch Deines Geistes Gaben",
+                  "Liebe, Glauben und Geduld,",
+                  "Durch Vereinung meiner Schuld",
+                  "Mich zu Dir sein hochergaben;",
+                  "Dann so will ich für und für",
+                  "Hosianna singen Dir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Selig werden mich preisen alle Geschlechter,",
+              "Denn der HErr hat angesehen Seine geringe Magd."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_di",
+      "titel": "Dienstag nach dem 3. Advent",
+      "wochentag": "dienstag",
+      "seiten": [
+        174,
+        177
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Das Gesetz ist durch Mose gegeben;",
+              "Die Gnade und Wahrheit ist durch Jesum Christ worden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sieh: dein König kommt zu dir",
+            "melodie": "102",
+            "strophen": [
+              {
+                "links": [
+                  "Sieh: dein König kommt zu dir!",
+                  "Seele, das sind frohe Worte.",
+                  "Sprich: mein König, komm zu mir,",
+                  "Sieh: ich öffne Dir die Pforte,",
+                  "Zeuch mit Deiner Sanftmut ein,",
+                  "Was Du findest, soll Dein sein."
+                ],
+                "rechts": [
+                  "Komm, ich bin Dein Eigentum",
+                  "Schon seit Deinem Wasserbade;",
+                  "Komm, Dein Evangelium",
+                  "Werde mir ein Wort der Gnade;",
+                  "Du schließt ja Dein Wort voran,",
+                  "Daß mein König kommen kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 10, 34–42.",
+            "buch": "matthaeus",
+            "kapitel": 10,
+            "verse": "34-42"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Du Bethlehem im Lande Juda bist mitnichten die kleinste unter den Städten;",
+              "Denn aus dir soll der kommen, der in Israel HErr ist."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sieh: Dein König kommt zu Dir.",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, und räume alles aus,",
+                  "Was Du hassest und mich reuet;",
+                  "Komm, und reinige Dein Haus,",
+                  "Das die Sünde hat entweihet;",
+                  "Mache Selbst mit Deinem Blut",
+                  "Alles wieder rein und gut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Jerusalem, freue dich sehr;",
+              "Denn dein Heiland kommt zu Dir. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 6, 5–8.",
+            "buch": "1_mose",
+            "kapitel": 6,
+            "verse": "5-8"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 5, 1–20.",
+            "buch": "roemers",
+            "kapitel": 5,
+            "verse": "1-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sieh: dein König kommt zu dir",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Komm in Deinem Abendmahl,",
+                  "Das Du uns zum Heil gegeben,",
+                  "Daß wir schon im Erdental",
+                  "Mit Dir als im Himmel leben.",
+                  "Komm, HErr Jesu, leb in mir,",
+                  "Und mein Leben sei in Dir."
+                ],
+                "rechts": [
+                  "Komm, und bring den Tröster mit:",
+                  "Deinen Geist, Der Dich verkläret,",
+                  "Der mich im Gebet vertritt",
+                  "Und des Königs Willen lehret,",
+                  "Daß ich bis auf jenen Tag",
+                  "„Komm, HErr Jesu!“ rufen mag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Erhebe dich, erhebe dich, steh auf, Jerusalem!",
+              "Löse die Ketten deines Halses, gefangene Tochter Zion!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_mi",
+      "titel": "Quatember-Mittwoch nach dem 3. Advent",
+      "wochentag": "mittwoch",
+      "seiten": [
+        177,
+        181
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die Propheten habens geweissagt,",
+              "Daß der Heiland geboren werde von der Jungfrau Maria."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich will von meiner Missetat",
+            "melodie": "18",
+            "strophen": [
+              {
+                "links": [
+                  "Ich will von meiner Missetat",
+                  "Zum HErren mich bekehren.",
+                  "Du wollest Selbst mir Hilf und Rat",
+                  "Hierzu, o Gott bescheren.",
+                  "Und Deines Geistes Kraft",
+                  "Der neue Herzen in uns schafft",
+                  "Aus Gnaden mir gewähren."
+                ],
+                "rechts": [
+                  "Kopf durch Erkenntnis bei mir an",
+                  "Und führ mir wohl zu Sinnen",
+                  "Was Böses ich vor Dir getan;",
+                  "Das kannst mein Herz gewinnen,",
+                  "Daß ich aus Kummer und Beschwer",
+                  "Laß über meine Wangen her",
+                  "Viel heiße Tränen rinnen."
+                ]
+              },
+              {
+                "links": [
+                  "Natürlich kann in Mensch doch nicht",
+                  "Sein Elend selbst empfinden,",
+                  "Er ist ohn Deines Geistes Licht",
+                  "Blind taub und tot in Sünden.",
+                  "Verkehrt ist Will Verstand und Tun,",
+                  "Des großen Jammers noch nicht ruhn,",
+                  "O Vater, zu entbinden."
+                ],
+                "rechts": [
+                  "Wie bald Du doch auf mich gewandt",
+                  "Den Reichtum Deiner Gnaden!",
+                  "Mein Leben dank ich Deiner Hand,",
+                  "Die mich überladen",
+                  "Mit Ruh Gesundheit Ehr und Brot,",
+                  "Du machst, daß mir nicht schade Not",
+                  "Bis hierher fromm geschaden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 3, 15–20.",
+            "buch": "lukas",
+            "kapitel": 3,
+            "verse": "15-20"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löbe",
+            "text": "Ach, es ist doch traurig, daß selbst eines Apostels Würde bei Denen, die, um uns seines Ausdrucks zu bedienen, mit Schmerzen geboren werden konnte, daß auch ein Apostel nicht mißtrauisch angesehen werden konnte und das bei seiner geliebten Gemeinde! Es ist traurig — aber es ist auch tröstlich, tröstlich für die Hirten der Gemeinden, denen es, obschon sie nicht apostolische Würde haben, bei treuem Wort und Wandel nicht anders ergeht, als jenen. Warum sollen an unsern Hirten schlechteren Gemeinden ein friedlicheres Leben, einen unantastbareren Ruf in Anspruch nehmen, als Apostel?! Man sei still und tröste sich mit Aposteln!"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Engel Gabriel wird gesandt zur Verlobten Josephs:",
+              "Maria der Jungfrau."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ich will von meiner Missetat.",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, nimm mich zu Dir ein:",
+                  "Ich flieh in Deine Wunden,",
+                  "Die Du, o Heiland, wegen mein",
+                  "Am Kreuze hast empfunden,",
+                  "Als unser Aller Sünden Müh",
+                  "Dir, o Du Gotteslamm, ward hie",
+                  "Zu tragen aufgebunden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Geist des HErrn ist über Mir;",
+              "Er hat Mich gesandt, den Armen das Evangelium zu predigen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 33, 1–5.",
+            "buch": "5_mose",
+            "kapitel": 33,
+            "verse": "1-5"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 1, 5–10.",
+            "buch": "1_johannes",
+            "kapitel": 1,
+            "verse": "5-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ich will von meiner Missetat",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wasch mich durch Deinen Todesschweiß",
+                  "Und purpurrotes Leiden,",
+                  "Und laß mich sauber sein und weiß",
+                  "Durch Deiner Unschuld Seiden,",
+                  "Von wegen Deines Kreuzes Last",
+                  "Ersuchte was Du zermalmet hast",
+                  "Mit Deines Trostes Freuden."
+                ],
+                "rechts": [
+                  "So angetan will ich mich hin",
+                  "Vor Deinen Vater machen;",
+                  "Ich weiß: Er lenket Seinen Sinn",
+                  "Und schaffet Rat mit Schwachen.",
+                  "Er weiß, was Fleischeslust und Welt",
+                  "Und Satan uns für Netze stellt,",
+                  "Die uns zu stürzen wachen."
+                ]
+              },
+              {
+                "links": [
+                  "Wie werd ich doch mein Leben lang",
+                  "Vor solcher Plage schweren",
+                  "Durch Deines guten Geistes Zwang,",
+                  "Den Du mir wollst verleihen,",
+                  "Daß er von aller Sündenlist",
+                  "Und dem was Dir zuwider ist",
+                  "Hell ewig mich befreien."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: Ich bin des HErrn Magd;",
+              "Mir geschehe nach Deinem Wort."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allwissender und allmächtiger Gott und Vater! Wir liegen heute vor Dir im Staube und bekennen unsre Sünde. Obrigkeit und Untertan, Herr und Knecht, Eltern und Kinder: wir fühlen Alle Schuld und rufen Dich an um Gnade und Barmherzigkeit. O HErr, richte nicht ins Gericht mit Deinen Knechten und Mägden! Gib uns den Geist der Buße, gieße einen heilsamen Schmerz in unsre Seele aus über alles, was wir versäumet und gefehlet haben. Heilige Herz und Haus, Ehestand und Kinderzucht, geistlich und weltlich Regiment.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_do",
+      "titel": "Donnerstag nach dem 3. Advent",
+      "wochentag": "donnerstag",
+      "seiten": [
+        181,
+        184
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Von Zion kommt der HErr, der Allmächtige,",
+              "Sein Volk selig zu machen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum willst Du draußen stehen",
+            "melodie": "Auch A. M. 162",
+            "strophen": [
+              {
+                "links": [
+                  "Warum willst Du draußen stehen,",
+                  "Du Gesegneter des HErrn?",
+                  "Laß Dir bei mir einzugehen",
+                  "Wohlgefallen, Du mein Stern.",
+                  "Du mein Jesu, meine Freud,",
+                  "Helfer in der rechten Zeit,",
+                  "Hilf, o Heiland, meinem Herzen",
+                  "Von den Wunden, die mich schmerzen."
+                ],
+                "rechts": [
+                  "In der Welt ist alles nichtig,",
+                  "Nichts ist das nicht kraftlos wär:",
+                  "Hab ich Hoheit — die ist flüchtig,",
+                  "Hab ich Reichtum — was ist's mehr",
+                  "Als ein Stücklein armer Erd!",
+                  "Hab ich Lust — was ist sie wert!",
+                  "Was ist, das mich heut erfreuet,",
+                  "Das mich morgen nicht gereuet?"
+                ]
+              },
+              {
+                "links": [
+                  "Aller Trost und alle Freude",
+                  "Ruht in Dir, o HErr Jesu Christ;",
+                  "Dein Erfreuen ist die Weide,",
+                  "Da man sich recht fröhlich ist;",
+                  "Leuchte mir, o Freudenlicht;",
+                  "Eh mir mein Herze bricht;",
+                  "Laß mich, HErr, an Dir erquicken,",
+                  "Jesu komm, laß Dich erblicken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 14, 1–12.",
+            "buch": "matthaeus",
+            "kapitel": 14,
+            "verse": "1-12"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wachet im Geiste;",
+              "Denn ganz nahe ist der HErr unser Gott."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Warum willst Du.",
+            "strophen": [
+              {
+                "links": [
+                  "Freu dich, Herz, du bist erhöret,",
+                  "Jetzo kommt und zeucht Er ein!",
+                  "Sein Gang ist zu dir gekehret,",
+                  "Heiß Ihn nun willkommen sein,",
+                  "Und bereite dich Ihm zu,",
+                  "Gib dich ganz in Seine Ruh,",
+                  "Oeffne dein Gemüt und Seele,",
+                  "Klag Ihm was dich drück und quäle."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wende Dich zu uns, o HErr,",
+              "Und vergiß nicht, zu Deinen Knechten zu kommen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 42, 1–4.",
+            "buch": "jesaja",
+            "kapitel": 42,
+            "verse": "1-4"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr unser Richter, der HErr unser König,",
+              "Er Selbst wird kommen und uns erwecken."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 11, 13–16.",
+            "buch": "hebraeer",
+            "kapitel": 11,
+            "verse": "13-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum willst Du",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Seines Himmels güldne Decke",
+                  "Spannt Er um dich rings herum,",
+                  "Daß dich fort nicht mehr erschrecke",
+                  "Deines Feindes Ungestüm;",
+                  "Seine Engel stellen sich",
+                  "Dir zu Seiten: wenn du dich",
+                  "Hier willst oder hinwenden,",
+                  "Tragen sie dich auf den Händen."
+                ],
+                "rechts": [
+                  "Alles dient zu deinem Frommen",
+                  "Was Dir bös und schädlich scheinet,",
+                  "Weil dich Christus angenommen",
+                  "Und es treulich mit dir meinet.",
+                  "Bleibest Du Dem wieder treu,",
+                  "Ist's gewiß und bleibt dabei,",
+                  "Daß du mit den Engeln droben",
+                  "Ihn dort ewig werdest loben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Freuet euch mit Jerusalem und seid fröhlich über sie,",
+              "Alle, die ihr sie lieb habt, ewiglich."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_fr",
+      "titel": "Quatember-Freitag nach dem 3. Advent",
+      "wochentag": "freitag",
+      "seiten": [
+        184,
+        187
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Bleibet fest,",
+              "So werdet ihr über euch schauen die Hilfe des HErrn."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott und HErr",
+            "melodie": "1",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Gott und HErr,",
+                  "Wie groß und schwer",
+                  "Sind mein begangne Sünden;",
+                  "Da ist Niemand der helfen kann",
+                  "In dieser Welt zu finden."
+                ],
+                "rechts": [
+                  "Lieb ich gleich weit",
+                  "Zu dieser Zeit",
+                  "Bis an der Welt ihr Ende,",
+                  "Und wollt los sein",
+                  "Des Kreuzes mein:",
+                  "Würd ich doch solchs nicht wenden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 17, 10–13.",
+            "buch": "matthaeus",
+            "kapitel": 17,
+            "verse": "10-13"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Leo",
+            "text": "Widmen wir der Tugend, was wir der Lust entziehen! Die Enthaltsamkeit des Fastenden werde zur Erquickung für den Armen! Mühen wir uns um den Schutz der Witwen, den Nutzen der Waisen, trösten wir die Traurigen, versöhnen wir die Streitenden! Es finde Aufnahme der Fremdling, Hilfe der Bedrängte, Kleidung der Nackte, Pflege der Kranke! So wird ein Jeder von uns, indem Er Gott, dies Liebeswerk als Opfer von seiner rechtschaffenen Arbeit dargebracht hat, würdig werden, von Ihm dem Sohn des Himmelreichs zu empfangen."
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach Gott und HErr.",
+            "strophen": [
+              {
+                "links": [
+                  "Solls ja so sein,",
+                  "Daß Straf und Pein",
+                  "Auf Sünde folgen müssen,",
+                  "So fahr ich fort",
+                  "Und schone dort",
+                  "Und laß mich hier wohl büßen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Zu Dir, o HErr, habe ich meine Seele erhoben;",
+              "Komm, und erlöse mich, HErr! Du bist meine Zuflucht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 1, 11–18.",
+            "buch": "jesaja",
+            "kapitel": 1,
+            "verse": "11-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich will aufschauen zum HErren,",
+              "Und Gott meinen Heiland erwarten."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 2, 1–8.",
+            "buch": "hebraeer",
+            "kapitel": 2,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott und HErr",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib, HErr, Geduld,",
+                  "Vergaß die Schuld,",
+                  "Verleih ein g'horsam Herze;",
+                  "Laß mich nur nicht",
+                  "Wies wohl geschieht,",
+                  "Mein Heil murrend verscherzen."
+                ],
+                "rechts": [
+                  "Handle mit mir",
+                  "Wies dünket Dir,",
+                  "Durch Dein Gnad will ichs leiden;",
+                  "Laß mich nur nicht",
+                  "Dort ewiglich",
+                  "Von Dir sein abgeschieden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, unser Gott und Vater, siehe uns gnädig an, wenn wir vor Dir auf unserm Angesicht daliegen und beten. Wir bekennen Dir alle unsre Sünde und Schuld. Obrigkeit und Untertan, Staat und Kirche, Gemeinde und Haus, Seele und Leib: Alle haben gesündiget und sich versündiget vor Dir. Wir bitten aber: Du wollest mit uns nicht ins Gericht gehen, sondern uns gnädiglich vergeben. Laß eine neue Kraft von oben in unsre Herzen kommen, daß wir erneuert werden im Innersten unsers Lebens. Vor allem gib Deiner Kirche auf Erden lebendigen Glauben, starken Mut, heilige Demut, daß ihre Arbeit an dem Herzen des Volkes mit Freuden Frucht finden und schaffen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_3_sa",
+      "titel": "Quatember-Sonnabend nach dem 3. Advent (bezw. 17. Dezember)",
+      "wochentag": "sonnabend",
+      "seiten": [
+        187,
+        191
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Schauet doch, wie herrlich Der ist,",
+              "Der auftritt zur Erlösung der Völker."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "38"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Aus tiefer Not",
+            "melodie": "18/19",
+            "strophen": [
+              {
+                "links": [
+                  "Aus tiefer Not schrei ich zu Dir,",
+                  "HErr Gott, erhör mein Rufen!",
+                  "Dein gnädig Ohren kehr zu mir",
+                  "Und meiner Bitt sie öffne!",
+                  "Denn so Du willst das sehen an",
+                  "Was Sünd und Unrecht ist getan,",
+                  "Wer kann, HErr, vor Dir bleiben!"
+                ],
+                "rechts": [
+                  "Bei Dir gilt nichts denn Gnad und Gunst,",
+                  "Die Sünde zu vergeben,",
+                  "Es ist doch unser Tun umsunst",
+                  "Auch in dem besten Leben.",
+                  "Vor Dir Niemand sich rühmen kann,",
+                  "Des muß Dich fürchten Jedermann",
+                  "Und Deiner Gnade leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 14–16.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "14-16"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "1. Klemensbrief",
+            "text": "Ein jeglicher möge sich seinem Nächsten unterordnen, Brüder, aus was für Gabe er begründet ist. Der Starke soll für den Schwachen sorgen, und der Schwache auf den Starken achten; der Reiche soll dem Armen Hilfe bieten, und der Arme Gott Dank sagen, daß ihm einer gegeben ist, durch dessen Mangel ihm geholfen werden kann; der Weise soll seine Weisheit nicht durch Worte, sondern auch in guten Werken an den Tag legen; der Demütige soll nicht sich selber loben, sondern sich von einem andern loben lassen; wer rein ist am Fleische, soll nicht prahlen, sondern erkennen, daß es ein anderer ist, der ihm die Kraft zur Enthaltsamkeit verleiht. Laßt uns doch bedenken, Brüder, aus was für Stoff wir geworden sind, wer wir waren und was für eine Art wir hatten, als wir in die Welt eintraten, aus welchem Grabe und welcher Finsternis heraus uns unser Schöpfer und Bildner in seine Welt einführte, in der Er Seine Wohltaten für uns bereitet hatte, ehe wir geboren waren. Da wir nun dies alles von Ihm haben, müssen wir Ihm allenthalben Dank sagen, daß Ihm sei die Herrlichkeit in alle Ewigkeit. Amen."
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Aus tiefer Not.",
+            "strophen": [
+              {
+                "links": [
+                  "Darum auf Gott will hoffen ich,",
+                  "Auf mein Verdienst nicht bauen;",
+                  "Auf Ihn mein Herz soll lassen sich",
+                  "Und Seiner Güte trauen,",
+                  "Die mir zusagt Sein wertes Wort:",
+                  "Das ist mein Trost und treuer Hort,",
+                  "Des will ich allzeit harren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Groß wird Sein Reich sein,",
+              "Und des Friedens kein Ende."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sirach 24, 1–16.",
+            "buch": "",
+            "kapitel": 24,
+            "verse": "1-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Schicke Dich, Israel,",
+              "Und begegne Deinem Gott."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 5, 12–6, 5.",
+            "buch": ""
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Weisheit, hervorgegangen aus dem Höchsten Munde, die du reichest von einem Ende zum andern und stark und milde alles ordnest:",
+              "Komm, und lehr uns den Weg der Weisheit."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Du großer und heiliger Gott willst nicht den Tod des Sünders, sondern daß er sich bekehre und lebe. Erleuchte uns mit dem Lichte Deines Wortes, daß wir unsre Schuld bekennen und Buße tun. Zeige uns auch den verborgenen Bann in unserm Herzen, und wir verdorben und verdammt, wenn wir ihn nicht brechen. Wir sind oft friedlos und unbezeugt, weil eine heimliche Sünde uns bedrückt. Aber es wird uns so schwer zu bekennen, noch schwerer zu kämpfen wider das Böse, und zu siegen. Hilf uns dazu zur Aufrichtigkeit im Bekennen und zum Heldenmut im heiligen Streite. Mache uns los von allem Mammonsgeiz. Behüte die Reichen vor Geiz und die Armen vor Neid. Laß uns in Deinem Reiche unsern Schatz und in Christo, Deinem Sohne, unser höchstes Gut finden und suchen.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

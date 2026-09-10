@@ -1,0 +1,1294 @@
+{
+  "id": "advent_2",
+  "titel": "Die zweite Adventswoche",
+  "kirchenzeit": "advent",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "advent_2_so",
+      "titel": "Der zweite Sonntag im Advent",
+      "wochentag": "sonntag",
+      "seiten": [
+        136,
+        142
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: In den Wolken des Himmels wird der HErr kommen,",
+              "Mit großer und herrlicher Macht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80",
+              "2"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott hat das Evangelium",
+            "strophen": [
+              {
+                "links": [
+                  "Gott hat das Evangelium",
+                  "Gegeben, daß wir werden frumm;",
+                  "Die Welt acht solchen Schatz nicht hoch,",
+                  "Der mehrer Teil fragt nicht darnach:",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ],
+                "rechts": [
+                  "Man rühmet das Evangelium,",
+                  "Und will doch Niemand werden frumm;",
+                  "Fürwahr, man spott' der lieben Gott.",
+                  "Noch sprechen sie: Es hat kein Not!",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ]
+              },
+              {
+                "links": [
+                  "Man fragt nichts nach der guten Lehr,",
+                  "Der Geiz und Wucher nun vielmehr",
+                  "Hat überhand genommen gar.",
+                  "Noch sprechen sie: Es hat kein Fahr!",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ],
+                "rechts": [
+                  "Es ist doch eitel Büberei;",
+                  "Die Welt treibt große Schinderei,",
+                  "Als ob kein Gott im Himmel wär;",
+                  "Die Armut muß sich leiden sehr:",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Wir haben ein festes prophetisches Wort, Hallelujah!",
+              "Und tut wohl, daß ihr darauf achtet. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 21, 25–36.",
+            "buch": "lukas",
+            "kapitel": 21,
+            "verse": "25-36"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Ich schaue im nächtlichen Gesicht, und siehe: In den Wolken des Himmels kommt der Menschensohn, und Ihm wird gegeben Ehre und Reich."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Und alle Völker Stämme und Zungen dienen Ihm."
+                ]
+              },
+              {
+                "art": "text",
+                "inhalt": "Seine Macht ist eine ewige Macht, die nicht von Ihm genommen wird, und Sein Reich wird nicht zerstört."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ehre sei . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Gregor",
+            "text": "„Alles Fleisch wird den Heiland Gottes sehen.“ Unter „allem Fleisch“ werden alle Menschen verstanden. Nun können aber nicht alle Menschen den Heiland Gottes, das ist: Jesum Christum, in diesem Leben schauen. Wohin anders also richtet sich an dieser Stelle der Prophet sein sehendes Auge als auf jenen letzten Gerichtstag? An diesem Tage werden die Himmel offen sein, sitzen die Apostel mit zu Gericht, und Christus wird auf dem Throne Seiner Herrlichkeit erscheinen. Alle Auserwählten und alle Verbannten werden Ihn da schauen: die Gerechten, um sich von da an ihres Lohnes zu freuen, die Ungerechten aber, um ewig über ihre Strafe zu seufzen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: der HErr wird kommen, der HErr der Erde,",
+              "Und Er wird wegnehmen unsers Kerkers Joch."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, Der Du durch Deinen Sohn uns gnädiglich geoffenbaret hast, wie Himmel und Erde vergehen, unsre Leiber wieder aufstehen, und wir Alle vor Gericht gestellet werden sollen: wir bitten Dich von Herzen, Du wollest Deinen heiligen Geist uns in Deinem Worte und rechtem Glauben erhalten, und vor Sünden gnädiglich behüten, in aller Anfechtung erhalten und trösten, uns Gnade geben, daß unsre Herzen nicht mit irdischer Sorge beschweret, sondern allezeit wachen und beten, und in gewisser Zuversicht Deiner Gnaden die Zukunft Deines Sohnes mit Freuden erwarten und ewig selig werden; durch Denselben Deinen Sohn, Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "sondertext",
+            "titel": "De adventu Domini",
+            "absätze": [
+              "Vox clara ecce intonat, / Obscura quaeque increpat; / Pellantur eminus somnia; / Ab aethere Christus promicat. || Hört einer hellen Stimme Klang! / Sie tönet durch die Nacht entlang; / Und weckt die Schläfer traumumhüllt: / Am Himmel strahlet Christi Bild.",
+              "Mens jam resurgat torpida / Quae sorde exstat saucia; / Sidus refulget jam novum / Ut tollat omne noxium. || Erstarrter Geist, erheb dich jetzt, / Vom Schlag des Schicksals schwer verletzt; / Es leuchtet nun ein neuer Stern / Und hält Verderben von dir fern.",
+              "Exsurgens agnus mittitur, / Laxare gratis debitum, / Omnes pro indulgentia / Vocem demus cum lacrimis. || Vom Himmel ward das Lamm gesandt, / Zu lösen deiner Sünden Band; / Laßt all uns in Barmherzigkeit / Mit Wort und Tränen flehen heut.",
+              "Secundo ut cum fulserit / Mundumque horror cinxerit, / Non pro reatu puniat / Sed pius nos tunc protegat. || Damit, wenn Er noch einmal glüht, / Und Schrecken alle Welt umzieht, / Er Strafe nicht nach Recht verhängt, / Und mild uns Seine Gnade schenkt."
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Strafe mich nicht in Deinem Zorn,",
+              "Und züchtige mich nicht in Deinem Grimm!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe, der HErr wird kommen und alle Seine Heiligen mit Ihm;",
+              "Zu der Zeit wird sein ein großes Licht."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33-80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Malachi 4.",
+            "buch": "maleachi",
+            "kapitel": 4,
+            "verse": "1-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Siehe, der HErr erscheint auf lichter Wolke, und alle Seine Heiligen mit Ihm.",
+                  "Auf Seinem Gewand und Seinem Gürtel steht geschrieben: Ein König aller Könige."
+                ]
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Er kommt gewiß und trüget nicht;",
+                  "Wenn Er verzieht, so harre Seiner.",
+                  "Denn Er kommt, Er kommt!",
+                  "Und tausend . . . Herren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, wir bitten: erwecke unsre Herzen, Deinem Eingeborenen Sohn den Weg zu bereiten, auf daß wir durch Seine Zukunft Dir mit gereinigtem Herzen dienen mögen; Der mit Dir in Einigkeit des Heiligen Geistes . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Himmel und Erde werden vergehen,",
+              "Aber Gottes Wort bleibt ewiglich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 15, 4–13.",
+            "buch": "roemers",
+            "kapitel": 15,
+            "verse": "4-13"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Erzeige uns, o HErr, Deine große Barmherzigkeit, und schenke uns Dein Heil. Ehre sei . . . HErr, gedenke unser nach Deiner Gnade, beweise uns Deine Hilfe."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott hat das Evangelium",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die liebe Sonne kann nicht mehr,",
+                  "Zusehn und sich entsetzen sehr;",
+                  "Darum verliert sie ihren Schein.",
+                  "Das mag ein große Trübsal sein:",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ],
+                "rechts": [
+                  "Der Mond und Sterne ängsten sich,",
+                  "Und ihr Gestalt sieht jämmerlich;",
+                  "Wie gern sie wollten werden frei",
+                  "Von solcher großen Bilderei!",
+                  "Das ist ein Zeichen vor dem jüngsten Tag."
+                ]
+              },
+              {
+                "links": [
+                  "Drum komm, lieber HErre Christ!",
+                  "Das Erdreich überdrüßig ist,",
+                  "Zu tragen solche Höllenbränd;",
+                  "Drum machs einmal mit ihr ein End,",
+                  "Und laß uns sehn den lieben jüngsten Tag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Die Blinden sehen, die Toten stehen auf,",
+              "Den Armen wird das Evangelium gepredigt."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Gott, wecke uns auf, daß wir bereit seien, wenn Dein Sohn kommt, Ihn mit Freuden zu empfangen, und Dir mit reinem Herzen zu dienen; durch Denselbigen Deinen Sohn, Jesum Christum, unsern HErrn.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_mo",
+      "titel": "Montag nach dem 2. Advent",
+      "wochentag": "montag",
+      "seiten": [
+        142,
+        147
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Erhebe, Jerusalem, deine Augen, und schaue die königliche Macht;",
+              "Sieh: Der Heiland kommt, von deinen Banden dich zu lösen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "15"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist gewißlich an der Zeit",
+            "melodie": "48",
+            "strophen": [
+              {
+                "links": [
+                  "Es ist gewißlich an der Zeit,",
+                  "Daß Gottes Sohn wird kommen,",
+                  "In Seiner großen Herrlichkeit,",
+                  "Zu richten Bös' und Frommen.",
+                  "Dann wird das Lachen werden teur,",
+                  "Wenn alles Böß vergeht im Feur,",
+                  "Wie Petrus davon schreibet."
+                ],
+                "rechts": [
+                  "Posaunen wird man hören gehn",
+                  "An aller Welt ihr Ende;",
+                  "Darauf bald werden auferstehn",
+                  "All Toten gar behende.",
+                  "Die aber noch das Leben han,",
+                  "Die wird der HErr von Stunden an",
+                  "Verwandeln und erneuen."
+                ]
+              },
+              {
+                "links": [
+                  "Danach wird man ablesen bald",
+                  "Ein Buch, darin geschrieben",
+                  "Was alle Menschen jung und alt",
+                  "Auf Erden han getrieben.",
+                  "Da denn gewiß ein Jedermann",
+                  "Wird hören was er hat getan",
+                  "In seinem ganzen Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 17, 20–30.",
+            "buch": "lukas",
+            "kapitel": 17,
+            "verse": "20-30"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Bernhard",
+            "text": "Es ist würdig, liebe Brüder, daß man den Advent des HErrn andächtig begeht, erfreut über solche Tröstung, erstaunt ob solcher Herablassung, entflammt von solcher Liebe. Aber denkt nicht an jenen Advent, wo Er kam, zu suchen und selig zu machen was verloren war, sondern auch an den Advent, wo Er kommen und uns zu Sich nehmen wird. Diese beiden Arme des Bräutigams Christus, zwischen denen ruhend die Braut, die Kirche, im Hohenliede spricht: Seine Linke ist unter meinem Haupte, und Seine Rechte herzt mich. Denn in Seiner Linken sind, wie es an einer andern Stelle heißt, Reichtum und Herrlichkeit; in Seiner Rechten aber die Länge der Tage. Ihr Kinder Adams, was wollt ihr mit irdischen Reichtümern und zeitlicher Herrlichkeit, die doch wahr noch euer sind?"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Vom Himmel kommt der HErr der Herren,",
+              "Und in Seiner Hand ist Ehre und Macht."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Jesu, mach uns treu und gewissenhaft in unserm Beruf. Laß uns in aller irdischen Arbeit, die wir zu tun haben, Fleiß beweisen. Behüte uns davor, daß wir über dem Träumen vom Jenseits unsere Christenpflicht vergessen. Aber laß uns auch der Ewigkeit allezeit in heiliger Andacht gedenken. Wir warten auf Deine Zukunft und wollen Dir zujauchzen, wenn Du kommst. Aber wir bitten Dich: Du wollest uns nicht Tag und Stunde Deiner Wiederkunft auszurechnen suchen lassen, wie Du es verboten hast. Laß uns allezeit wachend und betend erfunden werden.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es ist gewißlich an der Zeit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O weh demselben, welcher hat",
+                  "Des HErren Wort verachtet,",
+                  "Und nur auf Erden früh und spat",
+                  "Nach großem Gut getrachtet!",
+                  "Der wird fürwahr gar kalt bestehn,",
+                  "Und mit dem Satan müssen gehn",
+                  "Von Christo in die Hölle."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: des HErrn Name kommt von ferne,",
+              "Und Seine Klarheit erfüllet den Erdkreis."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 3, 1–7.",
+            "buch": "1_mose",
+            "kapitel": 3,
+            "verse": "1-7"
+          },
+          {
+            "typ": "gebet",
+            "text": "Der Tod ist furchtbar mächtig; aber allmächtig bist Du, HErr; und Der Du uns die Sehnsucht, das Verlangen eines neuen Lebens und seliger Benutzung unsrer Zeit gewirkt hast: Du kannst und willst auch das Vollbringen geben. Heiliger heiliger Gott, heiliger starker Gott, heiliger allmächtiger Heiland, Du ewiger Gott: laß uns nicht sinken in der schweren Not der Trägheit, sondern laß uns in Dein Leben siegen.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Petri 1, 3–11.",
+            "buch": "2_petrus",
+            "kapitel": 1,
+            "verse": "3-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu, hilf zur selben Zeit",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu, hilf zur selben Zeit",
+                  "Von wegen Deiner Wunden,",
+                  "Daß ich im Buch der Seligkeit",
+                  "Werd angezeichnet funden;",
+                  "Daran ich denn auch zweifle nicht,",
+                  "Dann Du ja meinen Feind gericht",
+                  "Und meine Schuld bezahlet."
+                ],
+                "rechts": [
+                  "Derhalben mein Fürsprecher sei,",
+                  "Wenn Du nun wirst erscheinen,",
+                  "Und lies mich aus dem Buche frei,",
+                  "Und darinnen jehn die Deinen,",
+                  "Auf daß ich, samt den Brüdern mein,",
+                  "Mit Dir im Himmel ein",
+                  "Den Du uns hast erworben."
+                ]
+              },
+              {
+                "links": [
+                  "O Jesu Christ, Du machst es lang",
+                  "Mit Deinem jüngsten Tage;",
+                  "Den Menschen wird auf Erden bang",
+                  "Von wegen vieler Plage.",
+                  "Komm doch, komm doch, Du Richter groß,",
+                  "Und mach uns in Genaden los",
+                  "Von allem Uebel. Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: es kommt der König, der HErr der Erde,",
+              "Und Er wird lösen das Joch unserer Knechtschaft."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Auch Du betest, Hoherpriester, HErr Jesu, König, Des wir harren! Auch Du betest, daß Deine Braut bereitet, Deine Heiligen versammelt werden und der Tag Deiner Hochzeit komme. Gelobet seist Du, daß Du betest! Höre uns, HErr! Bete für uns Alle! Wenn wir nicht beten, nicht mehr beten, müde werden, nicht mehr beten mögen, wenn wir sterben, wenn wir zu Dir kommen, wenn Du Selber kommst: ach bete allezeit für uns arme Sünder, daß wir den letzten Wehen entfliehen, daß wir würdig werden, vor Dir zu stehen und Dein Angesicht ewiglich zu sehen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_di",
+      "titel": "Dienstag nach dem 2. Advent",
+      "wochentag": "dienstag",
+      "seiten": [
+        147,
+        151
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: es kommt die Fülle der Zeiten,",
+              "In welcher Gott Seinen Sohn auf Erden gesandt hat."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "37"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr lieben Christen, freut euch nun",
+            "melodie": "Auch A. M. 149",
+            "strophen": [
+              {
+                "links": [
+                  "Ihr lieben Christen, freut euch nun,",
+                  "Bald wird erscheinen Gottes Sohn,",
+                  "Der unser Bruder worden ist,",
+                  "Das ist der lieb HErr Jesus Christ.",
+                  "Der jüngste Tag ist nun nicht fern:",
+                  "Komm, Jesu Christ, lieber HErr!",
+                  "Kein Tag vergeht auch nicht die Stund,",
+                  "Und wollten gern bald Dir bekannt."
+                ],
+                "rechts": [
+                  "Du treuer Heiland, Jesu Christ,",
+                  "Dieweil die Zeit erfüllet ist,",
+                  "Die uns verkündet Daniel,",
+                  "So komm, lieber Immanuel!",
+                  "So warten wir nun auch der Stund",
+                  "Und bitten Dich von Herzensgrund:",
+                  "Du wollest nicht ausbleiben lang,",
+                  "Und straf einmal die alte Schlang."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 3, 1–14.",
+            "buch": "lukas",
+            "kapitel": 3,
+            "verse": "1-14"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es wird eine Rute aufgehen von dem Stamm Isai's,",
+              "Und alles Fleisch wird die Herrlichkeit des HErrn sehen."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ihr lieben Christen, freut euch nun",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ihr lieben Christen, freut euch nun,",
+                  "Dein Kinder warten all,",
+                  "Wann doch einmal die Welt zerfall",
+                  "Und wann des Teufels Reich verge,",
+                  "Und er in ewgen Schanden steh."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr wird kommen und nicht säumen;",
+              "Die Tiefe der Erde wird Er erhellen und wird Sich bezeugen vor allen Heiden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 3, 8–13.",
+            "buch": "1_mose",
+            "kapitel": 3,
+            "verse": "8-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: unser HErr kommt mit Macht,",
+              "Und erleuchtet die Augen Seiner Diener. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "124"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 2, 12–24.",
+            "buch": "roemers",
+            "kapitel": 2,
+            "verse": "12-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr lieben Christen, freut euch nun",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die Welt kann nun nicht länger stehn,",
+                  "Ist schwach und alt: sie muß vergehn;",
+                  "Sie kracht an allen Orten sehr,",
+                  "Und kann die Last nicht tragen mehr."
+                ],
+                "rechts": [
+                  "Die alten Väter wart'ten all,",
+                  "Wenn Du erscheinst mit großem Schall,",
+                  "Mit aller lieben Engel Schar,",
+                  "Drauf wart'ten sie manch hundert Jahr."
+                ]
+              },
+              {
+                "links": [
+                  "Die Kreatur nicht länger kann",
+                  "Der Eitelkeit sein untertan",
+                  "Und wollt gern wieder werden frei",
+                  "Vons Feindes Mord und Heuchelei."
+                ],
+                "rechts": [
+                  "Eil, lieber HErr, eil zum Gericht,",
+                  "Laß sehn Dein herrlich Angesicht:",
+                  "Das Wesen der Dreifaltigkeit",
+                  "Mit Dir in Ewigkeit."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_mi",
+      "titel": "Mittwoch nach dem 2. Advent",
+      "wochentag": "mittwoch",
+      "seiten": [
+        151,
+        155
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Jerusalem, freue dich sehr;",
+              "Denn es kommt zu dir der Heiland. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "46"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gottes Sohn ist kommen",
+            "strophen": [
+              {
+                "links": [
+                  "Gottes Sohn ist kommen",
+                  "Uns allen zu frommen",
+                  "Hier auf diese Erden",
+                  "In armen Gebärden,",
+                  "Daß Er uns von Sünde",
+                  "Freiet und entbinde."
+                ],
+                "rechts": [
+                  "Die sich Sein nicht schämen",
+                  "Und Sein Dienst annehmen",
+                  "Durch ein rechten Glauben,",
+                  "Mit ganzem Vertrauen:",
+                  "Denen wird Er eben",
+                  "Ihre Sünd vergeben."
+                ]
+              },
+              {
+                "links": [
+                  "Er kommt auch noch heute",
+                  "Und lehret die Leute,",
+                  "Wie sie sich von Sünden",
+                  "Zur Buß sollen wenden,",
+                  "Von Irrtum und Torheit",
+                  "Treten zu der Wahrheit."
+                ],
+                "rechts": [
+                  "In den Sakramenten",
+                  "Denn Er tut ihn'n schenken",
+                  "Sich selber zur Speisen,",
+                  "Sein Lieb zu beweisen,",
+                  "Daß Sein Sein genießen",
+                  "In ihrem Gewissen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 13, 18–27.",
+            "buch": "lukas",
+            "kapitel": 13,
+            "verse": "18-27"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: Ich sende Meinen Engel vor Dir her,",
+              "Der Meinen Weg vor Dir bereiten soll."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gottes Sohn ist kommen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gottes Sohn ist kommen,",
+                  "Die also verbleiben",
+                  "Und beständig bleiben",
+                  "Dem HErren in allem",
+                  "Trachten zu gefallen,",
+                  "Die werden mit Freuden",
+                  "Auch von hinnen scheiden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 13, 1–13.",
+            "buch": "jesaja",
+            "kapitel": 13,
+            "verse": "1-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Suchet den HErrn, solange Er zu finden ist;",
+              "Rufet Ihn an, solange Er nahe ist. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "129"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 3, 19–26.",
+            "buch": "apostelgeschichte",
+            "kapitel": 3,
+            "verse": "19-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gottes Sohn ist kommen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Denn bald und behende",
+                  "Kommt Er zu dem Ende,",
+                  "Ihre Seel erlösen,",
+                  "Und sie mit Ihm führen",
+                  "Zu der Engel Chören."
+                ],
+                "rechts": [
+                  "Da wird Er sie scheiden:",
+                  "Die Frommen zur Freuden,",
+                  "Die Bösen zur Höllen,",
+                  "In peinliche Stellen,",
+                  "Wo sie ewig müssen",
+                  "Ihr Untugend büßen."
+                ]
+              },
+              {
+                "links": [
+                  "Von dannen Er kommen,",
+                  "Wie denn wird vernommen,",
+                  "Wenn die Toten werden",
+                  "Erstehn von der Erden",
+                  "Und zu Seinen Füßen",
+                  "Sich darstellen müssen."
+                ],
+                "rechts": [
+                  "Ei nun, HErre Jesu,",
+                  "Schick unsre Herzen zu,",
+                  "Daß wir, alle Stunden,",
+                  "Rechtgläubig erfunden,",
+                  "Darinnen verscheiden,",
+                  "Zu ewigen Freuden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Zion, du wirst neu erstehen und deinen Gerechten schauen,",
+              "Der da kommen wird ist in dir."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_do",
+      "titel": "Donnerstag nach dem 2. Advent",
+      "wochentag": "donnerstag",
+      "seiten": [
+        155,
+        158
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: unser HErr kommt mit Macht;",
+              "Er macht helle die Augen Seiner Knechte. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lob sei dem allmächtigen Gott",
+            "melodie": "157",
+            "strophen": [
+              {
+                "links": [
+                  "Lob sei dem allmächtigen Gott,",
+                  "Der Sich unser erbarmet hat,",
+                  "Gesandt Sein allerliebsten Sohn,",
+                  "Aus Ihm geborn im höchsten Thron,"
+                ],
+                "rechts": [
+                  "O große Gnad und Gütigkeit!",
+                  "O tiefe Lieb und Mildigkeit!",
+                  "Gott tut ein Werk, das Ihm kein Mann,",
+                  "Auch kein Engel verdanken kann."
+                ]
+              },
+              {
+                "links": [
+                  "Auf daß Er unser Heiland würd,",
+                  "Uns freiet von der Sünden Bürd,",
+                  "Und durch Seine Gnad und Wahrheit",
+                  "Führet zur ewigen Klarheit."
+                ],
+                "rechts": [
+                  "Des Vaters Wort von Ewigkeit,",
+                  "Wird Fleisch in aller Reinigkeit;",
+                  "Das A und O, Anfang und End,",
+                  "Gibt sich in groß Elend."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 42–48.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "42-48"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Du bist es, Der da kommen soll, o HErr, Den wir erwarten,",
+              "Daß Du selig machest Dein Volk."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lob sei dem allmächtigen",
+            "strophen": [
+              {
+                "links": [
+                  "Lob sei dem allmächtigen.",
+                  "O weh dem Volk, das Dich verachtet,",
+                  "Der Gnad sich nicht teilhaftig macht,",
+                  "Nicht hören will des Sohnes Stimm;",
+                  "Denn auf ihm bleibet Gottes Grimm."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 9, 1–4.",
+            "buch": "jesaja",
+            "kapitel": 9,
+            "verse": "1-4"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 5, 1–11.",
+            "buch": "1_thessalonicher",
+            "kapitel": 5,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Lob sei dem allmächtigen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O Mensch, wie: daß Du nicht verstehst",
+                  "Und dem König entgegen gehst,",
+                  "Der Dir so ganz demütig kommt,",
+                  "Und Sich so treulich dein annimmt?"
+                ],
+                "rechts": [
+                  "Unterwirf Ihm deine Vernunft",
+                  "In dieser gnadenreichen Zukunft,",
+                  "Untergib Seiner Heiligkeit",
+                  "Die Werk Deiner Gerechtigkeit."
+                ]
+              },
+              {
+                "links": [
+                  "Ei, nimm Ihn heut mit Freuden an,",
+                  "Bereit Ihm deines Herzens Bahn,",
+                  "Auf daß Er komm in dem Gemüt,",
+                  "Und du genießest Seiner Güt!"
+                ],
+                "rechts": [
+                  "Sein erste Zukunft in die Welt",
+                  "Ist in sanftmütiger Gestalt;",
+                  "Die andre wird erschrecklich sein,",
+                  "Den Gottlosen zu großer Pein."
+                ]
+              },
+              {
+                "links": [
+                  "Die aber jetzt in Christo stehn,",
+                  "Werden alsdann zur Freuden gehn",
+                  "Und besitzen der Engel Chör,",
+                  "Daß sie kein Uebel mehr berühr."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_fr",
+      "titel": "Freitag nach dem 2. Advent",
+      "wochentag": "freitag",
+      "seiten": [
+        158,
+        162
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Stadt unserer Stärke, Zion, der Heiland wird dir Mauer und Turm sein;",
+              "Oeffnet die Thore, denn der HErr ist mit uns. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "79"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ruft uns die Stimme",
+            "melodie": "152",
+            "strophen": [
+              {
+                "links": [
+                  "Wachet auf, ruft uns die Stimme",
+                  "Der Wächter sehr hoch auf der Zinne;",
+                  "Wach auf, du Stadt Jerusalem!",
+                  "Mitternacht heißt diese Stunde;",
+                  "Sie rufen uns mit hellem Munde:",
+                  "Wo seid ihr, klugen Jungfrauen?",
+                  "Wohlauf, der Bräutigam kommt!",
+                  "Steht auf, die Lampen nehmt!",
+                  "Halleluja!",
+                  "Macht euch bereit",
+                  "Zu der Hochzeit,",
+                  "Ihr müsset Ihm entgegen gehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 24, 29–31.",
+            "buch": "matthaeus",
+            "kapitel": 24,
+            "verse": "29-31"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr Kleinmütigen, werdet stark!",
+              "Siehet: unser HErr kommt!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wachet auf",
+            "strophen": [
+              {
+                "links": [
+                  "Zion hört die Wächter singen:",
+                  "Das Herz tut ihr vor Freuden springen;",
+                  "Sie wachet und steht eilend auf.",
+                  "Ihr Freund kommt vom Himmel prächtig,",
+                  "Von Gnaden stark, von Wahrheit mächtig,",
+                  "Ihr Licht wird hell, ihr Stern geht auf.",
+                  "Nun komm, Du werte Kron,",
+                  "HErr Jesu, Gottes Sohn!",
+                  "Hosianna!",
+                  "Wir folgen All",
+                  "Zum Freudensaal",
+                  "Und halten mit das Abendmahl."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 7, 4–14.",
+            "buch": "2_samuel",
+            "kapitel": 7,
+            "verse": "4-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 6, 13–16.",
+            "buch": "1_timotheus",
+            "kapitel": 6,
+            "verse": "13-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gloria sei Dir gesungen,",
+                  "Mit Menschen- und englischen Zungen,",
+                  "Mit Harfen und mit Zymbeln schön.",
+                  "Von zwölf Perlen sind die Pforten",
+                  "An Deiner Stadt; wir sind Konsorten",
+                  "Der Engel hoch um Deinen Thron.",
+                  "Kein Aug hat je gespürt,",
+                  "Kein Ohr hat mehr gehört",
+                  "Solche Freude:",
+                  "Des sind wir froh,",
+                  "Io, io!",
+                  "Ewig in dulci jubilo."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Singet dem HErrn ein neues Lied;",
+              "Seinen Ruhm an der Welt Ende."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_2_sa",
+      "titel": "Sonnabend nach dem 2. Advent",
+      "wochentag": "sonnabend",
+      "seiten": [
+        162,
+        164
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: der HErr erscheint und trüget nicht; wenn Er verzieht, so harre Sein;",
+              "Denn Er kommt und säumet nicht. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "106"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es wird schier der letzte Tag herkommen",
+            "strophen": [
+              {
+                "links": [
+                  "Es wird schier der letzte Tag herkommen,",
+                  "Denn die Bosheit hat sehr zugenommen:",
+                  "Was Christus hat vorgesagt,",
+                  "Das wird jetzt beklaget."
+                ],
+                "rechts": [
+                  "Laßt uns in den Bund des HErrn treten,",
+                  "Und darinnen stets wachen und beten,",
+                  "Denn der letzte Tag geht her,",
+                  "Kommt uns immer näher."
+                ]
+              },
+              {
+                "links": [
+                  "Viel falsche Propheten sind erstanden,",
+                  "Ja noch Rotten und Sekten vorhanden,",
+                  "Die mit ihrer Tat und Lehr",
+                  "Der Welt schaden befahren."
+                ],
+                "rechts": [
+                  "Die Welt mehret sich in Sünd und Torheit",
+                  "Und trachtet zu dämpfen Gottes Wahrheit,",
+                  "Der HErr wirds lassen geschehen,",
+                  "Ihr also zusehen."
+                ]
+              },
+              {
+                "links": [
+                  "Aber wenn sie meint, sie hab bekommen",
+                  "Und sei allem Unglück entronnen,",
+                  "Wirds ihr erst mit aller Macht",
+                  "Kommen hundertfach."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 13, 19–25.",
+            "buch": "markus",
+            "kapitel": 13,
+            "verse": "19-25"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der HErr wird ein Panier aufwerfen unter den Völkern,",
+              "Und die Zerstreuten in Israel sammeln."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es wird schier",
+            "strophen": [
+              {
+                "links": [
+                  "Große Plag wird sie plötzlich umgeben,",
+                  "Und ihr alle Schöpfung widerstreben;",
+                  "Dann wird Christus kommen frei,",
+                  "Daß Er Richter sei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 5, 21–25.",
+            "buch": "jesaja",
+            "kapitel": 5,
+            "verse": "21-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Petri 2, 1–9.",
+            "buch": "2_petrus",
+            "kapitel": 2,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Es wird schier",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Aber zu den Gottlosen sei sprechen?",
+                  "Nun wohlan, ihr werdet mit euch rechnen,",
+                  "Warum habt ihr Meinen Bund",
+                  "Genommen in Mund?"
+                ],
+                "rechts": [
+                  "Aber Sein Volk, von diesen scheiden,",
+                  "Wird Er führen zu himmlischen Freuden,",
+                  "Wo es, wie der Sonnenschein,",
+                  "Ewiglich wird sein."
+                ]
+              },
+              {
+                "links": [
+                  "Damit werden sie zur Höllen müssen",
+                  "Und daselbst ihr Untugend büßen",
+                  "In unaussprechlicher Pein,",
+                  "In ewig Pein sein."
+                ],
+                "rechts": [
+                  "Ei nun, HErre, steh uns bei auf Erden",
+                  "Und bereit uns, daß wir würdig werden,",
+                  "Zu schauen in Ewigkeit",
+                  "Deine Herrlichkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Vor Mir sollen alle Knie sich beugen,",
+              "Und alle Zungen mich preisen."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

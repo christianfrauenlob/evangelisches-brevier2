@@ -1,0 +1,1215 @@
+{
+  "id": "advent_4",
+  "titel": "Die vierte Adventswoche",
+  "kirchenzeit": "advent",
+  "reihe": 4,
+  "band": 1,
+  "tage": [
+    {
+      "id": "advent_4_so",
+      "titel": "Der vierte Sonntag im Advent",
+      "wochentag": "sonntag",
+      "seiten": [
+        191,
+        195
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Nahe ist schon der HErr; kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: Er kommt, Den die Völker ersehnten;",
+              "Und das Haus Gottes wird voll Seiner Herrlichkeit. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19",
+              "148"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun komm, der Heiden Heiland",
+            "melodie": "113",
+            "strophen": [
+              {
+                "links": [
+                  "Nun komm, der Heiden Heiland,",
+                  "Der Jungfrau Kind erkannt,",
+                  "Daß sich wunder alle Welt,",
+                  "Gott solch Geburt Ihm bestellt."
+                ],
+                "rechts": [
+                  "Nicht von Mannsblut noch von Fleisch,",
+                  "Allein von dem Heiligen Geist",
+                  "Ist Gottes Wort worden ein Mensch",
+                  "Und blüht ein Frucht Weibesfleisch."
+                ]
+              },
+              {
+                "links": [
+                  "Der Jungfrau Leib schwanger ward,",
+                  "Doch blieb Keuschheit rein bewahrt,",
+                  "Leucht hervor manch Tugend schön:",
+                  "Gott da war in Seinem Thron."
+                ],
+                "rechts": [
+                  "Er ging aus der Kammer Sein,",
+                  "Dem königlichen Saal so rein:",
+                  "Gott von Art und Mensch, ein Held,",
+                  "Sein Weg Er zu laufen eilt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Das ist das Zeugnis, welches zeugete Johannes:",
+              "Der ist's, Der nach mir kommt, Der vor mir gewesen ist."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 1, 19–28.",
+            "buch": "johannes",
+            "kapitel": 1,
+            "verse": "19-28"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Laßt schallen die Posaune in Zion, rufet die Heiden, verkündet den Völkern und sprecht: Siehe: es kommt der HErr unser Heiland.",
+                  "Verkündet es, und laßt sie es hören, sprecht und rufet:",
+                  "Siehe: es kommt der HErr unser Heiland."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löbe",
+            "text": "Das ist das Zeugnis Johannis und kein anderes. So spricht er von Christo, so spricht die ganze heilige Kirche von uns nach, gegenwärtig, mitten unter uns, nach Seiner Allgegenwart, — von Ewigkeit her, nach Seinem Wesen, — im Kommen, nach Seiner Gnade — das ist, was Johannes, sie die Kirche erkennt. So sehen wir im Glauben unsern HErrn und fallen mit Johannes vor Ihm nieder in dieser Zeit des Advents, da unsre Augen, unsre Herzen gen Ihm gerichtet sind und Seiner harren."
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, wir danken Dir von Herzen, daß Du die selige gnadenreiche Taufe durch den heiligen Täufer Johannes hast erstlich angerichtet und hernach auch zu derselben kommen lassen, in welcher Du um Deines Sohnes Jesu Christi willen Vergebung der Sünden, den heiligen Geist und das ewige Leben schenkest: wir bitten Dich, erhalte uns in solchem Vertrauen und gib, daß wir an solcher Zusage nimmermehr zweifeln, sondern derselben in aller Anfechtung uns trösten und endlich felig werden . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun komm, der Heiden Heiland.",
+            "strophen": [
+              {
+                "links": [
+                  "Sein Lauf kam vom Vater her",
+                  "Und kehrt wieder zum Vater,",
+                  "Fuhr hinunter zu der Höll",
+                  "Und wieder zu Gottes Stuhl."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Was ungleich ist, soll eben,",
+              "Und was höferig ist, soll schlicht werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 129-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 18, 15–19.",
+            "buch": "5_mose",
+            "kapitel": 18,
+            "verse": "15-19"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Es wird das Szepter von Juda nicht entwendet werden, noch der Stab des Herrschers von seinen Füßen, bis daß der Held komme; und Demselben werden die Völker anhangen."
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: es wird kommen die Fülle der Zeiten,",
+              "In der Gott Seinen Sohn auf Erden gesandt hat."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 4, 4–7.",
+            "buch": "philipper",
+            "kapitel": 4,
+            "verse": "4-7"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Stadt Jerusalem, weine nicht; denn der HErr hat Erbarmen mit dir; und Er wird von dir wegnehmen alle Trübsal."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Siehe: der HErr kommt mit Macht, und Sein Arm wird herrschen.",
+                  "Und Er wird . . . Trübsal.",
+                  "Ehre sei . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun komm, der Heiden Heiland.",
+            "strophen": [
+              {
+                "links": [
+                  "Der Du bist dem Vater gleich,",
+                  "Führ hinaus den Sieg im Fleisch,",
+                  "Daß Dein ewig Gottesgewalt",
+                  "In uns das kranf Fleisch enthalt."
+                ],
+                "rechts": [
+                  "Dein Krippen glänzt hell und klar,",
+                  "Die Nacht gibt ein neu Licht dar;",
+                  "Dunkel muß nicht kommen drein,",
+                  "Der Glaub bleib immer im Schein."
+                ]
+              },
+              {
+                "links": [
+                  "Lob sei Gott dem Vater getan,",
+                  "Lob sei Gott Seinem Eingen Sohn,",
+                  "Lob sei Gott dem Heilgen Geist,",
+                  "Immer und in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O HErr und Herzog des Hauses Israel, Der Du dem Mose im Feuer des brennenden Dornbusches erschienen bist und dass ihm auf dem Sinai das Gesetz gegeben:",
+              "Komm, und erlöß' uns mit aufgehobenem Arm!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, wir bitten Dich: erwecke Deine Kraft und komm und hilf uns mit großer Macht, auf daß alles was unsre Sünden verhindern durch die Hilfe Deiner Gnade wiederum erstattet werde; Der Du . . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_mo",
+      "titel": "Montag nach dem 4. Advent (bezw. 19. Dezember)",
+      "wochentag": "montag",
+      "seiten": [
+        195,
+        198
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, heilger Schöpfer, aller Stern (Conditor alme siderum)",
+            "strophen": [
+              {
+                "links": [
+                  "Gott, heilger Schöpfer aller Stern,",
+                  "Erleucht uns, die wir sein so fern,",
+                  "Zu kennen Deinen wahren Christ,",
+                  "Der für uns Mensch geworden ist."
+                ],
+                "rechts": [
+                  "Da sich die Welt zum Abend wandt,",
+                  "Der Bräutgam Christus ward bekannt",
+                  "Aus Seiner Mutter Kämmerlein,",
+                  "Die Jungfrau blieb ganz zart und rein."
+                ]
+              },
+              {
+                "links": [
+                  "Denn es ging Dir zu Herzen sehr,",
+                  "Daß wir gefangen warn so schwer,",
+                  "Und sollten ewig Todes sein:",
+                  "Drum nahmst Du auf Dich Schuld und Pein."
+                ],
+                "rechts": [
+                  "Beweisest hat Er Seine Gewalt,",
+                  "Daß es in aller Welt erschallt;",
+                  "Sich müssen beugen alle Knie",
+                  "Im Himmel, Hölle, und auch hie."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 1, 15–18.",
+            "buch": "johannes",
+            "kapitel": 1,
+            "verse": "15-18"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Thomas von Kempen",
+            "text": "O Du wahrhaft himmlische Gnade! Ohne Dich hat kein eigenes Verdienst, keine Naturgabe ein Gewicht. Ohne Deine Gnade, o HErr, hat keine Kunst, keine Wissenschaft, kein Reichtum, keine Schönheit, keine Stärke, kein noch so großer Verstand, keine Beredsamkeit einen Wert. Denn die Gaben der Natur haben alle böse Menschen mit einander gemein. Aber die besondere Gabe der Auserwählten ist Deine Gnade und die heilige Liebe, das Unterscheidungszeichen aller Derer, die das ewige Leben zu erwerben gewürdigt werden. Laß mich, ich bitte Dich, o HErr, laß mich Gnade finden vor Deinen Augen! Deine Gnade sei mir die Stärke. Sie schafft Rat und Hilfe."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Tut Buße!",
+              "Das Himmelreich ist nahe herbeigekommen. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir scheuen die schwere Arbeit des Wegbereitens nicht; aber gib Du, Der Du mitten unter uns stehst, uns die Kraft, daß wir Deinen Weg bereiten; und komm dann, komm bald, HErr Jesu.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott, heilger Schöpfer.",
+            "strophen": [
+              {
+                "links": [
+                  "Alls was durch Ihn geschaffen ist,",
+                  "Dem gibt Er Kraft Leben und Frist",
+                  "Nach Seines Willens Ordnung zwar,",
+                  "Ihn zu erkennen offenbar."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 33, 14–17.",
+            "buch": "jeremia",
+            "kapitel": 33,
+            "verse": "14-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 1, 1–4.",
+            "buch": "1_johannes",
+            "kapitel": 1,
+            "verse": "1-4"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, heilger Schöpfer",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wir bitten Dich, HErr Jesu Christ,",
+                  "Weil Du zukünftig Richter bist,",
+                  "Lehr mich, daß ich Dein'n Willen tu",
+                  "Und in dem Glauben nehme zu"
+                ],
+                "rechts": [
+                  "Lob Preis sei, Vater, Deiner Kraft,",
+                  "Deinm zarten Sohn, der All Ding schafft,",
+                  "Im Wesen der Dreieinigkeit",
+                  "Mit dem Geist Deiner Heiligkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Du Wurzelsproß Jesses, der Du dastehst ein Wahrzeichen für die Völker, vor Dem die Könige jauchzend schweigen, Den die Völker anflehn:",
+              "Komm und befreie uns; verzieh nicht länger!"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_di",
+      "titel": "Dienstag nach dem 4. Advent (bezw. 20. Dezember)",
+      "wochentag": "dienstag",
+      "seiten": [
+        198,
+        202
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "59"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott sei Dank durch alle Welt",
+            "strophen": [
+              {
+                "links": [
+                  "Gott sei Dank durch alle Welt,",
+                  "Der Sein Wort beständig hält",
+                  "Und der Sünder Trost und Rat",
+                  "Zu uns hergesendet hat."
+                ],
+                "rechts": [
+                  "Zions Hilf und Abrams Lohn,",
+                  "Jakobs Heil, der Jungfrau Sohn,",
+                  "Der wohlgeweissagte Held",
+                  "Hat sich treulich eingestellt."
+                ]
+              },
+              {
+                "links": [
+                  "Was der alten Väter Schar",
+                  "Höchster Wunsch und Sehnung war,",
+                  "Und was sie geprophezeit:",
+                  "Ist erfüllt nach Herrlichkeit."
+                ],
+                "rechts": [
+                  "Sei willkommen, o mein Heil,",
+                  "Dir Hosanna, o mein Teil!",
+                  "Richte Du auch eine Bahn",
+                  "Dir in meinem Herzen an."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 3, 22–36.",
+            "buch": "johannes",
+            "kapitel": 3,
+            "verse": "22-36"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wohlauf, wohlauf!",
+              "Zeuch Macht an, Du Arm des HErrn!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott sei Dank.",
+            "strophen": [
+              {
+                "links": [
+                  "Zeuch, Du Ehrenkönig, ein,",
+                  "Es gehört Dir alleine;",
+                  "Mach es, wie Du gerne tust,",
+                  "Rein von aller Sünden Wust."
+                ],
+                "rechts": [
+                  "Und gleich wie Dein Zukunft war",
+                  "Voller Sanftmut, ohn Gefahr:",
+                  "Also sei auch jederzeit",
+                  "Deine Sanftmut mir bereit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 9, 1–16.",
+            "buch": "1_mose",
+            "kapitel": 9,
+            "verse": "1-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 5, 1–14.",
+            "buch": "hebraeer",
+            "kapitel": 5,
+            "verse": "1-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott sei Dank",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Tröste, tröste meinen Sinn,",
+                  "Weil ich schwach und blöde bin",
+                  "Und des Satans schlaue List",
+                  "Sich vor mir zu boch vermißt."
+                ],
+                "rechts": [
+                  "Tritt den Schlangenkopf entzwei,",
+                  "Daß ich aller Aengsten frei",
+                  "Dir im Glauben und in Not",
+                  "Selig bleibe zugetan."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Schlüssel Davids und Szepter des Hauses Israel: Wenn Du öffnest, kann Niemand zuschließen; wenn Du zuschließest, kann Niemand öffnen:",
+              "Komm und führ uns Gefesselte aus dem Hause der Knechtschaft, die wir sitzen in Finsternis und Schatten des Todes."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_mi",
+      "titel": "Mittwoch nach dem 4. Advent (bezw. 21. Dezember)",
+      "wochentag": "mittwoch",
+      "seiten": [
+        202,
+        205
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "48"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr Himmel tröpfelt (Verbum supernum prodiens)",
+            "strophen": [
+              {
+                "links": [
+                  "Ihr Himmel, tröpfelt Tau in Eil,",
+                  "Ihr Wolken, regnet lauter Heil;",
+                  "Nimm, Erde, wahr der Gnadenzeit,",
+                  "Und blühe von Gerechtigkeit."
+                ],
+                "rechts": [
+                  "Brich, Lebenssonne, durch die Luft,",
+                  "Leucht hitzig durch die Erdenluft;",
+                  "Die Berge stürzen schon ins Grab,",
+                  "Die schmelzen wie ein Wachs herab."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 8, 12–14.",
+            "buch": "johannes",
+            "kapitel": 8,
+            "verse": "12-14"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Fürchtet euch nicht!",
+              "In vier Tagen kommt zu euch der HErr."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ihr Himmel, tröpfelt.",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, komm, o edler Kirchentau,",
+                  "Befruchte diese Trübsals-Au;",
+                  "Und nimm das Fleisch der Menschen an.",
+                  "Ich setze den Verzug hinan."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 32, 1–6.",
+            "buch": "5_mose",
+            "kapitel": 32,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 3, 14–22.",
+            "buch": "offenbarung",
+            "kapitel": 3,
+            "verse": "14-22"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ihr Himmel, tröpfelt.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wir dorren: netz uns am Gemüt,",
+                  "Verbind uns das verrenkte Glied,",
+                  "Erlaß uns Sünden unsre Schuld",
+                  "Und schenk uns Deine Himmelshuld."
+                ],
+                "rechts": [
+                  "Wie kommts? Die Nacht ist ohne Nacht?",
+                  "Vielleicht weil sich der Tag hernacht.",
+                  "Ja ja: die wahre Sonne scheint,",
+                  "Indem sich Gott mit uns vereint."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Du Aufgang, Glanz des ewigen Lichtes und Sonne der Gerechtigkeit:",
+              "Komm und erleuchte Die da sitzen in Finsternis und Schatten des Todes."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_do",
+      "titel": "Donnerstag nach dem 4. Advent (bezw. 22. Dezember)",
+      "wochentag": "donnerstag",
+      "seiten": [
+        205,
+        208
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "69"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heidenheiland, Lösegeld",
+            "strophen": [
+              {
+                "links": [
+                  "Komm, Heidenheiland, Lösegeld!",
+                  "Komm, schönste Lilie dieser Welt!",
+                  "Laß abwärts flammen Deinen Schein,",
+                  "Denn so will Gott geboren sein."
+                ],
+                "rechts": [
+                  "Nicht von des Mannes Kraft noch Lieb,",
+                  "Ach nein: bloß durch des Geistes Trieb",
+                  "Empfängt die keusche Jungfrau hier —",
+                  "Es wohnt ein göttlich Heil in ihr."
+                ]
+              },
+              {
+                "links": [
+                  "Komm an: Dir steht der Keuschheitsthron;",
+                  "Schon offen, Jesu, Gottes Sohn;",
+                  "Komm an, mit tiefer Demut Held,",
+                  "Geh mutig durch dies Tal der Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 11, 11–15.",
+            "buch": "matthaeus",
+            "kapitel": 11,
+            "verse": "11-15"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Tröstet, tröstet Mein Volk,",
+              "Spricht der HErr, euer Gott."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Komm, Heidenheiland.",
+            "strophen": [
+              {
+                "links": [
+                  "Du nahmest erdwärts Deinen Lauf",
+                  "Und stiegst auch wieder himmelauf;",
+                  "Dein Abfahrt war zum Höllental,",
+                  "Die Rückfahrt in den Sternensaal."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "76"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 32, 7–20.",
+            "buch": "5_mose",
+            "kapitel": 32,
+            "verse": "7-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 4, 8–13.",
+            "buch": "philipper",
+            "kapitel": 4,
+            "verse": "8-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "Komm, Heidenheiland.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O höchster Fürst, dem Vater gleich,",
+                  "Besieg hier dieses Fleisches Reich;",
+                  "Denn unsers siechen Leibes Kraft",
+                  "Sehnt sich nach Deiner Himmelskraft."
+                ],
+                "rechts": [
+                  "Es glänzt Deiner Krippen Strahl,",
+                  "Ein Licht leucht't durch dies finstre Tal;",
+                  "Es gibt die Nacht die hellen Schein,",
+                  "Der da wird unverlöschlich sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O König der Völker und ihr Ersehnter, Du Eckstein, Der beide Mauern vereinigt:",
+              "Komm und heile den Menschen, Den Du aus Erde gebildet hast."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_fr",
+      "titel": "Freitag nach dem 4. Advent (bezw. 23. Dezember)",
+      "wochentag": "freitag",
+      "seiten": [
+        208,
+        212
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Judäa und Jerusalem, ihr sollt euch nicht fürchten:",
+              "Morgen zieht aus, und der HErr wird mit euch sein. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wach auf, du werte Christenheit",
+            "melodie": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Wach auf, du werte Christenheit,",
+                  "Nimm wahr der freudenreichen Zeit;",
+                  "Dein Heil ist herbei kommen;",
+                  "Des Tages Licht ist wiederbracht,",
+                  "Vergangen ist die finstre Nacht,",
+                  "Die dir vorherm benommen."
+                ],
+                "rechts": [
+                  "Denn Gottes Sohn kommt uns zugut,",
+                  "Nimmt an Mariä Fleisch und Blut,",
+                  "Will unser Bruder werden;",
+                  "Bald wird bei uns dies Kindelein,",
+                  "Als wahrer Gott und Mensche sein,",
+                  "Und bringen Fried auf Erden."
+                ]
+              },
+              {
+                "links": [
+                  "Du Tochter Zion, freu dich sehr:",
+                  "Auf einem Esel kommt der HErr;",
+                  "Am Kreuze will Er sterben;",
+                  "Wohl dem, der seine Zuversicht",
+                  "Und Glauben auf Ihn hat gericht:",
+                  "Der wird das Reich erwerben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 12, 35–37.",
+            "buch": "johannes",
+            "kapitel": 12,
+            "verse": "35-37"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: nun ist Alles erfüllt,",
+              "Was der Engel von Maria gesagt hatte."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "sondertext",
+            "titel": "Hymnus de adventu Domini",
+            "absätze": [
+              "Veni redemptor gentium, / Ostende partum virginis, / Miretur omne saeculum: / Talis decet partus Deum. || Heiland der Völker, komm und zeig das Wunder, wie zur Welt Du kamst; Daß alle Zeit ist staunend seh: Geburt wie die hat Gott geziemet.",
+              "Alvus tumescit virginis, / Claustra pudoris permanent, / Vexilla virtutum micant, / Versatur in templo Deus. || Gesegnet wird der reine Leib, versiegelt mit Jungfräulichkeit; Der Tugend Fahnen glänzen hell, im keuschen Tempel weilet Gott.",
+              "Procedens de thalamo suo, / Pudoris aula regia, / Geminae gigas substantiae, / Alacris ut currat viam. || Aus Seiner Kammer schreitet Er, aus Seiner Königsburg; Ein Riese doppelter Natur, zu laufen mutig Seine Bahn.",
+              "Egressus ejus a Patre, / Regressus ejus ad Patrem, / Excursus usque ad inferos, / Recursus ad sedem Dei. || Von Seinem Vater ausgesandt, zu Seinem Vater rückgewandt, Entsendet bis zur Unterwelt, zurückgewandt zu Gottes Sitz.",
+              "Aequalis aeterno Patri, / carnis tropaeo accingere, / Infirma nostri corporis / Virtute firmans perpeti. || Dem ewgen Gott an Wesen gleich, legst Du des Fleisches Gürtel um, Den Schwächen unsrer Leiblichkeit mit ewger Tugend festigend.",
+              "Praesepe jam fulget tuum, / Lumenque nox spirat novum, / Quod nulla nox interpolet, / Fideque jugi luceat. || Schon glänzt Deine Krippe hell, ein neues Licht taucht aus der Nacht, Das keine Nacht je stören soll, im Glauben stets so leuchtbar sein.",
+              "Gloria tibi Domine, / Qui natus es de virgine, / Cum Patre et sancto Spiritu / In sempiterna saecula. || Preis sei, o HErr, und Ehre Dir, Der aus der Jungfrau du entstammt, Dir Vater, und Dir heilgen Geist, von Ewigkeit zu Ewigkeit."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Euch soll aufgehen die Sonne der Gerechtigkeit,",
+              "Und Heil unter Deselbigen Flügeln. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 45, 22–25.",
+            "buch": "jesaja",
+            "kapitel": 45,
+            "verse": "22-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Hebet eure Häupter auf,",
+              "Darum daß sich eure Erlösung nahet."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "141"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Korinther 2, 14–17.",
+            "buch": "2_korinther",
+            "kapitel": 2,
+            "verse": "14-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wach auf, du werte Christenheit",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Durch das gehörte Wort allein",
+                  "Kehrt Er bei jedem Christen ein,",
+                  "Ders nur recht nimmt zu Herzen;",
+                  "Wer nicht betracht't diesen Advent,",
+                  "Christum durchs Wort nicht recht erkennt,",
+                  "Der wird das Heil verscherzen."
+                ],
+                "rechts": [
+                  "Hilf, Vater, hilf Du wahres Licht,",
+                  "Wenn halten wird Dein Sohn Gericht,",
+                  "Daß wir wohl bestehen,",
+                  "Und wie die klugen Jungfräulein",
+                  "Mit Lampen schön geziert sein,",
+                  "Zur Hochzeit auch eingehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Immanuel, unser König und Herrscher, auf Den die Völker harrten, und ihr Erlöser:",
+              "Komm, uns zu erlösen, HErr unser Gott."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "advent_4_vigil",
+      "titel": "Vigil von Weihnachten (24. Dezember)",
+      "wochentag": "vigil",
+      "seiten": [
+        212,
+        217
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Heute sollt ihr wissen, daß der HErr kommt:",
+              "Und morgen werdet ihr Seine Herrlichkeit schauen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Erhebet eure Häupter;",
+              "Sehet: es naht eure Erlösung."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Willkommen, mein Heiland, Trost und Hort!",
+            "melodie": "157",
+            "strophen": [
+              {
+                "links": [
+                  "Willkommen, mein Heiland, Trost und Hort!",
+                  "Sieh: meines Herzens Ehrenpfort'",
+                  "Jhr Dir zu Diensten aufgericht,",
+                  "Ich hoff, HErr, Du verschmähst sie nicht.",
+                  "Ei nun, wohlan! So zieh herein:",
+                  "Du sollst herzlich willkommen sein.",
+                  "Du Friedensfürst, erfüll doch ganz",
+                  "Mein Herz mit Deinem Gnadenglanz."
+                ],
+                "rechts": [
+                  "Sieh: meines Herzens Ehrenpfort'",
+                  "Zumal wenn Du schaust dies Gebäu,",
+                  "Daß es ganz ist von Buß und Reu",
+                  "Zu Deinem Einzug ausgeziert",
+                  "Und durch den Glauben aufgeführt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Seid getrost und unverzagt, Hallelujah!",
+              "Ihr werdet sehen des HErrn Hilfe über euch. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 12, 28–32.",
+            "buch": "johannes",
+            "kapitel": 12,
+            "verse": "28-32"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heiligt euch heute und seid bereit; denn um morgigen Tage werdet ihr schauen die Hoheit Gottes unter euch. Heut sollt ihr wissen, daß der HErr kommen wird, und ihr werdet Seine Herrlichkeit sehen."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ehre sei . . ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Bernhard",
+            "text": "Ihr Erdgeborenen alle und ihr Menschenkinder, höret! Ihr, die ihr im Staube seid, wachet auf und lobet! Jhr, der Arzt zu den Kranken, der Erlöser zu den Schuldverhafteten; zu den Irrenden der Weg, zu den Toten das Leben. Es kommt zu euch der HErr, so in der Tiefen des Meeres all unsre Sünde versenkt heilt, für uns aus Seinen Schultern zurückgibt zu unsrer ursprünglichen und eigentlichen Würde, dazu noch mehr durch die Barmherzigkeit Grole, daß Der, der helfen konnte, gerade auf diese Weise wollte. Heute, so wißt ihr, daß Der, der helfen konnte, gerade auf diese Weise wollte. Heute, so wißt ihr, hat die Mutter Kirche nicht unpassend an die Vigil der Geburt des HErrn geknüpft; die Kirche, die stets bei sich mit Recht auf dem herzinnersten Thronsitz in erster Einle einnimmt und wahrt. Und morgen, so heißt es, werdet ihr Seine Herrlichkeit schauen. O morgen! O Tag, der du in den Vorhöfen des HErrn besser bist als sonst tausend Jahre."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn die Sonne aufgeht am Himmel, werdet ihr sehen den König der Könige,",
+              "Welcher hervorgeht vom Vater, wie ein Bräutigam aus seiner Kammer."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, unser Gott und Vater, Du hast uns Deinen Sohn gegeben, daß Er Geburt und Leben werde. Wir rüsten uns darauf, Seine heilige Geburt zu feiern. O, laß im kindlicher Einfalt den Weg nach Bethlehem finden, daß wir unsern Erlöser finden. Schenk uns dazu einen demütigen bußfertigen gläubigen Geist. Lehre uns, erleuchte unsre Herzen, daß wir unsre Armut und Deinen Reichtum, unsre Sünde und Deine Gnade erkennen. Deine Geburt ist unsre Wiedergeburt. Wir nahen uns Deiner Krippe und denken an Dein Kreuz. Komm, HErr Jesu! Immanuel, sei mit uns.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "sondertext",
+            "titel": "De nativitate Domini",
+            "absätze": [
+              "Dies est laetitia / In ortu regali / Nam processit hodie / De ventre virginali / Puer admirabilis, / Totus delectabilis, / In humanitate, / Qui inaestimabilis / Est et ineffabilis / In divinitate. || Heute ist der Freudentag, Da zur Welt Jesus lag, In der Jungfrau Armen lag, So der HErr erkoren, Als ein Knäblein wunderbar, Durch und durch rein, süß und klar, Menschlich an Gebärden, Dessen Gottesmajestät Aber alle Himmel geht, Die Er Selbst hieß werden.",
+              "Angelus pastoribus / Juxta suum gregem / Nocte vigilantibus / Natum coeli regem / Nuntiat cum gaudio / Jacentem in praesepio / Infantem pannosum / Angelorum dominum / Et prae natis hominum / Forma speciosum. || Tat bei Nacht ein Engelsmund Hirten auf der Weiden Die Geburt des Königs kund Mit viel tausend Freuden: Wie in reinen Windelein Als ein jauchend Kindelein Schlummere in der Krippen, Dem die Engel dienstbar sind, Schöner vor allem Menschenkind, Hold von Aug und Lippen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er sendet Erlösung Seinem Volke,",
+              "Und verheißet, daß Sein Bund ewiglich bleiben soll."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "93"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 23, 4–6.",
+            "buch": "jeremia",
+            "kapitel": 23,
+            "verse": "4-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Bleibet fest im Glauben, so werdet ihr schauen die Hilfe des HErrn über euch. Judäa und Jerusalem, fürchtet euch nicht. Morgen werdet ihr ausziehen, und der HErr wird mit euch sein."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Heiliget euch, ihr Kinder Israels, und seid bereit.",
+                  "Morgen . . . sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns alle Jahre wieder durch die Erwartung unseres Heils erfreuest: gib, daß wir Deinen Eingeborenen, Den wir als Erlöser mit Freude aufnehmen, auch als kommenden Richter mit Zuversicht anschauen, unsern HErrn Jesum Christum Deinen Sohn; Welcher mit Dir . . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "rubrik",
+            "inhalt": "Christvesper"
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Friedefürst ist hoch erhaben,",
+              "Dessen die ganze Erde ersehnt."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 1, 10–12.",
+            "buch": "1_petrus",
+            "kapitel": 1,
+            "verse": "10-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heiliget euch, ihr Kinder Israels, spricht der HErr; denn morgen wird der HErr eure Sündenschuld von der Erde tilgen, und der Heiland der Welt wird über uns herrschen."
+              },
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Und alle . . . wegnehmen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Dies ist die Nacht, da mir erschienen",
+            "melodie": "119",
+            "strophen": [
+              {
+                "links": [
+                  "Dies ist die Nacht, da mir erschienen",
+                  "Des großen Gottes Freundlichkeit,",
+                  "Das Kind, dem Engel dienen,",
+                  "Bringt Licht in meine Dunkelheit;",
+                  "Und dieses Welt- und Himmelslicht",
+                  "Weicht hunderttausend Sonnen nicht."
+                ],
+                "rechts": [
+                  "Laß dich erleuchten, meine Seele,",
+                  "Versäume nicht den Gnadenschein,",
+                  "Der Glanz in dieser kleinen Höhle",
+                  "Streckt sich in alle Welt hinein;",
+                  "Er treibt weg der Höllen Macht,",
+                  "Der Sünden und des Kreuzes Nacht."
+                ]
+              },
+              {
+                "links": [
+                  "Drum Jesu, schöne Weihnachtssonne,",
+                  "Bestrahle mich mit Deiner Gunst,",
+                  "Dein Licht sei meine Weihnachtswonne,",
+                  "Und lehre mich die Weihnachtskunst,",
+                  "Wie ich im Lichte wandeln soll,",
+                  "Und sei des Weihnachtsglanzes voll."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Aller Welt Ende soll sehen, Hallelujah, Hallelujah!",
+              "Das Heil unsers Gottes. Hallelujah, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Aufgehen wird wie die Sonne der Heiland der Welt,",
+              "Und eingehen in der Jungfrau Schoß, wie der Regen auf das Gras. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O lieber Gott, Der Du diese allerhöchste Nacht mit dem Schimmer des wahren Lichts helle und klar gemacht hast: wir bitten, Du wollest uns verleihen, daß wir das Geheimnis dieses Lichtes auf Erden erkannt haben, also auch seine Freude im Himmel genießen mögen; durch unsern HErrn . . .",
+            "amen": ""
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Die Geburt unsers HErrn Jesu Christi im Fleische",
+            "untertitel": "Altkirchliche Ankündigung",
+            "absätze": [
+              "Im Jahre 5199 seit der Erschaffung der Welt, da Gott im Anfang Himmel und Erde schuf; im Jahre 2759 seit der Sintflut; im Jahre 2015 seit Abrahams Geburt; im Jahre 1510 seit dem Auszuge des Volkes Israel unter Moses Führung aus Aegypten; im Jahre 1032, seit David zum König gesalbet war; in der 65. Jahreswoche nach Daniels Weissagung; in der 194. Olympiade; im Jahr 752 nach Erbauung der Stadt Rom; im 42. Jahre der Regierung des Oktavianus Augustus, da der Friede in der ganzen Welt herrschend war; im 6. Zeitalter der Weltgeschichte:",
+              "Da wollte Jesus Christus, ewiger Gott und Sohn des ewigen Vaters, die Welt durch Seine gnadenreiche Ankunft heiligen: Er war vom Heiligen Geiste empfangen worden; und nun nach Ablauf von neun Monaten ist Er zu Bethlehem im Stamme Juda als Mensch von Maria der Jungfrau geboren worden."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
