@@ -1,0 +1,162 @@
+{
+  "id": "am_4_januar",
+  "titel": "Am 4. Januar",
+  "kirchenzeit": "weihnachten",
+  "reihe": 13,
+  "band": 1,
+  "datum": "01-04",
+  "tage": [
+    {
+      "id": "am_4_januar",
+      "titel": "Am 4. Januar",
+      "wochentag": "fest",
+      "seiten": [
+        283,
+        285
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Abermal ein Jahr verflossen",
+            "melodie": "162",
+            "strophen": [
+              {
+                "links": [
+                  "Abermal ein Jahr verflossen",
+                  "Näher zur Ewigkeit;",
+                  "Wie ein Pfeil wird abgeschossen,",
+                  "So vergehet meine Zeit.",
+                  "O getreuer Zebaoth,",
+                  "Unveränderlich Gott,",
+                  "Ach was soll, was soll ich sagen,",
+                  "Deiner Langmut Dank zu sagen?"
+                ],
+                "rechts": [
+                  "Jch erschrecke, mächtig Wesen,",
+                  "Angst und Furcht bedeckt mich;",
+                  "Denn mein Beten, Singen, Lesen,",
+                  "Ach, das ist so schläferig.",
+                  "Heilig Heilig Heiliger,",
+                  "Großer Seraphinen HErr,",
+                  "Wehe mir: ich muß vergehen,",
+                  "Denn wer kann vor Dir bestehen?"
+                ]
+              },
+              {
+                "links": [
+                  "Aber Du bist auch sanftmütig:",
+                  "O getreuer Vaterherz:",
+                  "Jn dem Bürgen bist Du gütig,",
+                  "Der geübt des Todes Schmerz.",
+                  "Steh ich nicht in Deiner Hand",
+                  "Angezeichnet als ein Pfand,",
+                  "So Du ewig willst bewahren",
+                  "Vor des alten Drachen Scharen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 16, 1—4.",
+            "buch": "matthaeus",
+            "kapitel": 16,
+            "verse": "1-4"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Abermal ein Jahr verflossen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Auf, mein Herz, gib dich nun wieder",
+                  "Ganz dem Friedensfürsten dar;",
+                  "Opfre Dem der Seelen Lieder,",
+                  "Welcher krönet Tag und Jahr.",
+                  "Fang ein neues Leben an,",
+                  "Das dich endlich führen kann",
+                  "Mit Verlangen nach dem Sterben,",
+                  "Da Du wirst die Kron erwerben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 19, 1—8.",
+            "buch": "1_koenige",
+            "kapitel": 19,
+            "verse": "1-8"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "127"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jacobi 4, 13—17.",
+            "buch": "jakobus",
+            "kapitel": 4,
+            "verse": "13-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Abermal ein Jahr verflossen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Soll ich denn in dieser Hütten",
+                  "Mich noch eine Zeit lang plagen,",
+                  "So wirst Du mich überschütten",
+                  "Mit Geduld, das weiß ich doch,",
+                  "Setze denn dein Herz auf mich,",
+                  "Jesu Christe, Du und ich",
+                  "Wollen ewig treu verbleiben",
+                  "Und von Neuem uns verschreiben."
+                ],
+                "rechts": [
+                  "Jn dem Abend und dem Morgen,",
+                  "O mein Rat, besuche mich;",
+                  "Laß der Heiden Nahrungsorgen",
+                  "Nimmer scheiden mich und Dich;",
+                  "Prüf in jedem Augenblick",
+                  "Meine Nieren und mich schick,",
+                  "Schick mich, daß ich wachend stehe,",
+                  "Ehe denn ich schnell vergehe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Das Kind Jesus nahm zu an Alter und Weisheit",
+              "Bei Gott und den Menschen."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
