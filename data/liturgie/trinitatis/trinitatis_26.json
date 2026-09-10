@@ -1,0 +1,998 @@
+{
+  "id": "trinitatis_26",
+  "titel": "26. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "26. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        878,
+        881
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "93",
+              "100"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "So recht, mein Kind",
+            "untertitel": "eig. Jch bin ja hErr",
+            "strophen": [
+              {
+                "links": [
+                  "So recht, mein Kind, ergib dich Mir,",
+                  "Das Leben gab Jch anfangs dir,",
+                  "Bis hieher hab Jchs auch erhalten,",
+                  "Jch bins, Der dir den Odem gibt,",
+                  "Und wenn Jch Mir einmal beliebt,",
+                  "Wird auch dein siecher Leib erhalten.",
+                  "Doch wann du sollst sein ausgespannt,",
+                  "Das steht allein in Meiner Hand."
+                ],
+                "rechts": [
+                  "Hörst du gleich der Posaunen Ton,",
+                  "Und siehst du den Gerichtstag schon!",
+                  "Getrost, laß dichs doch nicht erschrecken,",
+                  "Hier wird mein Leiden und Geduld,",
+                  "Dort meines Vaters Gnad und Huld",
+                  "Dich mit dem Schild der Gnaden decken.",
+                  "Jch hab der Höllen Macht geschwächt;",
+                  "Jm Himmel ist dein Bürgerrecht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 25, 31—46.",
+            "buch": "matthaeus",
+            "kapitel": 25,
+            "verse": "31-46"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Es sei geliebt der HErr, Der unaustilgbar auf Erden gemacht den Armen und Reichen, und ebendamit unaustilgbar die Barmherzigkeit, die der Reiche dem Armen erweist, die der Arme vom Reichen in Demut annimmt. Gelobt sei Er, daß Er den Reichen im Armen den Reiz zur Barmherzigkeit, dem Armen im Reichen den Reiz zur Demut geschenkt hat! — Und selig ist der Knecht, den der HErr, wenn Er kommen wird, also im Tun, also in Werken der Barmherzigkeit, in treuem Geben, in demütigem betendem Nehmen findet! — HErr, offenbare uns Deine Barmherzigkeit, gieße sie aus in unsre Seele, auf daß wir barmherzig werden im Geben und im Beten. Amen.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger und gerechter Gott, Der Du einen großen Tag gesetzt hast, daran Du die Kreis des Erdbodens durch des Menschen Sohn Jesum Christum, vor Welchem alle Völker —, Tote und Lebendige — die je gewesen sind, versammelt werden müssen: wir bitten Dich demütiglich, Du wollest uns vor aller Heuchelei gnädiglich behüten, Gnade geben, im rechten Glauben und christlicher Liebe zu wandeln; und hilf, daß wir ein fröhlich Urteil erlangen, und in Dein ewig Reich eingehen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "So recht, mein Kind",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ja ja: Jch Gott, des Todes Tod,",
+                  "Jch helfe dir aus dieser Not,",
+                  "Wo alle Hilfe sonst verschwunden,",
+                  "Denn freilich hilft kein Geld noch Gut,",
+                  "Ja, durch vergoßnes Bruderblut",
+                  "Wird keine Rettung nicht gefunden (Psalm 49, 8).",
+                  "Doch wer Mich ruft im Glauben an,",
+                  "Da hat die Höll kein Macht daran."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 66, 21—24.",
+            "buch": "jesaja",
+            "kapitel": 66,
+            "verse": "21-24"
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, wir bitten Dich: erwecke den Willen Deiner Gläubigen, auf daß sie Deine göttlichen Werke willig vollbringen und Deine Gnaden reichlich empfangen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Thessalonicher 1, 3—10.",
+            "buch": "2_thessalonicher",
+            "kapitel": 1,
+            "verse": "3-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "So recht, mein Kind",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Recht so! An Dem, was Mir vertraut",
+                  "Und nur auf Mich im Glauben schaut,",
+                  "Kann Satan auch kein Anteil suchen.",
+                  "Jch bins, Der Missetat vergibt,",
+                  "Denn, wer da Mich von Herzen liebt,",
+                  "Und alle Sünden will verfluchen,",
+                  "Jch löse des Gesetzes Bann,",
+                  "Und nehme mich der Meinen an."
+                ],
+                "rechts": [
+                  "Wohlan, suchst du in Mir dein Heil,",
+                  "So sollst du als Mein wahres Teil",
+                  "Jn Meinem Schoß geruhig sitzen,",
+                  "Hier lache aller Angst und Not,",
+                  "Es mag dessen Höll und Tod",
+                  "Auf dich herdonnern oder blitzen,",
+                  "Verbleibst du nur im Leben Mein:",
+                  "Jm Tod wirst du keins Fremden sein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        881,
+        885
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "20"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Du siehest, Mensch, wie fort und fort",
+            "melodie": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Du siehest, Mensch, wie fort und fort",
+                  "Der Eine hier, der Andre dort",
+                  "Uns gute Nacht muß geben;",
+                  "Der Tod hält keinen andern Lauf,",
+                  "Uns sagt zuletzt die Wohnung auf",
+                  "Uns Allen, die wir leben."
+                ],
+                "rechts": [
+                  "Wir werden aus den Gräbern gehn,",
+                  "Und Alle vor Gerichte stehn,",
+                  "Das Christus Selbst wird hegen,",
+                  "Wenn auf der Engel Feldgeschrei",
+                  "Die Glut das große Weltgebäu",
+                  "Wird in die Asche legen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 19, 11—27.",
+            "buch": "lukas",
+            "kapitel": 19,
+            "verse": "11-27"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch wollt..",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jch wollt, daß ich daheim wär",
+                  "Und aller Welte Trost entbehr."
+                ]
+              },
+              {
+                "links": [
+                  "Jch mein: daheim im Himmelreich",
+                  "Da ich Gott schauet ewiglich."
+                ]
+              },
+              {
+                "links": [
+                  "Wohlauf, mein Seel, und richt dich dar:",
+                  "Da wartet dein der Engel Schar."
+                ]
+              },
+              {
+                "links": [
+                  "Da ist Gesundheit ohne Weh,",
+                  "Und währet heut und immer meh."
+                ]
+              },
+              {
+                "links": [
+                  "Da sind doch tausend Jahr als hüt,",
+                  "Und ist auch kein Verdrießen nit."
+                ]
+              },
+              {
+                "links": [
+                  "Wohlauf, mein Herz, und all mein Mut,",
+                  "Und such das Gut ob allem Gut."
+                ]
+              },
+              {
+                "links": [
+                  "Du hast doch hie kein Bleiben nit:",
+                  "Es sei morg'n, es sei hüt."
+                ]
+              },
+              {
+                "links": [
+                  "Da es denn anders nicht mag sein,",
+                  "So flieh der Welte falschen Schein."
+                ]
+              },
+              {
+                "links": [
+                  "Und laß dein Sünd und bessre dich",
+                  "Als wollst morg'n gen Himmelreich."
+                ]
+              },
+              {
+                "links": [
+                  "Ade, Welt! Gott gesegne dich,",
+                  "Jch fahr dahin gen Himmelreich."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Esra 3, 10—13.",
+            "buch": "esra",
+            "kapitel": 3,
+            "verse": "10-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 2, 8—11.",
+            "buch": "offenbarung",
+            "kapitel": 2,
+            "verse": "8-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, meine Zuversicht",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, meine Zuversicht,",
+                  "Jch laß Dein strenges Zorngericht,",
+                  "Ach laß es mir nicht schaden!",
+                  "Beut an den Vater den Vertrag,",
+                  "Damit ich freudig hören mag",
+                  "Den süßen Spruch der Gnaden."
+                ],
+                "rechts": [
+                  "Gib, daß ich mich bei gutem Sinn,",
+                  "Und weil ich noch bei Kräften bin,",
+                  "Zum Sterben fertig halte;",
+                  "Und nicht, o Jesu meine Lust,",
+                  "Begriffen in der Sünden Wust",
+                  "Zum ewgen Tod erkalte!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        885,
+        887
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast auf Erden",
+            "melodie": "69",
+            "strophen": [
+              {
+                "links": [
+                  "Jch bin ein Gast auf Erden,",
+                  "Und hab hier keinen Stand;",
+                  "Der Himmel soll mir werden,",
+                  "Da ist mein Vaterland.",
+                  "Hier reis ich aus und abe;",
+                  "Dort in der ewgen Ruh",
+                  "Jst Gottes Gnadengabe,",
+                  "Die schleußt all Arbeit zu."
+                ],
+                "rechts": [
+                  "Was ist mein ganzes Wesen,",
+                  "Von meiner Jugend an,",
+                  "Als Müh und Not gewesen?",
+                  "So lang ich denken kann,",
+                  "Hab ich so manchen Morgen,",
+                  "So manche liebe Nacht",
+                  "Mit Kummer und mit Sorgen",
+                  "Des Herzens zugebracht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 49—57.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "49-57"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast auf Erden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mich hat auf meinen Wegen",
+                  "Manch harter Sturm erschreckt;",
+                  "Blitz Donner Wind und Regen",
+                  "Hat mir manch Angst erweckt;",
+                  "Verfolgung Haß und Leiden,",
+                  "Ob ichs gleich nicht verschuldt,",
+                  "Hab ich doch müssen leiden",
+                  "Und tragen mit Geduld."
+                ],
+                "rechts": [
+                  "So gings den lieben Alten,",
+                  "An deren Fuß und Pfad",
+                  "Wir uns noch täglich halten,",
+                  "Wenns fehlt an gutem Rat.",
+                  "Wie mußte sich doch schmiegen",
+                  "Der Vater Abraham,",
+                  "Eh als sein Vergnügen",
+                  "Und rechte Wohnstatt kam!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 3, 14—17.",
+            "buch": "prediger",
+            "kapitel": 3,
+            "verse": "14-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 22, 11—15.",
+            "buch": "offenbarung",
+            "kapitel": 22,
+            "verse": "11-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast auf Erden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die frommen heilgen Seelen",
+                  "Die gingen fort und fort,",
+                  "Und änderten mit Quälen",
+                  "Den erstbewohnten Ort;",
+                  "Sie zogen hin und wieder,",
+                  "Jhr Kreuz war immer groß,",
+                  "Bis daß der Tod sie nieder",
+                  "Legt in des Grabes Schoß."
+                ],
+                "rechts": [
+                  "Jch habe mich ergeben",
+                  "Jn gleiches Glück und Leid;",
+                  "Was will ich besser leben",
+                  "Als solche große Leut?",
+                  "Es muß ja durchgedrungen,",
+                  "Es muß gelitten sein;",
+                  "Wer nicht hat wohl gerungen,",
+                  "Geht nicht zur Freud hinein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        887,
+        889
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "So will ich zwar nun treiben",
+                  "Mein Leben durch die Welt;",
+                  "Doch denk ich nicht zu bleiben",
+                  "Jn diesem fremden Zelt;",
+                  "Jch wandre meine Straßen,",
+                  "Die zu der Heimat führt,",
+                  "Da mich ohn alle Maßen",
+                  "Mein Vater trösten wird."
+                ],
+                "rechts": [
+                  "Mein Heimat ist dort oben,",
+                  "Da aller Engel Schar",
+                  "Den großen Herrscher loben,",
+                  "Der alles ganz und gar",
+                  "Jn Seinen Händen träget",
+                  "Und für und für erhält,",
+                  "Auch alles hebt und leget,",
+                  "Nach dems Jhm wohlgefällt."
+                ]
+              },
+              {
+                "links": [
+                  "Zu Dem steht mein Verlangen,",
+                  "Da wollt ich gerne hin;",
+                  "Die Welt bin ich durchgangen,",
+                  "Daß ichs fast müde bin.",
+                  "Je länger ich hier walle,",
+                  "Je weniger sind ich Lust,",
+                  "Die meinem Geist gefalle,",
+                  "Das meist ist eitel Wust."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Und Er wandte sich dort zu Seinen Jüngern und sprach: Das Gute muß kommen; und selig der Mensch, durch den es kommt. Gleicherweise muß auch das Böse kommen; aber wehe dem Menschen, durch den es kommt."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die Herberg ist zu böse,",
+                  "Der Trübsal ist zu viel;",
+                  "Ach komm, mein Gott, und löse",
+                  "Mein Herz, wenn Dein Herz will.",
+                  "Komm, mach ein selges Ende",
+                  "An meiner Wanderschaft;",
+                  "Und was mich kränkt, das wende",
+                  "Durch Deinen Arm und Kraft."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 4, 1—6.",
+            "buch": "prediger",
+            "kapitel": 4,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 8, 1—5.",
+            "buch": "offenbarung",
+            "kapitel": 8,
+            "verse": "1-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch bin ein Gast",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Du aber, meine Freude,",
+                  "Du meines Lebens Licht,",
+                  "Du zeuchst mich, wenn ich scheide,",
+                  "Hin vor Dein Angesicht;",
+                  "Jns Haus der ewgen Wonne,",
+                  "Da ists jederzeit freudenvoll",
+                  "Gleich als die helle Sonne",
+                  "Nebst Andern leuchten soll."
+                ],
+                "rechts": [
+                  "Da will ich immer wohnen,",
+                  "Und nicht mehr als ein Gast,",
+                  "Bei Denen, die mit Kronen",
+                  "Du ausgeschmücket hast.",
+                  "Du willt ich herrlich prangen",
+                  "Von Deinem großen Gut",
+                  "Und, frei von schnöden Dingen,",
+                  "Jn meinem Erbteil ruhn."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        890,
+        891
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie fleugt dahin der Menschen Zeit",
+            "melodie": "78",
+            "strophen": [
+              {
+                "links": [
+                  "Wie fleugt dahin der Menschen Zeit!",
+                  "Wie eilet man zur Ewigkeit!",
+                  "Wie Wenig denken an die Stund",
+                  "Von Herzensgrund,",
+                  "Wie schweigt hiervon der träge Mund!"
+                ],
+                "rechts": [
+                  "Nur Du, Jehovah, bleibest mir",
+                  "Das was Du bist; ich traue Dir.",
+                  "Laß Berg und Hügel fallen hin:",
+                  "Mir ist Gewinn,",
+                  "Wenn ich allein bei Jesu bin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Bittet um das Große, und das Kleine wird euch dazugegeben werden; und bittet um das Himmlische, und das Jrdische wird euch dazugegeben werden."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wie fleugt dahin",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "So lang ich in der Hütten wohn,",
+                  "Ei lehre mich, o Gottes Sohn!",
+                  "Gib, daß ich zähle meine Tag,",
+                  "Und munter wach,",
+                  "Daß, eh ich sterbe, sterben mag."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 4, 13—17.",
+            "buch": "prediger",
+            "kapitel": 4,
+            "verse": "13-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 8, 6—11.",
+            "buch": "offenbarung",
+            "kapitel": 8,
+            "verse": "6-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie fleugt dahin",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was hilft die Welt in letzter Not,",
+                  "Lust Ehr und Reichtum in dem Tod?",
+                  "O Mensch, du läufst dem Schatten zu,",
+                  "Bedenk es nu,",
+                  "Du kommst sonst nicht zu wahrer Ruh."
+                ],
+                "rechts": [
+                  "Weg Eitelkeit, der Narren Lust,",
+                  "Mir ist das höchste Gut bewußt,",
+                  "Das such ich nur, das bleibet mir,",
+                  "O mein Begier,",
+                  "HErr Jesu, zeuch mein Herz zu Dir."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        892,
+        893
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Freu dich sehr, o meine Seele",
+            "melodie": "162",
+            "strophen": [
+              {
+                "links": [
+                  "Freu dich sehr, o meine Seele,",
+                  "Und vergiß all Not und Qual,",
+                  "Weil dich nun Christus, dein HErre,",
+                  "Ruft aus diesem Jammertal:",
+                  "Aus Trübsal und großem Leid",
+                  "Sollst du fahren in die Freud,",
+                  "Die kein Ohr je hat gehöret,",
+                  "Und in Ewigfeit auch währet."
+                ],
+                "rechts": [
+                  "Tag und Nacht hab ich gerufen",
+                  "Zu dem HErren meinem Gott,",
+                  "Weil mich stets viel Kreuz betroffen,",
+                  "Daß Er mir hülf aus der Not;",
+                  "Wie sich sehnt ein Wandersmann,",
+                  "Daß sein Weg ein End mög han,",
+                  "So hab ich gewünschet eben,",
+                  "Daß sich enden mög mein Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Seliger ist wer gibt, als wer nimmt. Wehe Dem, der heuchlerisch nimmt! Denn Jeder, der nimmt, wird Gott Rechenschaft geben müssen am Tage des Gerichts. Es schwitze dein Almosen in deiner Hand, bis du weißt, wem du es geben kannst."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Freu dich sehr",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Drum, HErr Christ, Du Morgensterne,",
+                  "Der Du ewiglich aufgehst,",
+                  "Sei von mir jetzund nicht ferne,",
+                  "Weil mich Dein Blut hat erlöst;",
+                  "Hilf, daß ich mit Fried und Freud",
+                  "Mög von hinnen fahren heut,",
+                  "Ach sei Du mein Licht und Straße,",
+                  "Mich mit Beistand nicht verlasse."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 8, 5—9.",
+            "buch": "prediger",
+            "kapitel": 8,
+            "verse": "5-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 8, 12—13.",
+            "buch": "offenbarung",
+            "kapitel": 8,
+            "verse": "12-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "Freu dich sehr",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ob mir schon die Augen brechen,",
+                  "Das Gehöre ganz verschwindt,",
+                  "Meine Zung nicht mehr kann sprechen,",
+                  "Der Verstand sich nichts besinnt;",
+                  "Bist Du doch mein Licht und Hort,",
+                  "Leben Weg und Himmelspfort,",
+                  "Du wirst mich in Gnad regieren,",
+                  "Auf der rechten Bahn heimführen."
+                ],
+                "rechts": [
+                  "Laß Dein Engel mit mir fahren",
+                  "Auf Elias Wagen rot,",
+                  "Meine Seele wohl bewahren",
+                  "Wie Lazarum nach seinem Tod;",
+                  "Laß sie ruhn in Deinem Schoß,",
+                  "Und erfülle sie mit Trost,",
+                  "Bis der Leib kommt aus der Erden,",
+                  "Wird mit Dir vereinigt werden."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 26. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        894,
+        895
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "92"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Zeuch, Jsrael, zu deiner Ruh",
+            "melodie": "103",
+            "strophen": [
+              {
+                "links": [
+                  "Zeuch, Jsrael, zu deiner Ruh;",
+                  "Dein Erbteil ist dort oben.",
+                  "Dein Jesus schwöret es dir zu:",
+                  "Es sei dir aufgehoben.",
+                  "Er gehet Selber gar voran",
+                  "Und bricht die rauhe Pilgerbahn.",
+                  "Zeuch, Jsrael, in Frieden!"
+                ],
+                "rechts": [
+                  "Wir sehn auf Dich, Du A und O,",
+                  "Mit unverwandten Blicken;",
+                  "Dein Dasein macht uns immer froh,",
+                  "Dein Wort kann uns erquicken;",
+                  "Dein Kreuz ist unser Siegspanier,",
+                  "Wir schwören Treu und folgen Dir",
+                  "Durch diese öden Wüsteien."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Die viele im Geiste Gottes wandeln, die sind Kinder Gottes. Betrübet nicht den Heiligen Geist, Der in euch wohnt, und löschet das Licht nicht aus, das in euren Herzen leuchtet. Jede Sünde wird den Menschenkindern vergeben werden, aber die Lästerung des Geistes wird nicht vergeben werden. Und Jedem, der etwas wider den Menschensohn redet, wird vergeben werden; wem aber der Heilige Geist lästert, dem wird nicht vergeben werden; denn es werden falsche Christusse und falsche Lehrer aufstehen, die den Geist der Gnade lästern, und diese Gabe nach erfahrener Gnade verwerfen: Denen wird nicht vergeben werden weder in dieser Welt noch in der künftigen Welt."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Zeuch, Jsrael",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Man drückt uns — wir verzagen nicht,",
+                  "Man schilt uns — und wir segnen,",
+                  "Wir müssen auch nach unsrer Pflicht",
+                  "Den Feinden sanft begegnen,",
+                  "Wir sind der Welt hier unbekannt,",
+                  "Und haben doch ein Vaterland:",
+                  "Gott kennt uns als die Seinen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 9, 11—12.",
+            "buch": "prediger",
+            "kapitel": 9,
+            "verse": "11-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 9, 1—6.",
+            "buch": "offenbarung",
+            "kapitel": 9,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "Zeuch, Jsrael",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wenn noch ein Bann gefangen hält,",
+                  "Wer Jesu Kreuz noch fliehet,",
+                  "Wer noch durch Furcht vor dieser Welt",
+                  "Am fremden Joche ziehet,",
+                  "Und wer die Hand an Pflug gleich legt,",
+                  "Und doch verbotne Rück noch hegt,",
+                  "Der ist kein rechter Streiter."
+                ],
+                "rechts": [
+                  "Wir aber geben ganz um ganz,",
+                  "Verleugnen alle Sachen,",
+                  "Die uns den schönen Siegeskranz",
+                  "Noch können streitig machen,",
+                  "Und unsre Seele glaubet fest:",
+                  "Was man darum hier fahren läßt,",
+                  "Jst nicht wert jenes Erbes."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

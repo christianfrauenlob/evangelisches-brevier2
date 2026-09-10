@@ -1,0 +1,1007 @@
+{
+  "id": "trinitatis_21",
+  "titel": "21. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "21. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        775,
+        778
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "2",
+              "3"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, wie Du willst, so schicks mit mir",
+            "melodie": "18/19",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, wie Du willst, so schicks mit mir",
+                  "Jm Leben und im Sterben;",
+                  "Allein zu Dir",
+                  "Steht mein Begier,",
+                  "Laß mich, HErr, nicht verderben.",
+                  "Erhalt mich in Deiner Huld,",
+                  "Sonst, wie Du willst, gib mir Geduld,",
+                  "Denn Dein Will ist der beste."
+                ],
+                "rechts": [
+                  "Zucht Ehr und Treu verleih mir, HErr,",
+                  "Und lieb zu Deinem Worte;",
+                  "Behüt mich, HErr,",
+                  "Vor falscher Lehr,",
+                  "Und gib mir hier und dorte",
+                  "Was mir dienet zur Seligkeit;",
+                  "Wend ab all Ungerechtigkeit",
+                  "Jn meinem ganzen Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 4, 47—54.",
+            "buch": "johannes",
+            "kapitel": 4,
+            "verse": "47-54"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Auf das Wunder glaubte der Königische mit seinem ganzen Hause. Wir wollen uns zum Hause des Königischen rechnen und mit ihm glauben; ja ich getraue mich im Namen Mancher unter euch zu sagen: „Wir wollen nicht glauben — wir glauben schon mit ihm.“ HErr, stärke wir sieben die Unsrigen. Möge Es Denen gehen wie dem Hause, daß sie auch mit uns und des Glaubens leben! Das ist ein trauriges Jammerleben, wenn man in einem Hause allein glauben muß. Man glaubt sich doch viel Elend hindurch, auch durch eine ungläubige Frau, durch ungläubige Söhne und Töchter; aber der HErr sei uns gnädig, lasse uns unsre größten Erdengüter, unsere Kinder, im Glauben stehen und wandeln sehen, und vergönne uns, sie dermaleins einzuführen in die ewigen Hütten! Amen.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Königische bat Jesum,",
+              "Daß Er hinabkäme und hülfe seinem Sohn."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du durch Deinen Sohn Vergebung der Sünden, Gerechtigkeit und ewiges Leben uns hast verheißen, wir bitten Dich: Du wollest durch Deinen heiligen Geist unsre Herzen also führen und erwecken, daß wir solche Hilfe durch tägliches Gebet und sonderlich in allen Anfechtungen bei Jhm suchen, und durch einen rechten Glauben auf Seine Zusage und Wort auch gewiß finden und erlangen; durch Denselben . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der Du noch in der letzten Nacht",
+            "melodie": "118",
+            "strophen": [
+              {
+                "links": [
+                  "Der Du noch in der letzten Nacht,",
+                  "Eh Du für uns erblaßt,",
+                  "Den Deinen von der Liebe Macht",
+                  "So schön gepredigt hast:"
+                ],
+                "rechts": [
+                  "Erinnre Deine kleine Schar,",
+                  "Die sich so leicht entzweit,",
+                  "Daß Deine letzte Sorge war:",
+                  "Der Glieder Einigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33-80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 7, 17—29.",
+            "buch": "2_samuel",
+            "kapitel": 7,
+            "verse": "17-29"
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, wir bitten Dich: Du wollest Deine Versammlung mit stetiger Güte bewahren, auf daß sie durch Deinen Schutz vor allem Unglück frei und sicher seien und in allen Dingen Deinen Namen loben und ehren mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 6, 10—17.",
+            "buch": "epheser",
+            "kapitel": 6,
+            "verse": "10-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr und Aeltster Deiner Kreuzgenossen",
+            "melodie": "67",
+            "strophen": [
+              {
+                "links": [
+                  "HErr und Aeltster Deiner Kreuzgenossen,",
+                  "Die so unaussprechlich liebt,",
+                  "Und so oft mit gnadenvollem Blicke",
+                  "Freundlichkeit uns merken gibt:",
+                  "Siehest Du ihr stilles Herzenssehnen?",
+                  "Ihre Augen naß und rot?",
+                  "Ja, Du hoch gelobter Gott!"
+                ],
+                "rechts": [
+                  "Wenn ein Streiter, der in seinem Panzer",
+                  "Ehran grau geworden ist,",
+                  "Der Erfahrung nach auch immer ganzer,",
+                  "Und verwöhnet an Jesum Christ,",
+                  "Endlich teilhaft wird vor Gottes Throne",
+                  "Ihm zugedachten Ehrenkrone",
+                  "Wirft Sein Patriarchenblick",
+                  "Scham und Freud und Dank zurück."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Vater merkte, daß es um die Stunde wäre, in welcher Jesus zu ihm gesagt hatte:",
+              "Dein Sohn lebet! Und er glaubte mit seinem ganzen Hause."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Laß Dich versöhnen, o HErr, und schenk — wir bitten Dich darum — Deinen Gläubigen Vergebung und Frieden, damit sie von allen Sünden gereiniget werden und Dir mit ruhigem Geiste dienen können; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        779,
+        783
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "117"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lasset die Kindlein kommen",
+            "melodie": "150/151",
+            "strophen": [
+              {
+                "links": [
+                  "Lasset die Kindlein kommen",
+                  "Zu Mir, spricht Gottes Sohn;",
+                  "Sie sind Mein Freud und Wonne,",
+                  "Jch bin ihr Schild und Kron;",
+                  "Auch für die Kinderlein,",
+                  "Daß sie nicht wärn verloren,",
+                  "Bin Jch ein Kind geboren,",
+                  "Drum sie Mein eigen sein."
+                ],
+                "rechts": [
+                  "Drum nach Christi Verlangen",
+                  "Bringet die Kinder her,",
+                  "Damit sie Gnad erlangen,",
+                  "Niemand es ihnen wehr,",
+                  "Führet sie Christo zu:",
+                  "Legt sie in Seine Arme,",
+                  "Er will Sich ihr erbarmen;",
+                  "Darin sie finden Ruh."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 10, 13—16.",
+            "buch": "markus",
+            "kapitel": 10,
+            "verse": "13-16"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Dem, was wir gesagt haben (vom Glauben), wird man vielleicht die Taufe der Kinder entgegenhalten, die doch Gottes Verheißung noch nicht begreifen und den Glauben nicht haben können; daher entweder ungerecht, oder die Kinder würden ungerecht getauft. Hier sage ich: Es wird nicht einmal zur Hilfe des Glaubens erfordert, daß der Täufling selbst glaube, sondern es wird den Kleinen durch einen fremden Glauben geholfen; denn gleichwie das Wort Gottes, wenn es erschallt, mächtig ist, auch des Gottlosen Herz zu verändern, das doch nicht weniger taub und unempfänglich ist als irgend ein kleines Kind, so wird auch das Kind durch den eingeflößten Glauben gereinigt und erneuert. Aber alsdann tun die Sakramente das, was sie sollen, nicht aus eigener Kraft, sondern aus Kraft des Glaubens, ohne welchen sie überhaupt nichts wirken.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber himmlischer Vater, wir danken Dir herzlich, daß Du die Kinder schon in der Frühe in Deinem Reiche haben willst. Dazu hast Du sie durch Deinen lieben Sohn Jesum Christum berufen und in der heiligen Taufe allen Deine Gnade zugesagt. O, gib den Eltern und Vormündern gute Gedanken, daß sie die Kinder zu Dir bringen, offenbare den Zweifelnden den Segen der Taufe, auch der Kindertaufe. Du, HErr Jesu, hast den kleinen Kindern Deinen Segen verliehen und sie in Dein Heilandsberg gedrückt. Hilf mit Deiner großen Liebe allen Vätern und Müttern, daß sie ihre Kinder im heiligen Geist erziehen, zu Deiner Ehre und ihrem eigenen Heil.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wir, die wir noch durch Mara reisen",
+            "melodie": "165",
+            "strophen": [
+              {
+                "links": [
+                  "Wir, die wir noch durch Mara reisen,",
+                  "Jm Glauben laßt uns halten an;",
+                  "Wir denken unter Thränenspeisen",
+                  "An jenes schöne Kanaan,",
+                  "Allwo wir mit der Schar der Frommen",
+                  "Wer weiß wie bald zusammenkommen,",
+                  "Und bei dem HErrn sind allezeit;",
+                  "Da werden wir Jhn ewig sehen,",
+                  "Wie wohl, wie wohl wird uns geschehen?",
+                  "HErr Jesu, komm, mach uns bereit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jona 4, 1—11.",
+            "buch": "jona",
+            "kapitel": 4,
+            "verse": "1-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 6, 1—9.",
+            "buch": "epheser",
+            "kapitel": 6,
+            "verse": "1-9"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wer aber Gott will dienen, der tue, was Gott in Seinem Wort befohlen hat. Bist du ein Kind, so ehre deinen Vater und deine Mutter. Bist du Magd oder Knecht, so sei in deinem Dienst gehorsam und treu. Bist du Herr oder Frau, so ärgere dein Gesinde nicht mit Worten und Werken, sondern tue, was Gott dir wohl anstehet, und halte auch bei deiner Person die Furcht Gottes. Das heißt alsdann Gott dienen, wenn man tut, was Er in Seinem Wort befohlen hat und haben will. Man heiße es nun vor der Welt wie man wolle, daß es Herren oder Frauen, Vater oder Mutter, Nachbarn oder Kindern gedient sei, so ist's doch ein rechter Gottesdienst. Denn Gott hat es geschrieben über meines Nächsten Haupt, und gesagt: du sollst deinen Nächsten lieben und ihm dienen.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Glieder Jesu",
+            "strophen": [
+              {
+                "links": [
+                  "Die Glieder Jesu freun sich sehr,",
+                  "Doch ohne viel Geräusche;",
+                  "Sie rühmen sich auch Niemands mehr",
+                  "Nach Ansehn und nach Fleische;",
+                  "Sie hängen ihre Herzen nicht",
+                  "An Väter und Regierer:",
+                  "Nur Er ist ihre Zuversicht,",
+                  "Jhr HErr und Haupt und Führer."
+                ],
+                "rechts": [
+                  "Auch denken wir in Wahrheit nicht:",
+                  "Gott sei bei uns alleine;",
+                  "Wir sehen, wie so manches Licht",
+                  "Auch andern Orten scheine.",
+                  "Da pflegen wir dann froh zu sein",
+                  "Und uns niemals zu sperren:",
+                  "Wir haben All ein Erbverein",
+                  "Und dienen e i n e m HErren."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        783,
+        786
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "43"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Für Dich sei ganz mein Herz und Leben",
+            "melodie": "75",
+            "strophen": [
+              {
+                "links": [
+                  "Für Dich sei ganz mein Herz und Leben,",
+                  "Mein süßer Gott und all mein Gut;",
+                  "Für Dich hast Du mirs nur gegeben,",
+                  "Jn Dir es nur so selig ruht,",
+                  "Herzsteller meines schweren Falles,",
+                  "Für Dich sei ewig Herz und alles."
+                ],
+                "rechts": [
+                  "Jch liebt und lebte recht im Zwange,",
+                  "Wie ich mir lebte ohne Dich;",
+                  "Jch wollte Dich nicht, ach, so lange!",
+                  "Doch liebtest Du und suchtest mich,",
+                  "Mich böses Kind aus bösem Samen,",
+                  "Jns hohen holden Jesusnamen."
+                ]
+              },
+              {
+                "links": [
+                  "Deins Vaterherzens Eingeweide",
+                  "Jn diesem Namen offen sich;",
+                  "Ein Krumm der Liebe, Fried und Freude",
+                  "Quillt nun so nach, so mildiglich:",
+                  "Mein Gott, wenns doch der Sünder wüßte",
+                  "Sein Herz alsbald Dich lieben müßte."
+                ],
+                "rechts": [
+                  "Jch bete an die Macht der Liebe,",
+                  "Die sich in diesem Namen offenbart;",
+                  "Jch geb mich hin dem freien Triebe,",
+                  "Wodurch ich Wurm geliebet ward;",
+                  "Jch will, anstatt mich zu denken,",
+                  "Jns Meer der Liebe mich versenken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 26, 6—13.",
+            "buch": "matthaeus",
+            "kapitel": 26,
+            "verse": "6-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Für Dich sei ganz mein Herz und Leben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wie bist Du mir so zart gewogen,",
+                  "Und wie verlangt Dein Herz nach mir!",
+                  "Durch Liebe sanft und tief gezogen",
+                  "Neigt sich mein Alles auch zu Dir.",
+                  "Du traute Liebe, gutes Wesen,",
+                  "Du hast mich, und ich Dich erlesen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 23, 19—26.",
+            "buch": "sprueche",
+            "kapitel": 23,
+            "verse": "19-26"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "12"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 3, 1—9.",
+            "buch": "galater",
+            "kapitel": 3,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Für Dich sei ganz mein Herz und Leben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jch fühls: Du bists, Dich muß ich haben,",
+                  "Nicht im Geschöpf, nicht in den Gaben —",
+                  "Mein Ruhplatz ist in Dir allein:",
+                  "Hier ist die Ruh, hier ist Vergnügen,",
+                  "Drum folg ich Deinen Zügen."
+                ],
+                "rechts": [
+                  "Ehr sei dem hohen Jesusnamen,",
+                  "Jn dem der Liebe Quell entspringt,",
+                  "Von dem hier alle Bächlein kamen,",
+                  "Aus dem der Selgen Schar dort trinkt!",
+                  "Wie beugen sie sich ohne Ende!",
+                  "Wie falten sie die frohen Hände!"
+                ]
+              },
+              {
+                "links": [
+                  "O Jesu, daß Dein Name bliebe",
+                  "Jm Grunde tief gedrückt ein!",
+                  "Möcht Deine süße Jesusliebe",
+                  "Jn Herz und Sinn geprägt sein!",
+                  "Jm Wort, im Werk und allem Wesen",
+                  "Sei Jesus, und sonst nichts, zu lesen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        786,
+        788
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch hab von ferne",
+            "melodie": "117",
+            "strophen": [
+              {
+                "links": [
+                  "Jch hab von ferne",
+                  "HErr, Deinen Thron erblickt,",
+                  "Und hätte gerne",
+                  "Mein Herz vorausgeschickt,",
+                  "Und hätte gern mein müdes Leben",
+                  "Schöpfer der Geister, Dir hingegeben."
+                ],
+                "rechts": [
+                  "Das war so prächtig,",
+                  "Was ich im Geist gesehn,",
+                  "Du bist allmächtig,",
+                  "Drum ist Dein Licht so schön.",
+                  "Kömmt ich an diesen hellen Thronen",
+                  "Doch schon von heute an ewig wohnen!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 24, 32—36.",
+            "buch": "matthaeus",
+            "kapitel": 24,
+            "verse": "32-36"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch hab von ferne",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nur ich bin sündig,",
+                  "Der Erde noch geneigt,",
+                  "Das hat mir kündig,",
+                  "Dein heiliger Geist gezeigt,",
+                  "Jch bin noch nicht genug gereinigt,",
+                  "Noch nicht ganz innig mit Dir vereinigt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "26"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 29, 1—8.",
+            "buch": "sprueche",
+            "kapitel": 29,
+            "verse": "1-8"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "61"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 6, 3—5.",
+            "buch": "1_timotheus",
+            "kapitel": 6,
+            "verse": "3-5"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch hab von ferne",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Doch bin ich fröhlich,",
+                  "Daß mich kein Bann erschreckt;",
+                  "Jch bin schon selig,",
+                  "Seitdem ichs da entdeckt;",
+                  "Jch will mich noch im Leiden üben",
+                  "Und Dich zeitlebens innbrünstig lieben."
+                ],
+                "rechts": [
+                  "Jch bin zufrieden,",
+                  "Daß ich die Stadt gesehen;",
+                  "Und ohn Ermüden",
+                  "Will ich ihr näher gehn,",
+                  "Und ihre heilgen goldnen Gassen",
+                  "Lebenslang nicht aus den Augen lassen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        788,
+        790
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "90"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch will einsam",
+            "melodie": "139",
+            "strophen": [
+              {
+                "links": [
+                  "Jch will einsam",
+                  "Und gemeinsam",
+                  "Mit dem Einigen Gott umgehn,",
+                  "Und die Sinnen",
+                  "Halten innen,",
+                  "Was nicht Gott ist lassen stehn;",
+                  "Das Getümmel",
+                  "Und Gewimmel",
+                  "Will sich nicht zu mir verziehn."
+                ],
+                "rechts": [
+                  "O du süße",
+                  "Stille Wüste,",
+                  "Da all das Geschöpfe schweigt,",
+                  "Da das Herze",
+                  "Ohne Schmerze",
+                  "Sich zum großen Schöpfer neigt,",
+                  "Und der Hände",
+                  "Unterpfände",
+                  "Seinem schönsten Jesu reicht!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 24, 37—41.",
+            "buch": "matthaeus",
+            "kapitel": 24,
+            "verse": "37-41"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch will einsam",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Himmlisch Wesen,",
+                  "Laß genesen",
+                  "Mich in Deiner Gegenwart",
+                  "Und bergen",
+                  "Ganz ablegen",
+                  "Des Hauses weltgesinnte Art,",
+                  "Die das Draußen",
+                  "Liebet draußen",
+                  "Und sich nicht vorm Feind bewahrt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 11, 21—26.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 25, 11—24.",
+            "buch": "apostelgeschichte",
+            "kapitel": 25,
+            "verse": "11-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Hirte Deiner Schafe",
+            "melodie": "86",
+            "strophen": [
+              {
+                "links": [
+                  "Hirte Deiner Schafe,",
+                  "Der von keinem Schlafe",
+                  "Etwas wissen mag:",
+                  "Deine Wundergüte",
+                  "War mein Schild und Hütte",
+                  "Den vergangnen Tag.",
+                  "Sei die Nacht",
+                  "Auch auf der Wacht",
+                  "Um und um bewahren."
+                ],
+                "rechts": [
+                  "Laß auch meine Lieben",
+                  "Keine Not betrüben —",
+                  "Sie sind mein und Dein!",
+                  "Schleuß mit uns Erbarmen",
+                  "Jn den Vaterarmen",
+                  "Ohne Sorgen ein.",
+                  "Du bei mir:",
+                  "Und ich bei Dir:",
+                  "Also sind wir ungeschieden,",
+                  "Und ich schlaf in Frieden."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        791,
+        793
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jn Gottes Namen fahren wir",
+            "melodie": "85",
+            "strophen": [
+              {
+                "links": [
+                  "Jn Gottes Namen fahren wir,",
+                  "Sein Hilf und Gnad begehren wir;",
+                  "Des Vaters Güt behüt uns heut,",
+                  "Bewahr auch unser Seel und Leib.",
+                  "Kyrieleis."
+                ],
+                "rechts": [
+                  "Christus sei unser Geleitsmann,",
+                  "Bleib stetig bei uns auf der Bahn,",
+                  "Und wend von uns des Feindes List,",
+                  "Auch was Seinm Wort zuwider ist.",
+                  "Kyrieleis."
+                ]
+              },
+              {
+                "links": [
+                  "Der Heilge Geist auch ob uns halt",
+                  "Mit Seinen Gaben mannigfalt,",
+                  "Er tröst und stärk uns in der Not,",
+                  "Und führ uns wieder heim mit Gott.",
+                  "Kyrieleis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 20—24.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "20-24"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Das einige Notwendige",
+            "strophen": [
+              {
+                "links": [
+                  "Das einige Notwendige",
+                  "Jst: Christi teilhaft sein,",
+                  "Und daß man Jhm behändige",
+                  "Geist Seele und Gebein:",
+                  "Dann geht man seinen Gang gewiß",
+                  "Und weiß, daß man durch keinen Riß",
+                  "Sich von der Hand, die nie läßt gehn,",
+                  "Getrennet werde sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 16, 10—13.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "141"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 15, 45—53.",
+            "buch": "1_korinther",
+            "kapitel": 15,
+            "verse": "45-53"
+          },
+          {
+            "typ": "lied",
+            "titel": "Du kennest die Gemeine",
+            "strophen": [
+              {
+                "links": [
+                  "Du kennest die Gemeine,",
+                  "HErr, sie ist Deine,",
+                  "So unbekannt, so kleine;",
+                  "Man sie ermißt,",
+                  "So ist sie doch die eine,",
+                  "Die sich vergißt,",
+                  "Damit sie völlig reine",
+                  "Vor Dir erscheine,",
+                  "O Liebe, ach umzäune,",
+                  "Was ihre ist!"
+                ],
+                "rechts": [
+                  "Gehülfen, seid zufrieden,",
+                  "Jhr geht in Glieden;",
+                  "Die Last, die euch beschieden,",
+                  "Hat ihr Gewicht;",
+                  "Das Joch ist einem Jeden",
+                  "Drauf eingericht;",
+                  "Geht, laßt das Fleisch hienieden",
+                  "Zum Tod ermüden;",
+                  "So wird sein Gift versieden,",
+                  "So stirbt ihr nicht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 21. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        794,
+        796
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Liebster Jesu, wir sind hier",
+            "melodie": "94",
+            "strophen": [
+              {
+                "links": [
+                  "Liebster Jesu, wir sind hier,",
+                  "Dich und Dein Wort anzuhören:",
+                  "Lenke Sinnen und Begier",
+                  "Auf die süßen Himmelslehren,",
+                  "Daß die Herzen von der Erden",
+                  "Ganz zu Dir gezogen werden."
+                ],
+                "rechts": [
+                  "Unser Wissen und Verstand",
+                  "Jst mit Finsternis verhüllet,",
+                  "Wo nicht Deines Geistes Hand",
+                  "Uns mit hellem Licht erfüllet;",
+                  "Gutes denken tun und tichten",
+                  "Mußt Du Selbst in uns verrichten."
+                ]
+              },
+              {
+                "links": [
+                  "O Du Glanz der Herrlichkeit,",
+                  "Licht vom Licht, aus Gott geboren,",
+                  "Mach uns allesamt bereit,",
+                  "Oeffne Herzen Mund und Ohren;",
+                  "Unser Bitten Flehn und Singen",
+                  "Laß, HErr Jesu, wohlgelingen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 29—34.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "29-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Was wir im Glauben hoffen",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "Was wir im Glauben hoffen,",
+                  "Wird endlich doch geschehn;",
+                  "Die Thüren werden offen;",
+                  "Wir werden es noch sehn,",
+                  "Wie durch die Erde Breiten",
+                  "Sein Zepter siegreich zieht,",
+                  "Und unser Aug von weitem",
+                  "Jhn herrlich kommen sieht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 16, 24—26.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an Timotheus 4, 16—18.",
+            "buch": "2_timotheus",
+            "kapitel": 4,
+            "verse": "16-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mit meinem Gott geh ich zur Ruh",
+            "melodie": "81/82",
+            "strophen": [
+              {
+                "links": [
+                  "Mit meinem Gott geh ich zur Ruh,",
+                  "Und tu in Fried mein Augen zu;",
+                  "Denn Gott ins Himmels Throne",
+                  "Ueber mich wacht",
+                  "Bei Tag und Nacht,",
+                  "Auf daß ich sicher wohne."
+                ],
+                "rechts": [
+                  "HErr, meinen Geist befehl ich Dir;",
+                  "Mein Gott, mein Gott, weich nicht von mir;",
+                  "Nimm mich in Deine Hände;",
+                  "O wahrer Gott,",
+                  "Aus aller Not",
+                  "Hilf mir am letzten Ende."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

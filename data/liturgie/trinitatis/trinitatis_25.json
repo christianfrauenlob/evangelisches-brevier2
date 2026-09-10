@@ -1,0 +1,1004 @@
+{
+  "id": "trinitatis_25",
+  "titel": "25. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "25. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        857,
+        861
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130",
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist noch eine Ruh vorhanden",
+            "melodie": "165",
+            "strophen": [
+              {
+                "links": [
+                  "Es ist noch eine Ruh vorhanden,",
+                  "Auf, müdes Herz, und werde Licht!",
+                  "Du seufzest hier in seinen Banden,",
+                  "Und deine Sonne scheinet nicht.",
+                  "Sieh auf das Lamm, Das dich mit Freuden",
+                  "Dort vor Seinem Stuhle weiden;",
+                  "Wirf hin die Last und eil herzu:",
+                  "Bald ist der schöne Kampf geendet,",
+                  "Bald bald der saure Lauf vollendet:",
+                  "So gehst du ein zu deiner Ruh."
+                ],
+                "rechts": [
+                  "Die Ruhe hat Gott auserkoren;",
+                  "Die Ruhe, die kein Ende nimmt,",
+                  "Es hat, da noch kein Mensch geboren,",
+                  "Die Liebe sie uns schon bestimmt;",
+                  "Das Lämmlein wollte darum sterben,",
+                  "Uns diese Ruh zu erwerben;",
+                  "Es ruft, so ladet weit und breit:",
+                  "Jhr müden Seelen und ihr Frommen,",
+                  "Versäumet nicht, heut einzukommen",
+                  "Zu Meiner Ruh Lieblichkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 24, 15—28.",
+            "buch": "matthaeus",
+            "kapitel": 24,
+            "verse": "15-28"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Auf drum, weg aus Jerusalem, das ist Greuel der Verwüstung, selbst Verwüstung und Verwüstung bringend! Auf nach Pella! Wer eines treuen Herzens ist und den Worten Jesu Christi glaubt, der ziehe der Wahrheit und Liebe unter ihrem Banner gesondert von der verlorenen Rotte Juda nach. So wollen wir uns zusammenschließen und in geschlossenen Reihen, Wehr in der Hand, das Lied des neuen Bundes im Munde, vorwärts ziehen. Wer den HErrn Jesus lieb hat, der gebe Laut, der bekenne, der stoße zu Haufen und scheue nicht Kampf noch Weggefahr! Wie lang wirds währen, so sind alle die Jahre von hinnen, wie dies Kirchenjahr, und was ist dann unsere Mühe und unser Sieg der Treue geworden? Wie werden wir dann fröhlich und unser Mund voll Lachens und Rühmens sein! — Der HErr sendet uns Hilfe vom Heiligtum und stärkt uns aus Zion! Halleluja!",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn ihr sehen werdet den Greuel der Verwüstung, daß er stehet an der heiligen Stätte:",
+              "Wer das lieset, der merke drauf."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater: der Greuel der Verwüstung ist in allen Ständen Deiner Christenheit nur allzusehr eingerissen; hilf, daß wir fleißig davor uns hüten und dabei letzte Zukunft zum Gerichte erkennen, damit wir nicht von demselben übereilet, mit solchem Greuel ausgerottet und in das ewige Verderben gestürzet werden, sondern uns zu Dir und an Dich halten, und ewig selig werden; um Jesu Christi, Deines lieben Sohnes, unsers HErrn willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es ist noch eine Ruh vorhanden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was mag wohl einen Kranken laben",
+                  "Und einen müden Wandersmann?",
+                  "Wo jener mit ein Bettlein haben",
+                  "Und sanfte darauf ruhen kann;",
+                  "Wenn dieser sich darf niedersetzen,",
+                  "An einem frischen Trunk ergötzen,",
+                  "Wie sehr sie beide so vergnügt!",
+                  "Doch dies sind kurze Ruhestunden,",
+                  "Es ist noch eine Ruh erfunden,",
+                  "Da man auf ewig stille liegt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 14, 1—5.",
+            "buch": "job",
+            "kapitel": 14,
+            "verse": "1-5"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 4, 13—18.",
+            "buch": "1_thessalonicher",
+            "kapitel": 4,
+            "verse": "13-18"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Kein Christenmensch soll an seinem Ende zweifeln, er sei nicht allein in seinem Sterben, sondern gewiß sein, daß, nach Anzeigung des Sakraments, auf ihn gar viele Augen sehen. Zum Ersten: Gottes Selber und Christi, darum, daß er Seinem Worte glaubt und Seinem Sakramente anhängt. Darnach die lieben Engel, die Heiligen und alle Christen. Denn ist kein Zweifel, wie das Sakrament des Altars weist, daß sie allesamt als ein ganzer Körper zu Seinem Gliedmaß laufen, helfen ihm den Tod, die Sünde, die Hölle überwinden und tragen Alle mit ihm. Da gebt das Werk der Liebe und Gemeinschaft der Heiligen im Ernst und gewaltiglich.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist noch eine Ruh vorhanden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Da wird man Freudengarben bringen,",
+                  "Denn unsre Thränensaat ist aus;",
+                  "O welch ein Jubel dann erklingen",
+                  "Und süßer Ton in Vaters Haus.",
+                  "Schmerz Seufzen Leid Tod und dergleichen",
+                  "Wird müssen flieh'n und von uns weichen,",
+                  "Wir werden auch das Lämmlein sehn:",
+                  "Er wird beim Brünnlein uns erfrischen,",
+                  "Die Thränen von den Augen wischen —",
+                  "Wer weiß, was Rufejahr noch geschehn!"
+                ],
+                "rechts": [
+                  "Kein Durst noch Hunger wird uns schwächen,",
+                  "Denn die Erquickungszeit ist da;",
+                  "Die Sonne wird uns nicht mehr stechen,",
+                  "Das Lamm ist seinem Volke nah.",
+                  "Es will Selbst über ihnen wohnen",
+                  "Und ihre Treue wohl belohnen",
+                  "Mit Licht und Trost, mit Ehr und Preis.",
+                  "Es werden die Gebeine erblühen",
+                  "Der große Sabbath ist erschienen,",
+                  "Da man von seiner Arbeit weiß."
+                ]
+              },
+              {
+                "links": [
+                  "Da ruhen wir, und sind im Frieden,",
+                  "Und leben ewig sorgenlos;",
+                  "Jch fasse dieses Wort in Herzen,",
+                  "Legt euch das Lämmlein in Seinen Schoß,",
+                  "Ach! Flügel her! Wir müssen eilen",
+                  "Und uns nicht länger hier verweilen:",
+                  "Dort wartet schon die frohe Schar,",
+                  "Fort fort, mein Geist, zum Jubilieren;",
+                  "Beeilte dich zum Triumphieren!",
+                  "Auf auf, es kommt das Ruhejahr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Himmel und Erde werden vergehen,",
+              "Aber Meine Worte werden nicht vergehen, spricht der HErr."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Weck auf — wir bitten Dich, o HErr — den Willen Deiner Gläubigen, damit sie die Frucht des göttlichen Werkes eifriger suchen und so reichere Heilmittel Deiner Huld genießen; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        861,
+        863
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Zeit ist nunmehr nah",
+            "melodie": "16",
+            "strophen": [
+              {
+                "links": [
+                  "Die Zeit ist nunmehr nah,",
+                  "HErr Jesu, Du bist da.",
+                  "Die Wunder, die den Leuten",
+                  "Dein Ankunft sollen deuten,",
+                  "Die sind, wie wir gesehen,",
+                  "Jn großer Zahl geschehen."
+                ],
+                "rechts": [
+                  "Was soll ich denn nun tun?",
+                  "Jch soll auf dem beruhn",
+                  "Was Du mir hast verheißen,",
+                  "Daß Du mich wollest reißen",
+                  "Aus meines Grabes Kammer",
+                  "Und allem andern Jammer."
+                ]
+              },
+              {
+                "links": [
+                  "Ich Jesu, wie so schön",
+                  "Wird mirs alsdann ergehn!",
+                  "Du wirst mit tausend Blicken",
+                  "Mich durch und durch erquicken,",
+                  "Wenn ich hier von der Erde",
+                  "Mich zu Dir schwingen werde."
+                ],
+                "rechts": [
+                  "Ach was wird doch Dein Wort,",
+                  "O süßer Seelenhort,",
+                  "Was wird doch sein Dein Sprechen,",
+                  "Wenn Dein Herz aus wird brechen",
+                  "Zu mir und meinen Brüdern,",
+                  "Als Deinen Leibsgliedern!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 5, 19—29.",
+            "buch": "johannes",
+            "kapitel": 5,
+            "verse": "19-29"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Die Zeit ist nunmehr nah",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was für ein schönes Licht",
+                  "Wird mir Dein Angesicht,",
+                  "Das ich in jenem Leben",
+                  "Werd erstmals sehen, geben!",
+                  "Wie wird mir Deine Güte",
+                  "Entzücken mein Gemüte!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 7, 17—24.",
+            "buch": "1_mose",
+            "kapitel": 7,
+            "verse": "17-24"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 10, 32—39.",
+            "buch": "hebraeer",
+            "kapitel": 10,
+            "verse": "32-39"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Weithin reicht die Wirkung der Geduld; in unserm ganzen Tun und Treiben kann nichts zur Vollendung gelangen, wenn es nicht von der Kraft der Geduld begleitet empfangen wird. Die Geduld ist es, die unsern Gott empfiehlt und bewahrt. Sie ist es, die den Zorn sänftigt, die Zunge im Zaume hält, den Sinn leitet, den Frieden behütet, die Zucht lenkt, das Ungestüm der Begierde bricht, die Gewalt des Stolzes unterdrückt, den Brand der Feindschaft verlöscht, die Macht der Reichen in Schranken hält, die Not der Armen lindert, die in den Jungfrauen ihre glückliche Unschuld, an den Witwen ihre mühevolle Keuschheit, an den einfach Verbundenen ihre untermischte Liebe schützt. Sie macht demütig im Glück, mutig im Unglück, sanftmütig gegen Unrecht und Kränkung. Sie lehrt die Fehlenden schnell zu verzeihen; wenn man sich selbst vergeht, lange und inständig um Verzeihung zu bitten. Sie überwindet die Versuchungen, erträgt die Verfolgungen, sie führt das Leiden und das Martyrium zur Vollendung.",
+            "quelle": "Cyprian"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Zeit ist nunmehr nah",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach wie ist mir so weh,",
+                  "Eh ich Dich an der Höh,",
+                  "HErr, sehe zu uns kommen;",
+                  "Ach daß zum Heil der Frommen",
+                  "Du meinen Wunsch und Willen",
+                  "Noch möchtest erfüllen!"
+                ],
+                "rechts": [
+                  "Doch Du weißt Deine Zeit;",
+                  "Mir ziemt nur, stets bereit",
+                  "Und fertig da zu stehen,",
+                  "Und so zum HErrn zu gehen,",
+                  "Daß alle Stund und Tage",
+                  "Mein Herz dich zu Dir trage."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        864,
+        867
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "57"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht der heiße Tiegel",
+            "melodie": "11",
+            "strophen": [
+              {
+                "links": [
+                  "Endlich bricht der heiße Tiegel,",
+                  "Und der Glaub empfängt sein Siegel",
+                  "Als im Feuer bewährtes Gold,",
+                  "Da der HErr durch tiefe Leiden",
+                  "Uns hier zu den hohen Freuden",
+                  "Jener Welt bereiten wollt."
+                ],
+                "rechts": [
+                  "Unter Leiden prägt der Meister",
+                  "Jn die Herzen, in die Geister",
+                  "Sein allgeltend Bildnis ein,",
+                  "Wie Er dieses Leibes Töpfer",
+                  "Will Er auch der künstlich Schöpfer",
+                  "Auf dem Weg der Leiden sein."
+                ]
+              },
+              {
+                "links": [
+                  "Leiden bringt empörte Glieder",
+                  "Endlich zum Gehorsam wieder,",
+                  "Macht sie Christo untertan;",
+                  "Daß Er die gebrochnen Kräfte",
+                  "Zu dem Heiligungsgeschäfte",
+                  "Sanft und still erneuern kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Worin Jch euch werde antreffen, darin will Jch euch auch richten. Denn der Menschensohn muß einmal kommen in Herrlichkeit, zu richten die Lebendigen und die Toten, und dann wird Er Jedem nach seinem Tun vergelten."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht der heiße Tiegel",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Leiden sammelt unsre Sinne,",
+                  "Daß die Seele nicht zerrinne",
+                  "Jn den Bildern dieser Welt:",
+                  "Jst wie eine Engelswache,",
+                  "Die im innersten Gemache",
+                  "Des Gemütes Ordnung hält."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 2, 31—45.",
+            "buch": "daniel",
+            "kapitel": 2,
+            "verse": "31-45"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "124"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Thessalonicher 2, 1—12.",
+            "buch": "2_thessalonicher",
+            "kapitel": 2,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht der heiße Tiegel",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Leiden stimmt des Herzens Saiten",
+                  "Für den Psalm der Ewigkeiten,",
+                  "Lehrt mit Sehnsucht dorthin sehn,",
+                  "Wo die seligen Palmträger",
+                  "Mit dem Chor der Harfenschläger",
+                  "Preisend vor dem Throne stehn."
+                ],
+                "rechts": [
+                  "Leiden fördert unsre Schritte,",
+                  "Leiden weiht der Leibeshütte",
+                  "Zu dem Schlaf in kühler Gruft,",
+                  "Es gleicht einem frohen Boten",
+                  "Jenes Frühlings, der die Toten",
+                  "Zum Empfang des Lebens ruft."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        868,
+        869
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "50"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Leiden macht das Wort verständlich,",
+                  "Leiden macht in allem gründlich;",
+                  "Leiden, wer ist deiner wert?",
+                  "Hier heißt man dich eine Würde,",
+                  "Droben bist du eine Würde,",
+                  "Die nicht Jedem widerfährt."
+                ],
+                "rechts": [
+                  "Brüder, solche Leidensgnade",
+                  "Wird in mannigfachem Grade",
+                  "Jesu Jüngern kundgemacht,",
+                  "Wenn sie manchen Schmerz durchwühlet,",
+                  "Wenn sie manchen Tod gefühlet,",
+                  "Nächte seufzend durchgewacht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Es sendet die Weisheit ihre Kinder aus. — Dem Arbeiter genüge sein Lebensunterhalt. Wer nicht arbeitet, soll auch nicht essen. — Seid verständige Wechsler, prüfet alles. Das Echte haltet fest, jede schlechte Münze verwerft."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jm Gefühl der tiefsten Schmerzen",
+                  "Dringt das Herz zu Jesu Herzen,",
+                  "Jmmer liebender hinan;",
+                  "Und um eins nur fleht es sehnlich:",
+                  "Mache Deinem Tod mich ähnlich,",
+                  "Daß ich mit Dir leben kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Maleachi 3, 13—18.",
+            "buch": "maleachi",
+            "kapitel": 3,
+            "verse": "13-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "132"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 28, 1—10.",
+            "buch": "apostelgeschichte",
+            "kapitel": 28,
+            "verse": "1-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Endlich bricht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Endlich mit der Seufzer Fülle",
+                  "Bricht der Geist durch jede Hülle",
+                  "Und der Vorhang reißt entzwei;",
+                  "Wer ermüdet dann hienieden,",
+                  "Welch ein Meer von Gottesfrieden",
+                  "Droben ihm bereitet sei!"
+                ],
+                "rechts": [
+                  "Jesu, laß zu jenen Höhen",
+                  "Heller stets hinauf uns sehen,",
+                  "Bis die letzte Stunde schlägt,",
+                  "Da auch nach treuem Ringen",
+                  "Heim zu Dir auf lichten Schwingen",
+                  "Eine Schar der Engel trägt."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        870,
+        872
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Herrlichkeit der Erden",
+            "melodie": "132",
+            "strophen": [
+              {
+                "links": [
+                  "Die Herrlichkeit der Erden",
+                  "Muß Rauch und Asche werden,",
+                  "Kein Fels, kein Erz kann stehn.",
+                  "Dies was uns kann ergötzen,",
+                  "Was wir für ewig schätzen,",
+                  "Wird wie ein leichter Traum vergehn."
+                ],
+                "rechts": [
+                  "Der Ruhm, nach dem wir trachten,",
+                  "Den wir unsterblich achten,",
+                  "Jst nur ein falscher Wahn;",
+                  "Sobald der Geist geschieden",
+                  "Und dieser Mund erblichen,",
+                  "Fragt Keiner, was man hier getan."
+                ]
+              },
+              {
+                "links": [
+                  "Es hilft kein weises Wissen —",
+                  "Wir werden hingerissen",
+                  "Ohn einen Unterscheid;",
+                  "Was nützt der Schlösser Menge?",
+                  "Dem hier die Welt zu enge,",
+                  "Dem wird ein enges Grab zu weit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "An demselben Tage sah Er einen Menschen, der eine Arbeit tat am Sabbat, und sprach zu ihm: Mensch, wenn du weißt, was du tust, selig bist du; wenn du es aber nicht weißt: verflucht bist du und ein Uebertreter des Gesetzes."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Die Herrlichkeit der Erden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Dies alles wird zerrinnen,",
+                  "Was Müh und Fleiß gewinnen",
+                  "Und saurer Schweiß erwirbt;",
+                  "Was Menschen hier besitzen",
+                  "Kann für den Tod nichts nützen,",
+                  "Dies Alles stirbt uns, wenn man stirbt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 1, 1—11.",
+            "buch": "prediger",
+            "kapitel": 1,
+            "verse": "1-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "vaeterstimme",
+            "text": "O Eitelkeit der Eitelkeiten — alles ist Eitelkeit, außer Gott lieben und Jhm allein dienen. Eitelkeit ist es, vergängliche Reichtümer suchen und darauf seine Hoffnung setzen. Eitelkeit ist es, nach hohen Ehrenstellen trachten und sich über andere hoch emporschwingen wollen. Eitelkeit ist es, den Lüsten des Fleisches sich ergeben und Dingen nachjagen, um derentwillen man einst die empfindlichsten Strafen wird leiden müssen. Eitelkeit ist es, nur wünschen, lange zu leben und sich darum wenig fromm zu leben. Eitelkeit ist es, seine ganze Aufmerksamkeit auf das gegenwärtige Leben zu richten, ohne auf das zukünftige hinauszublicken. Eitelkeit ist es, das zu lieben, was mit Blitzesschnelle vergeht, und nicht dorthin zu eilen, wo die Freude kein Ende nimmt.",
+            "quelle": "Thomas von Kempen"
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "136"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 6, 1—8.",
+            "buch": "offenbarung",
+            "kapitel": 6,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Herrlichkeit der Erden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wie eine Rose blühet,",
+                  "Wenn man die Sonne siehet",
+                  "Begrüßen diese Welt;",
+                  "Die, eh der Tag sich neiget,",
+                  "Eh sich der Abend zeiget,",
+                  "Verwelkt und unversehens fällt."
+                ],
+                "rechts": [
+                  "So wachsen wir auf Erden,",
+                  "Und hoffen groß zu werden,",
+                  "Von Schmerz und Sorgen frei;",
+                  "Doch eh wir zugenommen,",
+                  "Und recht zur Blüte kommen,",
+                  "Bricht uns des Todes Sturm entzwei."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        873,
+        875
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Herrlichkeit der Erden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wir rechnen Jahr auf Jahre;",
+                  "Jndessen wird die Bahre",
+                  "Uns vor die Tür gebracht;",
+                  "Drauf müssen wir von hinnen",
+                  "Und, eh wir uns besinnen,",
+                  "Der Erde sagen gute Nacht."
+                ],
+                "rechts": [
+                  "Verlache Welt und Ehre;",
+                  "Furcht Hoffen Gunst und Lehre",
+                  "An; und geh den HErren an;",
+                  "Der immer König bleibet,",
+                  "Den keine Zeit vertreibet,",
+                  "Der einzig selig machen kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Segnet Die, die euch schmähen, betet für Die, die euch verfolgen. Jhr habt gehört, daß gesagt ist: Auge um Auge, Zahn um Zahn. Jch aber sage Euch: Vergeltet nicht Böses mit Bösem, noch Schmähung mit Schmähung, noch Faustschlag mit Faustschlag, noch Fluch mit Fluch."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jm Friede Jesu Christi",
+            "melodie": "In dulci jubilo",
+            "strophen": [
+              {
+                "links": [
+                  "Jm Friede Jesu Christi,",
+                  "Der unsre Freude ist,",
+                  "Wohnen unsre Lieben,",
+                  "Seid innigich begrüßt",
+                  "Auch überm Weltmeer drüben!",
+                  "Jesu Angesicht",
+                  "Und Sein Gnadenlicht",
+                  "Bleib auf euch gericht!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 1, 12—18.",
+            "buch": "prediger",
+            "kapitel": 1,
+            "verse": "12-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "159"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 6, 9—11.",
+            "buch": "offenbarung",
+            "kapitel": 6,
+            "verse": "9-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Christen gehn von Ort zu Ort",
+            "melodie": "50",
+            "strophen": [
+              {
+                "links": [
+                  "Die Christen gehn von Ort zu Ort",
+                  "Durch mannigfaltgen Jammer",
+                  "Und kommen in den Friedensport",
+                  "Und ruhn in ihrer Kammer.",
+                  "Gott nimmt sie nach dem Lauf",
+                  "Jn Seinen Armen auf;",
+                  "Und ihr Weizenkorn wird sein",
+                  "Beet Auf Hoffnung schöner Frucht gesät."
+                ],
+                "rechts": [
+                  "Wie seid ihr doch so wohl gereist,",
+                  "Gelobt sein eure Schritte,",
+                  "Du allbereits befreiter Geist,",
+                  "Du jetzt verlaßne Hütte!",
+                  "Dir nähert die Liebesflamm",
+                  "Der holde Bräutigam;",
+                  "Dich deckt bei ungestörter Ruh",
+                  "Der Liebe stiller Schatten zu."
+                ]
+              },
+              {
+                "links": [
+                  "Wir freun uns in Gelassenheit",
+                  "Der großen Offenbarung,",
+                  "Jndessen bleibt das Pilgerkleid",
+                  "Jn heiliger Verwahrung.",
+                  "Wie ist das Glück so groß",
+                  "Jn Jesu Arm und Schoß!",
+                  "Die Liebe führt uns gleiche Bahn,",
+                  "So tief hinab, so hoch hinan!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 25. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        875,
+        877
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "149"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O wie selig seid ihr doch, ihr Frommen",
+            "melodie": "133",
+            "strophen": [
+              {
+                "links": [
+                  "O wie selig seid ihr doch, ihr Frommen,",
+                  "Die ihr durch den Tod zu Gott gekommen;",
+                  "Jhr seid entgangen",
+                  "Aller Not, die uns noch hält gefangen."
+                ],
+                "rechts": [
+                  "Muß man doch hier wie im Kerker leben,",
+                  "Da nur Sorge Furcht und Schrecken schweben!",
+                  "Was wir hier kennen",
+                  "Jst nur Müh und Herzeleid zu nennen."
+                ]
+              },
+              {
+                "links": [
+                  "Jhr hingegen ruht in eurer Kammer,",
+                  "Sicher und befreit von allem Jammer:",
+                  "Kein Kreuz und Leiden",
+                  "Jst euch hinderlich in euren Freuden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Der durch die Propheten geredet hat, siehe: Jch bin gekommen. — Bringet Gott neue Opfer dar! — Feiert beständig Sabbat! — Habt Gemeinschaft mit den Heiligen, denn Die mit ihnen Gemeinschaft halten, die werden geheiligt werden."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O wie selig",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Christus wäschet ab euch alle Thränen;",
+                  "Habt das schon, wonach wir uns erst sehnen;",
+                  "Euch wird gesungen",
+                  "Was durch Keines Ohr allhier gedrungen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "109"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 2, 1—11.",
+            "buch": "prediger",
+            "kapitel": 2,
+            "verse": "1-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 6, 12—17.",
+            "buch": "offenbarung",
+            "kapitel": 6,
+            "verse": "12-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "O wie selig",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach wer wollte denn nicht gerne sterben",
+                  "Und den Himmel für die Welt erwerben?",
+                  "Wer wollt hier bleiben,",
+                  "Sich den Jammer länger lassen treiben?"
+                ],
+                "rechts": [
+                  "Komm, o Christe, komm uns auszuspannen,",
+                  "Lös uns auf, und führ uns bald von dannen!",
+                  "Sei Du, o Sonne,",
+                  "Jst der frommen Seelen Freud und Wonne."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

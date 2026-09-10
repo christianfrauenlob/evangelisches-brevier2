@@ -1,0 +1,920 @@
+{
+  "id": "trinitatis_22",
+  "titel": "22. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "22. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        796,
+        800
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150",
+              "8"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, nicht schicke",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, nicht schicke Deine Rache",
+                  "Ueber meine böse Sache,",
+                  "Ob sie wohl durch Uebeltat",
+                  "Großen Zorn verdienet hat,",
+                  "Freilich muß ich es bekennen,",
+                  "Ursach hast Du sehr zu brennen,",
+                  "Doch Du wollest jetzt allein",
+                  "Vater, und nicht Richter sein."
+                ],
+                "rechts": [
+                  "Uebe wieder, wieder kehre,",
+                  "Eh ich mich in Angst verzehre;",
+                  "Reiche Deine Hand, o Gott,",
+                  "Meiner Seelen in der Not,",
+                  "Zwar Du möchtest sie wohl hassen,",
+                  "Weil sie selber Dich verlassen,",
+                  "Doch betrachte dies dabei,",
+                  "Was Dein Heil und Güte sei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 18, 21—35.",
+            "buch": "matthaeus",
+            "kapitel": 18,
+            "verse": "21-35"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "O HErr, verleih, daß von uns Allen Keiner jemals vor Dir die Sprache führe: „Jch will Dir alles bezahlen.“ Verleih, daß wir Alle von Herzensgrund Deine Vergebung suchen und empfangen, auf daß auch wir unsern Nächsten nicht das strenge Recht suchen, sondern gern und oft vergeben! Ach, gib, daß weder unter uns Väter und Kinder, Brüder und Schwestern, Nachbarn und Nachbarn zürnen und sich in Zorn verhärten, und also die Religion der Versöhnung schmähen! Gib, gib, o HErr, Demut, Glauben, Versöhnlichkeit, um Jesu Christi willen! Amen.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Herr sprach zu seinem Knechte: Bezahl du, was du schuldig bist.",
+              "Da fiel der Knecht nieder und sprach: Herr, habe Geduld mit mir, ich will dirs alles bezahlen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, wir danken Dir von Grund unseres Herzens, daß Du Deinen Sohn Jesum Christum zu einem Zahler anstatt uns, die wir arme Sünder sind und tief in Deinem Schuldbrief stehen, angenommen hast, und wir bitten Dich inniglich: Du wollest uns in wahrem Glauben an Jhn erhalten und durch Deinen heiligen Geist also regieren, daß wir nach Deinem Willen leben, unsern Nächsten alle Liebe, Dienste und Hilfe gern erweisen, und allen Zorn, Argwohn und Ungeduld fahren lassen, auf daß wir nicht wiederum Deinen Zorn über uns erregen, sondern allezeit einen gnädigen Vater an Dir haben; um . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, nicht schicke",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Er der HErr hat schon mein Flehen",
+                  "Mit Genaden angesehen;",
+                  "Mein Gemüte, das mich regt,",
+                  "Hat Jhm Seines auch bewegt,",
+                  "Alsobald ich Jhn gebeten,",
+                  "Jhm vor Augen bin getreten,",
+                  "Hat auch Seine Güte sich",
+                  "Ausgebreitet über mich."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 81-128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 24, 14—20.",
+            "buch": "sprueche",
+            "kapitel": 24,
+            "verse": "14-20"
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, unsre Zuflucht und Stärke: Sei Du bei dem andächtigen Gebete Deiner Kirche, Der Du ein Anfänger bist Deines Dienstes, und gib, daß wir wirklich erlangen, was wir im rechten Glauben bitten; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 1, 3—11.",
+            "buch": "philipper",
+            "kapitel": 1,
+            "verse": "3-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Das einige Notwendige",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wie ofte hat mein Herz geweint",
+                  "Voll Kummer über dich,",
+                  "Wenn ich gedacht: mein treuster Freund",
+                  "Betrübte Sich um mich;",
+                  "An wem er schon so viel getan,",
+                  "Und nicht mehr Freude haben kann,",
+                  "Der ist, zu Seiner Schmach und Schmerz,",
+                  "Ein Tor und träges Herz."
+                ],
+                "rechts": [
+                  "Der Du bei Deinem Volk und Haus",
+                  "Der HErr im Hause bist,",
+                  "Und Gnad und Heil umsonst teilst aus",
+                  "Dem, ders bedürftig ist,",
+                  "Ach, tröste mich, Dein blödes Kind,",
+                  "Das so viel Mängel an sich findt,",
+                  "Jch fühl mich arm und glaube drum",
+                  "Ans Evangelium."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Solltest du denn dich auch nicht erbarmen über deinen Mitknecht,",
+              "Wie Jch Mich über dich erbarmet habe?"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, o HErr: beschirme Deine Familie in immerwährender Huld, damit sie unter Deinem Schutze von allen Widerwärtigkeiten frei und in guten Taten Deinem Namen ergeben sei; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        801,
+        802
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "14"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Meine Seele senket sich",
+            "melodie": "88",
+            "strophen": [
+              {
+                "links": [
+                  "Meine Seele senket sich",
+                  "Hin in Gottes Herz und Hände,",
+                  "Und erwartet ruhiglich",
+                  "Seiner Wege Ziel und Ende;",
+                  "Liegt sein stille nackt und bloß",
+                  "Jn des liebsten Vaters Schoß."
+                ],
+                "rechts": [
+                  "Meine Seele murret nicht,",
+                  "Jst mit allem wohl zufrieden,",
+                  "Was der eigene Wille spricht;",
+                  "Jst zum Tode schon beschieden,",
+                  "Was die Ungeduld erregt,",
+                  "Jst in Christo Grab gelegt."
+                ]
+              },
+              {
+                "links": [
+                  "Meine Seele sorget nicht,",
+                  "Will vielmehr an nichts gedenken,",
+                  "Was gleich spitzen Dornen sticht,",
+                  "Und den Frieden nur kann kränken;",
+                  "Sorgen hört dem Schöpfer zu —",
+                  "Meine Seele sucht nur Ruh."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 57—62.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "57-62"
+          },
+          {
+            "typ": "gebet",
+            "text": "Lieber HErr Jesu Christe, Du rufst uns alle in Deine Nachfolge. O laß uns nicht zögern, auf Deinen Ruf zu Dir zu kommen. Du willst uns Alle in Deinen Dienst und an Deiner Arbeit haben. Räume alle Hindernisse weg, die uns von Dir abhalten wollen. Mach uns alles Zeitliche und Weltliche klein gegen Deine unvergängliche Herrlichkeit. Behüte uns auch vor Uebereifer und Vorwitz, daß wir uns nicht mehr zutrauen, als wir vermögen, aber auch in der Freudigkeit, Deiner Stimme zu folgen und durch Kämpfe und Leiden, durch Leben und Sterben den Himmel zu erringen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Meine Seele senket sich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Meine Seele grämt sich nicht,",
+                  "Liebt hingegen Gott in Leiden;",
+                  "Kummer, der das Herze bricht,",
+                  "Trifft und dräuet nur die Heiden;",
+                  "Der Gott in dem Schoße liegt,",
+                  "Bleibt in aller Not vergnügt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 28, 20—28.",
+            "buch": "job",
+            "kapitel": 28,
+            "verse": "20-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 13, 1—9.",
+            "buch": "hebraeer",
+            "kapitel": 13,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Meine Seele senket sich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Meine Seele klaget nicht,",
+                  "Denn sie weiß von keinen Nöten,",
+                  "Hängt an Gottes Angesicht",
+                  "Auch alsdann, wenn Er will töten;",
+                  "Wo sich Fleisch und Blut beklagt,",
+                  "Wird das Freudenlicht verjagt."
+                ],
+                "rechts": [
+                  "Meine Seel ist still zu Gott,",
+                  "Und die Zunge bleibt gebunden,",
+                  "Also hab ich allen Spott,",
+                  "Alle Marter überwunden:",
+                  "Bin gleich wie ein stilles Meer,",
+                  "Voll von Gottes Preis und Ehr."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        804,
+        805
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Leben ist ein Pilgrimstand",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Leben ist ein Pilgrimstand:",
+                  "Jch reise nach dem Vaterland,",
+                  "Nach dem Jerusalem das droben",
+                  "Gott selbst als eine feste Stadt",
+                  "Auf Bundesblut gegründet hat,",
+                  "Da werd ich Jakobs Hirten loben,",
+                  "Mein Leben ist ein Pilgrimstand,",
+                  "Jch reise nach dem Vaterland."
+                ],
+                "rechts": [
+                  "So schnell ich Land und Sand verlaß,",
+                  "So schnell läuft meines Lebens Glas;",
+                  "Und was vorbei ist, kommt nicht wieder.",
+                  "Jch eile zu der Ewigkeit —",
+                  "HErr Jesu, mach mich nur bereit,",
+                  "Eröffne meine Augenlider,",
+                  "Daß ich was zeitlich ist veracht",
+                  "Und nur nach dem was ewig tracht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 9, 43—50.",
+            "buch": "markus",
+            "kapitel": 9,
+            "verse": "43-50"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mein Leben ist ein Pilgrimstand",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jsraels Hüter, Jesu Christ,",
+                  "Der Du ein Pilgrim worden bist,",
+                  "Da Du mein Fleisch hast angenommen:",
+                  "Sei mit mir in Worte Deine Tritt,",
+                  "Geh mit einem jeden Schritt",
+                  "Laß mich Dir näher kommen,",
+                  "Mein Leben fleucht: ach eile Du,",
+                  "Und fleug gleich wie ein Hirsch herzu."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Zephanja 3, 14—20.",
+            "buch": "zephanja",
+            "kapitel": 3,
+            "verse": "14-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "13"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 1, 18—20.",
+            "buch": "1_timotheus",
+            "kapitel": 1,
+            "verse": "18-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Leben ist ein Pilgrimstand",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Durch Deinen Geist mich heilig leit,",
+                  "Gib in Geduld Beständigkeit,",
+                  "Vor Straucheln meine Füß beschütze;",
+                  "Jch falle stündlich: Hilf mir auf!",
+                  "Zeuch mich, damit Du nach mir lauf,",
+                  "Sei mir ein Schirm im Todeskampfe.",
+                  "Laß Deinen süßen Gnadenschein",
+                  "Jn Finsternis mir ferne sein."
+                ],
+                "rechts": [
+                  "Wenn mir mein Herz, o Gnadenfüll,",
+                  "Vor Durst nach Dir verschmachten will,",
+                  "So laß mich Dich zum Labsal finden;",
+                  "Und wenn ich schließ die Augen zu,",
+                  "So bring mich in der Selgen Ruh,",
+                  "Da Streit und alle Müh verschwinden;",
+                  "Laß mich da sein in Abrams Schoß",
+                  "Dein Liebling und Dein Hausgenoß."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        806,
+        807
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "46"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, meins Lebens Licht",
+            "melodie": "129",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu Christ, meins Lebens Licht,",
+                  "Mein Hort, mein Trost, mein Zuversicht,",
+                  "Auf Erden bin ich nur ein Gast,",
+                  "Und drückt mich sehr der Sünden Last."
+                ],
+                "rechts": [
+                  "Jch hab vor mir ein schwere Reis",
+                  "Zu Dir ins himmlisch Paradeis;",
+                  "Da ist mein rechtes Vaterland,",
+                  "Daran Du Dein Blut hast gewandt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 22, 23—33.",
+            "buch": "matthaeus",
+            "kapitel": 22,
+            "verse": "23-33"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, meins Lebens Licht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wenn mein Mund nicht kann reden frei,",
+                  "Dein Geist in meinem Herzen schrei,",
+                  "Hilf, daß mein Seel und Himmel sind,",
+                  "Wenn meine Augen werden blind."
+                ],
+                "rechts": [
+                  "Dein letztes Wort laß sein mein Licht,",
+                  "Wenn mir der Tod das Herz zerbricht,",
+                  "Behüte mich vor Ungebehr,",
+                  "Wenn ich mein Haupt nun neigen werd."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "52"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 44, 16—19.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 1—6.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu Christ, meins Lebens Licht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Auf Deinen Abschied, HErr, ich trau,",
+                  "Darauf mein letzte Heimfahrt bau;",
+                  "Tu mir die Himmelstür weit auf,",
+                  "Wenn ich beschließ meines Lebens Lauf."
+                ],
+                "rechts": [
+                  "Jm jüngsten Tag erweck mein Leib,",
+                  "Hilf, daß ich Dir zur Rechten bleib,",
+                  "Daß mich nicht treffe Dein Gericht,",
+                  "Welchs das erschrecklich Urteil spricht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        808,
+        809
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun preiset Alle",
+            "melodie": "117",
+            "strophen": [
+              {
+                "links": [
+                  "Nun preiset Alle",
+                  "Gottes Barmherzigkeit!",
+                  "Lob Jhn mit Schalle",
+                  "Vortreffste Christenheit!",
+                  "Er läßt dich freundlich zu sich laden,",
+                  "Freue dich, Jsrael, Seiner Gnaden."
+                ],
+                "rechts": [
+                  "Der HErr regieret",
+                  "Ueber die ganze Welt,",
+                  "Was sich nur rühret,",
+                  "Jhme zu Füße fällt,",
+                  "Vieltausend Engel um Jhn schweben,",
+                  "Psalter und Harfen Jhm Ehre geben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 13, 26—31.",
+            "buch": "apostelgeschichte",
+            "kapitel": 13,
+            "verse": "26-31"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun preiset Alle",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wohlauf, ihr Heiden,",
+                  "Lasset das Trauern sein;",
+                  "Zur grünen Weiden",
+                  "Stellet euch willig ein:",
+                  "Da läßt Er uns Sein Wort verkünden,",
+                  "Machet uns ledig von allen Sünden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 44, 20—26.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 5, 7—11.",
+            "buch": "apostelgeschichte",
+            "kapitel": 5,
+            "verse": "7-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun preiset Alle",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Er giebet Speise",
+                  "Reichlich und überall,",
+                  "Nach Vaterweise",
+                  "Sättigt Er allzumal;",
+                  "Er schaffet früh und spaten Regen,",
+                  "Füllet uns Alle mit Seinem Segen."
+                ],
+                "rechts": [
+                  "Drum preis und ehre",
+                  "Seine Barmherzigkeit,",
+                  "Sein Lob vermehre",
+                  "Werteste Christenheit!",
+                  "Uns soll hinfort kein Unfall schaden!",
+                  "Freue dich, Jsrael, Seiner Gnaden!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        810,
+        812
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "78"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, den mächtigen König der Ehren",
+            "melodie": "95",
+            "strophen": [
+              {
+                "links": [
+                  "Lobe den HErren, den mächtigen König der Ehren,",
+                  "Meine geliebte Seele: das ist mein Begehren.",
+                  "Kommet zu Hauf;",
+                  "Psalter und Harfe, wacht auf!",
+                  "Lasset die Musicam hören."
+                ],
+                "rechts": [
+                  "Lobe den HErren, der alles so herrlich regieret,",
+                  "Der dich auf Adlers Fittichen sicher geführet,",
+                  "Der dich erhält,",
+                  "Wie es dir immer gefällt;",
+                  "Hast du nicht dieses verspüret?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 13, 32—37.",
+            "buch": "apostelgeschichte",
+            "kapitel": 13,
+            "verse": "32-37"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, den mächtigen König der Ehren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Lobe den HErren, der Künstlich und fein Dich bereitet,",
+                  "Der Dir Gesundheit verliehen, Dich freundlich geleitet,",
+                  "Jn wieviel Not",
+                  "Hat nicht der gnädige Gott",
+                  "Ueber Dir Flügel gebreitet!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 45, 1—6.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Petri 3, 15—18.",
+            "buch": "2_petrus",
+            "kapitel": 3,
+            "verse": "15-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobe den HErren, den mächtigen König der Ehren",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Lobe den HErren, Der deinen Stand sichtbar gesegnet,",
+                  "Der aus dem Himmel mit Strömen der Liebe geregnet,",
+                  "Denke daran,",
+                  "Was der Allmächtige kann,",
+                  "Der Dir mit Liebe begegnet."
+                ],
+                "rechts": [
+                  "Lobe den HErren; was in mir ist, lobe den Namen!",
+                  "Alles was Odem hat lobe mit Abrahams Samen!",
+                  "Er ist dein Licht,",
+                  "Seele, vergiß es ja nicht!",
+                  "Lobende schließe mit Amen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 22. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        813,
+        815
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O starker Zebaoth",
+            "strophen": [
+              {
+                "links": [
+                  "O starker Zebaoth, Du Leben meiner Seel,",
+                  "Und meines Geistes Kraft, o mein Immanuel,",
+                  "Du Schöpfer Deines Kinds, schaff doch ein freies Herz,",
+                  "O Jesu, mehre doch in mir dein Sündenschmerz. —",
+                  "Zufrieden, o Seele, zufrieden und still",
+                  "Anschaue von weitem dein seliges Ziel,",
+                  "Und denke, daß dieses Mein gnädiger Will."
+                ],
+                "rechts": [
+                  "Ach ja, mein Seelenfreund, ich bin noch weit von Dir;",
+                  "Zeuch mich, zeuch mich hinauf, und gib Dich gänzlich mir.",
+                  "O Gott, ein reines Herz ist das die Seele sucht!",
+                  "Unreinigkeit ist hier! Ach ach, ich bin verflucht. —",
+                  "Du bist nicht verfluchet, Jch mache dich neu,",
+                  "Jch, Jch, dein Erlöser: sei du nur getreu;",
+                  "Jch will dich errichten, Jch spreche dich frei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 11, 15—18.",
+            "buch": "markus",
+            "kapitel": 11,
+            "verse": "15-18"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O starker Zebaoth",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was Freiheit? Bin ich doch gefangen von der Sünd!",
+                  "Was Treue? Der ich stets die Untreu mehr befind.",
+                  "Wo ist das neue Herz, das Du verheißen hast? —"
+                ],
+                "rechts": [
+                  "Jch will es geben, dem Teufel zum Spott;",
+                  "Jch will dich erretten von ewiger Not;",
+                  "Jch will es tun als ein wahrhaftiger Gott."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 45, 7—15.",
+            "buch": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an Titus 1, 15 und 16.",
+            "buch": "titus",
+            "kapitel": 1,
+            "verse": "15-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "O starker Zebaoth",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wohlan, so will ich mich nun halten an dies Wort:",
+                  "Das soll mein Anker sein, bis ich komm an den Port;",
+                  "Der Heiland aller Welt will mir auch gnädig sein;",
+                  "Drum, meine Seele, geh in deinen Frieden ein. —"
+                ],
+                "rechts": [
+                  "O Seele, sei ruhig und fasse dies Wort:",
+                  "Jch bringe dich sicher zum seligen Port;",
+                  "Jch laß dich nicht, glaub es, ich bleibe dein Hort."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

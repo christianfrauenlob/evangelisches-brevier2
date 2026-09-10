@@ -1,0 +1,987 @@
+{
+  "id": "trinitatis_24",
+  "titel": "24. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "24. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        836,
+        840
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "10",
+              "11"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch hab mein Sach Gott heimgestellt",
+            "melodie": "78",
+            "strophen": [
+              {
+                "links": [
+                  "Jch hab mein Sach Gott heimgestellt,",
+                  "Er machs mit mir, wies Jhm gefällt;",
+                  "Soll ich allhier noch länger lebn,",
+                  "Nicht widerstrebn,",
+                  "Seinm Willen tu ich mich ergebn."
+                ],
+                "rechts": [
+                  "Mein Zeit und Stund ist, wann Gott will,",
+                  "Jch schreib Jhm nicht vor Maß und Ziel;",
+                  "Es sind gezählt all Härlein mein,",
+                  "Beid groß und klein,",
+                  "Fällt keines ohn den Willen Sein."
+                ]
+              },
+              {
+                "links": [
+                  "Es ist allhier ein Jammertal,",
+                  "Angst Not und Trübsal überall,",
+                  "Des Bleibens ist ein kleine Zeit,",
+                  "Voll Mühseligkeit,",
+                  "Und wers bedenkt ist immr im Streit."
+                ],
+                "rechts": [
+                  "Es hilft kein Reichtum Geld noch Gut,",
+                  "Kein Kunst noch Gunst noch stolzer Mut,",
+                  "Vorm Tod kein Kraut gewachsen ist,",
+                  "Mein frommer Christ,",
+                  "Alles was lebet sterblich ist."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 18—26.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "18-26"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Das Kirchenjahr geht zu Ende. Viel heilige Gottes sind schlafen gegangen. Ja, schlafen gegangen! Jch strecke meine Hand aus über die Gräber, unter denen ich predige; ich nehme das heilige Töchterlein Jairi zum Zeugen; ich sage, ich behaupte, ich beschwöre es, wenn sie sein soll, sie will mit Gott traut leben und sterben, daß Seine Heiligen nur schlafen. — Du HErr des guten Schlafes und Todes, Dir befehl ich meine Toten und meinen Geist und meinen entschlafenen Leib. Du Auge sonder Schlummer, Du Herz voll Treue, Du allmächtiger Gott, Dein bin ich tot und lebendig.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Das Weib sprach bei ihr selbst:",
+              "Möchte ich nur Sein Kleid anrühren, so würde ich gesund."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, Der Du durch Deinen Sohn Vergebung der Sünden und Rettung wider den ewigen Tod zugesagt hast; wir bitten Dich: stärke uns durch Deinen heiligen Geist, daß wir in solchem Vertrauen auf Deine Gnade durch Christum täglich zunehmen und die Hoffnung fest und gewiß behalten, daß wir nicht sterben, sondern einschlafen und am jüngsten Tage zum ewigen Leben erweckt werden sollen; durch Denselben . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jch hab mein Sach Gott heimgestellt",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Man trägt Eins nach dem Andern hin,",
+                  "Wohl aus den Augen, aus dem Sinn;",
+                  "Die Welt vergißt uns bald,",
+                  "Sei Jung od Alt,",
+                  "Auch unsrer Ehren mannigfalt."
+                ],
+                "rechts": [
+                  "Ach HErr, lehr uns bedenken wohl,",
+                  "Daß wir sind sterblich allzumal,",
+                  "Auch wir allhier kein Bleibens han,",
+                  "Müßn All davon,",
+                  "Gelebt Reich Jung Alt oder Schön."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 3, 1—11.",
+            "buch": "prediger",
+            "kapitel": 3,
+            "verse": "1-11"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger einiger Gott, wir bitten: Du wollest Deinen Kindern Deine Barmherzigkeit widerfahren lassen, auf daß wir, die wir an allem unsern Verdienst billig verzagen, nicht Dein gestrenges Gericht, sondern Deine Erbarmung empfangen mögen; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Kolosser 1, 9—14.",
+            "buch": "kolosser",
+            "kapitel": 1,
+            "verse": "9-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jch hab mein Sach Gott heimgestellt",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mein lieben Gott von Angesicht",
+                  "Werd ich anschaun, dran zweifl ich nicht,",
+                  "Jn ewger Freud und Seligkeit,",
+                  "Die mir bereit;",
+                  "Jhm sei Lob Preis in Ewigkeit."
+                ],
+                "rechts": [
+                  "Amen, mein lieber frommer Gott,",
+                  "Bescher uns Allen ein selgen Tod;",
+                  "Hilf, daß wir mögen allzugleich",
+                  "Bald in Dein Reich",
+                  "Kommen, und bleiben ewiglich."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus wandte Sich um, und sprach:",
+              "Sei getrost, meine Tochter, dein Glaube hat dir geholfen. Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, o HErr: vergib die Vergehen Deiner Völker, und laß uns frei werden von den Banden der Sünden, in die wir durch unsre Schwachheit geraten sind; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        840,
+        842
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "17"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Treuer Hirte Deiner Herde",
+            "melodie": "171",
+            "strophen": [
+              {
+                "links": [
+                  "Treuer Hirte Deiner Herde,",
+                  "Deiner Glieder starker Schutz,",
+                  "Sieh doch, wie die Asch und Erde,",
+                  "Großer Gott, mit Grimm und Trutz",
+                  "Tobt und wütet wider Dich,",
+                  "Und vermißt sich frecentlich,",
+                  "Deine Kirche zu zerstören,",
+                  "Und Dein Erbteil zu verheeren."
+                ],
+                "rechts": [
+                  "Du HErr, bist ja unser König,",
+                  "Wir sind Dein mit Leib und Seel;",
+                  "Menschheilf ist hier zu wenig",
+                  "Wo nicht Du Jmmanuel",
+                  "Zu der Deinen Rettung machst,",
+                  "Und Dich Selbst zu Felde machst,",
+                  "Für Dein wahres Wort zu kämpfen,",
+                  "Und die Feinde Rat zu dämpfen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 10, 25—30.",
+            "buch": "johannes",
+            "kapitel": 10,
+            "verse": "25-30"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Treuer Hirte Deiner Herde",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Stärke nur den schwachen Glauben,",
+                  "Den — bei so betrübter Zeit —",
+                  "Fleisch und Satan uns zu rauben,",
+                  "Und mit Furcht und Blödigkeit",
+                  "Uns zu schrecken sind bemüht;",
+                  "Deine Weisheit kennt und sieht",
+                  "Deiner Kinder schwach Vermögen,",
+                  "Und wirst nicht zu viel auflegen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Sprüche 30, 1—14.",
+            "buch": "sprueche",
+            "kapitel": 30,
+            "verse": "1-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 5, 14—24.",
+            "buch": "1_thessalonicher",
+            "kapitel": 5,
+            "verse": "14-24"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Wenn ich fühle, daß ich durch fremde Geschäfte oder Gedanken kalt und unlustig zu beten geworden — wie denn oft mein Fleisch und der Teufel allwege das Gebet wehren und hindern —, so nehme ich mein Psälterlein, laufe in die Kammer oder, so es der Tag und Zeit ist, in die Kirche zum Haufen und lese oder höre die zehn Gebote, den Glauben und, darnach ich Zeit habe, etliche Sprüche Christi, Pauli oder Psalter mündlich bei mir selbst zu sprechen, allerdings wie die Kinder tun. Darum ists gut, daß man früh Morgens lasse das Gebet das erste und des Abends das letzte Werk sein, und hüte sich fleißig vor diesen falschen, betrüglichen Gedanken, die da sagen: Harre ein wenig, über eine Stunde will ich beten, ich muß dies oder das zuvor fertigen; denn mit solchen Gedanken kommt man vom Gebet in die Geschäfte, die halten und umfangen ihn Einen, daß aus dem Gebete des Tages nichts wird.",
+            "quelle": "Martin Luther"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        843,
+        845
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Unser Herrscher, unser König",
+            "melodie": "144",
+            "strophen": [
+              {
+                "links": [
+                  "Unser Herrscher, unser König,",
+                  "Unser allerhöchstes Gut,",
+                  "Herrlich ist Dein großer Name,",
+                  "Weil er Wunderarten tut,",
+                  "Löblich nah und auch von fernen,",
+                  "Von der Erd bis an die Sternen."
+                ],
+                "rechts": [
+                  "Wenig sind zu diesen Zeiten,",
+                  "Welche Dich von Herzensgrund",
+                  "Lieben suchen und begehren",
+                  "Aus der Sängelinge Mund",
+                  "Hast Du Dir ein Lob bereitet,",
+                  "Welches Deine Macht ausbreitet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 16, 13—18.",
+            "buch": "lukas",
+            "kapitel": 16,
+            "verse": "13-18"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Unser Herrscher, unser König",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Unterdessen, HErr mein Herrscher,",
+                  "Will ich treulich lieben Dich;",
+                  "Denn ich weiß, Du treuer Vater,",
+                  "Daß Du heimlich liebest mich.",
+                  "Zeuch mich kräftig von der Erden,",
+                  "Daß mein Herz mag himmlisch werden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 65, 1—6.",
+            "buch": "jesaja",
+            "kapitel": 65,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 11, 32—40.",
+            "buch": "hebraeer",
+            "kapitel": 11,
+            "verse": "32-40"
+          },
+          {
+            "typ": "lied",
+            "titel": "Unser Herrscher, unser König",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, Dein Nam ist doch gerühmet",
+                  "Und in aller Welt bekannt;",
+                  "Wo die warmen Sonnenstrahlen",
+                  "Nur erleuchten einig Land:",
+                  "Da ruft Himmel, da ruft Erde:",
+                  "Hochgelobt Jehovah werde!"
+                ],
+                "rechts": [
+                  "HErr mein Herrscher, o wie herrlich",
+                  "Jst Dein Name meiner Seel!",
+                  "Drum ich auch vor Deinen Augen",
+                  "Singende mich Dir befehl:",
+                  "Gib, daß Deines Kindes Glieder",
+                  "Sich Dir ganz ergeben wieder."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        846,
+        849
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "49"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wunderanfang",
+            "strophen": [
+              {
+                "links": [
+                  "Wunderanfang! Herrlichs Ende!",
+                  "Wo die wunderweisen Hände",
+                  "Gottes führen ein und aus.",
+                  "Wunderweislich ist Sein Raten,",
+                  "Wunderherrlich Seine Taten,",
+                  "Und Du sprichst: Wo wills hinaus."
+                ],
+                "rechts": [
+                  "Gottes Weg ist in den Flüssen",
+                  "Und in großen Wassergüssen",
+                  "Und du spürst nicht Seinen Fuß:",
+                  "So auch in dem Meer der Sorgen",
+                  "Hält Gott Seinen Pfad verborgen,",
+                  "Daß man nach Jhm suchen muß."
+                ]
+              },
+              {
+                "links": [
+                  "Denke doch: es muß so gehen",
+                  "Was Gott weislich heißt geschehen,",
+                  "Jhm und dir zur Herrlichkeit;",
+                  "Ob der Anfang seltsam scheinet,",
+                  "Jst das End doch gut gemeinet:",
+                  "Friede folgt nach dem Streit."
+                ],
+                "rechts": [
+                  "Kein Beginnen kann erfinnen,",
+                  "Wo man könne Hilf gewinnen,",
+                  "Die Vernunft ist hier zu blind;",
+                  "Jhre bald gebrochnen Augen",
+                  "Nicht in das Verborgne taugen,",
+                  "Dem sie allzublöde sind."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 16, 5—12.",
+            "buch": "matthaeus",
+            "kapitel": 16,
+            "verse": "5-12"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wunderanfang",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Weil der HErr im Dunkeln wohnet",
+                  "Und Sein Reich im Trauren thronet,",
+                  "Da man glaubt, ob man nicht sieht:",
+                  "Bleibt die Sorge wohl bei Sorgen,",
+                  "Wer nicht trauen will auf morgen,",
+                  "Dem auch keine Hilfe blüht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 10, 12—16.",
+            "buch": "job",
+            "kapitel": 10,
+            "verse": "12-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "129"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 26, 1—14.",
+            "buch": "apostelgeschichte",
+            "kapitel": 26,
+            "verse": "1-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wunderanfang",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gott muß man in allen Sachen,",
+                  "Weil Er alles wohl kann machen,",
+                  "End und Anfang geben frei;",
+                  "Er wird was Er angefangen,",
+                  "Lassen so ein End erlangen,",
+                  "Daß es wunderherrlich sei."
+                ],
+                "rechts": [
+                  "Du wirst an den Fingern zählen",
+                  "Und nicht vor der Welt verhehlen",
+                  "Was die blinde Welt nicht kennt.",
+                  "Er wird dir dein Kreuz verjüßen,",
+                  "Daß du wirst bekennen müssen:",
+                  "Wunderanfang! Herrlichs End!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        849,
+        850
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "62"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Womit soll ich Dich wohl loben",
+            "melodie": "9/10",
+            "strophen": [
+              {
+                "links": [
+                  "Womit soll ich Dich wohl loben,",
+                  "Mächtiger HErr Zebaoth?",
+                  "Sende mir dazu von oben",
+                  "Deines Geistes Kraft, o Gott,",
+                  "Denn ich kann mit nichts erreichen",
+                  "Deine Gnad und Liebeszeichen:",
+                  "Tausend tausend Mal sei Dir,",
+                  "Großer König, Dank dafür."
+                ],
+                "rechts": [
+                  "Jch ja, wenn ich überlege,",
+                  "Mit was Lieb und Gütigkeit",
+                  "Du durch so viel Wunderwege",
+                  "Mich geführt die Lebenszeit:",
+                  "So weiß ich fein Ziel zu finden,",
+                  "Noch den Grund hier zu ergründen:",
+                  "Tausend tausend Mal sei Dir,",
+                  "Großer König, Dank dafür."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "untertitel": "aus dem „Urevangelium“ (Wiederherstellung der Logia Jesu nach D. Alfred Resch, übers. Oskar Joh. Mehl)",
+            "absätze": [
+              "Die Gerechten aber werden eingehen ins ewige Leben und erben was ihr Auge gesehen und kein Ohr gehört hat und was in keines Menschen Herz aufgestiegen ist, was Gott bereitet hat Denen, die Jhn lieben, und werden sich freuen in Gottes Reich."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Womit soll ich Dich wohl loben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wie Du setzest jedem Dinge",
+                  "Zeit Zahl Maß Gewicht und Ziel,",
+                  "Damit keinem zu geringe",
+                  "Möcht geschehen, noch zuviel:",
+                  "So hab ich auf tausend Weisen",
+                  "Deine Weisheit auch zu preisen,",
+                  "Tausend tausend Mal sei Dir,",
+                  "Großer König, Dank dafür."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 48, 13—18.",
+            "buch": "",
+            "kapitel": 48,
+            "verse": "13-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "133"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief Judä 7—10.",
+            "buch": "judas",
+            "kapitel": 1,
+            "verse": "7-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Womit soll ich Dich wohl loben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Bald mit Lieben, bald mit Leiden",
+                  "Kamst Du, HErr mein Gott, zu mir;",
+                  "Nur mein Herze zu bereiten,",
+                  "Sich ganz zu ergeben Dir,",
+                  "Daß mein gänzliches Verlangen",
+                  "Möcht an Deinem Willen hangen;",
+                  "Tausend tausend Mal sei Dir,",
+                  "Großer König, Dank dafür."
+                ],
+                "rechts": [
+                  "Tausendmal sei Dir gesungen,",
+                  "HErr mein Gott, Preis Lob und Dank,",
+                  "Daß es mir so wohl gelungen;",
+                  "Jch laß meines Lebens Gang",
+                  "Ferner doch durch Jesu Leiten",
+                  "Nur gehn in die Ewigkeiten;",
+                  "Da will ich, HErr, für und für,",
+                  "Ewig ewig danken Dir."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        850,
+        853
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "81"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Alle Menschen müssen sterben",
+            "melodie": "9/10",
+            "strophen": [
+              {
+                "links": [
+                  "Alle Menschen müssen sterben,",
+                  "Alles Fleisch vergeht wie Heu;",
+                  "Was da lebet muß verderben,",
+                  "Soll es anders werden neu.",
+                  "Dieser Leib der muß verwesen,",
+                  "Wenn er anders soll genesen",
+                  "Zu der großen Herrlichkeit,",
+                  "Die den Frommen ist bereit."
+                ],
+                "rechts": [
+                  "Drum so will ich dieses Leben,",
+                  "Wenn es meinem Gott beliebt,",
+                  "Auch ganz willig von mir geben,",
+                  "Bin darüber nicht betrübt;",
+                  "Denn in meines Jesu Wunden",
+                  "Hab ich nun Erlösung funden,",
+                  "Und mein Trost in Todesnot",
+                  "Jst des HErren Jesu Tod."
+                ]
+              },
+              {
+                "links": [
+                  "Jesus ist für mich gestorben,",
+                  "Und Sein Tod ist mein Gewinn;",
+                  "Er hat das Heil erworben;",
+                  "Drum fahr ich mit Freuden hin",
+                  "Hier aus diesem Weltgetümmel",
+                  "Jn den schönen Gotteshimmel,",
+                  "Da ich werde allezeit",
+                  "Schauen die Dreifaltigkeit."
+                ],
+                "rechts": [
+                  "Da wird sein das Freudenleben,",
+                  "Da viel tausend Seelen schon",
+                  "Sind mit Himmelsglanz umgeben,",
+                  "Dienen Gott vor Seinem Thron,",
+                  "Da die Seraphinen prangen,",
+                  "Und das hohe Lied anfangen:",
+                  "Heilig heilig heilig heißt",
+                  "Gott der Vater Sohn und Geist."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "untertitel": "aus dem „Urevangelium“ (Wiederherstellung der Logia Jesu nach D. Alfred Resch, übers. Oskar Joh. Mehl)",
+            "absätze": [
+              "Der Satan ist der Versucher. Gebt dem Satan keinen Anlaß! Widersteht dem Satan, so wird er von euch fliehen. Werdet stark im Kampfe und streitet wider die alte Schlange, so werdet ihr das ewige Reich empfangen."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Alle Menschen müssen sterben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Da die Patriarchen wohnen,",
+                  "Die Propheten allzumal;",
+                  "Wo auf ihren Ehrenthronen",
+                  "Sitzet die gewölbte Zahl,",
+                  "Wo in so viel tausend Jahren",
+                  "Alle Frommen hingefahren,",
+                  "Da wir unserm Gott zu Ehre",
+                  "Ewig Halleluja hören."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "89"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 48, 19—28.",
+            "buch": "",
+            "kapitel": 48,
+            "verse": "19-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief Judä 11—16.",
+            "buch": "judas",
+            "kapitel": 1,
+            "verse": "11-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Alle Menschen müssen sterben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O Jerusalem, du schöne,",
+                  "Ach wie helle glänzest Du!",
+                  "Ach wie lieblich Lobgetöne",
+                  "Hört man in sanfter Ruh!",
+                  "Ach der großen Freud und Wonne,",
+                  "Jetzund gehet auf die Sonne,",
+                  "Jetzund gehet an der Tag,",
+                  "Der kein Ende nehmen mag."
+                ],
+                "rechts": [
+                  "Jch, ich habe schon erblicket",
+                  "Alle diese Herrlichkeit;",
+                  "Jetzund werd ich schön geschmücket",
+                  "Mit dem weißen Himmelskleid;",
+                  "Mit der güldnen Ehrenkrone",
+                  "Steh ich da vor Gottes Throne,",
+                  "Schaue solche Freude an,",
+                  "Die kein Ende nehmen kann."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 24. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        854,
+        856
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Bedenke, Mensch, das Ende",
+            "melodie": "69",
+            "strophen": [
+              {
+                "links": [
+                  "Bedenke, Mensch, das Ende,",
+                  "Bedenke deinen Tod!",
+                  "Der Tod kommt oft behende,",
+                  "Der heute frisch und rot",
+                  "Kann morgen und geschwinder",
+                  "Hinweg gestorben sein;",
+                  "Drum bilde dir, o Sünder,",
+                  "Ein täglich Sterben ein."
+                ],
+                "rechts": [
+                  "Bedenke, Mensch, das Ende,",
+                  "Bedenke das Gericht!",
+                  "Es müssen alle Stände",
+                  "Vor Jesu Angesicht;",
+                  "Kein Mensch ist ausgenommen,",
+                  "Hier muß ein Jeder dran,",
+                  "Und wird den Lohn bekommen,",
+                  "Nachdem er hat getan."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "untertitel": "aus dem „Urevangelium“ (Wiederherstellung der Logia Jesu nach D. Alfred Resch, übers. Oskar Joh. Mehl)",
+            "absätze": [
+              "Eure Heimat ist im Himmel. — Siehe: Mein Hochzeitshaus ist bereit, und selig ist, Des Kleid glänzend weiß ist: denn er empfänget die Krone des Lebens auf sein Haupt. — Und als Jesus von Petro gefragt wurde, wann Sein Reich käme, sprach Er: Wenn Zwei Eins sein wird, und das Aeußere wie das Jnnere, und das Männliche mit dem Weibliche, und weder Männliches noch Weibliches."
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Was fliehest du den Tod? Fliehe lieber die Sünde! Wenn du heute nicht bereit bist, wie wirst du es morgen sein? Der morgende Tag ist ein ungewisser Tag; oder weißt du gewiß, daß du morgen noch leben wirst? Was nützt es doch, wenn wir lange leben und uns so wenig bessern? Ach! ein langes Leben macht gewöhnlich nicht besser, sondern oft nur die Zahl der Sünden mehr. Hätten wir doch nur einen Tag recht gelebt in dieser Welt! Jeder Morgen denke, daß du vielleicht den Abend nicht mehr erleben werdest, und hast du den Abend erreicht, so wage es nicht, dir noch den Morgen zu versprechen. Sei also immer bereit und befleißige dich, so zu leben, daß der Tod nie unbereitet dich überfallen kann.",
+            "quelle": "Thomas von Kempen"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Bedenke, Mensch, das Ende",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Bedenke, Mensch, das Ende,",
+                  "Bedenke stets die Zeit,",
+                  "Daß dich ja nichts abwende",
+                  "Von jener Herrlichkeit,",
+                  "Damit vor Gottes Throne",
+                  "Die Seele werd verpflegt,",
+                  "Dort ist die Lebenskrone",
+                  "Den Frommen beigelegt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 49, 10—20.",
+            "buch": "",
+            "kapitel": 49,
+            "verse": "10-20"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 11, 15—19.",
+            "buch": "offenbarung",
+            "kapitel": 11,
+            "verse": "15-19"
+          },
+          {
+            "typ": "lied",
+            "titel": "Bedenke, Mensch, das Ende",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, lehre mich bedenken",
+                  "Der Zeiten letzte Zeit,",
+                  "Daß ich nach Dir zu lenken",
+                  "Mein Herze sei bereit;",
+                  "Laß mich den Tod betrachten",
+                  "Und Deinen Richterstuhl,",
+                  "Laß mich auch nicht verachten",
+                  "Der ewgen Feuerpfuhl."
+                ],
+                "rechts": [
+                  "Hilf, Gott, daß ich in Zeiten",
+                  "Auf meinen letzten Tag",
+                  "Mit Buße mich bereiten",
+                  "Und täglich sterben mag;",
+                  "Jm Tod und vor Gerichte",
+                  "Steh mir, o Jesu, bei,",
+                  "Daß ich ins Himmels Lichte",
+                  "Zu wohnen würdig sei."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

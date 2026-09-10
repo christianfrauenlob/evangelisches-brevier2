@@ -1,0 +1,1061 @@
+{
+  "id": "trinitatis_27",
+  "titel": "27. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "27. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        896,
+        901
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "63",
+              "148"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ermuntert euch",
+            "strophen": [
+              {
+                "links": [
+                  "Ermuntert euch, ihr Frommen,",
+                  "Zeigt eurer Lampen Schein;",
+                  "Der Abend ist gekommen,",
+                  "Die finstre Nacht bricht ein.",
+                  "Es hat sich aufgemachet",
+                  "Der Bräutigam mit Pracht,",
+                  "Auf! Betet, kämpft und wachet,",
+                  "Bald ist es Mitternacht."
+                ],
+                "rechts": [
+                  "Macht eure Lampen fertig,",
+                  "Und füllet sie mit Oel;",
+                  "Und seid des Heils gewärtig,",
+                  "Bereitet Leib und Seel.",
+                  "Die Wächter Zions schreien:",
+                  "Der Bräutigam ist nah;",
+                  "Begegnet Jhm im Reihen,",
+                  "Und singt Hallelujah!"
+                ]
+              },
+              {
+                "links": [
+                  "Jhr klugen Jungfrau alle,",
+                  "Hebt nun das Haupt empor",
+                  "Mit Jauchzen und mit Schalle",
+                  "Zum frohen Engelchor.",
+                  "Die Thür ist ausgeschlossen,",
+                  "Die Hochzeit ist bereit;",
+                  "Auf auf! Jhr Reichsgenossen,",
+                  "Der Bräutgam ist nicht weit."
+                ],
+                "rechts": [
+                  "Wer wollte denn nun schlafen?",
+                  "Wer klug ist, der ist wach.",
+                  "Gott kommt, die Welt zu strafen,",
+                  "Zu üben Grimm und Rach",
+                  "An Allen, die nicht wachen,",
+                  "Und die des Tieres Bild",
+                  "Anbeten samt dem Drachen;",
+                  "Drum auf: der Löwe brüllt!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 25, 1—13.",
+            "buch": "matthaeus",
+            "kapitel": 25,
+            "verse": "1-13"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Von welchem Schlafe soll man aufstehen? Vom Schlaf der Sicherheit, da man an keine Wiederkunft Christi, noch jüngsten Tag denkt. Und welches Heil ist jetzt näher als in der ersten Zeit des Glaubens? Christus, unser Heil, der Bräutigam der Seelen! Ach, wir müßten ja näher zum Ziele sein, wir dürften und sollten doch aufhören, einmal anzufangen, für die heilige große Zukunft zu leben: unser ganzes Leben sollte endlich inbezug auf den jüngsten Tag gelebt werden. Sind wir aber ja zu sehr verlockt von der sichern nächtlich finstern Welt, ach, so sammelt doch wenigstens Öl, so forschet nur in der Schrift und gebt euch in die Schule des heiligen Geistes, „auf daß ihr immer mehr reich werdet in allerlei Erkenntnis und Erfahrung, daß ihr prüfen möget, was das beste sei, auf daß ihr seid lauter und unanstößig bis auf den Tag Christi, erfüllet mit Früchten der Gerechtigkeit, die durch Jesum Christum geschehen in euch zu Ehre und Lobe Gottes.“",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Dir herzlich, daß Du durch Dein Wort und Evangelium uns noch für und für zur Hochzeit Deines Sohnes berufen läßest; und bitten Dich: regiere unsre Herzen durch Deinen heiligen Geist, daß wir allezeit den wahren Glauben und ein gutes Gewissen haben, auch bis ans Ende wachen und munter seien, auf daß, wenn der himmlische Bräutigam, Dein Sohn, am jüngsten Tage erscheinet, wir zur Hochzeit des ewigen Lebens eingehen und werden; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ermuntert euch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Begegnet Jhm auf Erden,",
+                  "Jhr die ihr Zion liebt,",
+                  "Mit freudigen Geberden,",
+                  "Und seid nicht mehr betrübt.",
+                  "Es sind die Freudenstunden",
+                  "Gekommen, und der Braut",
+                  "Wird, weil sie überwunden,",
+                  "Die Krone nun vertraut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 33-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 35, 3—10.",
+            "buch": "jesaja",
+            "kapitel": 35,
+            "verse": "3-10"
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir danken Dir, HErr Gott himmlischer Vater, daß Du Dein heiliges Wort bis anher unverfälscht erhalten und durch dasselbe unsre Seelen kräftiglich erbaut hast; wir bitten Dich: Du wollest uns Allen dasjenige, was wir dawider getan, kräftiglich vergeben und diesen teuern Schatz auch ins Künftige unter uns erhalten, damit wir ewig selig werden; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Petri 3, 3—14.",
+            "buch": "2_petrus",
+            "kapitel": 3,
+            "verse": "3-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ermuntert euch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die ihr Geduld getragen,",
+                  "Und mit gestorben seid,",
+                  "Sollt nun nach Kreuz und Klagen",
+                  "Jn Freuden sonder Leid",
+                  "Mit leben und regieren,",
+                  "Und vor des Lammes Thron",
+                  "Mit Jauchzen triumphieren",
+                  "Jn eurer Siegeskron."
+                ],
+                "rechts": [
+                  "Hier sind die Siegespalmen,",
+                  "Hier ist das weiße Kleid;",
+                  "Hier ziehn die Weizenhalmen",
+                  "Jn Frieden nach dem Streit",
+                  "Und nach den Wintertagen;",
+                  "Hier grünen die Gebein,",
+                  "Hier dort der Tod erschlagen,",
+                  "Hier schenkt man Freudenwein."
+                ]
+              },
+              {
+                "links": [
+                  "Hier ist die Stadt der Freuden:",
+                  "Jerusalem, der Ort,",
+                  "Wo die Erlösten weiden,",
+                  "Hier ist der sichre Port;",
+                  "Hier sind die güldnen Gassen,",
+                  "Hier ist das Hochzeitmahl,",
+                  "Hier soll sich niederlassen",
+                  "Die Braut im Rosental."
+                ],
+                "rechts": [
+                  "O Jesu, meine Wonne,",
+                  "Komm bald, und mach Dich auf;",
+                  "Geh auf, verlangte Sonne,",
+                  "Und eile deinen Lauf!",
+                  "O Jesu, mach ein Ende,",
+                  "Und führ uns aus dem Streit:",
+                  "Wir heben Haupt und Hände",
+                  "Nach der Erlösungszeit."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        901,
+        903
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "21"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei Gott getreu, halt Seinen Bund",
+            "melodie": "155",
+            "strophen": [
+              {
+                "links": [
+                  "Sei Gott getreu, halt Seinen Bund,",
+                  "O Mensch, in deinem Leben;",
+                  "Leg diesen Stein zum rechten Grund,",
+                  "Bleib Jhm allein ergeben;",
+                  "Denk an den Kauf,",
+                  "Jn deiner Tauf,",
+                  "Da Er Sich dir verschrieben",
+                  "Bei Seinem Eid,",
+                  "Jn Ewigkeit",
+                  "Als Vater dich zu lieben."
+                ],
+                "rechts": [
+                  "Sei Gott getreu, laß Seinen Wind",
+                  "Des Kreuzes dich abkehren;",
+                  "Jst Er dein Vater, du Sein Kind,",
+                  "Was müßt du mehr begehren?",
+                  "Dies höchste Gut",
+                  "Macht rechten Mut;",
+                  "Kann Seine Huld dir werden:",
+                  "Nichts Behres ist,",
+                  "Mein lieber Christ,",
+                  "Jm Himmel und auf Erden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 12, 35—43.",
+            "buch": "lukas",
+            "kapitel": 12,
+            "verse": "35-43"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sei Gott getreu",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Sein liebes Wort",
+                  "Standhaftig zu bekennen;",
+                  "Steh fest darauf an allem Ort,",
+                  "Laß dich davon nicht trennen;",
+                  "Was diese Welt",
+                  "Jn Armen hält,",
+                  "Muß alles noch vergehen;",
+                  "Sein liebes Wort",
+                  "Bleibt ewig fort",
+                  "Ohn alles Wanken stehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "33"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 60, 18—22.",
+            "buch": "jesaja",
+            "kapitel": 60,
+            "verse": "18-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 7, 9—17.",
+            "buch": "offenbarung",
+            "kapitel": 7,
+            "verse": "9-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei Gott getreu",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Sei Gott getreu bis in den Tod,",
+                  "Und laß dich nichts abwenden;",
+                  "Er wird und kann in aller Not",
+                  "Die treuen Beistand senden;",
+                  "Und käm auch gleich",
+                  "Das höllsche Reich",
+                  "Mit aller Macht gedrungen,",
+                  "Wollt auf dich zu,",
+                  "So glaube du:",
+                  "Du bleibest unbezwungen."
+                ],
+                "rechts": [
+                  "Wirst du Gott also bleiben treu,",
+                  "Wird Er Sich dir erweisen,",
+                  "Daß Er dein lieber Vater sei,",
+                  "Er dir hat verheißen;",
+                  "Und eine Kron",
+                  "Zum Gnadenlohn",
+                  "Jm Himmel dir aufsetzen,",
+                  "Da wirst du dich",
+                  "Fort ewiglich",
+                  "Jn Seiner Treu ergötzen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        904,
+        906
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "59"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr lieben Herzen",
+            "melodie": "53",
+            "strophen": [
+              {
+                "links": [
+                  "Wachet auf, ihr lieben Herzen,",
+                  "Wachet auf, und tret't heran!",
+                  "Seht, was Jesus hat getan.",
+                  "Er mußt durch viel Todesschmerzen,",
+                  "So durch manchen barten Streit",
+                  "Geben ein zur Herrlichkeit."
+                ],
+                "rechts": [
+                  "Kämpft, denn es wird geboren",
+                  "Jn dem Kreuz die Friedenskraft",
+                  "Und die wahre Ruh geschafft.",
+                  "Wer nun will sein auserkoren",
+                  "Dringe durch die blutge Nacht,",
+                  "So wird er dazu gebracht."
+                ]
+              },
+              {
+                "links": [
+                  "Jch so schickt euch auch zum Leiden,",
+                  "Wer genießen will der Freuden,",
+                  "Gebt euch in des Vaters Willen,",
+                  "Er wird euren Hunger stillen.",
+                  "Laßt uns auch das Leben",
+                  "Durch viel Kreuz und Leiden müssen,",
+                  "Die gottsfürchtig wollen leben,",
+                  "Nach dem Reiche Gottes streben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 13, 33—37.",
+            "buch": "markus",
+            "kapitel": 13,
+            "verse": "33-37"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr lieben Herzen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Unsres Hauptes Vater träget",
+                  "Vaterliebe gegen Die,",
+                  "So ein wenig haben Müh",
+                  "Unterm Kreuz, wenn Er sie schläget,",
+                  "Und der Kinder Jhr Gemüt",
+                  "Mit der Liebesrute zieht,",
+                  "Er zerschlägt und reißet nieder,",
+                  "Doch heilt Er und bauet wieder,",
+                  "Tötet und schenkt auch das Leben",
+                  "Denen, die sich Jhm ergeben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 10, 9—18.",
+            "buch": "",
+            "kapitel": 10,
+            "verse": "9-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 22, 1—7.",
+            "buch": "offenbarung",
+            "kapitel": 22,
+            "verse": "1-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wachet auf, ihr lieben Herzen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach so laß uns Jhm nachgeben,",
+                  "Da der Abend gehet weg,",
+                  "Daß wir bleiben auf dem Steg;",
+                  "Durch die letzte Wach wir sehen",
+                  "Schon den Blick der Morgenröt,",
+                  "Da die Sonn von fern aufgeht:",
+                  "Es fängt nun bald an zu tagen,",
+                  "Wie die Wächter alle sagen;",
+                  "Es wird keine Nacht mehr kommen,",
+                  "Wenn vollendet sind die Frommen."
+                ],
+                "rechts": [
+                  "Jesu, Du hast durch Dein Leiden",
+                  "Uns geheiligt vor der Stadt,",
+                  "Nun, es ist des Vaters Rat,",
+                  "Daß wir uns zum Kreuz bereiten",
+                  "Auf der kurzen Pilgrimschaft,",
+                  "Ach so gib uns Allen Kraft,",
+                  "Daß wir Deine Schmach mittragen,",
+                  "Und wenn uns die Feinde jagen,",
+                  "Laß uns, HErr, nur nicht verderben,",
+                  "Daß wir Gottes Reich erwerben."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        906,
+        908
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Herzlich tut mich verlangen",
+            "melodie": "69",
+            "strophen": [
+              {
+                "links": [
+                  "Herzlich tut mich verlangen",
+                  "Nach einem selgen End,",
+                  "Weil ich hie bin umfangen",
+                  "Mit Trübsal und Elend;",
+                  "Jch hab Lust abzuscheiden",
+                  "Von dieser argen Welt,",
+                  "Sehn mich nach ewger Freuden",
+                  "O Jesu, komm nur bald!"
+                ],
+                "rechts": [
+                  "Wenn gleich süß ist das Leben,",
+                  "Der Tod sehr bitter mir,",
+                  "Will ich mich doch ergeben,",
+                  "Zu sterben willig Dir.",
+                  "Jch weiß ein beßer Leben,",
+                  "Da meine Seel fährt hin;",
+                  "Des freu ich mich gar eben,",
+                  "Sterben ist mein Gewinn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 18, 26—30.",
+            "buch": "lukas",
+            "kapitel": 18,
+            "verse": "26-30"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Herzlich tut mich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ob mich die Welt auch reizet",
+                  "Länger zu leben hier,",
+                  "Und mir auch immer zeiget",
+                  "Ehr Geld Gut, all ihr Zier:",
+                  "Doch ich das ganz nicht achte —",
+                  "Es währt ein kleine Zeit —",
+                  "Das Himmlisch ich betrachte,",
+                  "Das bleibt in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "57"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 3, 17—26.",
+            "buch": "job",
+            "kapitel": 3,
+            "verse": "17-26"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 13, 5—10.",
+            "buch": "2_korinther",
+            "kapitel": 13,
+            "verse": "5-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Herzlich tut mich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nun will ich mich ganz wenden",
+                  "Zu Dir, HErr Christ, allein:",
+                  "Gib mir ein seliges Ende,",
+                  "Send mir Dein Engelein;",
+                  "Führe mich ins ewge Leben,",
+                  "Das Du erworben hast,",
+                  "Durch Dein Leiden und Sterben",
+                  "Und blutiges Verdienst."
+                ],
+                "rechts": [
+                  "Hilf, daß ich gar nicht wanke",
+                  "Von Dir, HErr Jesu Christ;",
+                  "Den schwachen Glauben stärke",
+                  "Jn mir zu aller Frist.",
+                  "Hilf mir ritterlich ringen,",
+                  "Dein Hand mich halt in acht,",
+                  "Daß ich mag fröhlich singen:",
+                  "Gott Lob, es ist vollbracht!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        909,
+        911
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "69"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Zeit geht an",
+            "strophen": [
+              {
+                "links": [
+                  "Die Zeit geht an, die Jesus hat bestimmt,",
+                  "Da alles Leid bei mir ein Ende nimmt,",
+                  "Gehab dich wohl, mein Kerker, böse Welt,",
+                  "Mit allem Dem, was deinem Geist gefällt."
+                ],
+                "rechts": [
+                  "Komm, meine Seel, wir wollen nunmehr gehn,",
+                  "Wo Gottes Sohn und Seine Diener stehn;",
+                  "Wir wollen uns gesellen zu der Schar,",
+                  "Die unverrückt frohlocket immerdar."
+                ]
+              },
+              {
+                "links": [
+                  "Gebenedeit sei ewig dieser Tag,",
+                  "Jn welchem ich durch Gott verlassen mag",
+                  "Was sterblich ist und blendt mein Augenlicht,",
+                  "Daß ich nicht sehe des Liebsten Angesicht."
+                ],
+                "rechts": [
+                  "Ach Jesu Christ, mein Leben in dem Tod,",
+                  "Mein Trost in Pein, mein Freund in Angst und Not!",
+                  "Jch wende mich mit aller Kraft zu Dir;",
+                  "Ach tu mir auf die feste Lebenstür!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Nennet Keinen unter euch „Vater“ auf der Erde; denn Einer ist euer Vater: Der im Himmel. Denn HErren sind auf der Erde; im Himmel aber ist der Vater, von Dem herstammt alles was Kinder heißt im Himmel und auf der Erde. — Der Vater im Himmel will die Umkehr des Sünders und nicht seine Strafe. — Geht ihr hin und lernt, was das sei: Barmherzigkeit will Jch, und nicht Opfer! — Jede Pflanze, die nicht Mein Vater im Himmel gepflanzt hat, wird ausgejätet werden."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Die Zeit geht an",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jch gebe Dir von ganzem Herzen hin",
+                  "Was Du erlöst, und was ich durch Dich bin;",
+                  "Nimm meine Seel, wenn sie vom Leib ist los,",
+                  "Jn Deine Hand und väterlichen Schoß."
+                ]
+              },
+              {
+                "links": [
+                  "Du bist mein Ziel, mein Ende Ruhm und Preis,",
+                  "Mein Mittelpunkt, mein süßes Paradeis;",
+                  "Jn Dir allein findt meine Seel Ruh,",
+                  "Drum seufzt ich auch Dir unaufhörlich zu."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 7, 1—8.",
+            "buch": "job",
+            "kapitel": 7,
+            "verse": "1-8"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 9, 13—21.",
+            "buch": "offenbarung",
+            "kapitel": 9,
+            "verse": "13-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Die Zeit geht an",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach ach, wie sehr verlangt mich doch nach Dir!",
+                  "Komm doch, mein Trost, mein Leben, komm zu mir,",
+                  "Verzeuch doch nicht, aus dieser finstern Höhl",
+                  "Jn Deinen Hof zu holen meine Seel!"
+                ],
+                "rechts": [
+                  "Jedoch, damit ich Dir nichts schreibe für,",
+                  "So will ich gern und willig bleiben hier,",
+                  "Bis kommt die Zeit, in welcher ich, als Braut,",
+                  "Mit meinem Gott und Bräutgam wird vertraut."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        912,
+        913
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "143"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wenn mein Stündlein vorhanden ist",
+            "melodie": "156",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn mein Stündlein vorhanden ist,",
+                  "Und ich soll fahren meine Straße,",
+                  "So gleit Du mich, HErr Jesu Christ,",
+                  "Mit Hilf mich nicht verlasse!",
+                  "Mein Seel an meinem letzten End",
+                  "Befehl ich Dir in Deine Händ:",
+                  "Du wollst sie mir bewahren."
+                ],
+                "rechts": [
+                  "Jch bin ein Glied an Deinem Leib,",
+                  "Des tröst ich mich von Herzen;",
+                  "Von Dir ich mich ungeschieden bleib",
+                  "Jn Todesnot und Schmerzen.",
+                  "Wenn ich gleich sterb, so sterb ich Dir:",
+                  "Ein ewigs Leben hast Du mir",
+                  "Mit Deinem Tod erworben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Wer Mir nahe ist, der ist dem Vater nahe; und wer fern von Mir ist, der ist fern vom Reiche. — Welchen Gewinn hätte Einer, wenn er sich die ganze Welt erwürbe und dabei seine Seele zugrunde ginge? Oder was könnte Einer als Lösegeld für seine Seele geben? — Um der Kranken willen bin Jch krank gewesen, und um der Hungernden willen habe Jch gehungert, und um der Dürstenden willen habe Jch gedürstet. Das Schwache wird durch das Starke gerettet werden. — Was staunet ihr über die Wunderzeichen? Siehe: Jch gebe euch großes Erbteil, wie es die ganze Welt nicht hat. — Wenn der Menschensohn kommt, findet Er wohl Glauben auf der Erde? — Die Mich sehen, werden nicht an Mich glauben, und die Mich nicht sehen, die werden glauben und leben."
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Trostgebet in unserer letzten Stunde: Allmächtiger, ewiger, barmherziger HErr und Gott, Der Du bist ein Vater unsers HErrn Jesu Christ: ich weiß gewiß, daß alles, was Du gesagt hast, wahr ist, auch daß Du nicht lügen kannst, Dein Wort ist wahrhaftig. Du hast mir im Anfang Deinen Einigen Sohn Jesum Christum zugesagt, und Derselbige ist gekommen und hat mich vom Teufel Tod Hölle und Sünden erlöst; darnach, zu mehrerer Sicherheit, aus gnädigem Willen, mir die Sakramente der Taufe und des Altars geschenkt, und angeboten Vergebung der Sünden, ewiges Leben und alle himmlischen Güter. Auf solches Sein Anbieten habe ich mich im Glauben fest verlassen und es empfangen. Jst dies nun meine Stunde und Dein göttlicher Wille, so will ich fröhlich mit Freuden auf Dein Wort von hinnen scheiden.",
+            "quelle": "Martin Luther"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wenn mein Stündlein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Weil Du vom Tod erstanden bist,",
+                  "Werd ich im Grab nicht bleiben,",
+                  "Mein höchster Trost Dein Auffahrt ist,",
+                  "Todsfurcht kann sie vertreiben.",
+                  "Denn wo Du bist, da komm ich hin,",
+                  "Daß ich stets bei Dir leb und bin;",
+                  "Drum fahr ich hin mit Freuden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 17, 11—16.",
+            "buch": "job",
+            "kapitel": 17,
+            "verse": "11-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 19, 11—16.",
+            "buch": "offenbarung",
+            "kapitel": 19,
+            "verse": "11-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wann ich einmal soll scheiden",
+            "melodie": "69",
+            "strophen": [
+              {
+                "links": [
+                  "Wann ich einmal soll scheiden,",
+                  "So scheide nicht von mir,",
+                  "Wann ich den Tod soll leiden,",
+                  "So tritt Du dann herfür;",
+                  "Wann mir am allerbängsten",
+                  "Wird um das Herze sein,",
+                  "So reiß mich aus den Aengsten",
+                  "Kraft Deiner Angst und Pein."
+                ],
+                "rechts": [
+                  "Erscheine mir zum Schilde,",
+                  "Zum Trost in meinem Tod,",
+                  "Und laß mich sehn Dein Bilde",
+                  "Jn Deiner Kreuzesnot.",
+                  "Da will ich nach Dir blicken,",
+                  "Da will ich glaubensvoll",
+                  "Dich fest an mein Herz drücken,",
+                  "Wer so stirbt, der stirbt wohl."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 27. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        914,
+        917
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "64"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist genug",
+            "melodie": "47",
+            "strophen": [
+              {
+                "links": [
+                  "Es ist genug! So nimm, HErr, meinen Geist",
+                  "Zu Zions Geistern hin;",
+                  "Lös auf das Band, das allgemählich reißt,",
+                  "Befreie diesen Sinn,",
+                  "Der sich nach seinem Gotte sehnet,",
+                  "Der täglich klagt und nächtlich thränet:",
+                  "Es ist genug."
+                ],
+                "rechts": [
+                  "Es ist genug des Kreuzes, das mir fast",
+                  "Den Rücken wund gemacht,",
+                  "Wie schwer, o Gott, wie hart ist diese Last!",
+                  "Jch schwemme manche Nacht",
+                  "Mein hartes Lager durch mit Thränen;",
+                  "Wie lange, lang muß ich mich sehnen?",
+                  "Wann ists genug?"
+                ]
+              },
+              {
+                "links": [
+                  "Es ist genug, HErr, wenn es Dir gefällt,",
+                  "So spanne mich doch aus!",
+                  "Mein Jesus kommt! Nun gute Nacht, o Welt!",
+                  "Jch fahr ins Himmels Haus,",
+                  "Jch fahre sicher hin mit Frieden,",
+                  "Mein großer Jammer bleibt danieden.",
+                  "Es ist genug."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "sondertext",
+            "titel": "Lesung",
+            "absätze": [
+              "Jedesmal, wenn ihr dies Brot esset und diesen Becher trinket, sollt ihr Meinen Tod verkünden, bis daß Jch komme. Jhr seid groß geworden in Meinem Dienst, die ihr bei Mir in Meinen Anfechtungen beharrt habt. Siehe, Jch stifte mit euch einen neuen Bund, wie ihn Mein Vater Mir übertragen hat, damit ihr esset und trinket mit Mir am Tische Meines Vaters. Und ihr werdet auf Thronen sitzen, zu Meiner Rechten und zu Meiner Linken, zu richten die zwölf Stämme Jsraels. Und ihr werdet mit Mir herrschen in Meinem Reiche."
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Zu Dir hebe ich meine Augen empor, auf Dich vertraue ich, mein Gott, Vater der Barmherzigkeit. Segne meine Seele, segne sie mit Deinen himmlischen Tröstungen, damit sie eine heilige Wohnung werde, ein Sitz der ewigen Herrlichkeit, ein Tempel der Gottheit, in dem nichts mehr gefunden werde, was die Augen Deiner Majestät beleidigen könnte. Nach der Größe Deiner Güte und nach der Fülle Deiner Erbarmungen sieh herab auf mich, und erhöre das Flehen Deines armen Knechtes, der fern verbannt von Dir im Schattenlande des Todes umirret. Beschirme und erhalte die Seele Deines geringen Knechtes in so vielen Gefahren dieses vergänglichen Lebens. Begleite von Deiner Gnade, leite sie auf dem Wege des Friedens in das Vaterland der ewigen Klarheit.",
+            "quelle": "Thomas von Kempen"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun Gott Lob, es ist vollbracht",
+            "melodie": "94",
+            "strophen": [
+              {
+                "links": [
+                  "Nun Gott Lob, es ist vollbracht!",
+                  "Singen Beten Lehren Hören",
+                  "Gott hat alles wohl gemacht,",
+                  "Drum laßt uns Sein Lob vermehren;",
+                  "Unser Gott sei hoch gepriesen,",
+                  "Daß Er uns so herrlich gespeiset."
+                ],
+                "rechts": [
+                  "Unsern Ausgang segne Gott,",
+                  "Unsern Eingang gleichermaßen;",
+                  "Segne unser täglich Brot,",
+                  "Segne unser Tun und Lassen,",
+                  "Segne uns mit seligem Sterben,",
+                  "Und mach uns zu Himmelserben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 55, 12—56, 2.",
+            "buch": "jesaja",
+            "kapitel": 55,
+            "verse": "12-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Offenbarung S. Johannis 22, 14—21.",
+            "buch": "offenbarung",
+            "kapitel": 22,
+            "verse": "14-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun kommt das neue Kirchenjahr",
+            "melodie": "44",
+            "strophen": [
+              {
+                "links": [
+                  "Nun kommt das neue Kirchenjahr,",
+                  "Des freut sich alle Christenschar;",
+                  "Dein König kommt, drum freue dich",
+                  "Du wertes Zion, ewiglich.",
+                  "Hallelujah!"
+                ],
+                "rechts": [
+                  "Wir hören noch das Gnadenwort",
+                  "Vom Anfang immer wieder fort,",
+                  "Das uns den Weg zum Leben weist:",
+                  "Gott sei für Seine Gnad gepreist.",
+                  "Hallelujah!"
+                ]
+              },
+              {
+                "links": [
+                  "Gott, was Du Deine Wahrheit lehrt,",
+                  "Die unsern Glauben stets vermehrt,",
+                  "Das laß befleißen, daß wir Dir",
+                  "Lob und Preis sagen für und für.",
+                  "Hallelujah!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Bleibe bei uns, HErr, denn es will Abend werden, und der Tag hat sich geneiget. Bleibe bei uns und bei Deiner ganzen Kirche. Bleibe bei uns am Abend des Tages, am Abend des Lebens, am Abend der Welt. Bleibe bei uns mit Deiner Gnade und Güte, mit Deinem heiligen Wort und Sakrament, mit Deinem Troste und Segen. Bleibe bei uns, wenn über uns kommt die Nacht der Trübsal und Angst, die Nacht des Zweifels und der Anfechtung, die Nacht des bittern Todes. Bleibe bei uns und bei allen Deinen Gläubigen in Zeit und Ewigkeit.",
+            "amen": ""
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Soli Deo gloria!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "id": "trinitatis_23",
+  "titel": "23. Sonntag nach Trinitatis",
+  "kirchenzeit": "trinitatiszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "23. Sonntag nach Trinitatis",
+      "wochentag": "sonntag",
+      "seiten": [
+        815,
+        818
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85",
+              "9"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, Der Du Herzenskenner bist",
+            "melodie": "125",
+            "strophen": [
+              {
+                "links": [
+                  "Gott, Der Du Herzenskenner bist,",
+                  "HErr, Dem der Falschheit Greuel ist",
+                  "Und jede Eitelverbrechen:",
+                  "Kein Wort spricht je ein falscher Mund,",
+                  "Das Dir, Allwissender, nicht kund;",
+                  "Du, Heiliger, wirst rächen,",
+                  "Laß derzeit mein Ja und Nein,",
+                  "Wies Christen ziemt, aufrichtig sein."
+                ],
+                "rechts": [
+                  "Und wenn ich schwörend vor Dir steh,",
+                  "Dir in Dein heilig Antlitz seh,",
+                  "Die Hand zum Himmel hebe;",
+                  "Wenn ich sag Zeugen feierlich",
+                  "Anrufe, Hocherhabener, Dich,",
+                  "Durch Den ich bin und lebe:",
+                  "Dann sei von Trug und Heuchelei",
+                  "Mein Herz und meine Zunge frei."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 22, 15—22.",
+            "buch": "matthaeus",
+            "kapitel": 22,
+            "verse": "15-22"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Das fromme Kirchenkind ist auch der frommste Untertan, der kein Christ, der nicht gehorsam die Befehle des weltlichen Regiments vollzieht, so lange sie mit Worte Gottes stimmen. Es ist der Fürst der Kirche, Der die heilige Regel gibt: Gebet dem Kaiser was des Kaisers ist! und es sind die Aeltesten der Gemeinden, die Diener Jesu, welche auf Grund des heiligen Gebotes von allen Gliedern der Gemeinden Gehorsam mit weltlichen Regimente fordern. — Der HErr sei gnädig Seiner Kirche und segne sie und gebe ihr die Fülle Seiner Kräfte, die Er verheißen hat, und gebe ihr den Segen der Völker und Staaten! Amen.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Meister, wir wissen, daß Du wahrhaftig bist,",
+              "Und lehrest den Weg Gottes recht. Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr allmächtiger Gott, Der Du alle Gewalt hast über die Reiche der ganzen Welt, gibst und erhältst Selbst alle Obrigkeit, und willst, daß wir solche Deine Ordnungen Gaben und Wohltaten in Demut und Gehorsam dankbarlich erkennen und Dir und der Obrigkeit was schuldig sind geben sollen: wir bitten Dich, Du wollest uns und all christlich Regiment fördern segnen und behüten, und unter ihnen Dein heiliges Wort und Kirche in Frieden gnädiglich erhalten, daß in wahrer Erkenntnis Zucht und Ehrbarkeit täglich mögen wachsen und zunehmen, und beide: Herren und Untertanen in gutem Gewissen vor Dir erscheinen und mit einander ewig selig werden; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Gott, Der Du Herzenskenner bist",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gott, wenn Du nicht mein Gott mehr bist,",
+                  "Dein Sohn nicht mehr mein Heiland ist,",
+                  "Dein Himmel nicht mehr Erde;",
+                  "Wenn mich beim Leiden dieser Zeit",
+                  "Kein Trost vom Himmel mehr erfreut,",
+                  "Kein Trost mehr, wenn ich sterbe;",
+                  "Dann besser nie geboren sein!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 129-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 8, 8—22.",
+            "buch": "job",
+            "kapitel": 8,
+            "verse": "8-22"
+          },
+          {
+            "typ": "gebet",
+            "text": "O lieber HErr Gott, wir bitten Dich: Du wollest Deinem Volk seine Sünden verzeihen, auf daß wir von den Banden derselben, welche wir unsrer Schwachheit nach begangen haben, durch Deine Güte mögen befreiet werden; durch . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 3, 17—21.",
+            "buch": "philipper",
+            "kapitel": 3,
+            "verse": "17-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott, Der Du Herzenskenner bist",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nein: Ehre nicht, nicht Gut und Geld,",
+                  "Kein Fürstentum und keine Welt",
+                  "Soll mich so weit verführen;",
+                  "Um alle Leiden dieser Zeit",
+                  "Will ich doch Gott und Seligkeit",
+                  "Mutwillig nicht verlieren;",
+                  "Wie klein mein Glück auch immer sei,",
+                  "Nur Gott und reines Herz dabei!"
+                ],
+                "rechts": [
+                  "Gott, lehre mich bei jedem Eid",
+                  "Aus Furcht vor Deiner Heiligkeit",
+                  "Die Wahrheit treulich sprechen;",
+                  "Beschwör ich heilig Amt und Pflicht,",
+                  "So laß mich auch im Kleinsten nicht",
+                  "Die teure Zusag brechen.",
+                  "Auch Dir, Gott, schwur ich treu zu sein:",
+                  "Erhalt mich ewig ewig Dein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Gebet dem Kaiser was des Kaisers ist,",
+              "Und Gott was Gottes ist. Halleluja!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Du unsre Zuflucht und Stärke, neige gnädig Dich zu den frommen Gebeten Deiner Kirche, Der Du Selber der Urheber aller Frömmigkeit bist; und, was wir im Glauben erbitten, das laß uns auch wirklich erlangen; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "montag",
+      "seiten": [
+        819,
+        822
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "15"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Löwen, laßt euch wiederfinden",
+            "strophen": [
+              {
+                "links": [
+                  "Löwen, laßt euch wiederfinden,",
+                  "Wie im ersten Christentum,",
+                  "Die nichts konnte überwinden:",
+                  "Seht nur an ihr Marterthum:",
+                  "Wie sie glühen,",
+                  "Wie sie Feuer freuen,",
+                  "Daß sich vor der Sterbenslust",
+                  "Selbst der Satan fürchten mußt."
+                ],
+                "rechts": [
+                  "Ganz großmütig sie verlachten",
+                  "Was die Welt für Vorteil hält,",
+                  "Und wonach die Meisten trachten:",
+                  "Es mocht sein Ehr Wollust Geld.",
+                  "Furcht war nicht in ihnen,",
+                  "Auf die Kampfschaubühnen",
+                  "Sprangen sie mit Freudigkeit,",
+                  "Hielten mit den Tieren Streit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 10, 24—33.",
+            "buch": "matthaeus",
+            "kapitel": 10,
+            "verse": "24-33"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Löwen, laßt euch wiederfinden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib, daß ich mit Geisteswaffen",
+                  "Kämpf in Jesu Löwenkraft,",
+                  "Und hier niemals möge schlafen,",
+                  "Daß mir dieses große Werk",
+                  "Durch Dich mög gelingen,",
+                  "Und ich tapfer ringen,",
+                  "Daß ich in die Luft nicht streiche,",
+                  "Sondern bald das Ziel erreiche."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Chronika 34, 22—28.",
+            "buch": "2_chronik",
+            "kapitel": 34,
+            "verse": "22-28"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "7"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 4, 4—11.",
+            "buch": "1_timotheus",
+            "kapitel": 4,
+            "verse": "4-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Löwen, laßt euch wiederfinden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ei wohlan, nur sei standhaftig,",
+                  "O ihr Brüder, tapfer drauf!",
+                  "Lasset uns doch recht herzhaftig",
+                  "Folgen jener Zeugen Hauf!",
+                  "Nur der Leib berühret,",
+                  "Was ihm gebühret;",
+                  "Er hats Leiden wohl verdient,",
+                  "Und die Seel darunter grünt."
+                ],
+                "rechts": [
+                  "Gebt euch in das Leiden wacker!",
+                  "Mit dem Blut der Märtyrer",
+                  "Wird gedüngt der Kirchenacker;",
+                  "Diese Fettigkeit treibt sehr",
+                  "Und macht stark ausfprießen",
+                  "Wenn mit wird begossen;",
+                  "O dann trägt er reichlich Frucht:",
+                  "Eine schöne Gartenzucht."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "dienstag",
+      "seiten": [
+        823,
+        825
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "135"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "VALEt will ich Dir geben",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "VALEt will ich Dir geben,",
+                  "Du arge falsche Welt;",
+                  "Dein sündlich böses Leben",
+                  "Durchaus mir nicht gefällt.",
+                  "Jm Himmel ist gut wohnen,",
+                  "Hinauf steht mein Begier.",
+                  "Da wird Gott ewig lohnen",
+                  "Dem, der Jhm dienet hier."
+                ],
+                "rechts": [
+                  "Rat mir nach Deinem Herzen,",
+                  "O Jesu, Gottes Sohn;",
+                  "Soll ich ja dulden Schmerzen,",
+                  "Hilf mir, HErr Christ, davon;",
+                  "Verkürz mir alles Leiden,",
+                  "Stärk meinen blöden Mut;",
+                  "Laß mich selig abscheiden,",
+                  "Setz mich in Dein Erbgut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 24, 10—14.",
+            "buch": "matthaeus",
+            "kapitel": 24,
+            "verse": "10-14"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "VALEt will ich Dir geben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jn meines Herzens Grunde",
+                  "Dein Nam und Kreuz allein",
+                  "Funkelt all Zeit und Stunde:",
+                  "Drauf kann ich fröhlich sein.",
+                  "Erschein mir in dem Bilde",
+                  "Zu Trost in meiner Not,",
+                  "Wie Du, HErr Christ, so milde",
+                  "Dich hast geblut zu Tod."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "42"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 11, 9—12, 14.",
+            "buch": "prediger",
+            "kapitel": 11,
+            "verse": "9-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 11, 17—27.",
+            "buch": "hebraeer",
+            "kapitel": 11,
+            "verse": "17-27"
+          },
+          {
+            "typ": "lied",
+            "titel": "VALEt will ich Dir geben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Verbirg mein Seel aus Gnaden",
+                  "Jn Deine offne Seit;",
+                  "Rück sie aus allem Schaden",
+                  "Zu Deiner Herrlichkeit.",
+                  "Der ist wohl hier gewesen,",
+                  "Wer kommt ins Himmels Schloß,",
+                  "Der ist ewig genesen,",
+                  "Wer bleibt in Deinem Schoß."
+                ],
+                "rechts": [
+                  "Schreib meinen Namn aufs beste",
+                  "Jns Buch des Lebens ein,",
+                  "Und bind mein Seel so feste",
+                  "Jns schöne Bündelein",
+                  "Der, die im Himmel grünen,",
+                  "Und vor Dir leben frei,",
+                  "So will ich ewig rühmen,",
+                  "Daß Dein Herz treue sei."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "mittwoch",
+      "seiten": [
+        826,
+        828
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "48"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren, denn Er",
+            "strophen": [
+              {
+                "links": [
+                  "Lobet den HErren, denn Er ist sehr freundlich;",
+                  "Es ist sehr köstlich, unsern Gott zu loben;",
+                  "Sein Lob ist schön und lieblich anzuhören.",
+                  "Lobet den HErren."
+                ],
+                "rechts": [
+                  "Singt gegen einander dem HErren mit Danken;",
+                  "Lobt Jhn mit Harfen, unsern Gott den werten;",
+                  "Denn Er ist mächtig und von großen Kräften.",
+                  "Lobet den HErren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 17, 24—27.",
+            "buch": "matthaeus",
+            "kapitel": 17,
+            "verse": "24-27"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren, denn Er",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der allem Fleische giebet seine Speise,",
+                  "Dem Vieh sein Futter, väterlicher Weise,",
+                  "Den jungen Raben, die Jhn tun anrufen.",
+                  "Lobet den HErren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Chronika 19, 4—11.",
+            "buch": "2_chronik",
+            "kapitel": 19,
+            "verse": "4-11"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "131"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 25, 1—12.",
+            "buch": "apostelgeschichte",
+            "kapitel": 25,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Lobet den HErren, denn Er",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Danket dem HErren, Schöpfer aller Dinge,",
+                  "Der Brunn des Lebens ist aus Jhm entsprungen,",
+                  "Gar hoch vom Himmel her aus Seinem Herzen,",
+                  "Lobet den HErren."
+                ],
+                "rechts": [
+                  "O Jesu Christe, Sohn des Allerhöchsten,",
+                  "Gib Du die Gnade allen frommen Christen,",
+                  "Daß Dir Sein Namen ewig preisen,",
+                  "Lobet den HErren. Amen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "donnerstag",
+      "seiten": [
+        829,
+        831
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "147"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Schwing dich auf",
+            "melodie": "137",
+            "strophen": [
+              {
+                "links": [
+                  "Schwing dich auf zu deinem Gott,",
+                  "Du betrübte Seele.",
+                  "Warum liegst du, Gott zum Spott,",
+                  "Jn der Schwermutshöhle?",
+                  "Merkst du nicht des Satans List?",
+                  "Er will durch sein Kämpfen",
+                  "Deinen Trost, den Jesus Christ",
+                  "Dir erworben, dämpfen."
+                ],
+                "rechts": [
+                  "Christi Unschuld ist mein Ruhm,",
+                  "Sein Recht meine Krone,",
+                  "Sein Verdienst mein Eigentum,",
+                  "Da ich frei drin wohne",
+                  "Als in einem festen Schloß,",
+                  "Das kein Feind kann fällen,",
+                  "Bricht er gleich davor Geschoß",
+                  "Und Gefahr der Höllen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 13, 1—8.",
+            "buch": "markus",
+            "kapitel": 13,
+            "verse": "1-8"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Schwing dich auf",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Meine Seele lebt in mir",
+                  "Durch die süßen Lehren,",
+                  "So die Christen mit Gebühr",
+                  "Alle Tage hören,",
+                  "Gott eröffnet früh und spat",
+                  "Meinen Geist und Sinnen,",
+                  "Daß sie Seines Geistes Gnad",
+                  "Jn sich ziehen können."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "76"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 18, 1—4.",
+            "buch": "",
+            "kapitel": 18,
+            "verse": "1-4"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "71"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 22, 3—10.",
+            "buch": "apostelgeschichte",
+            "kapitel": 22,
+            "verse": "3-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Schwing dich auf",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Es ist herzlich gut gemeint",
+                  "Mit der Christen Plagen;",
+                  "Wer hier zeitlich wohl geweint,",
+                  "Darf nicht ewig klagen;",
+                  "Sondern hat vollkomme Lust",
+                  "Dort in Christi Garten,",
+                  "Dem er einig recht bewußt,",
+                  "Endlich zu gewarten."
+                ],
+                "rechts": [
+                  "Ei so faß, o Christenherz,",
+                  "Alle deine Schmerzen;",
+                  "Wirf sie fröhlich hinterwärts,",
+                  "Laß des Trostes Kerzen",
+                  "Dich entzünden mehr und mehr,",
+                  "Gib dem großen Namen",
+                  "Deines Gottes Preis und Ehr.",
+                  "Er wird helfen. Amen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "freitag",
+      "seiten": [
+        831,
+        833
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "79"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "melodie": "140",
+            "strophen": [
+              {
+                "links": [
+                  "So führst Du doch recht selig, HErr, die Deinen,",
+                  "Ja selig und doch meistens wunderlich.",
+                  "Wie könntest Du mit uns doch meinen,",
+                  "Zu Deiner Treu nicht können verleugnen sich?",
+                  "Die Wege sind so krumm und doch gerad,",
+                  "Darauf Du läßt die Kinder zu Dir gehn,",
+                  "Da pflegst Du wunderseltsam auszuziehn,",
+                  "Doch triumphiert zuletzt Dein hoher Rat."
+                ],
+                "rechts": [
+                  "Was unsre Klugheit will zusammenfügen,",
+                  "Teilt Dein Verstand in Ost und Westen aus;",
+                  "Was Mancher unter Joch und Last will biegen,",
+                  "Sieht Deine Hand frei an der Sternen Haus.",
+                  "Die Welt zerreißt, und Du verknüpfest in Kraft,",
+                  "Sie bricht, Du bauft, sie faut, Du reifest ein;",
+                  "Jhr Glanz muß Dir ein dunkler Schatten sein,",
+                  "Dein Geist der Toten Kraft und Leben schafft."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 13, 9—13.",
+            "buch": "markus",
+            "kapitel": 13,
+            "verse": "9-13"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Was alles ist gilt nichts in Deinen Augen;",
+                  "Was nichts ist hast Du, großer HErr, recht lieb;",
+                  "Der Worte Pracht und Ruhm mag Dir nichts taugen,",
+                  "Du gibst die Kraft und Nachdruck durch den Trieb.",
+                  "Die besten Werke bringen Dir kein Lob:",
+                  "Sie sind versteckt, der Blinde geht vorbei;",
+                  "Wer Augen hat, sieht sie doch nicht so frei;",
+                  "Die Sachen sind zu klar, der Sinn zu grob."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "87"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 18, 5—9.",
+            "buch": "",
+            "kapitel": 18,
+            "verse": "5-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "77"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 22, 11—16.",
+            "buch": "apostelgeschichte",
+            "kapitel": 22,
+            "verse": "11-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O HErrscher, sei von uns gebenedeiet,",
+                  "Der Du uns tötest und lebendig machst; verleihest,",
+                  "Wenn uns Dein Geist der Weisheit Schatz",
+                  "So sehn wir, wie wohl Du für uns wachst;",
+                  "Die Weisheit spielt bei uns, wir spielen mit;",
+                  "Bei uns zu wohnen ist Dir lauter Lust;",
+                  "Jhr reget sich in Deiner Vaterbrust",
+                  "Und gängelt uns mit zartem Kinderschritt."
+                ],
+                "rechts": [
+                  "Bald scheinst Du uns was harte anzureisen,",
+                  "Bald fährest Du mit uns ganz zärtlich;",
+                  "Geschiehts, daß unser Sinn sucht auszuschweifen,",
+                  "So weist die Zucht uns wieder hin auf Dich.",
+                  "Da gehn wir denn mit blöden Augen hin;",
+                  "Du küssest uns, wir sagen Besserung zu;",
+                  "Drauf schenkst Dein Geist dem Herzen wieder Ruh",
+                  "Und hält im Zaum den ausgeschweiften Sinn."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach dem 23. Sonntag nach Trinitatis",
+      "wochentag": "sonnabend",
+      "seiten": [
+        834,
+        836
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "106"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Du kennst, o Vater, wohl das schwache Wesen,",
+                  "Die Ohnmacht und den Sinnen Unverstand.",
+                  "Man kann uns fast an unser Stirn ablesen,",
+                  "Wie es um schwache Kinder sei bewandt.",
+                  "Drum greifst Du zu, und hältst und trägst die Kleinen,",
+                  "Brauchst Zucht und Recht und zeigest Muttertreu;",
+                  "Wo Niemand meint, daß etwas Deine sei,",
+                  "Da hegst Du Selbst Dein Schäfchen je und je."
+                ],
+                "rechts": [
+                  "Also gehst Du nicht die gemeinen Wege,",
+                  "Dein Fuß wird selten öffentlich gesehn,",
+                  "Damit du siehst, was sich im Herzen rege,",
+                  "Wenn Du in Dunkelheit mit uns willst gehn.",
+                  "Das Widerspiel läßt Du vor Augen her",
+                  "Von dem was Du in Deinem Sinne hast;",
+                  "Wir meint: er hab den Vorsat recht gefaßt,",
+                  "Der wird am End ein Andres oft gewahr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 13, 14—18.",
+            "buch": "markus",
+            "kapitel": 13,
+            "verse": "14-18"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Will etwa die Vernunft Dir widersprechen,",
+                  "Und schüttelt ihren Kopf zu Deinem Weg,",
+                  "So wollst Du die Befestung niederbrechen,",
+                  "Daß ihre Höh sich nur bei Zeiten leg,",
+                  "Kein fremdes Feuer sich in mir anzünd,",
+                  "Daß ich zu Dir in Torheit bringen möcht,",
+                  "Und Dir wohl gar so zu gefallen dächt!",
+                  "Ach selig, der Dein Licht ergreift und findt!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 18, 20—23.",
+            "buch": "",
+            "kapitel": 18,
+            "verse": "20-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 22, 17—21.",
+            "buch": "apostelgeschichte",
+            "kapitel": 22,
+            "verse": "17-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "So führst Du doch",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "So zieh ich denn recht nach Deinem Willen,",
+                  "Und trag und heg und füll Dein armes Kind;",
+                  "Dein inneres Zeugnis soll den Zweifel stillen,",
+                  "Dein Geist die Furcht und Eifer überwind.",
+                  "Du bist mein Alles, denn Dein Sohn ist mein;",
+                  "Dein Geist regt sich ganz kräftiglich in mir;",
+                  "Jch brenne nur nach Dir in Liebesbegier;",
+                  "Wie oft erquickt mich Deiner Klarheit Schein!"
+                ],
+                "rechts": [
+                  "Drum muß die Kreatur mir immer dienen;",
+                  "Kein Engel schämt nun der Gemeinschaft sich;",
+                  "Die Geister, die vor Dir vollendet grünen,",
+                  "Sind meine Brüder und erwarten mich;",
+                  "Wie oft erquicket meinen Geist ein Herz,",
+                  "Das Dich und mich und alle Christen liebt.",
+                  "Jhr möglich, daß mich etwas noch betrübt?",
+                  "Komm, Freudenquell; weich ewig, aller Schmerz!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
