@@ -1,0 +1,272 @@
+{
+  "id": "sonntag_nach_weihnachten",
+  "titel": "Sonntag nach Weihnachten (bezw. 27. Dezember)",
+  "kirchenzeit": "weihnachten",
+  "reihe": 4,
+  "band": 1,
+  "regel": "sonntag_nach_weihnachten",
+  "tage": [
+    {
+      "id": "sonntag_nach_weihnachten",
+      "titel": "Sonntag nach Weihnachten (bezw. 27. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        254,
+        259
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Das Wort ward Fleisch, Hallelujah!",
+              "Und wohnte unter uns. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72",
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, Licht der Heiden",
+            "melodie": "145",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, Licht der Heiden,",
+                  "Der frommen Schatz und Lieb,",
+                  "Wir kommen jetzt mit Freuden",
+                  "Durch Deines Geistes Trieb",
+                  "In diesen Deinen Tempel",
+                  "Und suchen mit Begier,",
+                  "Nach Simeons Exempel",
+                  "Dich großen Gott allhier."
+                ],
+                "rechts": [
+                  "Du wirst von uns gefunden,",
+                  "O HErr, an jedem Ort,",
+                  "Dahin Du Dich verbunden",
+                  "Durch Dein Verheißungswort;",
+                  "Vergönnst noch heutzutage,",
+                  "Daß man Dich gleicherweis",
+                  "Auf Glaubensarme trage",
+                  "Wie hier der alte Greis."
+                ]
+              },
+              {
+                "links": [
+                  "Sei unser Glanz in Wonne,",
+                  "Ein helles Licht in Pein,",
+                  "In Schrecken unsre Sonne,",
+                  "Im Kreuz ein Gnadenschein,",
+                  "In Kälte Glut und Flamme,",
+                  "In Not ein Freudenstrahl,",
+                  "In Krankheit Arzt und Amme,",
+                  "Ein Stern in Todesqual."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 2, 33—40.",
+            "buch": "lukas",
+            "kapitel": 2,
+            "verse": "33-40"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Ein heiliger Tag ist uns aufgegangen: Kommt, ihr Völker, betet an den HErrn! Denn ein großes Licht leuchtet heute auf Erde hernieder. Hallelujah!"
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Und Du, meine Seele, und Du? Die Menschheit, welche von Gott erwählt ist, die Kirche Gottes, wird das Ziel erreichen und vereinigt mit den Engeln im Lobe Jesu selig, im Lobe Jesu heilig leben ohne Ende — aber Du, meine Seele? Ist Jesus Dein, ist Er, der Gottes Ehre und Wohlgefallen ist, auch Deine Ehre und Dein Wohlgefallen? Ist Deine Freude, und darum Sein Geburtsfest, zu allem Guten? Bist Du Sein? Ist Er Dein? — Laßt mich schweigen! Es folge eine Stille! Es gehe ein Jeder in sich und prüfe sich! Der HErr aber verleihe, daß am Tage Seiner zweiten Zukunft von uns Allen Keiner fehle, sondern Jeder unter der Zahl der ewigen Lobsänger stehe.",
+            "quelle": "Löwe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Als mitternächtliches Schweigen das All umfing, und die Nacht in ihrem Laufe des Weges Mitte erreichte:",
+              "Da kam Dein allmächtiges Wort, o HErr, vom königlichen Throne hernieder. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, Der Du durch den heiligen Simeon hast verkündigen lassen, wie Christus zu einem Fall und Auferstehung Vieler in Israel gesetzt sei: wir bitten Dich, erleuchte unsre Herzen, daß wir Deinen Sohn Christum recht erkennen und uns in allerlei Not und Gefahr und Anfechtung nicht mit den sicheren und blinden uns an Ihn stoßen, sondern an Ihn aufsehen und in allen Leiden und Anfechtung bei Ihm bleiben; um Deines lieben Sohnes Jesu Christi willen.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Resonet in laudibus",
+            "untertitel": "De nativitate Domini",
+            "strophen": [
+              {
+                "links": [
+                  "Resonet in laudibus",
+                  "Cum jucundis plausibus",
+                  "Sion cum fidelibus:",
+                  "Apparuit apparuit",
+                  "Quem genuit Maria."
+                ],
+                "rechts": [
+                  "Töne, Sion, Lobgesang,",
+                  "Daß der Freude Feierklang",
+                  "Schalle weit die Welt entlang.",
+                  "Erschienen ist, erschienen ist,",
+                  "Den uns gebar Maria."
+                ]
+              },
+              {
+                "links": [
+                  "Pueri concinite,",
+                  "Nato regi psallite,",
+                  "Voce pia dicite:",
+                  "Apparuit apparuit",
+                  "Quem genuit Maria."
+                ],
+                "rechts": [
+                  "Knaben, singt, wir singen schon,",
+                  "Dem gebornen Königssohn",
+                  "Lobgesang in frommem Ton:",
+                  "Erschienen ist, erschienen ist,",
+                  "Den uns gebar Maria."
+                ]
+              },
+              {
+                "links": [
+                  "Ergo nostra concio",
+                  "De hoc tanto gaudio",
+                  "Benedicat Domino:",
+                  "Apparuit apparuit",
+                  "Quem genuit Maria."
+                ],
+                "rechts": [
+                  "Solcher Wonne froh bewußt,",
+                  "Singt die Kirche Dir mit Lust,",
+                  "Lobgesang aus voller Brust:",
+                  "Erschienen ist, erschienen ist,",
+                  "Den uns gebar Maria."
+                ]
+              },
+              {
+                "links": [
+                  "Deo Patri sit gloria,",
+                  "Natoque victoria,",
+                  "Laus Sancto Paraclito:",
+                  "Apparuit apparuit",
+                  "Quem genuit Maria."
+                ],
+                "rechts": [
+                  "Ruhm und Preis Gott Vater Dir,",
+                  "Dir, Gott Sohn, des Sieges Zier,",
+                  "Gott dem Geist, dies loben wir:",
+                  "Erschienen ist, erschienen ist,",
+                  "Den uns gebar Maria."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Deine Kinder werden Dir geboren",
+              "Wie der Tau aus der Morgenröte."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "147"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 63, 7—16.",
+            "buch": "jesaja",
+            "kapitel": 63,
+            "verse": "7-16"
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, wir bitten: Du wollest durch Deine Gnade all unser Tun und Wesen nach Deinem Wohlgefallen richten, auf daß wir durch den Namen Deines geliebten Sohnes im Glauben und guten Werken reich werden mögen; durch Denselben.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er sendet eine Erlösung Seinem Volk!",
+              "Er verheißet, daß Sein Bund ewiglich bleiben soll — Heilig und hehr ist Sein Name."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "117",
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 4, 1—7.",
+            "buch": "galater",
+            "kapitel": 4,
+            "verse": "1-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, Licht der Heiden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, laß auch uns gelingen,",
+                  "Daß jetzt, wie Simeon,",
+                  "Ein jeder Christ kann singen",
+                  "Den schönen Schwanenton,",
+                  "Mein Augen zugedrückt,",
+                  "Nachdem ich schon hienieden",
+                  "Den Heiland hab erblickt."
+                ],
+                "rechts": [
+                  "Ja, ja, ich hab im Glauben,",
+                  "Mein Jesu, Dich geschaut;",
+                  "Kein Feind kann Dich mir rauben,",
+                  "Wie heftig er auch draut;",
+                  "Ich wohn in Deinem Herzen",
+                  "Und in dem meinen Du:",
+                  "Uns scheiden keine Schmerzen,",
+                  "Kein Angst, kein Tod dazu!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Holdselig sind Deine Lippen;",
+              "Darum segnet Dich Gott ewiglich."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Vater unsres HErrn Jesu Christi, reicher, allmächtiger Gott, Der Du Himmel und Erde und ihre Fülle für Menschen geschaffen und auf Wunderwegen für die gefallenen Menschen erhalten und bewahrt hast! Der Du auch mir ein Erbe gegeben hast, so weit ich versöhnt bin durch Christum und Dein Kind kraft des Abba, das Dein Geist mich lehrt: Mein Vater — Vater meines Bruders und Königs Christus — Vater meines Volkes, zu dem ich gesammelt werde — Vater Deines Reiches: ich preise Deinen Namen! Ich schreie nicht Hosianna, nicht Hallelujah! Ich schreie mit größerer Lust: Abba, Abba! — Mit dem Worte schweige ich. Es ist genug, wenn ich Dein Kind, o Vater, bin in Christo Jesu. Abba, lieber Vater!",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

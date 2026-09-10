@@ -1,0 +1,321 @@
+{
+  "id": "christfest",
+  "titel": "Das hohe Christfest (25. Dezember)",
+  "kirchenzeit": "weihnachten",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "christfest",
+      "titel": "Das hohe Christfest (25. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        217,
+        223
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "sondertext",
+            "titel": "Die Geburt unsers HErrn Jesu Christi im Fleische",
+            "untertitel": "Altkirchliche Ankündigung",
+            "absätze": [
+              "Im Jahre 5199 seit der Erschaffung der Welt, da Gott im Anfang Himmel und Erde schuf; im Jahre 2759 seit der Sintflut; im Jahre 2015 seit Abrahams Geburt; im Jahre 1510 seit dem Auszug des Volkes Israel unter Moses Führung aus Aegypten; im Jahre 1032 seit David zum König gesalbt war; in der 65. Jahrwoche nach Daniels Weissagung; in der 194. Olympiade; im Jahr 752 nach Erbauung der Stadt Rom; im 42. Jahre der Regierung des Oktavianus Augustus, da der Friede in der ganzen Welt herrschte, nach dem 6. Zeitalter der Weltgeschichte:",
+              "Wollte Jesus Christus, ewiger Gott und Sohn des ewigen Vaters, die Welt durch Seine gnadenreiche Ankunft heiligen;",
+              "Er war von Heiligem Geiste empfangen worden; und nun nach Ablauf von neun Monaten",
+              "Ist Er zu Bethlehem im Stamme Juda als Mensch von Maria der Jungfrau geboren worden."
+            ]
+          },
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Christus ist uns geboren —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr sprach zu Mir:",
+              "Du bist Mein Sohn, heute habe Ich Dich gezeuget."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "2",
+              "19"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Vom Himmel hoch da komm ich her",
+            "melodie": "149",
+            "strophen": [
+              {
+                "links": [
+                  "Vom Himmel hoch da komm ich her,",
+                  "Ich bring euch gute neue Mär,",
+                  "Der guten Mär bring ich so viel,",
+                  "Davon ich sing und sagen will:"
+                ],
+                "rechts": [
+                  "Er bringt euch alle Seligkeit,",
+                  "Die Gott der Vater hat bereit,",
+                  "Daß ihr mit uns im Himmelreich",
+                  "Sollt leben nun und ewiglich."
+                ]
+              },
+              {
+                "links": [
+                  "Euch ist ein Kindlein heut geborn",
+                  "Von einer Jungfrau auserkorn,",
+                  "Ein Kindelein so zart und fein,",
+                  "Das soll eur Freud und Wonne sein."
+                ],
+                "rechts": [
+                  "So merket nun das Zeichen recht:",
+                  "Die Krippen, Windelein so schlecht,",
+                  "Da findet ihr das Kind gelegt,",
+                  "Das alle Welt erhält und trägt."
+                ]
+              },
+              {
+                "links": [
+                  "Es ist der HErr Christ unser Gott,",
+                  "Der will euch führn aus aller Not,",
+                  "Er will euer Heiland selber sein,",
+                  "Von allen Sünden machen rein."
+                ],
+                "rechts": [
+                  "Des laßt uns alle fröhlich sein",
+                  "Und mit den Hirten gehn hinein,",
+                  "Zu sehn was Gott uns hat beschert,",
+                  "Mit Seinem lieben Sohn verehrt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Das Wort ward Fleisch, Hallelujah!",
+              "Und wohnete unter uns, Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 2, 1—14.",
+            "buch": "lukas",
+            "kapitel": 2,
+            "verse": "1-14"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Wem habt ihr gesehen, ihr Hirten?",
+                  "Sagt doch, kündet doch: wer ist auf Erden erschienen?",
+                  "„Ein Kind haben wir gesehen“",
+                  "„Chöre der Engel, die den HErrn lobten“",
+                  "Sagt doch: was habt ihr gesehen?",
+                  "Kündet uns die Geburt Christi!",
+                  "„Ein Kind . . . loben.“"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Unser Heiland, Geliebter, ist uns heute geboren! Freut euch! Es darf keine Traurigkeit sein an dem Tage, wo das Leben geboren wird, an dem Tage, der die Todesfurcht scheucht und uns die Freudensonne der verheißenen Ewigkeit schenkt! Niemand ist von der Teilnahme an dieser Wonne ausgeschlossen! Allen gemeinsam ist der Grund zur Freude! Wie unser Heiland, Der den Tod und die Sünde vernichtet, keinen ohne Schuld findet, so kommt Er auch, um Alle frei zu machen. Es juble der Heilige, denn er kommt dem Siegespalme näher; es freue sich der Sünder: er wird zur Vergebung geladen! Der Heide fasse Mut: er wird zum Leben berufen!",
+            "quelle": "Leo"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ehre sei Gott in der Höhe, und Friede auf Erden! Hallelujah!",
+              "Und den Menschen ein Wohlgefallen! Hallelujah! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger, ewiger Gott, wir danken Dir, daß Du Dich unsers Jammers hast angenommen und Deinen Eingebornen Sohn um unsertwillen lassen Mensch werden, und bitten Dich: Du wollest unsre Herzen gnädiglich erleuchten, daß wir an solchem Trost festhalten, uns in Herzen Trost und aller Widerwärtigkeit mit Geduld tragen und überwinden mögen; durch Denselben Deinen lieben Sohn, unsern HErrn.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Laetabundus exultet fidelis chorus",
+            "untertitel": "Prosa de nativitate Domini",
+            "strophen": [
+              {
+                "links": [
+                  "Laetabundus exultet fidelis chorus: Alleluja!",
+                  "Regem regum intactae profudit torus: Res miranda!",
+                  "Angelus consilii natus est de virgine: Sol de stella.",
+                  "Sol occasus nesciens, stella semper rutilans, Semper clara.",
+                  "Sicut sidus radium profert virgo filium: Pari forma.",
+                  "Neque sidus radio, neque mater filio Fit corrupta.",
+                  "Verbum ens altissimi corporalis exiit: Carne sumpta.",
+                  "Natum considera, quem docet litera: Ipsum genuit puerpera."
+                ]
+              },
+              {
+                "links": [
+                  "Freudenvoll jubelnd, ihr Gläubigen, singt im Chören: Hallelujah!",
+                  "König der Könige, die Jungfrau hat Ihn geboren: Wundergnade!",
+                  "Durch den Vater auserkoren, aus der Jungfrau neu geboren: Sonne vom Sterne.",
+                  "Sonne ohne Untergang, Stern von immer neuem Glanz: nie uns ferne.",
+                  "Wie dem Stern der Strahl entspricht, entsprang Marien der heilige Christ: Mensch, dies lerne!",
+                  "Wort, vom höchsten Gott gezeugt, hat im Fleisch sich geneigt zu uns gerne:",
+                  "Von Dem der Seher spricht, schaue der Völker Licht, wie aus der Jungfrau Schoß Flammend es bricht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Kündlich groß ist das gottselige Geheimnis, Hallelujah!",
+              "Gott ist offenbaret im Fleisch. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist König und herrlich geschmückt; der HErr ist geschmückt",
+              "Und hat ein Reich angefangen, soweit die Welt ist."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "95"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 9, 6—7.",
+            "buch": "jesaja",
+            "kapitel": 9,
+            "verse": "6-7"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heute ist uns der König des Himmels geboren von der Jungfrau, auf daß Er die verlorenen Menschen in das himmlische Reich bringe."
+              },
+              {
+                "art": "text",
+                "inhalt": "Es freut sich der Engel Heer; denn ewiges Heil ist den Menschen erschienen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Ehre sei Gott in der Höhe und Friede auf Erden den Menschen, die guten Willens sind."
+              },
+              {
+                "art": "text",
+                "inhalt": "Es freut sich . . erschienen."
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gewähre — wir bitten Dich, allmächtiger Gott — daß Deines Eingebornen neue Geburt im Fleische uns die Freiheit erringe, da uns unter dem Sündenjoch die alte Knechtschaft gefangen hält.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Von Anbeginn stehet Dein Stuhl fest:",
+              "Du bist ewig."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an Titus 2, 11—14.",
+            "buch": "titus",
+            "kapitel": 2,
+            "verse": "11-14"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Heute ist uns der wahre Friede vom Himmel herabgestiegen; heute ist über alle Welt der Himmel triefend worden von Honig; heute ist uns aufgeleuchtet der Tag der neuen Erlösung, der von altersher verkündeten Rettung, der ewigen Glückseligkeit."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Bis willkommen, Du edler Gast",
+            "strophen": [
+              {
+                "links": [
+                  "Bis willkommen, Du edler Gast",
+                  "Den Sünder nicht verschmähet hast",
+                  "Und kommst ins Elend zu mir:",
+                  "Wie soll ich immer danken Dir?"
+                ],
+                "rechts": [
+                  "Davon ich allzeit fröhlich sei,",
+                  "Zu springen, singen immer frei",
+                  "Das rechte Susannine schön",
+                  "Mit Herzenslust den süßen Ton."
+                ]
+              },
+              {
+                "links": [
+                  "Ach mein herzliches Jesulein,",
+                  "Zu Dir ein sanft Bettelein,",
+                  "Zu ruhen in meines Herzens Schrein,",
+                  "Daß ich mich vergesse Dein."
+                ],
+                "rechts": [
+                  "Lob Ehr sei Gott im höchsten Thron,",
+                  "Der uns schenkt Seinen Eingen Sohn:",
+                  "Des freuen sich der Engel Schar,",
+                  "Und singen uns solch neues Jahr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Uns ist ein Kind geboren, Hallelujah!",
+              "Ein Sohn ist uns gegeben. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Heute ist Christus geboren, heute ist der Heiland erschienen; heute singen auf Erden",
+              "die Engel, frohlocken die Erzengel, heute jubeln die Gerechten: Ehre sei Gott in der Höhe! Hallelujah!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Jesu Christe, wenn wir daran gedenken, daß Du Deine Herrlichkeit am Throne Gottes verlassen hast und aus dem Jauchzen und Hallelujah der Engel in dies Jammertal gekommen bist, um für uns zu leiden und zu sterben: dann müssen unsre Augen übergehen von Dankestränen und unsre Herzen brennen von Gegenliebe. O HErr, lehre uns doch Dich anschauen, Deinem Vorbilde folgen, uns selbst verleugnen, die Welt überwinden, damit wir Deine rechten Kinder werden. Präge Dein heiliges Bildnis wieder ein in eine welthungrige und genußsüchtige Welt, und laß den Hunger und Durst nach Dir und Deiner Gerechtigkeit unsre Herzen erfüllen, damit Gott Seine Ehre und die Erde ihren Frieden habe.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}
