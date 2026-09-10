@@ -391,11 +391,14 @@ function festdatumFuerJahr(eintrag, jahr) {
   return null;
 }
 
-// Liefert ALLE Einträge aus den Kirchenzeiten "feste" und "weihnachten",
-// deren festes oder regelbasiertes Datum genau auf "heute" fällt. Es können
-// mehrere Treffer gleichzeitig vorkommen – "Sonntag nach Weihnachten" bzw.
-// "Sonntag nach Neujahr" fallen praktisch jedes Jahr auf einen der fest
-// datierten Tage der Weihnachtsoktav bzw. der Tage nach Neujahr.
+// Liefert ALLE Einträge aus den Kirchenzeiten "feste", "weihnachten" und
+// "epiphanias" (feste Kalendertage zwischen dem 6. und ca. 13. Januar, deren
+// Anzahl von Jahr zu Jahr schwankt, je nachdem auf welchen Wochentag der
+// 6. Januar fällt), deren festes oder regelbasiertes Datum genau auf "heute"
+// fällt. Es können mehrere Treffer gleichzeitig vorkommen – "Sonntag nach
+// Weihnachten" bzw. "Sonntag nach Neujahr" fallen praktisch jedes Jahr auf
+// einen der fest datierten Tage der Weihnachtsoktav bzw. der Tage nach
+// Neujahr.
 // Enthält ein Eintrag mehrere "tage" (z. B. Zweiter Christtag + Fest des hl.
 // Stephanus am 26. Dezember, beide im selben JSON), wird als Vorschlag nur
 // tage[0] verwendet; der jeweils andere Tag bleibt über die Seitenleiste von
@@ -404,7 +407,7 @@ function heutigeFeste(idx, heute) {
   const jahr = heute.getFullYear();
   const treffer = [];
   for (const w of idx.wochen) {
-    if (w.kirchenzeit !== 'feste' && w.kirchenzeit !== 'weihnachten') continue;
+    if (w.kirchenzeit !== 'feste' && w.kirchenzeit !== 'weihnachten' && w.kirchenzeit !== 'epiphanias') continue;
     const d = festdatumFuerJahr(w, jahr);
     if (!d) continue;
     if (d.getFullYear() === heute.getFullYear() && d.getMonth() === heute.getMonth() && d.getDate() === heute.getDate()) {
@@ -470,7 +473,7 @@ function wähleMehrfachbesetzung(key) {
 // Öffnet nach dem Laden automatisch die heutige Woche/den heutigen Tag,
 // sofern beide bereits im Verzeichnis vorhanden sind. Prüft zusätzlich auf
 // eine Mehrfachbesetzung mit einem oder mehreren festen Festen desselben
-// Tages (kirchenzeit "feste" und "weihnachten").
+// Tages (kirchenzeit "feste", "weihnachten" und "epiphanias").
 function automatischHeuteZeigen(idx) {
   const heute = heuteOhneUhrzeit();
   const heuteInfo = liturgischeWoche(heute);

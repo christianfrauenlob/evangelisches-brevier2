@@ -195,6 +195,83 @@
       "datum": "01-05"
     },
     {
+      "id": "epiphanias",
+      "titel": "Epiphanias (Fest der Erscheinung des HErrn, 6. Januar)",
+      "datei": "epiphanias.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 1,
+      "status": "fertig",
+      "datum": "01-06"
+    },
+    {
+      "id": "am_7_januar",
+      "titel": "Am 7. Januar",
+      "datei": "am_7_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig",
+      "datum": "01-07"
+    },
+    {
+      "id": "am_8_januar",
+      "titel": "Am 8. Januar",
+      "datei": "am_8_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 3,
+      "status": "fertig",
+      "datum": "01-08"
+    },
+    {
+      "id": "am_9_januar",
+      "titel": "Am 9. Januar",
+      "datei": "am_9_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 4,
+      "status": "fertig",
+      "datum": "01-09"
+    },
+    {
+      "id": "am_10_januar",
+      "titel": "Am 10. Januar",
+      "datei": "am_10_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 5,
+      "status": "fertig",
+      "datum": "01-10"
+    },
+    {
+      "id": "am_11_januar",
+      "titel": "Am 11. Januar",
+      "datei": "am_11_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 6,
+      "status": "fertig",
+      "datum": "01-11"
+    },
+    {
+      "id": "am_12_januar",
+      "titel": "Am 12. Januar",
+      "datei": "am_12_januar.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 7,
+      "status": "fertig",
+      "datum": "01-12"
+    },
+    {
       "id": "karwoche",
       "titel": "Karwoche",
       "datei": "karwoche.json",
