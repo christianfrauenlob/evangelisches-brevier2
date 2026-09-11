@@ -1,0 +1,985 @@
+{
+  "id": "septuagesimae",
+  "titel": "Septuagesimä",
+  "kirchenzeit": "vorfastenzeit",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Sonntag Septuagesima",
+      "wochentag": "sonntag",
+      "seiten": [
+        444,
+        448
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Herzlich lieb habe ich Dich, HErr, meine Stärke;",
+              "HErr mein Fels, meine Burg, mein Erretter."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18",
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist das Heil uns kommen her",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Es ist das Heil uns kommen her",
+                  "Von Gnad und lauter Güte;",
+                  "Die Werk die helfen nimmermehr,",
+                  "Sie mögen nicht behüten.",
+                  "Der Glaub sieht Jesum Christum an,",
+                  "Der hat gnug für uns All getan,",
+                  "Er ist der Mittler worden."
+                ],
+                "rechts": [
+                  "Noch (doch) mußt das Gesetz erfüllt sein.",
+                  "Sonst wären wir All verdorben,",
+                  "Darum schickt Gott Sein Sohn herein,",
+                  "Der Selbe Mensch ist worden.",
+                  "Das ganz Gesetz hat Er erfüllt,",
+                  "Damit Seins Vaters Zorn gestillt.",
+                  "Der über uns ist Alle."
+                ]
+              },
+              {
+                "links": [
+                  "Es war ein falscher Wahn dabei:",
+                  "Gott hätt Sein Gesetz drum geben,",
+                  "Als ob wir möchten selbst befrei",
+                  "Nach Seinem Willen leben;",
+                  "So ist es nun ein Spiegel zart,",
+                  "Der uns zeigt an die sündig Art",
+                  "In unserm Fleisch verborgen."
+                ],
+                "rechts": [
+                  "Und wenn es nun erfüllt ist",
+                  "Durch Den, der's konnt halten,",
+                  "So lerne jetzt ein frommer Christ",
+                  "Des Glaubens recht Gestalten.",
+                  "Nicht mehr denn: lieber HErre mein,",
+                  "Dein Tod wird mir das Leben sein,",
+                  "Du hast für mich bezahlt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "HErr Gott, Du bist unsre Zuflucht,",
+              "für und für."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 1—16.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "1-16"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Liebe Brüder! Zu Christen und berufenen Heiligen, zu getauften Kindern der Gnade rede ich, und von ihnen. Wir sind Alle in den Weinberg Gottes berufen, manche von uns arbeiten darinnen — ein Jeder von ihnen seine Zeit; am Ende werden Alle gelohnt — aber nur wenige, die Auserwählten, werden selig. Viele sind berufen, wenige sind auserwählt. Wenn es nun möglich wäre, den Lohn von der Auswahl zu trennen, und ich die Wahl hätte zwischen beiden: so nähme ich die Auswahl, und den Lohn ließe ich fallen. Müßte ich eines entbehren, so entbehrte ich den Lohn; aber Seligkeit entbehren, um deren willen ich geboren bin und gelebt habe — nein, das wollte, mein Gott, mein Gott! das könnte ich nicht!"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Viele sind berufen,",
+              "Aber Wenige sind auserwählet."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Allmächtiger Gott, himmlischer Vater, Der Du uns arme Heiden in dieser letzten Stunde auch zu Deinem Weinberg berufen und uns Unverdienten Deinen Gnadengroschen und allerlei zeitliche und ewige Gaben widerfahren lässest: Hilf, daß wir in Demut und Geduld Dir allezeit auf Deine lautere Gnade treulich und fröhlich dienen und wider Deine große Gütigkeit mit den Heuchlern nicht murren, auf daß wir mit ihnen nicht abgewiesen noch verstoßen werden, sondern in Deinem Hause bleiben und Deine herrliche Gnade rühmen und preisen mögen; um Jesu . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Es ist das Heil uns kommen her",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Er ist gerecht vor Gott allein",
+                  "Der diesen Glauben fasset;",
+                  "Der Glaub gibt aus von ihm den Schein,",
+                  "So er die Werk nicht lässet.",
+                  "Mit Gott der Glaub ist wohl daran,",
+                  "Dem Nächsten wird die Lieb Guts tun,",
+                  "Bist Du aus Gott geboren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich danke Dir, daß Du mich demütigest,",
+              "Und hilfest mir."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 9, 23—24.",
+            "buch": "jeremia",
+            "kapitel": 9,
+            "verse": "23-24"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 9, 24—27.",
+            "buch": "1_korinther",
+            "kapitel": 9,
+            "verse": "24-27"
+          },
+          {
+            "typ": "lied",
+            "titel": "Es ist das Heil uns kommen her",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Sei Lob und Ehr mit hohem Preis",
+                  "Um dieser Gutheit willen",
+                  "Gott Vater Sohn und Heilgem Geist;",
+                  "Der woll mit Gnad erfüllen",
+                  "Was Er in uns angefangen hat",
+                  "Zu Ehren Seiner Majestät:",
+                  "Daß heilig werd Sein Name,"
+                ],
+                "rechts": [
+                  "Sein Reich zukomm, Sein Will auf Erd",
+                  "Gscheh wie im Himmelsthrone,",
+                  "Das täglich Brot noch heut uns werd,",
+                  "Woll unsr Schuld verschonen,",
+                  "Als wir auch unsern Schuldgern tun,",
+                  "Laß uns nicht in Versuchung stan,",
+                  "Lös uns vom Uebel. Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Gehet auch ihr hin in Meinen Weinberg,",
+              "Und was recht ist, will Ich euch geben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "O HErr, wir bitten: erhöre gnädiglich die Bitte Deines Volks, auf daß, die wir um unsrer Sünde willen billig gestraft werden, um Deines Namens Ehre willen barmherziglich mögen erlöset werden; durch unsern HErrn . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach dem Sonntag Septuagesima",
+      "wochentag": "montag",
+      "seiten": [
+        448,
+        451
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "5"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Eins ist not",
+            "melodie": "40",
+            "strophen": [
+              {
+                "links": [
+                  "Eins ist not; ach, HErr, dies Eine",
+                  "Lehre mich erkennen doch!",
+                  "Alles Andre, wies auch scheine,",
+                  "Ist ja nur ein schweres Joch,",
+                  "Darunter das Herze sich naget und plaget,",
+                  "Und dennoch kein wahres Vergnügen erjaget.",
+                  "Erlang ich dies Eine, das Alles ersetzt,",
+                  "So werd ich mit Einem in Allem ergötzt."
+                ],
+                "rechts": [
+                  "Seele, willst du dieses finden,",
+                  "Suchs bei keiner Kreatur;",
+                  "Laß was irdisch ist dahinten,",
+                  "Schwing dich über die Natur.",
+                  "Wo Gott und die Menschheit in Einem vereinet",
+                  "Wo alle vollkommene Fülle erscheinet:",
+                  "Da, da ist das beste notwendigste Teil:",
+                  "Mein Ein und mein Alles, mein seligstes Heil."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 10, 38—42.",
+            "buch": "lukas",
+            "kapitel": 10,
+            "verse": "38-42"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Eins ist not",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Aller Weisheit höchste Fülle",
+                  "In Dir ja verborgen liegt;",
+                  "Gib nur, daß sich auch mein Wille",
+                  "Fein in solche Schranken fügt,",
+                  "Worinnen die Demut und Einfalt regieret",
+                  "Und mich zu der Weisheit, die himmlisch ist, führet;",
+                  "Ach, wenn ich nur Jesum recht kenne und weiß,",
+                  "So hab ich der Weisheit vollkommenen Preis."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 41, 28—45.",
+            "buch": "1_mose",
+            "kapitel": 41,
+            "verse": "28-45"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "7"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 1, 27—2,4.",
+            "buch": ""
+          },
+          {
+            "typ": "lied",
+            "titel": "Eins ist not",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nichts kann ich vor Gott ja bringen",
+                  "Als nur Dich mein höchstes Gut;",
+                  "Jesu, es muß mir gelingen",
+                  "Durch Dein rosinfarbnes Blut.",
+                  "Die höchste Gerechtigkeit ist mir erworben,",
+                  "Da Du bist am Stamme des Kreuzes gestorben:",
+                  "Die Kleider des Heils ich da habe erlangt,",
+                  "Worinnen mein Glaube in Ewigkeit prangt."
+                ],
+                "rechts": [
+                  "Nun so gib, daß meine Seele",
+                  "Auch nach Deinem Bild erwacht;",
+                  "Du bist ja, Den ich erwähle,",
+                  "Mir zur Heiligung gemacht.",
+                  "Was dienet zum göttlichen Wandel und Leben,",
+                  "Ist in Dir, mein Heiland, mir Alles gegeben;",
+                  "Entreiße mich aller vergänglicher Lust:",
+                  "Dein Leben sei, Jesu, mir einzig bewußt."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Septuagesima",
+      "wochentag": "dienstag",
+      "seiten": [
+        451,
+        454
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "43"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Schaffet, daß ihr selig werdet.",
+            "melodie": "9/10",
+            "strophen": [
+              {
+                "links": [
+                  "Schaffet, daß ihr selig werdet,",
+                  "Ihr die ihr wollt selig sein,",
+                  "Euch zwar christlich hier gebärdet,",
+                  "Doch davon tragt bloßen Schein;",
+                  "Denket, wenn der HErr wird kommen,",
+                  "Hier zu richten Bös' und Frommen,",
+                  "Daß ihr schafft mit Furcht allein",
+                  "Wie ihr möget selig sein."
+                ],
+                "rechts": [
+                  "Schafft mit großer Furcht und Zittern,",
+                  "O ihr Sünder allzumal,",
+                  "Wenn der jüngste Tag wird wittern,",
+                  "Daß ihr dann der Höllenqual",
+                  "Mit erfreuter Seel entgehet,",
+                  "Nicht zur Linken Jesu stehet;",
+                  "Schafft mit Furcht hier insgemein,",
+                  "Daß ihr dann mögt selig sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 10, 1—15.",
+            "buch": "matthaeus",
+            "kapitel": 10,
+            "verse": "1-15"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Solange Jesus bleibt der HErr",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "Solange Jesus bleibt der HErr,",
+                  "Wirds alle Tage herrlicher;",
+                  "So wars, so ists, so wird es sein",
+                  "Bei Seiner Blut- und Kreuzgemein."
+                ],
+                "rechts": [
+                  "Es bleibt bei dem bekannten Wort,",
+                  "Von Zeit zu Zeit, von Ort zu Ort:",
+                  "Christi Blut und Gerechtigkeit",
+                  "Ist Seiner Kirche Herrlichkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Maleachi 2, 1—9.",
+            "buch": "maleachi",
+            "kapitel": 2,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "12"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 8, 1—9.",
+            "buch": "2_korinther",
+            "kapitel": 8,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "Schaffet, daß ihr selig werdet.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Schaffet, daß ihr selig werdet,",
+                  "Traut nicht eurem Fleisch und Blut,",
+                  "Das sich heilig hier gebärdet",
+                  "Und tut euch doch nimmer gut;",
+                  "Flieht das falsche Christenleben,",
+                  "Bleibt an Jesu Leben kleben:",
+                  "Dem folgt, schafft hier insgemein,",
+                  "Daß ihr möget selig sein."
+                ],
+                "rechts": [
+                  "O HErr, Der Du durch Dein Leiden",
+                  "Uns von Sünd erlöset hast:",
+                  "Laß uns nicht sein abgescheiden",
+                  "Von Dir Anker Steur und Mast.",
+                  "Wir zwar kleben stets an Sünden,",
+                  "Aber laß uns Gnade finden:",
+                  "Deine treue Lieb allein",
+                  "Schaffe, daß wir selig sein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Septuagesima",
+      "wochentag": "mittwoch",
+      "seiten": [
+        454,
+        457
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "65"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf Christenmensch.",
+            "melodie": "100",
+            "strophen": [
+              {
+                "links": [
+                  "Auf, Christenmensch, auf auf zum Streit;",
+                  "Auf auf zum Ueberwinden!",
+                  "In dieser Welt, in dieser Zeit",
+                  "Ist keine Ruh zu finden.",
+                  "Wer nicht will streiten, trägt die Kron",
+                  "Des ewgen Lebens nicht davon."
+                ],
+                "rechts": [
+                  "Gedenke, daß du zu der Fahn",
+                  "Deins Feldherrn hast geschworen;",
+                  "Denk ferner, daß du als ein Mann",
+                  "Zum Streit bist auserkoren;",
+                  "Ja denke, daß ohn Streit und Sieg",
+                  "Nie keiner zum Triumph aufstieg."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 6, 20—35.",
+            "buch": "lukas",
+            "kapitel": 6,
+            "verse": "20-35"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf Christenmensch.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wer überwindt und seinen Lauf",
+                  "Mit Ehren kann vollenden:",
+                  "Dem wird der HErr alsbald darauf",
+                  "Verborgnes Manna senden;",
+                  "Ihm geben einen weißen Stein,",
+                  "Und einen neuen Namen drein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "52"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 5, 17—30.",
+            "buch": "daniel",
+            "kapitel": 5,
+            "verse": "17-30"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "132"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 6, 19—20.",
+            "buch": "1_korinther",
+            "kapitel": 6,
+            "verse": "19-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf Christenmensch.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wer überwindt soll ewig nicht",
+                  "Aus Gottes Tempel gehen,",
+                  "Vielmehr drin wie ein englisch Licht",
+                  "Und güldne Säule stehen.",
+                  "Der Name Gottes, unsers HErrn,",
+                  "Soll leuchten von ihm weit und fern."
+                ],
+                "rechts": [
+                  "So streit denn wohl, streit keck und kühn,",
+                  "Daß Du mögst überwinden;",
+                  "Streng an die Kräfte, Mut und Sinn,",
+                  "Daß Du dies Gut mögst finden.",
+                  "Wer nicht will streiten um die Kron,",
+                  "Bleibt ewiglich in Spott und Hohn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Die Letzten werden die Ersten sein,",
+              "Und die Ersten die Letzten."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Septuagesima",
+      "wochentag": "donnerstag",
+      "seiten": [
+        457,
+        460
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "90"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, hilf siegen.",
+            "melodie": "38",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, hilf siegen, Du Fürste des Lebens,",
+                  "Sieh: wie die Finsternis dringet herein;",
+                  "Wie sie ihr höllisches Heer nicht vergebens",
+                  "Mächtig aufrühret, mir schädlich zu sein.",
+                  "Satan der sinnet auf allerhand Ränke,",
+                  "Wie er mich sichte verstöre und kränke."
+                ],
+                "rechts": [
+                  "Jesu, hilf siegen, wenn in mir die Sünde:",
+                  "Eigenlieb Hoffart und Mißgunst sich regt;",
+                  "Wenn ich die Last der Begierden empfinde,",
+                  "Und sich mein tiefes Verderben darlegt:",
+                  "So hilf, daß ich vor mir selbst mag erröten",
+                  "Und durch Dein Leiden mein sündlich Fleisch töten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 3, 20—30.",
+            "buch": "markus",
+            "kapitel": 3,
+            "verse": "20-30"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, hilf siegen.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, hilf siegen in allerlei Fällen,",
+                  "Gib mir die Waffen und Wehre zur Hand;",
+                  "Wenn mir die höllischen Feinde nachstellen,",
+                  "Dich mir zu rauben, o edelstes Pfand:",
+                  "So hilf mir Schwachen mit Allmacht und Stärke,",
+                  "Daß ich, o Liebster, Dein Dasein vermerke."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Daniel 4, 31—34.",
+            "buch": "daniel",
+            "kapitel": 4,
+            "verse": "31-34"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "71"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 1, 2—10.",
+            "buch": "1_thessalonicher",
+            "kapitel": 1,
+            "verse": "2-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, hilf siegen.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, hilf siegen im Wachen und Beten:",
+                  "Hüter, Du schläfst ja und schlummerst nicht ein;",
+                  "Laß Dein Gebet mich unendlich vertreten,",
+                  "Der Du versprochen, mein Fürsprach zu sein.",
+                  "Wenn mich die Nacht mit Ermüden will decken,",
+                  "Wollst Du mich, Jesu, ermuntern und wecken."
+                ],
+                "rechts": [
+                  "Jesu, hilf siegen und laß mirs gelingen,",
+                  "Daß ich das Zeichen des Sieges erlang:",
+                  "So will ich ewig Dir Lob und Dank singen,",
+                  "Jesu, mein Heiland, mit frohem Gesang.",
+                  "Wie wird Dein Name da werden gepriesen,",
+                  "Wo Du, o Held, Dich so mächtig erwiesen!"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Septuagesima",
+      "wochentag": "freitag",
+      "seiten": [
+        460,
+        462
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf auf, mein Geist, und Du.",
+            "strophen": [
+              {
+                "links": [
+                  "Auf auf, mein Geist, und du, o mein Gemüte,",
+                  "Auf, meine Seel, auf auf, mein Sinn; [blüte,",
+                  "Auf auf, mein Leib, mein Herz und mein Ge-",
+                  "Auf, alle Kraft und was ich bin.",
+                  "Vereinigt euch und lobt mit mir",
+                  "Der Menschen Trost, der Engel Zier;",
+                  "Stimmt All in heißen Liebesflammen",
+                  "Zu Lobe meines HErrn zusammen."
+                ],
+                "rechts": [
+                  "Erhebt euch wie die Adler von der Erden,",
+                  "Schwingt euch hinauf vor Seinen Thron.",
+                  "Erscheint vor Ihm mit dankbaren Gebärden",
+                  "Und singet Ihm im höchsten Ton.",
+                  "Seid fröhlich, munter, jauchzt und klingt,",
+                  "Frohlockt mit Händen, tanzt und springt,",
+                  "Erzeigt euch voller heilger Freuden",
+                  "Zu Lob und Ehren Seiner Leiden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 9, 14—17.",
+            "buch": "matthaeus",
+            "kapitel": 9,
+            "verse": "14-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Auf auf, mein Geist.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Es lobe Dich, HErr, mein Verstand und Wille,",
+                  "Gott, mein Gedächtnis lobe Dich;",
+                  "Zu Deinem Lob sei meine Bildung stille,",
+                  "Mein Geist erheb sich über sich;",
+                  "Mein Atem lob Dich für und für,",
+                  "Mein Puls schlag stets das Sanctus Dir;",
+                  "Es singen alle meine Glieder",
+                  "Zu Deinen Ehren tausend Lieder."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "87"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 19, 19—21.",
+            "buch": "1_koenige",
+            "kapitel": 19,
+            "verse": "19-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 3, 10—14.",
+            "buch": "galater",
+            "kapitel": 3,
+            "verse": "10-14"
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf auf, mein Geist.",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mein Herze müß in Deiner Lieb zerfließen,",
+                  "Die Seel in Deinem Ruhm vergehn,",
+                  "Mein Mund Dich stets mit neuem Lobe küssen",
+                  "Und Tag und Nacht Dir offen stehn.",
+                  "Es müssen dienen Dir zur Lust",
+                  "Die tiefen Seufzer meiner Brust;",
+                  "Es müsse Dich mit Lob umgeben",
+                  "Mein Warten und mein sehnlichs Leben."
+                ],
+                "rechts": [
+                  "Weil aber Alles nicht genug ist, Dich zu preisen",
+                  "So wollst Du Selbst Dein Lob vollführn",
+                  "Und Dir für mich Dank Ehr und Preis erweisen",
+                  "Wie Deiner Hoheit will gebührn.",
+                  "Du wollst ersetzen, o mein Licht,",
+                  "Was Dir an meinem Lob gebricht,",
+                  "Bis Du mich wirst in Dich erheben",
+                  "Zu einem Glanz und einem Leben."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Septuagesima",
+      "wochentag": "sonnabend",
+      "seiten": [
+        462,
+        464
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "92"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Der HErr hat alles wohl gemacht",
+            "melodie": "42",
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr hat Alles wohl gemacht,",
+                  "Er wird nichts böse machen;",
+                  "Dies, fromme Seele, wohl betracht",
+                  "In allen Deinen Sachen:",
+                  "In Freud und Leid, in Gnüg und Not,",
+                  "In Krankheit Jammer Kreuz und Tod,",
+                  "In Kummer Angst und Schmerzen;",
+                  "Das gläub, o Herz, von Herzen."
+                ],
+                "rechts": [
+                  "Der HErr hat Alles wohl gemacht,",
+                  "Da Er für uns gestorben,",
+                  "Uns Heil und Leben wiedergebracht",
+                  "Und durch Sein Blut erworben.",
+                  "Was willst du mehr, betrübter Geist?",
+                  "Komm her, schau hier was lieben heißt:",
+                  "Sollt Der nicht alls dir geben,",
+                  "Der für dich gibt Sein Leben?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 9, 14—29.",
+            "buch": "markus",
+            "kapitel": 9,
+            "verse": "14-29"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Der HErr hat alles wohl gemacht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr hat alles wohl gemacht,",
+                  "Auch wenn Er uns betrübet,",
+                  "Wenn uns die finstre Kreuzesnacht",
+                  "Befällt und allzeit übet",
+                  "In Kreuz und Widerwärtigkeit,",
+                  "In Angst, in Trübsal und in Leid,",
+                  "Wenn Er uns stärkt im Glauben,",
+                  "Den Niemand uns muß rauben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "109"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesus Sirach 36, 14—19.",
+            "buch": "",
+            "kapitel": 36,
+            "verse": "14-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Johannis 6—11.",
+            "buch": "2_johannes",
+            "kapitel": 1,
+            "verse": "6-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Der HErr hat alles wohl gemacht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr hat alles wohl gemacht;",
+                  "Es wird kein Sinn erreichen",
+                  "Hier Seines Ruhmes große Pracht,",
+                  "Er muß zurücke weichen"
+                ],
+                "rechts": [
+                  "Und schreien aus mit voller Macht:",
+                  "Der HErr hat alles wohl gemacht,",
+                  "Dafür wir hier und oben",
+                  "Ihn billig ewig loben."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

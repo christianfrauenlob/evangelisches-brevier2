@@ -1,0 +1,1024 @@
+{
+  "id": "sexagesimae",
+  "titel": "Sexagesimä",
+  "kirchenzeit": "vorfastenzeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Sonntag Sexagesimä",
+      "wochentag": "sonntag",
+      "seiten": [
+        465,
+        469
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gott, wir haben mit unsern Ohren gehöret;",
+              "Unsre Väter haben es uns erzählet."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44",
+              "63"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Mensch, wie ist dein Herz bestellt?",
+            "melodie": "18/19",
+            "strophen": [
+              {
+                "links": [
+                  "O Mensch, wie ist dein Herz bestellt?",
+                  "Hab Achtung auf dein Leben.",
+                  "Was trägt für Frucht dein Herzensfeld?",
+                  "Sinds Dornen oder Reben?",
+                  "Denn aus der Frucht kennt man die Saat,",
+                  "Auch wer das Land besäet hat:",
+                  "Gott oder der Verderber."
+                ],
+                "rechts": [
+                  "Ist nun dein Herz dem Wege gleich",
+                  "Und einer Nebenstraßen,",
+                  "Da auf dem breiten Lastersteig",
+                  "Die Vögel alles fraßen:",
+                  "Ach prüfe dich, es ist kein Scherz,",
+                  "Ist so bewandt dein armes Herz",
+                  "So bist du zu beweinen."
+                ]
+              },
+              {
+                "links": [
+                  "Ist auch dein Herze Felsenart,",
+                  "Verhärtet durch die Sünden,",
+                  "So ist der Same schlecht verwahrt",
+                  "Auf solchen Felsengründen.",
+                  "Ein Felsenstein hat keinen Saft,",
+                  "Drum hat der Same keine Kraft",
+                  "Zu sprießen und zu schießen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 8, 4—15.",
+            "buch": "lukas",
+            "kapitel": 8,
+            "verse": "4-15"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Bei Menschen ist Besserung und Seligkeit unmöglich; aber der HErr, Der Sich unserer Seelen in Christo Jesu herzlich angenommen hat, ist reich und mächtig über Alle und vermag alles — aus Steinen Abrahams Kinder, aus faulen Bäumen gute, aus bösem Lande heiliges fruchtbares Land zu machen; und wir können und sollen es an uns selbst erfahren. Wohlan denn, geliebte Brüder, weil wir das wissen, so wollen wir auch Fleiß tun, daß wir die Zeit nicht versäumen, die uns zum Heile gegeben ist. Das Wort des HErren leuchte uns in unsre Seele, daß wir uns erkennen; wir wollen den jammervollen Blick in unsre Nacht nicht scheuen, so grell auch ihre Finsternis im Lichte des HErren sich zeigen mag. Und unser Gebet, unser Flehen höre, nachdem wir uns erkannt, nicht auf, bis wir erhört, vom Fluch alles Landes erlöst und fruchtbar Land geworden sind. — Der HErr verleihe, daß Keiner aus dem Leben weggerissen werde, bis er sich erkannt, bis er anders und erneuert worden ist! Amen.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es ging ein Säemann aus,",
+              "Zu säen seinen Samen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, gütiger Vater, Der Du den himmlischen Samen Deines Wortes aus Deinem göttlichen Herzen hervorgebracht und unter uns reichlich ausstreuest: Wir danken Dir für solche große Gnade, und bitten Dich, Du wollest unsre Herzen durch Dein Wort und Geist also zurichten, daß wir ein gut Land seien, vor Sicherheit Sorge und Wollust uns hüten, in Deiner Wahrheit fest wurzeln und dabei alle Hitze und Ungewitter in Geduld beständig ertragen, damit wir in einem feinen guten Herzen reiche Früchte bringen; um Jesu Christi . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Mensch, wie ist dein Herz bestellt?",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Oft ist das Herz auch Dornen voll,",
+                  "Mit Sorgen angefüllet;",
+                  "Oft lebet es in Reichtum wohl:",
+                  "Da wird der Sam verhüllet.",
+                  "Ja, er ersticket ganz und gar",
+                  "Und wird nicht einmal offenbar;",
+                  "Das ist wohl zu beklagen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Da Jesus das sagte, sprach Er:",
+              "Wer Ohren hat zu hören, der höre!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Amos 8, 11—12.",
+            "buch": "amos",
+            "kapitel": 8,
+            "verse": "11-12"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die das Wort Gottes hören mit gutem Herzen,",
+              "Bringen Frucht in Geduld."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 12, 1—10.",
+            "buch": "2_korinther",
+            "kapitel": 12,
+            "verse": "1-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Mensch, wie ist dein Herz bestellt?",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Doch ist, gottlob noch gutes Land",
+                  "Auf dieser Welt zu finden,",
+                  "Das Gott dem HErrn allein bekannt,",
+                  "Da in den Herzensgründen",
+                  "Der Same, den Gott eingelegt,",
+                  "Noch hundertfältig Früchte trägt:",
+                  "Das sind die rechten Herzen."
+                ],
+                "rechts": [
+                  "HErr Jesu, laß mein Herze sein",
+                  "Zerknirschet und zerschlagen,",
+                  "Damit der Same dring hinein;",
+                  "Und laß ihn Früchte tragen,",
+                  "Die mir im Himmel folgen nach,",
+                  "Da ich sie finde tausendfach:",
+                  "Das wünsch ich mit Verlangen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Euch ist es gegeben,",
+              "Zu wissen das Geheimnis des Reiches Gottes."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, Der Du siehest, daß wir uns auf unser Tun gar nicht verlassen: verleihe uns gnädiglich, daß wir durch Deinen Schutz in aller Widerwärtigkeit bewahrt werden mögen; durch unsern HErrn . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Sexagesimä",
+      "wochentag": "montag",
+      "seiten": [
+        469,
+        472
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "29"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, wie manches Herzeleid",
+            "melodie": "146",
+            "strophen": [
+              {
+                "links": [
+                  "Ach Gott, wie manches Herzeleid",
+                  "Begegnet mir zu dieser Zeit;",
+                  "Der schmale Weg ist Trübsal voll,",
+                  "Den ich zum Himmel wandern soll;",
+                  "Wie schwerlich läßt sich Fleisch und Blut",
+                  "Zwingen zu dem ewigen Gut."
+                ],
+                "rechts": [
+                  "Wo soll ich mich denn wenden hin?",
+                  "Zu Dir, HErr Jesu, steht mein Sinn;",
+                  "Bei Dir mein Herz Trost Hülf und Rat",
+                  "Allzeit gewiß gefunden hat.",
+                  "Niemand jemals verlassen ist,",
+                  "Der getraut hat auf Jesum Christ."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 11, 20—27.",
+            "buch": "johannes",
+            "kapitel": 11,
+            "verse": "20-27"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, wie manches Herzeleid",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ob mir gleich Leib und Seel verschmacht,",
+                  "So weißt Du, HErr, daß ichs nicht acht:",
+                  "Wenn ich Dich hab, so hab ich wohl",
+                  "Was mich ewig erfreuen soll.",
+                  "Dein bin ich ja mit Leib und Seel;",
+                  "Was kann mir tun Sünd Tod und Höll!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Amos 8, 1—10.",
+            "buch": "amos",
+            "kapitel": 8,
+            "verse": "1-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 1, 12—21.",
+            "buch": "philipper",
+            "kapitel": 1,
+            "verse": "12-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach Gott, wie manches Herzeleid",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu mein Freud, mein Ehr und Ruhm,",
+                  "Meins Herzens Schatz und mein Reichtum:",
+                  "Ich kanns doch ja nicht zeigen an,",
+                  "Wie hoch Dein Nam erfreuen kann;",
+                  "Wer Glaub und Lieb im Herzen hat,",
+                  "Der wirds erfahren mit der Tat."
+                ],
+                "rechts": [
+                  "Drum will ich, weil ich lebe noch,",
+                  "Das Kreuz Dir fröhlich tragen nach;",
+                  "Mein Gott, mach mich dazu bereit:",
+                  "Es dient zum Besten allezeit.",
+                  "Hilf mir mein Sach recht greifen an,",
+                  "Daß ich mein Lauf vollenden kann."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wollt ihr die höchste Ehre suchen,",
+              "So trachtet nach dem Himmelreich."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Sexagesimä",
+      "wochentag": "dienstag",
+      "seiten": [
+        472,
+        475
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wir Menschen sind zu dem, o Gott",
+            "melodie": "46",
+            "strophen": [
+              {
+                "links": [
+                  "Wir Menschen sind zu dem, o Gott,",
+                  "Was geistlich ist, untüchtig;",
+                  "Dein Wesen Wille und Gebot",
+                  "Ist viel zu hoch und wichtig.",
+                  "Wir wissen und verstehen nicht,",
+                  "Wo uns Dein göttlich Wort und Licht",
+                  "Den Weg zu Dir nicht weiset."
+                ],
+                "rechts": [
+                  "Für solches Heil sei, HErr, gepreist,",
+                  "Laß uns dabei verbleiben",
+                  "Und gib uns Deinen heilgen Geist,",
+                  "Daß wir dem Worte gläuben,",
+                  "Dasselb annehmen jederzeit",
+                  "Mit Sanftmut Ehre Lieb und Freud",
+                  "Als Gottes, nicht der Menschen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 13, 11—17.",
+            "buch": "matthaeus",
+            "kapitel": 13,
+            "verse": "11-17"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wir Menschen sind zu dem, o Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach hilf, HErr, daß wir werden gleich",
+                  "Dem guten fruchtbarn Lande,",
+                  "Und sei an guten Werken reich",
+                  "In unserm Amt und Stande;",
+                  "Viel Früchte bringen in Geduld,",
+                  "Bewahren Deine Lehr und Huld",
+                  "In seinem gutem Herzen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Samuelis 12, 1—7a.",
+            "buch": "2_samuel",
+            "kapitel": 12,
+            "verse": "1-7"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "13"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 4, 7—10.",
+            "buch": "jakobus",
+            "kapitel": 4,
+            "verse": "7-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wir Menschen sind zu dem, o Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Dein Wort, o HErr, laß allweg sein",
+                  "Die Leuchte unsern Füßen;",
+                  "Erhalt es bei uns klar und rein,",
+                  "Hilf, daß wir draus genießen",
+                  "Kraft Rat und Trost in aller Not,",
+                  "Daß wir im Leben und im Tod",
+                  "Beständig darauf trauen."
+                ],
+                "rechts": [
+                  "Gott Vater, laß zu Deiner Ehr",
+                  "Dein Wort sich weit verbreiten;",
+                  "Hilf, Jesu, daß uns Deine Lehr",
+                  "Erleuchten mög und leiten;",
+                  "O Heilger Geist, Dein göttlich Wort",
+                  "Laß in uns wirken fort und fort",
+                  "Glaub Lieb Geduld und Hoffnung."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Same ist das Wort Gottes, der Säemann Christus;",
+              "Wer Den findet, bleibt ewiglich."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Sexagesimä",
+      "wochentag": "mittwoch",
+      "seiten": [
+        475,
+        478
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "101"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Hilf Jesu, hilf siegen",
+            "strophen": [
+              {
+                "links": [
+                  "Seele:",
+                  "Hilf, Jesu, hilf siegen,",
+                  "Und laß mich nicht liegen",
+                  "Im Kerker der Sünden:",
+                  "Laß Gnade mich finden,",
+                  "O Jesu mein Licht,",
+                  "Ich lasse Dich nicht."
+                ],
+                "rechts": [
+                  "Jesus:",
+                  "Ich helfe Dir siegen",
+                  "Und lasse nicht liegen",
+                  "Dich Armen in Kämpfen;",
+                  "Ich helfe dir dämpfen",
+                  "Der Sünden Begier;",
+                  "O glaube nur Mir."
+                ]
+              },
+              {
+                "links": [
+                  "Seele:",
+                  "Gib Einfalt und Wahrheit;",
+                  "Die göttliche Klarheit",
+                  "Durchleuchte mein Herze,",
+                  "So weichet der Schmerze.",
+                  "Ich suche allein",
+                  "Den göttlichen Schein."
+                ],
+                "rechts": [
+                  "Jesus:",
+                  "Kehr einwärts die Sinnen,",
+                  "Daß mögen zerrinnen",
+                  "Die Bilder der Dinge,",
+                  "Stets bete und ringe:",
+                  "So findest du hier",
+                  "Die Einfalt in Mir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 15, 29—31.",
+            "buch": "matthaeus",
+            "kapitel": 15,
+            "verse": "29-31"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hilf Jesu, hilf siegen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Seele:",
+                  "Ich warte vom Morgen",
+                  "Zum Abend, und Sorgen",
+                  "Stets ängsten die Seele,",
+                  "Die Nächte ich zähle.",
+                  "HErr, komme in Eil",
+                  "Und zeig mir Dein Heil."
+                ],
+                "rechts": [
+                  "Jesus:",
+                  "Durch Warten vom Morgen",
+                  "Zum Abend mit Sorgen",
+                  "Kann man Mich nicht finden,",
+                  "Ich laß Mich nicht binden.",
+                  "Sei stille in dir,",
+                  "So kommst du zu Mir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "53"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 25, 1—9.",
+            "buch": "jesaja",
+            "kapitel": 25,
+            "verse": "1-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "34"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 11, 21—31.",
+            "buch": "2_korinther",
+            "kapitel": 11,
+            "verse": "21-31"
+          },
+          {
+            "typ": "lied",
+            "titel": "Hilf Jesu, hilf siegen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Seele:",
+                  "HErr, gib mir den Segen.",
+                  "In finsteren Wegen",
+                  "Läßt du mich jetzt gehen;",
+                  "Ich bleibe fest stehen",
+                  "Und ringe mit Dir:",
+                  "Ergib Dich nun mir."
+                ],
+                "rechts": [
+                  "Jesus:",
+                  "Die also im Ringen",
+                  "Sich um Mich fest schwingen,",
+                  "Empfangen den Segen",
+                  "Und Licht auf den Wegen,",
+                  "Wie Jakob das Licht",
+                  "Bei Pniel anbricht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Das aber auf ein gut Land fiel, sind Die,",
+              "So in einem feinen guten Herzen Frucht bringen in Geduld."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Sexagesimä",
+      "wochentag": "donnerstag",
+      "seiten": [
+        478,
+        480
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "36"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Hier legt mein Sinn sich vor Dir nieder",
+            "melodie": "71",
+            "strophen": [
+              {
+                "links": [
+                  "Hier legt mein Sinn sich vor Dir nieder,",
+                  "Mein Geist sucht seinen Ursprung wieder;",
+                  "Laß Dein erfreuend Angesicht",
+                  "Zu meiner Armut sein gericht."
+                ],
+                "rechts": [
+                  "Du wollest, Jesu, meinen Willen",
+                  "Mit der Gelassenheit erfüllen;",
+                  "Brich der Natur Gewalt entzwei,",
+                  "Und mache meinen Willen frei."
+                ]
+              },
+              {
+                "links": [
+                  "Schau her: ich fühle mein Verderben,",
+                  "Laß mich in Deinem Tode sterben;",
+                  "O könnte doch in Deiner Pein",
+                  "Die Eigenheit ertötet sein!"
+                ],
+                "rechts": [
+                  "Ich muß noch mehr auf dieser Erden",
+                  "Durch Deinen Geist geheiligt werden;",
+                  "Der Sinn muß tiefer in Dich gehn,",
+                  "Der Fuß muß unbeweglich stehn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 4, 21—25.",
+            "buch": "markus",
+            "kapitel": 4,
+            "verse": "21-25"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hier legt mein Sinn sich vor Dir nieder",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Indessen will ich treulich kämpfen",
+                  "Und stets die falsche Regung dämpfen,",
+                  "Bis Du Dir Deine Zeit ersiehst",
+                  "Und mich aus solchen Netzen ziehst."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "72"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jona 3, 1—10.",
+            "buch": "jona",
+            "kapitel": 3,
+            "verse": "1-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "135"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 5, 1—6.",
+            "buch": "hebraeer",
+            "kapitel": 5,
+            "verse": "1-6"
+          },
+          {
+            "typ": "lied",
+            "titel": "Hier legt mein Sinn sich vor Dir nieder",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "In Hoffnung kann ich fröhlich sagen:",
+                  "Gott hat der Höllen Macht geschlagen;",
+                  "Gott führt mich aus dem Kampf und Streit",
+                  "In Seine Ruh und Sicherheit."
+                ],
+                "rechts": [
+                  "Drum will die Sorge meiner Seelen",
+                  "Dir, meinem Vater, ganz befehlen:",
+                  "Ach drücke tief in meinen Sinn,",
+                  "Daß ich in Dir schon selig bin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Same fiel auf ein gut Land und brachte Frucht:",
+              "Der eine hundertfältig, der andere sechzigfältig."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Sexagesimä",
+      "wochentag": "freitag",
+      "seiten": [
+        480,
+        482
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ist Gott mein Schild und Helfersmann",
+            "melodie": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Ist Gott mein Schild und Helfersmann,",
+                  "Was wird sein, das mir schaden kann?",
+                  "Weicht, alle meine Feinde,",
+                  "Die ihr mir listiglich nachsteht,",
+                  "Nur eurer Schmach entgegen geht:",
+                  "Ich habe Gott zum Freunde."
+                ],
+                "rechts": [
+                  "Ist Gott mein Schirm und mein Panier,",
+                  "Kein Ungemach kann schaden mir;",
+                  "Weicht, alle meine Feinde,",
+                  "Die ihr mich ängstet und betrübt;",
+                  "Es ist umsonst was ihr verübt:",
+                  "Ich habe Gott zum Freunde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 33—37.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "33-37"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ist Gott mein Schild und Helfersmann",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ist Gott mein Retter und Patron,",
+                  "Was acht ich der Welt Schimpf und Hohn!",
+                  "Weicht, alle meine Feinde,",
+                  "Die ihr mich lästert früh und spat;",
+                  "Es wird euch richten eure Tat:",
+                  "Ich habe Gott zum Freunde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "89"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 48, 16—18.",
+            "buch": "jesaja",
+            "kapitel": 48,
+            "verse": "16-18"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "77"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Thessalonicher 3, 1—3.",
+            "buch": "2_thessalonicher",
+            "kapitel": 3,
+            "verse": "1-3"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ist Gott mein Schild und Helfersmann",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ist Gott mein Heil, mein Hilf und Kraft,",
+                  "Die böse Welt an mir nichts schafft;",
+                  "Weicht, alle meine Feinde,",
+                  "Die ihr auf mich vergallet seid,",
+                  "Ihr tut euch selbst gebranntes Leid:",
+                  "Ich habe Gott zum Freunde."
+                ],
+                "rechts": [
+                  "Ist Gott mein Beistand in der Not,",
+                  "Was kann mir schaden Sünd und Tod!",
+                  "Weicht, alle meine Feinde!",
+                  "Tod Sünde Teufel Höll und Welt,",
+                  "Ihr müsset räumen doch das Feld:",
+                  "Ich habe Gott zum Freunde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Die das Wort Gottes behalten in einem feinen guten Herzen",
+              "Bringen Frucht in Geduld."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Sexagesimä",
+      "wochentag": "sonnabend",
+      "seiten": [
+        482,
+        484
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "64"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer das Kleinod will erlangen",
+            "strophen": [
+              {
+                "links": [
+                  "Wer das Kleinod will erlangen,",
+                  "Der muß laufen was er kann;",
+                  "Wer die Krone will empfangen,",
+                  "Der muß kämpfen als ein Mann;",
+                  "Dazu muß er sich in Zeiten",
+                  "Auf das Beste zubereiten,",
+                  "Alles Andern müßig gehn,",
+                  "Was ihm kann im Wege stehn."
+                ],
+                "rechts": [
+                  "Herzens-Jesu, Deine Güte",
+                  "Steckt mir auch ein Kleinod für,",
+                  "Das entzückt mir mein Gemüte",
+                  "Durch den Ausbund seiner Zier;",
+                  "O wie glänzt die schöne Krone",
+                  "Von dem hohen Ehrenthrone,",
+                  "Die Du in der Herrlichkeit",
+                  "Deinen Streitern hast bereit!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 34—36.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "34-36"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wer das Kleinod will erlangen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mein verderbter Eigenwille",
+                  "Hat bald dies, bald das zu tun,",
+                  "Hält im Laufen vielmals stille",
+                  "Und will in dem Streite ruhn.",
+                  "Satan macht mich auch fast mürbe,",
+                  "Daß mir auch der Sieg verdürbe,",
+                  "Wo mir Deine treue Kraft",
+                  "Nicht gewünschte Hilfe schafft."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Tobias 13, 1—14.",
+            "buch": "",
+            "kapitel": 13,
+            "verse": "1-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Philipper 1, 22—26.",
+            "buch": "philipper",
+            "kapitel": 1,
+            "verse": "22-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wer das Kleinod will erlangen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Drum, mein Jesu, steh mir Armen",
+                  "In so großer Schwachheit bei;",
+                  "Laß Dich meine Not erbarmen,",
+                  "Mache mich von Allem frei,",
+                  "Was mir will mein Ziel verrücken;",
+                  "Komm, mich selbst recht zuzuschicken.",
+                  "Gib mir Kraft und Freudigkeit,",
+                  "Fördre meinen Lauf und Streit."
+                ],
+                "rechts": [
+                  "Es verlohnt sich wohl der Mühe,",
+                  "Ob mirs gleich was sauer wird,",
+                  "Wenn ich mich der Welt entziehe,",
+                  "Die mich stets zurücke kirrt;",
+                  "Deine treue Gnadenkrone",
+                  "Ist mir übergnug zum Lohne;",
+                  "Wirst Du nur mein Beistand sein,",
+                  "So ist sie in Kurzem mein."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
