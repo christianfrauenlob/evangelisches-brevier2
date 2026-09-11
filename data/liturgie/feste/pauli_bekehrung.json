@@ -1,0 +1,234 @@
+{
+  "id": "pauli_bekehrung",
+  "titel": "S. Pauli Bekehrung (25. Januar)",
+  "kirchenzeit": "feste",
+  "reihe": 18,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Pauli Bekehrung (25. Januar)",
+      "wochentag": "fest",
+      "seiten": [
+        668,
+        671
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Laßt uns unsern Gott loben,",
+              "Der den Lehrer der Heiden bekehrt hat."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich weiß, an Welchen ich glaube, und bin gewiß: Er kann mir bewahren das mir",
+              "beigelegt ist, bis an jenen Tag."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "47"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 19, 27-30.",
+            "buch": "matthaeus",
+            "kapitel": 19,
+            "verse": "27-30"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Von Gottes Gnade bin ich das ich bin;",
+                  "Und Seine Gnade an mir ist nicht vergeblich gewesen, Gottes Gnade die mit mir ist.",
+                  "Der mit Petrus kräftig ist gewesen zum Apostelamt unter den Juden, Der ist mit mir auch kräftig gewesen unter den Heiden.",
+                  "Und Seine Gnade . . mir ist."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Kann man ein größeres Wunder schauen als das was an Paulus geschah? Denn während Petrus den HErrn verleugnet hatte, da Er noch lebte, hat Paulus Ihn bekannt, als Er schon gestorben war. Ein größeres Wunder als alle anderen war es daher, daß Paulus nach Tod und Begräbnis auf Christi Seite trat. Deshalb nämlich ließ Christus ihn allen Haß gegen Sich tragen und berief ihn gerade dann, um das Zeugnis von der Auferstehung und das gepredigte Wort von allem Verdacht zu befreien. Denn wenn Christus nicht auferstanden wäre — wer würde dann einen so grausamen und unmenschlichen, einen so unsinnig wilden Menschen mit sich versöhnt und zu sich gezogen haben? Das war keine Tat menschlicher Sorge, sondern göttlicher Gnade!",
+            "quelle": "Chrysostomus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr, die ihr Mir nachgefolgt, werdet sitzen auf zwölf Stühlen,",
+              "Und richten die zwölf Geschlechter Israels, spricht der HErr."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Du hast die ganze Welt durch die Predigt des heiligen Apostels Paulus unterwiesen: Wir bitten Dich, gib, daß wir, die wir heut in Ehrfurcht seine Bekehrung feiern, nach seinem Vorbild den Weg zu Dir finden; durch . . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "De S. Paulo Apostolo (Paule, doctor egregie)",
+            "strophen": [
+              {
+                "links": [
+                  "Paule, doctor egregie.",
+                  "Tuba clangens ecclesiae.",
+                  "Nubes volans ac tonitrum",
+                  "Per amplum mundi circulum."
+                ],
+                "rechts": [
+                  "Erhabner Lehrer aller Zeit,",
+                  "Posaunenruf der Christenheit,",
+                  "Fliegende Wolke, Donnerhall,",
+                  "Darob erdröhnt das Weltenall:"
+                ]
+              },
+              {
+                "links": [
+                  "Nobis potenter intona",
+                  "Ruraque cordis irriga,",
+                  "Coelestis imbre gratiae",
+                  "Mentes virescant aridae."
+                ],
+                "rechts": [
+                  "Durchdonnre unsern stolzen Mut,",
+                  "Geuß über uns des Himmels Flut,",
+                  "Daß unsres Herzens dürre Au",
+                  "Ergrüne unterm Gnadentau."
+                ]
+              },
+              {
+                "links": [
+                  "O magnum Pauli meritum:",
+                  "Coelum conscendit tertium,",
+                  "Audit verba mysterii,",
+                  "Quae nullis audet eloqui."
+                ],
+                "rechts": [
+                  "Ihn hob Gott einst — o selig Los! —",
+                  "Bis in des dritten Himmels Schoß",
+                  "Und tat ihm dort Geheimnis kund,",
+                  "Zu hehr für eines Menschen Mund."
+                ]
+              },
+              {
+                "links": [
+                  "Dum verbi spargit semina,",
+                  "Seges surgit uberrima,",
+                  "Sic coeli replent horreum",
+                  "Bonorum fruges operum."
+                ],
+                "rechts": [
+                  "Wo er den Acker kaum bestellt,",
+                  "Umwogt ihn schon ein Erntefeld:",
+                  "So füllt des Himmels Scheuer sich",
+                  "Mit Früchten hundertfältiglich."
+                ]
+              },
+              {
+                "links": [
+                  "Micantis more lampadis",
+                  "Perfundit orbem radiis,",
+                  "Fugat errorum tenebras",
+                  "Ut sola regnet veritas."
+                ],
+                "rechts": [
+                  "Mit seiner Fackel hellem Strahl",
+                  "Durchleuchtet er das Erdental,",
+                  "Vertreibt des Irrtums Finsternis,",
+                  "Und macht der Wahrheit Sieg gewiß."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Christus ist mein Leben, und Sterben ist mein Gewinn.",
+              "Es sei ferne von mir rühmen, denn allein von dem Kreuz unsers HErrn Jesu Christi."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "64"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 4, 1-4.",
+            "buch": "jeremia",
+            "kapitel": 4,
+            "verse": "1-4"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Das sind die heiligen Männer, die der HErr in wahrer Liebe erkoren, und denen Er ewigen Ruhm schenkt.",
+                  "Von ihrer Lehre erstrahlt die Kirche wie vom Glanz der Sonne.",
+                  "Durch den Glauben haben die Heiligen Königreiche bezwungen und Gerechtigkeit geübt.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich will mich am allerliebsten rühmen meiner Schwachheit,",
+              "Auf daß die Kraft Christi bei mir wohne."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "116"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 9, 1-22.",
+            "buch": "apostelgeschichte",
+            "kapitel": 9,
+            "verse": "1-22"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Hinfort ist mir beigelegt die Krone der Gerechtigkeit, welche mir der HErr an jenem Tage, der gerechte Richter, geben wird.",
+                  "Ich weiß, an Welchen ich glaube, und bin gewiß: Er kann mir bewahren das mir beigelegt ist, bis an jenen Tag.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Dieser ist Mir ein auserwählt Rüstzeug, daß er Meinen Namen trage vor den Heiden",
+              "Und vor den Königen und vor den Kindern von Israel."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

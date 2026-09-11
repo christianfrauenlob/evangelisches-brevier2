@@ -1,0 +1,145 @@
+{
+  "id": "markus",
+  "titel": "S. Markus-Tag (25. April)",
+  "kirchenzeit": "feste",
+  "reihe": 22,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Markus-Tag (25. April)",
+      "wochentag": "fest",
+      "seiten": [
+        682,
+        684
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "In alle Lande gehet aus ihr Schall,",
+              "Und an der Welt Ende ihre Rede."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Beata nobis gaudia (Christus schickt aus)",
+            "strophen": [
+              {
+                "links": [
+                  "Christus schickt aus in alle Welt",
+                  "Sein Apostel mit großer Gewalt,",
+                  "Daß sie den Leuten machen kund",
+                  "Gottes Willen und neuen Bund."
+                ],
+                "rechts": [
+                  "Versorg uns auch mit allem Fleiß,",
+                  "Mit Dienern und geistlicher Speis,",
+                  "Wie Du denn angefangen hast",
+                  "Nach aller Deiner Herzenslust."
+                ]
+              },
+              {
+                "links": [
+                  "Damit wir All in Einigkeit,",
+                  "Erfüllet mit Gerechtigkeit,",
+                  "Durch Christum Deinen lieben Sohn",
+                  "Erlangen ewig Freud und Kron."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Erzeige uns, HErr, Deine Barmherzigkeit, Hallelujah!",
+              "Und gib uns Dein Heil. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 10, 1-9.",
+            "buch": "lukas",
+            "kapitel": 10,
+            "verse": "1-9"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "In alle Lande gehet aus ihr Schall, und bis an der Welt Ende ihre Rede.",
+                  "Ehre sei . . Geiste.",
+                  "Du wirst sie zu Fürsten erheben über den ganzen Erdkreis.",
+                  "Sie werden Deinen Namen rühmen, o HErr."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Markus, Jünger und Dolmetscher des Petrus, schrieb auf Bitten der Brüder in Rom auf Grund der Predigten des Petrus ein kurzgefaßtes Evangelium. Mit diesem Evangelium begab er sich nach Aegypten und predigte als erster Christum in Alexandrien. Er gründete dort eine Kirche, und zwar mit solcher weisheitsvollen Lehre und ernsten Lebensführung, daß er Alle, die Christo nachfolgten, zur Nachahmung seines heiligen Wandels veranlaßte. Markus starb im achten Jahre der Regierung des Nero, und wurde zu Alexandrien beerdigt.",
+            "quelle": "Hieronymus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie verkündeten die Werke Gottes,",
+              "Und machten bekannt Seine Taten."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 1, 10-14.",
+            "buch": "hesekiel",
+            "kapitel": 1,
+            "verse": "10-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 4, 1-5.",
+            "buch": "1_korinther",
+            "kapitel": 4,
+            "verse": "1-5"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Seid stark im Streite und kämpft mit der alten Schlange,",
+              "Und ihr werdet empfahen das Reich des Himmels, spricht der HErr."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Du hast Deinen seligen Evangelisten Markus verherrlicht, indem Du ihm Gnade gabst, das Evangelium zu verkündigen; wir bitten Dich: verleihe uns, daß wir immerdar durch seine Lehre Förderung empfangen; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

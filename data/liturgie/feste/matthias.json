@@ -1,0 +1,145 @@
+{
+  "id": "matthias",
+  "titel": "S. Matthias-Tag (24. Februar)",
+  "kirchenzeit": "feste",
+  "reihe": 20,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Matthias-Tag (24. Februar)",
+      "wochentag": "fest",
+      "seiten": [
+        675,
+        677
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Apostel, den HErrn —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wenn die Gerechten schreien, so höret der HErr,",
+              "Und errettet sie aus all ihrer Not."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "61"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 11, 25-30.",
+            "buch": "matthaeus",
+            "kapitel": 11,
+            "verse": "25-30"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ich schaute eine Schar von Männern, angetan mit glänzenden Gewändern; und der Engel des HErrn sprach zu mir:",
+                  "Das sind die heiligen Männer, die sind Gottes Freunde worden.",
+                  "Ich sah den starken Engel Gottes mitten durch den Himmel schweben; mit lauter Stimme rief er und sprach:",
+                  "Das sind . . worden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Die Zahl der Apostel ist zwölf. Tief und bedeutungsvoll ist die Zwölfzahl. „Ihr werdet“, spricht der HErr, „auf zwölf Stühlen sitzen, und richten die zwölf Geschlechter Israels.“ Lasset uns bedenken, was diese zwölf Richterstühle bedeuten. Es ist hier das Geheimnis der Katholizität ausgedrückt, weil die Kirche auf der ganzen Erde ausgebreitet werden sollte. Und weil Alle vor den Richterstuhl kommen müssen, deshalb stehen zwölf Richterstühle da; und weil Alle in diese Gottesstadt eintreten können, hat sie zwölf Thore. Mithin gehören auch nicht nur jene zwölf Apostel und der Apostel Paulus, sondern Alle, welche dereinst richten werden, zu diesen zwölf Richterstühlen, eben weil die Zwölfzahl die Gesamtheit bedeutet.",
+            "quelle": "Augustinus"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr die ihr alles verlassen habt und Mir seid nachgefolget,",
+              "Ihr werdets hundertfältig nehmen, und das ewige Leben haben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr, Der Du den heiligen Matthias Deiner Apostelschar beigesellt hast: wir bitten Dich, laß auch uns Deine Güte gegen uns recht empfinden; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er setzt ihn neben die Fürsten,",
+              "Neben die Fürsten Seines Volkes."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "97"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Joel 2, 21-27.",
+            "buch": "joel",
+            "kapitel": 2,
+            "verse": "21-27"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Dem Gerechten muß das Licht immer wieder aufgehen,",
+              "Und Freude den frommen Herzen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 1, 15-26.",
+            "buch": "apostelgeschichte",
+            "kapitel": 1,
+            "verse": "15-26"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Nehmet auf euch Mein Joch, und lernet von Mir; denn Ich bin sanftmütig und von Herzen demütig;",
+                  "Mein Joch ist sanft und Meine Last ist leicht;",
+                  "Und ihr werdet Ruhe finden für eure Seelen.",
+                  "Mein Joch . . leicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Seid wacker im Streit, und kämpft mit dem alten Drachen:",
+              "So werdet ihr empfahen das ewige Reich. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

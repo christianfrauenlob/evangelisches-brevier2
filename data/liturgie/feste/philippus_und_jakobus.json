@@ -1,0 +1,162 @@
+{
+  "id": "philippus_und_jakobus",
+  "titel": "S. Philippus- und S. Jakobus-Tag (1. Mai)",
+  "kirchenzeit": "feste",
+  "reihe": 23,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Philippus- und S. Jakobus-Tag (1. Mai)",
+      "wochentag": "fest",
+      "seiten": [
+        684,
+        686
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Apostel, den HErrn —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Siehe: Ich sende euch wie Schafe mitten unter die Wölfe.",
+              "Darum seid klug wie die Schlangen, und ohne Falsch wie die Tauben."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "67"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wie lieblich und wie schöne",
+            "strophen": [
+              {
+                "links": [
+                  "Wie lieblich und wie schöne",
+                  "Sind der Boten Füße,",
+                  "Die auf den Bergen gehen",
+                  "Und herab uns grüßen",
+                  "Mit Fried und großer Güte",
+                  "Zu sagen, daß Gott König sei,",
+                  "Der Zion behüte."
+                ],
+                "rechts": [
+                  "Hört, wie die Wächter rufen",
+                  "Frei mit lauter Stimme;",
+                  "Daß viel Guts sei zu hoffen,",
+                  "Tun sie freudig rühmen.",
+                  "Oeffentlich wird mans schauen,",
+                  "Daß Gott viel Volks bekehren wird",
+                  "Zu Sei'm Dienst und Glauben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Bittet den HErrn der Ernte, Hallelujah!",
+              "Daß Er Arbeiter in Seine Ernte sende. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 14, 1-15.",
+            "buch": "johannes",
+            "kapitel": 14,
+            "verse": "1-15"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Ich bin der Weinstock, und ihr seid die Reben. Wer in Mir bleibt, und Ich in ihm, der bringt viel Frucht, Hallelujah!",
+                  "Wie Mich Mein Vater liebt, so liebe Ich euch.",
+                  "Wer in Mir . . Hallelujah!",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich bin der Weg, und die Wahrheit, und das Leben;",
+              "Niemand kommt zum Vater, denn durch Mich."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du uns Jahr für Jahr erfreuest durch die Festfeier Deiner Apostel Philippus und Jakobus: wir bitten Dich, verleihe uns, daß wir uns durch ihr Vorbild leiten lassen; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wie lieblich",
+            "strophen": [
+              {
+                "links": [
+                  "Der HErr hat offenbaret",
+                  "Sein heilig Geheimnis,",
+                  "Allen Völkern die Wahrheit,",
+                  "So da waren heidnisch;",
+                  "Auf daß aller Welt Ende",
+                  "Mit Freuden unsers Gottes Heil:",
+                  "Jesum Christ erkenne."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "87"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Weisheit 5, 1-5.",
+            "buch": "",
+            "kapitel": 5,
+            "verse": "1-5"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 4, 9-15.",
+            "buch": "1_korinther",
+            "kapitel": 4,
+            "verse": "9-15"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn ihr in Mir bleibt, und Meine Worte in euch bleiben, so werdet ihr empfahen um was ihr auch bittet.",
+              "Hallelujah! Hallelujah! Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

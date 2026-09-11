@@ -1,0 +1,247 @@
+{
+  "id": "mariae_lichtmess",
+  "titel": "Mariä Reinigung-Lichtmeß (2. Februar)",
+  "kirchenzeit": "feste",
+  "reihe": 19,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Mariä Reinigung-Lichtmeß (2. Februar)",
+      "wochentag": "fest",
+      "seiten": [
+        671,
+        675
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Siehe: es kommt zu Seinem Tempel der Herrscher und HErr;",
+              "Zion, begegne deinem Gott, mit Frohlocken und Freude."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Es grünte die Wurzel Jesse, aus Jakob ging auf der Stern;",
+              "Die Jungfrau gebar den Heiland:",
+              "Dich loben wir unsern Gott."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "8"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, unser Heiland",
+            "strophen": [
+              {
+                "links": [
+                  "Christe, unser Heiland,",
+                  "Für uns geopfert zum Gnadenpfand,",
+                  "Reinig durch Dein Opfer",
+                  "Uns elende arme Sünder."
+                ]
+              },
+              {
+                "links": [
+                  "Du bist der Einig,",
+                  "Der allein ist würdig",
+                  "In allen Nöten",
+                  "Bei Gott zu vertreten,",
+                  "Und drum erschienen,",
+                  "Uns Gnad zu verdienen,",
+                  "Gott zu versühnen."
+                ],
+                "rechts": [
+                  "Denn Du bist ewig,",
+                  "Mit dem Vater einig,",
+                  "Von Ihm geboren,",
+                  "Zum Heil auserkoren.",
+                  "In Dir wir allein",
+                  "Gott wohlgefällig sein,",
+                  "Herzliebstes Kindlein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Holdselig sind Deine Lippen;",
+              "Darum segnet Dich Gott ewiglich."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 2, 22-32.",
+            "buch": "lukas",
+            "kapitel": 2,
+            "verse": "22-32"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Schmücke dein Brautgemach, Zion, und empfang Christum den König.",
+                  "Ihn, Den die Jungfrau empfangen, hat sie als Jungfrau geboren.",
+                  "Und Jungfrau nach der Geburt hat sie Ihn, Den sie geboren, angebetet.",
+                  "Simeon nahm das Kind auf seine Arme, lobte und pries Gott.",
+                  "Ihn, Den . . angebetet."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Nicht nur von Engeln, Propheten und Hirten, sondern auch von Greisen und Gerechten erhält die Geburt des Heilands Zeugnis. Jedes Alter, jedes Geschlecht, alle wunderbaren Ereignisse stärkten den Glauben. Eine Jungfrau wird Mutter, eine Unfruchtbare gebiert, ein Stummer redet, Elisabeth weissagt, die Weisen beten an, ein im Mutterleibe Verborgener hüpft, die Witwe lobsingt, der Gerechte harrt. Mit Recht ein Gerechter; denn er begehret Gnade für sein Volk, nicht für sich; er wünscht, gelöst zu werden von den Banden des gebrechlichen Leibes; aber er wartet, um den Verheißenen zu schauen. Siehe da den Gerechten, der sich wie in einem Gefängnis fühlt, wie er wünscht frei zu werden, auf daß er mit Christus leben könne.",
+            "quelle": "Ambrosius"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Simeon nahm das Jesukind auf seine Arme und sprach:",
+              "HErr, nun lässest Du Deinen Diener im Frieden fahren."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger ewiger Gott, wir bitten Dich herzlich: gib uns, daß wir Deinen lieben Sohn erkennen und preisen, wie der heilige Simeon Ihn leiblich in die Arme genommen und geistlich gesehen und bekannt hat; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mit Fried und Freud ich fahr dahin",
+            "melodie": "106",
+            "strophen": [
+              {
+                "links": [
+                  "Mit Fried und Freud ich fahr dahin",
+                  "In Gotts Wille;",
+                  "Getrost ist mir mein Herz und Sinn,",
+                  "Sanft und stille.",
+                  "Wie Gott mir verheißen hat:",
+                  "Der Tod ist mein Schlaf worden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ihm war eine Antwort worden von dem Heiligen Geist:",
+              "Er sollte den Tod nicht sehen, er hätte denn zuvor den Christ des HErrn gesehen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ein Licht zu erleuchten die Heiden,",
+              "Und zum Preis Deines Volkes Israel."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Maleachi 3, 1-4.",
+            "buch": "maleachi",
+            "kapitel": 3,
+            "verse": "1-4"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "O wunderbarer Tausch! Der Schöpfer des Menschengeschlechtes nimmt Knechtsgestalt an, und läßt sich herab, von einer Jungfrau geboren zu werden!",
+                  "Und hervorgehend als Mensch, nicht auf Menschenweise empfangen, teilt Er uns Seine Gottheit mit.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, Der Du Deinen Sohn uns zum Heiland bereitet hast, daß Er der Heiden Licht und der Juden Preis sein soll; wir bitten Dich: erleuchte unsre Herzen, daß wir Deine Gnade und väterlichen Willen gegen uns in Ihm erkennen und durch Ihn selig werden. Durch ..",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Simeon, fromm und gottesfürchtig, wartete auf den Trost Israels;",
+              "Und der Heilige Geist war in ihm."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "96"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 5, 9-15.",
+            "buch": "1_johannes",
+            "kapitel": 5,
+            "verse": "9-15"
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, unser Heiland",
+            "strophen": [
+              {
+                "links": [
+                  "Du Erstgeborner",
+                  "Bist der Welt Versöhner,",
+                  "Mit Deinem Opfer",
+                  "Geheiligt dem Schöpfer,",
+                  "Durch Dein Darstellen",
+                  "Tätst Du unsre Seelen",
+                  "Dem HErrn befehlen."
+                ],
+                "rechts": [
+                  "Des sich die Frommen",
+                  "Freuten allzusammen,",
+                  "Gaben Dir Zeugnis",
+                  "Aus rechtem Erkenntnis,",
+                  "Sahn an Dir ihr Freud,",
+                  "Begehrten ihrn Abscheid.",
+                  "Hilf uns auch aus Leid."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Heute hat die seligste Jungfrau Maria das Jesuskind im Tempel dargestellt,",
+              "Und Simeon, voll des Heiligen Geistes, nahm Es auf seine Arme, und pries Gott."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, o HErr: erhöre Dein Volk, und gib, daß wir das, was Du uns äußerlich in alljährlicher Feier verehren läßt, uns auch innerlich durch das Licht Deiner Gnade aneignen; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

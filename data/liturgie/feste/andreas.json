@@ -1,0 +1,247 @@
+{
+  "id": "andreas",
+  "titel": "S. Andreas-Tag (30. November)",
+  "kirchenzeit": "feste",
+  "reihe": 16,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Andreas-Tag (30. November)",
+      "wochentag": "fest",
+      "seiten": [
+        662,
+        665
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Apostel, den HErrn —",
+              "Kommt, laßt uns anbeten."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du setzest sie zu Fürsten über alle Welt,",
+              "Sie werden Deines Namens gedenken, o HErr."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Sie verkündeten die Werke Gottes,",
+              "Sie machten Seine Taten bekannt."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 4, 18-22.",
+            "buch": "matthaeus",
+            "kapitel": 4,
+            "verse": "18-22"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Siehe: Ich sende euch wie Schafe mitten unter die Wölfe, spricht der HErr.",
+                  "Darum seid klug wie die Schlangen und ohne Falsch wie die Tauben.",
+                  "Glaubet an das Licht, dieweil ihrs habt, auf daß ihr des Lichtes Kinder seid.",
+                  "Darum seid . . Tauben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Als der heilige Andreas zu der Stätte gelangt war, wo das Kreuz bereitet war, rief er aus und sprach: O du liebes Kreuz, wie lange habe ich dich ersehnt! und nun stehst du vor der verlangenden Seele! Getrost und fröhlich nahe ich dir; darum sollst auch du mich mit Frohlocken aufnehmen als einen Jünger Dessen, Der an dir gehangen hat.",
+            "quelle": ""
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr die ihr alles verlassen habt und Mir seid nachgefolget,",
+              "Ihr werdets hundertfältig nehmen, und das ewige Leben ererben."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Hymnus de martyribus (Sanctorum meritis)",
+            "strophen": [
+              {
+                "links": [
+                  "Sanctorum meritis inclyta gaudia",
+                  "Pangamus socii gestaque fortia:",
+                  "Nam gliscit animus promere cantibus",
+                  "Victorum genus optimum."
+                ],
+                "rechts": [
+                  "Laßt uns, Christen, das Lob heiliger Märtyrer",
+                  "Und ihr hohes Verdienst, ihren erhabenen Mut,",
+                  "Ihre Kränze voll Ruhms, ihre Belohnungen",
+                  "Durch ein heiliges Lied erhöhn."
+                ]
+              },
+              {
+                "links": [
+                  "Hi sunt quos retinens mundus inhorruit:",
+                  "Ipsum nam sterili flore peraridum",
+                  "Spreverunt penitus, teque secuti sunt,",
+                  "Rex Christe bone coelitus."
+                ],
+                "rechts": [
+                  "Diese sinds, so die Welt töricht gehasset hat;",
+                  "Diese sinds, so die Welt als ein verödetes",
+                  "Blumenloses Gefild wieder verschmäheten;",
+                  "Immer, Jesus, nur Dir getreu."
+                ]
+              },
+              {
+                "links": [
+                  "Caeduntur gladiis more bidentium,",
+                  "Nec murmur resonat nec querimonia,",
+                  "Sed corde tacito mens bene conscia",
+                  "Conservat patientiam."
+                ],
+                "rechts": [
+                  "Gleich dem schuldlosen Schaf schlachtete sie das Schwert;",
+                  "Ohne Klage, verstummt, zogen sie fröhlich hin;",
+                  "Keiner Schuld sich bewußt, trugen geduldig sie",
+                  "Und mit Freude der Richter Zorn."
+                ]
+              },
+              {
+                "links": [
+                  "Quae vox, quae poterit lingua retexere,",
+                  "Quae tu martyribus munera praeparas?",
+                  "Rubri nam fluido sanguine laureis",
+                  "Ditantur bene fulgidis."
+                ],
+                "rechts": [
+                  "Welche Zunge besingt, Märtyrer, euren Lohn,",
+                  "Der im Himmel für euch ewig bereitet ist?",
+                  "Ewig schmücken das Haupt Lorbeern, vom Blute rot,",
+                  "Das für Christus vergossen ward."
+                ]
+              },
+              {
+                "links": [
+                  "Te trina deitas unaque poscimus,",
+                  "Ut culpas abluas, noxia subtrahas,",
+                  "Des pacem famulis, nos quoque gloriam",
+                  "Per cuncta tibi saecula."
+                ],
+                "rechts": [
+                  "Gott, wir flehen zu Dir, Höchster und Einziger,",
+                  "Bind von Sünden uns los, schütze vor Schaden uns!",
+                  "Gib uns Frieden und Ruh, daß wir im Leben",
+                  "Und dort ewig Gesänge weihn Dir."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Ihre Schnur gehet aus in alle Lande,",
+              "Und ihre Rede an der Welt Ende."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Niemand hat größere Liebe denn die,",
+              "Daß er sein Leben lässet für seine Freunde."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "99"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 47, 6-12.",
+            "buch": "hesekiel",
+            "kapitel": 47,
+            "verse": "6-12"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Das sind die Sieger und Freunde Gottes, die, der Herren Dräuen nicht achtend, ewiges Lohnes teilhaftig wurden.",
+                  "Nun werden sie gekrönt und empfangen die Palme.",
+                  "Diese sinds, die kommen sind aus großer Trübsal, und haben ihre Kleider gewaschen im Blute des Lammes.",
+                  "Nun werden . . Palme.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die den Gerechten verfolgten hast Du, o HErr, in die Hölle gestoßen,",
+              "Und bist am Kreuzesstamm des Gerechten Beistand gewesen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 10, 8-18.",
+            "buch": "roemers",
+            "kapitel": 10,
+            "verse": "8-18"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Das ist Andreas, der Diener Christi, der würdige Apostel Gottes, der Bruder des Petrus, und auch im Leiden sein Gefährte."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer Mir will nachfolgen, der verleugne sich selbst,",
+              "Und nehme sein Kreuz auf sich, und folge Mir nach."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O HErr Gott, wir danken Dir von Herzen, daß Du durch Deine Apostel das Wort Deines Evangelii über die ganze Welt hast ausgebreitet und zu uns auch mit Gnaden kommen lassen; und bitten Dich: Du wollest unter uns die Lehre Deiner heiligen Apostel rein erhalten und durch Deinen heiligen Geist geben, daß wir darin wachsen und zunehmen; Der Du mit dem Sohne und dem Heiligen Geiste lebest und regierest von Ewigkeit zu Ewigkeit.",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

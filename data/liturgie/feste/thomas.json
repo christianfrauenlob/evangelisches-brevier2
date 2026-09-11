@@ -1,0 +1,153 @@
+{
+  "id": "thomas",
+  "titel": "S. Thomas-Tag (31. Dezember)",
+  "kirchenzeit": "feste",
+  "reihe": 17,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "S. Thomas-Tag (31. Dezember)",
+      "wochentag": "fest",
+      "seiten": [
+        666,
+        668
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Den König der Apostel, den HErrn —",
+              "Kommt, laßt uns anbeten!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die Gerechten rufen,",
+              "Und der HErr erhöret sie."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 20, 24-29.",
+            "buch": "johannes",
+            "kapitel": 20,
+            "verse": "24-29"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Wenn man euch vor Könige und Fürsten führt um Meinetwillen, so sorget nicht, wie oder was ihr reden sollt; denn es soll euch zu der Stunde gegeben werden was ihr reden sollt.",
+                  "Denn ihr seid es nicht die da reden, sondern eures Vaters Geist ist es der durch euch redet.",
+                  "Ehre sei .."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Gott veranlaßte es in Seiner unendlichen Güte auf ganz wunderbare Weise, daß dieser Jünger zweifelte und, indem er die Wundmale am Leibe seines Meisters betastete, an uns die Wunden des Unglaubens heilte. Hinsichtlich des Glaubens nützt uns der Unglaube dieses Apostels weit mehr als der Glaube der übrigen Jünger. Denn gerade dadurch, daß er sich erst durch das Antasten zum Glauben bereit fand, ist unser Herz allem Zweifel überhoben und im Glauben fest.",
+            "quelle": "Gregor"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Weil du Mich gesehen hast, Thomas, glaubst du.",
+              "Selig sind die nicht sehen, und doch glauben."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Alle Menschen werden sagen: Das hat Gott getan!",
+              "Und merken, daß es Sein Werk ist."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 5, 1-6.",
+            "buch": "jeremia",
+            "kapitel": 5,
+            "verse": "1-6"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Selig seid ihr, wenn euch die Menschen um Meinetwillen schmähen und verfolgen, und reden allerlei Uebels wider euch, so sie daran lügen.",
+                  "Seid fröhlich und getrost: es wird euch im Himmel wohl belohnt werden.",
+                  "Wenn euch die Menschen hassen und in den Bann tun und euch schmähen und euren Namen als böse verwerfen um des Menschensohnes willen:",
+                  "Seid fröhlich . . werden."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Dem Gerechten muß das Licht immer wieder aufgehen,",
+              "Und Freude den frommen Herzen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 2, 19-22.",
+            "buch": "epheser",
+            "kapitel": 2,
+            "verse": "19-22"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Diese sinds, die in ihrem Erdendasein mit ihrem eigenen Blute die Kirche gepflanzt haben;",
+                  "Sie haben den Kelch des HErrn getrunken, und sind Gottes Freunde worden.",
+                  "In alle Welt dringt ihr Ruf, bis an der Welt Ende ihre Predigt.",
+                  "Sie haben . . worden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Seid wacker im Streit, und kämpft mit dem alten Drachen;",
+              "So werdet ihr das ewige Reich ererben. Hallelujah!"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": "mariae_verkuendigung",
+  "titel": "Mariä Verkündigung (25. März)",
+  "kirchenzeit": "feste",
+  "reihe": 21,
+  "band": 1,
+  "tage": [
+    {
+      "id": "haupttag",
+      "titel": "Mariä Verkündigung (25. März)",
+      "wochentag": "fest",
+      "seiten": [
+        677,
+        682
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Gegrüßet seist du, Holdselige!",
+              "Der HErr ist mit dir, du Gebenedeite unter den Weibern."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gebenedeiet bist du unter den Weibern,",
+              "Und gebenedeiet ist die Frucht deines Leibes."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Freu Dich, Du werte Christenheit",
+            "strophen": [
+              {
+                "links": [
+                  "Freu Dich, Du werte Christenheit:",
+                  "Dies ist der Tag des HErren,",
+                  "Der Anfang unsrer Seligkeit,",
+                  "Den Gott zu Seinen Ehren",
+                  "Nach Seinem Rat",
+                  "Erwählet hat.",
+                  "O Gott, laß wohlgelingen!",
+                  "Hilf uns mit Fleiß,",
+                  "Zu Deinem Preis",
+                  "Ein fröhlich Lied zu singen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Gott ist gerecht in Seinem Wort",
+            "melodie": "155",
+            "strophen": [
+              {
+                "links": [
+                  "Gott ist gerecht in Seinem Wort:",
+                  "Was Er einmal zusaget",
+                  "Das ist gewiß an allem Ort,",
+                  "Obschon die Welt verzaget.",
+                  "Heut Gottes Sohn,",
+                  "Der Gnadenthron,",
+                  "Zu uns auf Erd gelanget;",
+                  "O Wunder groß:",
+                  "Mariä Schoß",
+                  "Den großen Gast empfanget."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Gott hat sie erwählt und auserkoren;",
+              "Er läßt sie wohnen in Seinem Zelte."
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 1, 26-38.",
+            "buch": "lukas",
+            "kapitel": 1,
+            "verse": "26-38"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Siehe: die Jungfrau wird empfangen und einen Sohn gebären, spricht der HErr;",
+                  "Des Name wird man heißen: Wunderbar Gott Held.",
+                  "Auf dem Stuhle Davids wird Er sitzen, und Seines Königreichs wird kein Ende sein.",
+                  "Des Name . . Held."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Die Kirche, der wir angehören, behielt nur solche Marientage bei, welche zugleich Feste Jesu waren. Darum feiern wir so manchen schönen Marientag nach der Schrift — keinen ohne Schrift — am liebsten aber den heutigen, den Verkündigungstag, der zugleich Empfängnistag Christi ist und als solcher nicht mit Unrecht die „Wurzel der Zeiten“ genannt wurde; denn alle unsere seligen Zeiten und Ewigkeiten wurzeln in ihm. — Der HErr ist in Seinem Tempel. Bei Ihm ist kein Ding unmöglich. Tiefes Geheimnis ruht über allem; aber warte: bald werden die Himmel blühen und die Herrlichkeit Gottes erscheinen, und die Engel singen was Gott getan. Gott ist Mensch geworden und dein König ist empfangen, Israel! Dein Gott ist König. Und Gott, Sein Gott, wird Ihm geben das Reich Seines Vaters David und Seinen Thron in Ewigkeit!",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wie soll das zugehen, du Engel Gottes, sintemal ich von keinem Manne weiß!",
+              "Höre, Maria du Jungfrau: Der Heilige Geist wird über dich kommen, und die Kraft des Höchsten wird dich überschatten."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, Der Du gewollt hast, daß nach Anzeigen des englischen Grußes Dein Wort von der seligen Jungfrau Maria soll Fleisch annehmen: verleihe uns gnädiglich, daß wir von aller Befleckung erlediget werden; durch ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ave maris stella",
+            "untertitel": "Sei gegrüßet, Christe",
+            "strophen": [
+              {
+                "links": [
+                  "Sei gegrüßet, Christe,",
+                  "Aufgang aus der Höhe,",
+                  "Sohn des Hochgelobten,",
+                  "Weg zur Himmelsfreude."
+                ],
+                "rechts": [
+                  "Brich der Sünde Fesseln,",
+                  "Laß Dein Licht uns leuchten;",
+                  "Still all unser Wehe,",
+                  "Schaff uns Heil und Segen."
+                ]
+              },
+              {
+                "links": [
+                  "Schenk uns reines Leben,",
+                  "Führ uns sichre Wege,",
+                  "Daß im ewgen Lichte",
+                  "Wir den Vater schauen."
+                ],
+                "rechts": [
+                  "Ehre sei dem Vater,",
+                  "Ehr Christo dem Sohne,",
+                  "Und dem Heilgen Geiste",
+                  "Jetzt und ewig. Amen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Das Wort ward Fleisch, Hallelujah!",
+              "Und wohnte unter uns. Hallelujah!"
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die Propheten haben geweissagt,",
+              "Daß der Heiland geboren werde von der Jungfrau Maria."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "45"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 7, 10-16.",
+            "buch": "jesaja",
+            "kapitel": 7,
+            "verse": "10-16"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "So sprach Maria zu Gabriel: Siehe, ich bin des HErrn Magd, mir geschehe, wie du zu mir gesagt hast."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Fürchte dich nicht, Maria, du hast Gnade bei Gott funden.",
+              "Siehe: du wirst einen Sohn empfangen, und gebären."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 5, 12-21.",
+            "buch": "roemers",
+            "kapitel": 5,
+            "verse": "12-21"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Dies ist der Tag, den Gott der HErr Selbst gemacht hat; dran Er offenbart hat Sein Gnad und Wundertat, als Er das Elend Seines Volkes auf Erden ansah, das der Satan bracht in Ungemach.",
+                  "Drum laßt uns beid: mit Herzen und Mund sprechen: Lob sei Dir, o ewiger Gott, für solche Wohltat!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Freu Dich, Du werte Christenheit",
+            "strophen": [
+              {
+                "links": [
+                  "Wohl uns der schönen guten Zeit,",
+                  "Daß wir erlangt den Orden,",
+                  "Daß Du, o Gott von Ewigkeit,",
+                  "Bist unser Bruder worden.",
+                  "Wir bitten Dich",
+                  "Demütiglich:",
+                  "Lehr Deinem Wort vertrauen,",
+                  "Bis wir zugleich",
+                  "Im Himmelreich",
+                  "Dich ewiglich anschauen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Was Er wesentlich war, das blieb Er immerdar;",
+              "Was Er aber nicht war, das ward Er wunderbar."
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Engel Gabriel sprach zu Maria:",
+              "Gegrüßt seist du, du Holdselige, du Gebenedeite unter den Weibern."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, wir danken Dir für Deine unaussprechliche Gnade, daß Du uns arme Sünder bedacht, Deinen Sohn in unser Fleisch geschickt und um unsertwillen hast lassen Mensch werden. Wir bitten Dich herzlich: Du wollest durch Deinen heiligen Geist unsre Herzen erleuchten, daß wir uns Seiner Menschwerdung, Leidens und Sterbens trösten, Ihn für unsern HErrn und einigen Heiland erkennen und annehmen, und durch Ihn mit Dir und dem Heiligen Geiste ewig leben und selig werden; durch ..",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}
