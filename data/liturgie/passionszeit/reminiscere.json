@@ -1,0 +1,1116 @@
+{
+  "id": "reminiscere",
+  "titel": "Reminiscere",
+  "kirchenzeit": "passionszeit",
+  "reihe": 2,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Reminiscere",
+      "wochentag": "sonntag",
+      "seiten": [
+        533,
+        537
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gedenke, HErr, an Deine große Barmherzigkeit und an Deine Güte,",
+              "Die von der Welt her gewesen ist."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25",
+              "11"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach was soll ich Sünder machen?",
+            "melodie": "7",
+            "strophen": [
+              {
+                "links": [
+                  "Ach was soll ich Sünder machen?",
+                  "Ach was soll ich fangen an!",
+                  "Mein Gewissen klagt mich an:",
+                  "Es beginnet aufzuwachen!",
+                  "Dies ist meine Zuversicht:",
+                  "Meinen Jesum laß ich nicht."
+                ],
+                "rechts": [
+                  "Zwar es haben meine Sünden",
+                  "Meinen Jesum oft betrübt;",
+                  "Doch weiß ich, daß Er mich liebt,",
+                  "Denn Er läßt Sich gnädig finden.",
+                  "Drum, ob mich die Sünd ansieht:",
+                  "Das Consummatum „Vollbracht\" singen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 15, 21—28.",
+            "buch": "matthaeus",
+            "kapitel": 15,
+            "verse": "21-28"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Die fürbittende Mutter (das kananäische Weib) hatte die Sache ihrer Tochter ganz zu der ihrigen gemacht, und ihr gläubiges Vertauschen gefällt dem HErrn. Man darf in eigenen und in fremden Nöten beten, das sieht man hier; man soll sogar in fremden Nöten wie in eigenen beten. Das sind heilige himmlische Seelen, die so in Andern leben, daß sie fremdes Weh wie eigenes empfinden und so lange von eigener Not nicht frei werden, als sie fremde Not wahrnehmen. Fremde Not und eigene unterscheiden sich im Herzen der Heiligen nicht; Fürbitte und Bitte sind Unterscheidungen, welche der Beter nicht empfinden soll, welche aber der HErr in Gnaden ansieht und Dem freudenvoll entgegenkommt, der betend diesen Unterschied vergißt. So hier: Diese Mutter ist gesunden Leibes krank, weil die Tochter krank ist. Für sich erfleht sie Hilfe. So heilt der HErr nun Mutter und Tochter zusammen, heilt in der Nähe die Mutter, die zu Seinen Füßen liegt, und in der Ferne die Tochter."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Erbarme Dich meiner,",
+              "Du Sohn Davids!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Lieber HErr Gott, Deine große herzliche Barmherzigkeit hält sich hart gegen uns, und dennoch bist Du unser Retter und unser Erlöser; von Alters her ist das Dein tröstlicher Name: Hilf, daß wir Dich recht lernen erkennen, bei Deinem eigenen Worte fest fassen; und wenn Du in Trübsal und Anfechtung mit uns kämpfest, Dich durch Dich im Glauben fröhlich überwinden und Deine Hilfe endlich empfinden mögen; um Jesu Christi . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "rubrik",
+            "inhalt": "De sancta Cruce"
+          },
+          {
+            "typ": "lied",
+            "titel": "Laudes crucis attollamus",
+            "strophen": [
+              {
+                "links": [
+                  "Laudes crucis attollamus",
+                  "Nos qui crucis exultamus",
+                  "Speciali gloria;",
+                  "Nam in cruce triumphamus",
+                  "Hostem ferum superamus",
+                  "Vitali victoria."
+                ],
+                "rechts": [
+                  "Lasset uns das Kreuz erheben,",
+                  "Uns, die wir mit Freudebeben",
+                  "Fühlen seine Herrlichkeit;",
+                  "Die wir mit dem Kreuz bezwingen",
+                  "Unsern Erbfeind, und erringen",
+                  "Einen Sieg für alle Zeit."
+                ]
+              },
+              {
+                "links": [
+                  "O quam felix, quam praeclara",
+                  "Fuit haec salutis ara",
+                  "Rubens agni sanguine:",
+                  "Agni sine macula,",
+                  "Qui mundavit saecula",
+                  "Ab antiquo crimine."
+                ],
+                "rechts": [
+                  "O wie herrlich, o wie strahlend",
+                  "Ist der Altar, drauf bezahlend",
+                  "Unsre Schuld, das Gotteslamm",
+                  "Sich geopfert in Geduld,",
+                  "Daß die alte Sündenschuld",
+                  "Sei gesühnt am Kreuzesstamm."
+                ]
+              },
+              {
+                "links": [
+                  "Haec est scala peccatorum,",
+                  "Per quam Christus rex coelorum",
+                  "Ad se traxit omnia;",
+                  "Forma ejus haec ostendit,",
+                  "Quae terrarum comprehendit",
+                  "Quatuor confinia."
+                ],
+                "rechts": [
+                  "Und das Kreuz, es ist die Leiter,",
+                  "Auf der Christus Seine Streiter",
+                  "Zieht zu Sich ins Himmelszelt;",
+                  "Seine Form schon ist ein Zeichen,",
+                  "Wie es einst wird überreichen",
+                  "Die vier Grenzen dieser Welt."
+                ]
+              },
+              {
+                "links": [
+                  "O crux, lignum triumphale,",
+                  "Mundi vera salus, vale,",
+                  "Fronde flore germine;",
+                  "Salva sanos, aegros sana,",
+                  "Quod non valet vis humana,",
+                  "Fit in tuo nomine."
+                ],
+                "rechts": [
+                  "O du Kreuz, du Holz der Sühne,",
+                  "Wahres Weltenheil, o grüne!",
+                  "Grüne blühe sproße fort;",
+                  "Schutz der Starken, Heil der Kranken,",
+                  "Sei, wo Menschenkräfte wanken,",
+                  "Du der schwachen Menschheit Hort."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 81-128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 33, 17—25.",
+            "buch": "2_mose",
+            "kapitel": 33,
+            "verse": "17-25"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "112",
+              "113"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Thessalonicher 4, 1—12.",
+            "buch": "1_thessalonicher",
+            "kapitel": 4,
+            "verse": "1-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach was soll ich Sünder machen?",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Sterb ich bald, so komm ich abe",
+                  "Von der Welt Beschwerlichkeit,",
+                  "Ruhe bis zur vollen Freud",
+                  "Und weiß, daß im finstern Grabe",
+                  "Jesus ist mein helles Licht:",
+                  "Meinen Jesum laß ich nicht."
+                ],
+                "rechts": [
+                  "Durch Ihn will ich wieder leben,",
+                  "Denn Er wird zur rechten Zeit",
+                  "Wecken mich zur Seligkeit,",
+                  "Und tut mirs aus Gnaden geben,",
+                  "Muß ich schon erst vors Gericht:",
+                  "Meinen Jesum laß ich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "O Weib, Dein Glaube ist groß;",
+              "Dir geschehe wie Du willst."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Gott, Der Du siehest, daß wir allerdings kraftlos sind, bewahr uns inwendig und auswendig, auf daß wir von aller Widerwärtigkeit am Leibe beschirmet und von bösen Gedanken an der Seele gereiniget werden; durch unsern HErrn . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Reminiscere",
+      "wochentag": "montag",
+      "seiten": [
+        537,
+        540
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mein Gott, ich hoffe auf Dich;",
+              "Laß mich nicht zu Schanden werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "20"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sollt es gleich bisweilen scheinen",
+            "melodie": "141",
+            "strophen": [
+              {
+                "links": [
+                  "Sollt es gleich bisweilen scheinen,",
+                  "Als wenn Gott verließ die Seinen,",
+                  "O so glaub und weiß ich dies:",
+                  "Gott hilft endlich noch gewiß."
+                ],
+                "rechts": [
+                  "Gleichwie Väter nicht bald geben",
+                  "Wonach ihre Kinder streben,",
+                  "So hält Gott auch Maß und Ziel:",
+                  "Er gibt, wenn und wann Er will."
+                ]
+              },
+              {
+                "links": [
+                  "Hilfe, die Er aufgeschoben,",
+                  "Hat Er drum nicht aufgehoben;",
+                  "Hilft Er nicht zu jeder Frist,",
+                  "Hilft Er doch, wanns nötig ist."
+                ],
+                "rechts": [
+                  "Seiner kann ich mich vertrösten,",
+                  "Wenn die Not am allergrößten:",
+                  "Er ist gegen Seinem Kind",
+                  "Mehr als väterlich gesinnt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 10, 17—20.",
+            "buch": "lukas",
+            "kapitel": 10,
+            "verse": "17-20"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Einer ist euer Meister, Der im Himmel ist:",
+              "Christus, der HErr."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sollt es gleich bisweilen scheinen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Trotz dem Teufel, trotz dem Drachen!",
+                  "Ich kann ihre Macht verlachen;",
+                  "Trotz dem schweren Kreuzesjoch!",
+                  "Gott mein Vater lebet noch.",
+                  "Trotz des bittern Todes Zähnen,",
+                  "Trotz der Welt und allen Denen,",
+                  "Die mir sind ohn Ursach Feind!",
+                  "Gott im Himmel ist mein Freund."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "19"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 2, 1—10.",
+            "buch": "2_mose",
+            "kapitel": 2,
+            "verse": "1-10"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 2, 12—17.",
+            "buch": "1_johannes",
+            "kapitel": 2,
+            "verse": "12-17"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sollt es gleich bisweilen scheinen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Laß die Welt nur immer wüten,",
+                  "Will sie mich nicht länger leiden,",
+                  "Ei, so frag ich nichts danach;",
+                  "Gott ist Richter meiner Sach.",
+                  "Will sie mich gleich von sich treiben,",
+                  "Muß mir doch der Himmel bleiben,",
+                  "Wenn ich nur den Himmel krieg,",
+                  "Hab ich alles zur Genüg."
+                ],
+                "rechts": [
+                  "Ich will ihr gar gerne lassen",
+                  "Was ich sonsten pfleg zu hassen;",
+                  "Sie behalte ihren Kot,",
+                  "Und laß mir nur meinen Gott.",
+                  "Ach HErr, wenn ich Dich nur habe,",
+                  "Frag ich nichts nach allem Andre;",
+                  "Legt man mich gleich in das Grab:",
+                  "Gnug, HErr, wenn ich Dich nur hab."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Der Mich gesandt hat, ist mit Mir und läßt Mich nicht allein;",
+              "Denn Ich tue stets Seinen Willen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Erhör unser Flehen, allmächtiger Gott. Und wie Du uns auf Deine Vatergüte zuversichtlich hoffen lässest, so laß nun auch gnädig Deine Barmherzigkeit uns kund werden."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Reminiscere",
+      "wochentag": "dienstag",
+      "seiten": [
+        540,
+        543
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Meinen Jesum laß ich nicht",
+            "melodie": "102",
+            "strophen": [
+              {
+                "links": [
+                  "Meinen Jesum laß ich nicht,",
+                  "Weil Er Sich für mich gegeben,",
+                  "So erfordert meine Pflicht,",
+                  "Klettenweis an Ihm zu kleben;",
+                  "Er ist meines Lebens Licht:",
+                  "Meinen Jesum laß ich nicht."
+                ],
+                "rechts": [
+                  "Jesum laß ich nimmer nicht,",
+                  "Weil ich soll auf Erden leben;",
+                  "Ihm hab ich voll Zuversicht",
+                  "Was ich bin und hab ergeben:",
+                  "Alles ist auf Ihn gericht:",
+                  "Meinen Jesum laß ich nicht."
+                ]
+              },
+              {
+                "links": [
+                  "Laß vergehen das Gesicht,",
+                  "Hören Schmecken fühlen weichen,",
+                  "Laß das letzte Tageslicht",
+                  "Mich auf dieser Welt erreichen;",
+                  "Wenn der Lebensfaden bricht:",
+                  "Meinen Jesum laß ich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 22, 54—62.",
+            "buch": "lukas",
+            "kapitel": 22,
+            "verse": "54-62"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Einer ist euer Meister:",
+              "Christus der HErr."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Meinen Jesum laß ich nicht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich werd Ihn auch lassen nicht,",
+                  "Wenn ich nun dahin gelanget,",
+                  "Wo vor Seinem Angesicht",
+                  "Meiner Eltern Glaube pranget:",
+                  "Mich erfreut Sein Angesicht:",
+                  "Meinen Jesum laß ich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hesekiel 33, 7—9.",
+            "buch": "hesekiel",
+            "kapitel": 33,
+            "verse": "7-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "124"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 1, 5—7.",
+            "buch": "2_korinther",
+            "kapitel": 1,
+            "verse": "5-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Meinen Jesum laß ich nicht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Nicht nach Welt, nach Himmel nicht",
+                  "Meine Seele wünscht und stöhnet:",
+                  "Jesum wünscht sie und Sein Licht,",
+                  "Der mich hat mit Gott versöhnet,",
+                  "Der mich freiet vom Gericht:",
+                  "Meinen Jesum laß ich nicht."
+                ],
+                "rechts": [
+                  "Jesus laß ich nicht von mir,",
+                  "Geh Ihm ewig an der Seiten;",
+                  "Christus läßt mich für und für",
+                  "Zu dem Lebensbächlein leiten.",
+                  "Selig wer mit mir so spricht:",
+                  "Meinen Jesum laß ich nicht."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ihr Alle seid Brüder; und ihr sollt euch nicht Vater nennen auf Erden;",
+              "Denn Einer ist euer Vater: Der im Himmel ist."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Sei gnädig, o HErr, unserm Flehen, und heile die Schwachheit unsrer Seele, auf daß wir Verzeihung erlangen und Deines Segens uns allezeit erfreuen mögen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Reminiscere",
+      "wochentag": "mittwoch",
+      "seiten": [
+        543,
+        546
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "65"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu süß, wer Dein gedenkt (Jesu dulcis memoria)",
+            "strophen": [
+              {
+                "links": [
+                  "O Jesu süß, wer Dein gedenkt,",
+                  "Sein Herz mit Freud wird überschwängt;",
+                  "Noch süßer aber alles ist,",
+                  "Wo Du, o Jesu, Selber bist."
+                ],
+                "rechts": [
+                  "Jesu, Dein Lieb ist mehr denn süß,",
+                  "Nichts ist darin, des Ein'm verdrießt;",
+                  "Viel tausendmal ists, wie ich sag,",
+                  "Edler, als mans aussprechen mag."
+                ]
+              },
+              {
+                "links": [
+                  "Jesu, der Herzen Freud und Wonn,",
+                  "Des Lebens Brunn, Du wahre Sonn,",
+                  "Dir gleichet nichts auf dieser Erd,",
+                  "In Dir ist was man je begehrt."
+                ],
+                "rechts": [
+                  "Jesu, Du Quell der Gütigkeit,",
+                  "Ein Hoffnung bist all unsrer Freud,",
+                  "Ein süßer Fluß und Gnadenbronn,",
+                  "Des Herzens wahre Freud und Wonn."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 12, 38—42.",
+            "buch": "matthaeus",
+            "kapitel": 12,
+            "verse": "38-42"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sehet: wir ziehen hinauf gen Jerusalem;",
+              "Und des Menschen Sohn wird überantwortet werden zur Kreuzigung."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Wir bitten Dich, o HErr: sieh Dein Volk in Gnaden an, und wie Du uns unsern Leib bezähmen heißest, so gib uns auch Kraft, die verderblichen Laster zu bekämpfen."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Jesu süß, wer Dein gedenkt (Jesu dulcis memoria)",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesus, Du Blum und Jungfraunsohn,",
+                  "Du Lieb und unser Gnadenthron:",
+                  "Dir sei Lob Ehr, wie sichs gebührt,",
+                  "Dein Reich nimmer kein End mehr nimmt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaja 58, 6—9.",
+            "buch": "jesaja",
+            "kapitel": 58,
+            "verse": "6-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "128"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Kolosser 2, 16—23.",
+            "buch": "kolosser",
+            "kapitel": 2,
+            "verse": "16-23"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Jesu süß, wer Dein gedenkt (Jesu dulcis memoria)",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Du Brunn aller Barmherzigkeit,",
+                  "Dein Glanz erstreckt sich weit und breit;",
+                  "Der Traurigkeit Gewalt vertreibt,",
+                  "Das Licht der Glorie uns verbleibt."
+                ],
+                "rechts": [
+                  "Dein Lob im Himmel hoch erklingt;",
+                  "Kein Chor ist, der nicht von Dir singt:",
+                  "Jesus erfreut die ganze Welt,",
+                  "Hat Gott für uns zufrieden gestellt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Er wird den Heiden überantwortet werden,",
+              "Daß sie Ihn verspotten, geißeln und kreuzigen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "O Gott, Der Du die Unschuld liebst und beschützest: neige die Herzen Deiner Knechte zu Dir, damit sie, vom Feuer Deines Geistes entzündet, im Glauben treu und in der Liebe tätig erfunden werden."
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Reminiscere",
+      "wochentag": "donnerstag",
+      "seiten": [
+        546,
+        549
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "68"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wenn meine Sünd mich kränken (Hilf Gott, daß mirs gelinge)",
+            "strophen": [
+              {
+                "links": [
+                  "Wenn meine Sünd mich kränken,",
+                  "O mein HErr Jesu Christ,",
+                  "So laß mich wohl bedenken,",
+                  "Wie Du gestorben bist,",
+                  "Und alle meine Schuldenlast",
+                  "Am Stamm des heiligen Kreuzes",
+                  "Auf Dich genommen hast."
+                ],
+                "rechts": [
+                  "O Wunder ohne Maßen,",
+                  "Wenn mans betrachtet recht:",
+                  "Es hat Sich martern lassen",
+                  "Der HErr für Seinen Knecht;",
+                  "Es hat Sich Selbst der wahre Gott",
+                  "Für mich verlornen Menschen",
+                  "Gegeben in den Tod."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 6, 30—34.",
+            "buch": "markus",
+            "kapitel": 6,
+            "verse": "30-34"
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Steh uns bei mit Deiner Gnade, o HErr, daß wir durch Fasten und durch Beten alle Feinde des Leibes und der Seele vertreiben."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wenn meine Sünd mich kränken (Hilf Gott, daß mirs gelinge)",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "HErr, laß Dein bitter Leiden",
+                  "Mich reizen für und für,",
+                  "Mit allem Ernst zu meiden",
+                  "Die sündliche Begier,",
+                  "Daß mir nie komme aus dem Sinn,",
+                  "Wieviel es Dich gekostet,",
+                  "Daß ich erlöset bin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "75"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 14, 15—22.",
+            "buch": "2_mose",
+            "kapitel": 14,
+            "verse": "15-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "138"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 15, 7—12.",
+            "buch": "apostelgeschichte",
+            "kapitel": 15,
+            "verse": "7-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wenn meine Sünd mich kränken (Hilf Gott, daß mirs gelinge)",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Laß mich an Andern üben",
+                  "Was Du an mir getan:",
+                  "Gern dienen Jedermann,",
+                  "Ohn Eigennutz und Heuchelschein,",
+                  "Und, wie Du mir erwiesen,",
+                  "Aus reiner Lieb allein."
+                ],
+                "rechts": [
+                  "Laß endlich Deine Wunden",
+                  "Mich trösten kräftiglich",
+                  "In meiner letzten Stunden",
+                  "Und des versichern mich,",
+                  "Weil ich auf Dein Verdienst nur trau:",
+                  "Du werdest mich annehmen,",
+                  "Daß ich Dich ewig schau."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Steh Deinen Knechten bei, o HErr, und schenk ihnen, wenn sie darum bitten, beständiges Heil; gib ihnen, deren Ruhm Du Schöpfer und Erhalter bist, immer wieder aufs Neue den Schatz Deiner Gnaden, und erhalte was Du ihnen neu geschenkt hast."
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Reminiscere",
+      "wochentag": "freitag",
+      "seiten": [
+        549,
+        552
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine tiefen Wunden",
+            "melodie": "171",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Deine tiefen Wunden,",
+                  "Deine Qual und bittrer Tod",
+                  "Geben mir zu allen Stunden",
+                  "Trost in Leibs- und Seelennot.",
+                  "Fällt mir etwas Böses ein:",
+                  "Denk ich bald an Deine Pein,",
+                  "Die Du erlitten meinem Herzen",
+                  "Mit der Sünd zu scherzen."
+                ],
+                "rechts": [
+                  "Will die Welt mein Herze führen",
+                  "Auf die breite Wollustbahn:",
+                  "Da nichts ist als Jubilieren",
+                  "Alsdann schau ich emsig an",
+                  "Deiner Marter Centnerlast,",
+                  "Die Du ausgestanden hast,",
+                  "So kann ich in Andacht bleiben,",
+                  "Alle böse Lust vertreiben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 33—41.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "33-41"
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Allmächtiger Gott, wir bitten Dich: Gib, daß die heilige Fastenzeit uns läutere, damit wir mit reinem Herzen den kommenden Festen entgegen gehen; durch . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine tiefen Wunden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ja, für alles das mich kränkt",
+                  "Geben Deine Wunden Kraft.",
+                  "Wenn mein Herz hinein sich senkt",
+                  "Krieg ich meinen Lebensaft.",
+                  "Deines Trostes Süßigkeit",
+                  "Wend in mir das bittre Leid,",
+                  "Der Du mir das Heil erworben,",
+                  "Da Du bist für mich gestorben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 8, 1—6.",
+            "buch": "5_mose",
+            "kapitel": 8,
+            "verse": "1-6"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "139"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 19, 13—20.",
+            "buch": "apostelgeschichte",
+            "kapitel": 19,
+            "verse": "13-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine tiefen Wunden",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Auf Dich setz ich mein Vertrauen,",
+                  "Du bist meine Zuversicht;",
+                  "Dein Tod hat den Tod zerhauen,",
+                  "Daß er mich kann töten nicht;",
+                  "Ob ich an Dir teil hab,",
+                  "Bringet mir Trost Schutz und Heil;",
+                  "Deine Gnade wird mir geben",
+                  "Auferstehung, Licht und Leben."
+                ],
+                "rechts": [
+                  "Hab ich Dich in meinem Herzen,",
+                  "Du Brunn aller Gütigkeit,",
+                  "So empfind ich keine Schmerzen",
+                  "Auch im letzten Kampf und Streit;",
+                  "Ich verberge mich in Dich:",
+                  "Welch Feind kann verletzen mich?",
+                  "Wer sich legt in Deine Wunden,",
+                  "Der hat glücklich überwunden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sie suchten Ihn zu greifen, fürchteten sich aber vor dem Volk;",
+              "Denn die Leute hielten Ihn für einen Propheten."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Gib — wir bitten Dich, HErr — Deinem Volke Wohlergehen an Leib und Seele, daß es, auf gute Werke bedacht, allezeit unter Deiner Macht und Schutze behütet und bewahrt sei; durch . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Reminiscere",
+      "wochentag": "sonnabend",
+      "seiten": [
+        552,
+        554
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "105"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, Deine Angst und Pein",
+            "melodie": "18/19",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, Deine Angst und Pein",
+                  "Und Dein betrübtes Leiden",
+                  "Laß mir vor Augen allzeit sein,",
+                  "Die Sünde zu vermeiden;",
+                  "Laß mich an Deine große Not",
+                  "Und Deinen herben bittern Tod",
+                  "Dieweil ich lebe denken."
+                ],
+                "rechts": [
+                  "Die Wunden alle, Die Du hast,",
+                  "Hab ich Dir helfen schlagen;",
+                  "Auch meine große Sündenlast",
+                  "Auferlegt zu tragen.",
+                  "Ach lieber Heiland, schone mein:",
+                  "Laß diese Schuld vergessen sein,",
+                  "Laß Gnad vor Recht ergehen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 14, 32—36.",
+            "buch": "markus",
+            "kapitel": 14,
+            "verse": "32-36"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, Deine Angst und Pein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Du hast verlassen Deinen Thron,",
+                  "Bist in das Elend gegangen,",
+                  "Vertrugest Schläge Spott und Hohn,",
+                  "Mußtest am Kreuze bangen;",
+                  "Auf daß Du für uns schaffest Rat",
+                  "Auf unsre schwere Missetat",
+                  "Bei Gott versöhnen möchtest."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 29, 10—14.",
+            "buch": "jeremia",
+            "kapitel": 29,
+            "verse": "10-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "144"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 3, 19—22.",
+            "buch": "galater",
+            "kapitel": 3,
+            "verse": "19-22"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, Deine Angst und Pein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Drum will ich jetzt zur Dankbarkeit",
+                  "Von Herzen Dir lobsingen;",
+                  "Und wenn Du zu der Seligkeit",
+                  "Mich wirst künftiglich bringen:",
+                  "So will ich daselbst noch vielmehr",
+                  "Zusamt dem großen Himmelsheer",
+                  "Dich ewig dafür ehren."
+                ],
+                "rechts": [
+                  "HErr Jesu, Deine Angst und Pein",
+                  "Und Dein betrübtes Leiden",
+                  "Laß meine letzte Zuflucht sein,",
+                  "Wenn ich von hier soll scheiden;",
+                  "Ach hilf, daß ich durch Deinen Tod",
+                  "Fein sanft beschließe meine Not",
+                  "Und selig sterbe. Amen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

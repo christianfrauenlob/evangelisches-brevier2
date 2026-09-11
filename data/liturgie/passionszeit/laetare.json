@@ -1,0 +1,1127 @@
+{
+  "id": "laetare",
+  "titel": "Lätare",
+  "kirchenzeit": "passionszeit",
+  "reihe": 4,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Lätare",
+      "wochentag": "sonntag",
+      "seiten": [
+        577,
+        582
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Freuet euch mit Jerusalem und seid fröhlich über sie,",
+              "Alle die ihr sie lieb habt."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "122",
+              "3"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Danket dem HErren",
+            "strophen": [
+              {
+                "links": [
+                  "Danket dem HErren,",
+                  "Denn Er ist sehr freundlich;",
+                  "Denn Seine Güt und Wahrheit",
+                  "Bleibt ewiglich."
+                ],
+                "rechts": [
+                  "Singet Ihm aus Herzensgrund",
+                  "Mit Innigkeit:",
+                  "Lob und Dank sei Dir,",
+                  "Vater in Ewigkeit."
+                ]
+              },
+              {
+                "links": [
+                  "Der als ein barmherziger",
+                  "Gütiger Gott",
+                  "Uns dürftige Kreaturen",
+                  "Gespeiset hat."
+                ],
+                "rechts": [
+                  "Der Du uns als ein reicher",
+                  "Milder Vater",
+                  "Speisest und kleidest:",
+                  "Dein' elenden Kinder."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 6, 1—15.",
+            "buch": "johannes",
+            "kapitel": 6,
+            "verse": "1-15"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "Das ist der Evangelien eins, da unser lieber HErr Christus Seine Christen lehrt, wie sie Ihm vertrauen sollen, daß Er sie nicht Hungers sterben, sondern durch Seinen Segen ihnen genug schaffen wolle, was sie bedürfen. Derhalben ist's eine solche Predigt, welcher die Geizwänste, so nichts können denn auf ihren Nutzen denken, nicht wert sind daß sie es hören, viel weniger, daß sie es glauben sollen. Denn sie hören wohl, wie der HErr hier durch Seinen Segen ein großes Wunderwerk getan habe; aber sie wollen es nicht dazu kommen lassen, daß Er's mit ihnen auch möge tun. Mit solchen Leuten hat Christus nichts zu schaffen. Die aber, die an Sein Wort sich halten, tröstet Er hier nicht mit Worten, sondern mit dem Werk, Er wolle ihnen zu essen schaffen; auf daß wir ja nicht zweifeln, noch denken sollen, wie wir uns ernähren, sondern unser Herz und Vertrauen auf Christum stellen. Solcher Glaube wird uns nicht fehlen (fehlschlagen).",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer mir nachfolget, der wird nicht wandeln in der Finsternis,",
+              "Sondern wird das Licht des Lebens haben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger reicher Gott, gütiger Vater, Der Du für alles, was Du geschaffen hast, sorgest: Wir bitten Deine milde Güte, Du wollest den Erdboden segnen und alle wachsende Früchte vor Ungewitter behüten, daß wir in diesem Elend unser täglich Brot haben mögen und um Brots willen wider Dein Evangelium, Ehr und unser Gewissen nicht handeln; wollest uns auch Gnade verleihen, daß wir Deine unerschöpfliche Hand im Glauben allzeit anschauen, uns derselben trösten und erfreuen, und vor allen Dingen das ewige Unvergängliche bei Dir suchen; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Danket dem HErren",
+            "strophen": [
+              {
+                "links": [
+                  "Verleih, daß wir Dich recht",
+                  "Lernen erkennen,",
+                  "Und nach Dir ewigem Schöpfer",
+                  "Uns sehnen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "118"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 52, 7—10.",
+            "buch": "jesaja",
+            "kapitel": 52,
+            "verse": "7-10"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Höre, Israel, die Gebote des HErrn, und schreibe sie in dein Herz, wie in ein Buch. Ich will dir geben das Land, da Milch und Honig fleußt.",
+                  "Israel, wenn du auf Mich hörest, wird kein andrer Gott unter dir sein, und du wirst keinen fremden Gott anbeten.",
+                  "Ich will dir geben das Land, da Milch und Honig fleußt."
+                ]
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mit fünf Broten und zween Fischen",
+              "Sättigte der HErr Jesus fünftausend Menschen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 5, 1—11.",
+            "buch": "roemers",
+            "kapitel": 5,
+            "verse": "1-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Danket dem HErren",
+            "strophen": [
+              {
+                "links": [
+                  "Durch Jesum Christum,",
+                  "Dein allerliebsten Sohn,",
+                  "Welcher unser Mittler",
+                  "Ist vor Deinem Thron."
+                ],
+                "rechts": [
+                  "Der hilf uns allsamt",
+                  "Allhier zugleiche",
+                  "Und mach uns Erben",
+                  "In Seins Vaters Reiche."
+                ]
+              },
+              {
+                "links": [
+                  "Zu Lob und Ehren",
+                  "Seinem heilgen Namen;",
+                  "Wer das begehrt,",
+                  "Der sprech von Herzen: Amen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es ist ein großer Prophet unter uns aufgestanden,",
+              "Und Gott hat Sein Volk heimgesucht."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, wir bitten Dich: Verleihe, daß, die wir nach dem Verdienst unserer Taten billig gestraft werden, durch den Trost Deiner Gnade wiederum erquickt werden mögen; durch unsern HErrn . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Lätare",
+      "wochentag": "montag",
+      "seiten": [
+        582,
+        585
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich freute mich über die, so mir sagten:",
+              "Lasset uns ins Haus des HErrn gehen!"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "30"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei hochgelobt, barmherziger Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Sei hochgelobt, barmherzger Gott,",
+                  "Der Du Dich unser angenommen",
+                  "Und uns in unsrer Seelennot",
+                  "Mit Hilfe bist zu statten kommen:",
+                  "Du schenkest uns von Deinem Himmelsthron",
+                  "Dein liebes Kind und Eingebornen Sohn."
+                ],
+                "rechts": [
+                  "Du segnest uns in Ihm dem HErrn",
+                  "Mit überschwänglich reichem Segen,",
+                  "Und gehest unsrer Armut gern",
+                  "Mit Deiner teuren Gnad entgegen.",
+                  "Was sind wir doch, Du allerschönstes Gut,",
+                  "Daß Deine Lieb so Großes an uns tut?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 6, 47—57.",
+            "buch": "johannes",
+            "kapitel": 6,
+            "verse": "47-57"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sei hochgelobt, barmherziger Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Du gibest uns auch das Erbteil",
+                  "Durch Christum, Der es uns erworben,",
+                  "Als Er der HErr zu unserm Heil",
+                  "Am bittren Kreuzesstamm gestorben;",
+                  "Und Sein Verdienst und Leiden macht allein,",
+                  "Daß Dir zum Preis wir nunmehr etwas sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "28"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Klagelieder 5, 14—21.",
+            "buch": "klagelieder",
+            "kapitel": 5,
+            "verse": "14-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "7"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 7, 4—10.",
+            "buch": "2_korinther",
+            "kapitel": 7,
+            "verse": "4-10"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sei hochgelobt, barmherziger Gott",
+            "strophen": [
+              {
+                "links": [
+                  "Nun, was wir sind, das kommt von Dir:",
+                  "In Christo hast Du uns geschaffen",
+                  "Zum Lobe Deiner Macht, daß wir",
+                  "In Gottes Kraft und Geistes Waffen",
+                  "Aus reiner Lieb in Deinem Wege gehn",
+                  "Und Deinen Ruhm mit Mund und Herz erhöhn."
+                ],
+                "rechts": [
+                  "Ja, treuer Gott, wir loben Dich",
+                  "Und ehren Deinen großen Namen;",
+                  "Herz Seel und Geist erhebet sich",
+                  "Und singet Halleluja! Amen.",
+                  "Der HErr ist Gott, Der dreimal Heilig heißt:",
+                  "Gott Vater, Sohn, und auch Gott Heilger Geist."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Erhöre gnädig — wir bitten Dich, HErr — unser Flehen; und wie Du uns antreibst, demütig zu bitten, so spende uns nun auch Deinen hilfreichen Schutz.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Lätare",
+      "wochentag": "dienstag",
+      "seiten": [
+        585,
+        589
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Die auf den HErrn hoffen, die werden nicht fallen,",
+              "Sondern ewig bleiben, wie der Berg Zion."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meiner Seelen Licht",
+            "melodie": "26",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, meiner Seelen Licht,",
+                  "Freude meiner Freuden,",
+                  "Meines Lebens Zuversicht,",
+                  "Nimm doch für Dein Leiden",
+                  "Diesen schlechten Dank hier an,",
+                  "Soviel meine Seele",
+                  "Immermehr Dir bringen kann",
+                  "In der Schwachheit Höhle."
+                ],
+                "rechts": [
+                  "Gottes Wohlgewogenheit",
+                  "Vaterlieb und Güte,",
+                  "Deine Herzensfreundlichkeit",
+                  "Und Dein treu Gemüte,",
+                  "Jesu, hat es ausgebracht,",
+                  "Daß kein Mensch verzagte,",
+                  "Wenn der Sünden Meng und Macht",
+                  "Die Gewissen nagte."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 27, 15—31.",
+            "buch": "matthaeus",
+            "kapitel": 27,
+            "verse": "15-31"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "zeilen",
+                "inhalt": [
+                  "Was suchet ihr Mich zu töten, Der Ich nur Wahres zu euch geredet habe?",
+                  "Habe Ich übel geredet, so beweise es; habe Ich aber recht geredet — was schlägst du Mich?",
+                  "Viele gute Werke habe Ich euch getan; für welches Werk wollt ihr Mich töten?",
+                  "Habe Ich übel geredet, so beweise es; habe Ich aber recht geredet — was schlägst du Mich?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Warum suchet ihr, Mich zu töten,",
+              "Einen solchen Menschen, Der Ich euch die Wahrheit gesagt habe?"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, meiner Seelen Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Alle Strafe, der ich war",
+                  "Tag und Nacht verbunden,",
+                  "Liegt auf Dir nun ganz und gar;",
+                  "Und durch Deine Wunden",
+                  "Wird uns Fried und Heil gebracht;",
+                  "Drum will mir geziemen,",
+                  "Deine starke Liebesmacht",
+                  "Ewiglich zu rühmen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "41"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 3, 7—15.",
+            "buch": "2_mose",
+            "kapitel": 3,
+            "verse": "7-15"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "126"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 2, 17—21.",
+            "buch": "galater",
+            "kapitel": 2,
+            "verse": "17-21"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meiner Seelen Licht",
+            "strophen": [
+              {
+                "links": [
+                  "Nun, ich weiß, worauf ich bau",
+                  "Und bei wem ich bleibe,",
+                  "Welchem Fürsprach ich mich trau",
+                  "Und an wen ich gläube:",
+                  "Jesu, Du bist es allein,",
+                  "Der mich hält und schützet,",
+                  "Wenn gleich alle Höllenpein",
+                  "Auf mich scheußt und blitzet."
+                ],
+                "rechts": [
+                  "Ich will, weil ich mit Dir frei",
+                  "Werd im Himmel erben,",
+                  "HErr, in Deinen Armen treu",
+                  "Leben und auch sterben;",
+                  "Bis man fröhlich sagen wird",
+                  "Nach den Todesbanden:",
+                  "Sieh, dein Bräutgam und dein Hirt",
+                  "Jesus ist vorhanden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Niemand legte die Hand an Ihn,",
+              "Denn Seine Stunde war noch nicht kommen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Erbarme Dich, HErr, Deines Volkes, und sende ihm in den Trübsalen, unter denen es ständig zu leiden hat, gnädige Erquickung.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Lätare",
+      "wochentag": "mittwoch",
+      "seiten": [
+        589,
+        592
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Um Jerusalem her sind Berge,",
+              "Und der HErr ist um Sein Volk her von nun an bis in Ewigkeit."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "43"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach alles was Himmel",
+            "strophen": [
+              {
+                "links": [
+                  "Ach, alles was Himmel und Erde umschließet",
+                  "Sei von mir viel tausendmal schöne gegrüßet;",
+                  "Was hören kann höre, ich will sonst nichts wissen",
+                  "Als meinen gekreuzigten Jesum zu küssen."
+                ]
+              },
+              {
+                "links": [
+                  "Ich rühme mich einzig der blutigen Wunden,",
+                  "Die Jesus an Händen und Füßen empfunden;",
+                  "Drein will ich mich senken, recht christlich zu leben,",
+                  "Daß einstens ich himmelan fröhlich kann streben."
+                ]
+              },
+              {
+                "links": [
+                  "Es mag die Welt stürmend gleich wüten und toben,",
+                  "Den lieblichen Jesum will dennoch ich loben;",
+                  "Es mögen gleich Blitze und Donner drein knallen,",
+                  "So will ich von Jesu doch nimmermehr fallen."
+                ]
+              },
+              {
+                "links": [
+                  "Und sollte auch alles in Trümmern zergehen,",
+                  "Daß nicht es mehr bliebe auf Erden bestehen:",
+                  "So soll doch mein Herze bei Jesu verbleiben,",
+                  "Von welchem mich ewig kein Teufel soll treiben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 12, 42—50.",
+            "buch": "johannes",
+            "kapitel": 12,
+            "verse": "42-50"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ach alles was Himmel",
+            "strophen": [
+              {
+                "links": [
+                  "Denn Jesus bestrahlet die schmachtenden Herzen,",
+                  "Versüßet mir Freuden die bitteren Schmerzen;",
+                  "Das weiß ich nun alles, drum will ich nicht lassen",
+                  "Hier meinen Herz-Jesum; ich muß Ihn umfassen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "37"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 64, 1—12.",
+            "buch": "jesaja",
+            "kapitel": 64,
+            "verse": "1-12"
+          },
+          {
+            "typ": "gebet",
+            "text": "Oeffne, HErr, Dein gnädig Ohr den Bitten der Flehenden; und damit Du ihnen geben kannst was sie begehren, schaffe, daß sie nur das verlangen, was Dir wohlgefällig ist.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "130"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 10, 5—18.",
+            "buch": "hebraeer",
+            "kapitel": 10,
+            "verse": "5-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ach alles was Himmel",
+            "strophen": [
+              {
+                "links": [
+                  "Ach sehet: mein Jesus kommt freudig gegangen",
+                  "Und will mich vor Liebe gleich brünstig umfangen:",
+                  "O Liebe, o Freude, o süßestes Leben,",
+                  "Wer wollte an Jesu nicht immerdar kleben?"
+                ]
+              },
+              {
+                "links": [
+                  "Auf Jesum sind alle Gedanken gerichtet,",
+                  "Dem hab ich mich gänzlich mit allem verpflichtet;",
+                  "Ich habe mir Jesum vor Allen erlesen,",
+                  "So lange mich träget das nichtige Wesen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Lätare",
+      "wochentag": "donnerstag",
+      "seiten": [
+        593,
+        596
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Mit der Speise der Engel hast Du Dein Volk genährt,",
+              "Und Brot vom Himmel gabst Du ihm."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "90"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meines Lebens Leben",
+            "melodie": "87",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, meines Lebens Leben,",
+                  "Jesu, meines Todes Tod,",
+                  "Der Du Dich für mich gegeben",
+                  "In die tiefste Seelennot,",
+                  "In das äußerste Verderben,",
+                  "Nur daß ich nicht möchte sterben:",
+                  "Tausend tausendmal sei Dir,",
+                  "Liebster Jesu, Dank dafür."
+                ],
+                "rechts": [
+                  "Du, ach Du hast ausgestanden",
+                  "Lästerreden Spott und Hohn,",
+                  "Speichel Schläge Strick und Banden,",
+                  "Du gerechter Gottessohn;",
+                  "Nur mich Armen zu erretten",
+                  "Von des Teufels Sündenketten:",
+                  "Tausend tausendmal sei Dir,",
+                  "Liebster Jesu, Dank dafür."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 11, 32—46.",
+            "buch": "johannes",
+            "kapitel": 11,
+            "verse": "32-46"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Lazarus unser Freund schläft,",
+              "Aber Ich gehe hin, daß Ich ihn aufwecke."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, meines Lebens Leben",
+            "strophen": [
+              {
+                "links": [
+                  "Du hast wollen sein geschlagen",
+                  "Zur Befreiung meiner Pein,",
+                  "Fälschlich lassen Dich anklagen,",
+                  "Daß ich könnte sicher sein;",
+                  "Daß ich möchte trostreich prangen,",
+                  "Hast Du sonder Trost gehangen:",
+                  "Tausend tausendmal sei Dir,",
+                  "Liebster Jesu, Dank dafür."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "23"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Hiob 22, 21—30.",
+            "buch": "job",
+            "kapitel": 22,
+            "verse": "21-30"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "133"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Galater 4, 19—26.",
+            "buch": "galater",
+            "kapitel": 4,
+            "verse": "19-26"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, meines Lebens Leben",
+            "strophen": [
+              {
+                "links": [
+                  "Du hast Dich in Not gestecket,",
+                  "Hast gelitten mit Geduld,",
+                  "Gar den herben Tod geschmecket,",
+                  "Um zu büßen meine Schuld;",
+                  "Daß ich würde losgezählet,",
+                  "Hast Du wollen sein gequälet:",
+                  "Tausend tausendmal sei Dir,",
+                  "Liebster Jesu, Dank dafür."
+                ],
+                "rechts": [
+                  "Nun, ich danke Dir von Herzen,",
+                  "Jesu, für gesamte Not:",
+                  "Für die Wunden, für die Schmerzen,",
+                  "Für den herben bittern Tod,",
+                  "Für Dein Zittern, für Dein Zagen,",
+                  "Für Dein tausendfaches Plagen;",
+                  "Für Dein Ach und tiefe Pein",
+                  "Will ich ewig dankbar sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "HErr, wärest Du hier gewesen,",
+              "Lazarus wäre nicht gestorben."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gott, Deines Volkes Schöpfer und Erhalter, treibe fern von ihm alle Sünden, die es anfechten, damit es Dir allezeit wohlgefalle und sicher unter Deinem Schutze wohne.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Lätare",
+      "wochentag": "freitag",
+      "seiten": [
+        596,
+        599
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er errettet Dich vom Strick des Jägers",
+              "Und von der schädlichen Pestilenz."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "83"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Du Liebe meiner Liebe",
+            "melodie": "120 121",
+            "strophen": [
+              {
+                "links": [
+                  "O Du Liebe meiner Liebe,",
+                  "Du erwünschte Seligkeit,",
+                  "Die Du Dich aus höchstem Triebe",
+                  "In das jammervolle Leid",
+                  "Deines Leidens, mir zugute,",
+                  "Als ein Schlachtschaf eingestellt",
+                  "Und bezahlt mit Deinem Blute",
+                  "Alle Missetat der Welt."
+                ],
+                "rechts": [
+                  "Liebe, die mit starkem Herzen",
+                  "Alle Schmach und Hohn gehört;",
+                  "Liebe, die mit Angst und Schmerzen",
+                  "Auch der strengste Tod versehrt;",
+                  "Liebe, die sich liebend zeiget,",
+                  "Als sich Kraft und Atem endt;",
+                  "Liebe, die sich liebend neiget,",
+                  "Als sich Leib und Seele trennt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 8, 37—45.",
+            "buch": "johannes",
+            "kapitel": 8,
+            "verse": "37-45"
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Der Du die Welt durch unaussprechliche Heilsgeheimnisse erneuerst: Wir bitten Dich, vollbereite Deine Kirche durch die ihr geschenkten Gnadenmittel für Dein ewiges Reich, und laß es ihr auch an zeitlichen Hilfsmitteln nicht fehlen; durch . .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Du Liebe meiner Liebe",
+            "strophen": [
+              {
+                "links": [
+                  "Liebe, die mit ihren Armen",
+                  "Mich zuletzt umfangen wollt;",
+                  "Liebe, die aus Liebserbarmen",
+                  "Mich zuletzt, in höchster Huld,",
+                  "Ihrem Vater überlassen,",
+                  "Die selbst schmacht und für mich bat,",
+                  "Daß mich nicht der Zorn sollt fassen,",
+                  "Weil mich ihr Verdienst vertrat."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "84"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch der Könige 4, 42—44.",
+            "buch": "2_koenige",
+            "kapitel": 4,
+            "verse": "42-44"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "142"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an Timotheus 2, 14—18.",
+            "buch": "2_timotheus",
+            "kapitel": 2,
+            "verse": "14-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Du Liebe meiner Liebe",
+            "strophen": [
+              {
+                "links": [
+                  "Liebe, die mit so viel Wunden",
+                  "Gegen mich, als Seine Braut,",
+                  "Unaufhörlich sich verbunden",
+                  "Und auf ewig anvertraut:",
+                  "Liebe, laß auch meine Schmerzen,",
+                  "Meines Lebens Jammerpein",
+                  "In dem blutverwundten Herzen",
+                  "Sanft in Dir gestillet sein."
+                ],
+                "rechts": [
+                  "Liebe, die für mich gestorben",
+                  "Und ein immerwährend Gut",
+                  "An dem Kreuzesholz erworben:",
+                  "Ach, wie denk ich an Dein Blut!",
+                  "Ach, wie dank ich Deinen Wunden,",
+                  "Du verwundte Liebe Du,",
+                  "Wenn ich in der letzten Stunden",
+                  "Sanft in Deiner Seiten ruh!"
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es ist ein großer Prophet unter uns aufgestanden;",
+              "Und Gott hat Sein Volk heimgesucht."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gib — wir bitten Dich, allmächtiger Gott — daß wir, wiewohl unserer Schwachheit eingedenk, doch auf Deine Kraft vertrauen und unter Deiner Vaterhuld uns allzeit freuen mögen; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Lätare",
+      "wochentag": "sonnabend",
+      "seiten": [
+        599,
+        602
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist mein Licht und mein Heil;",
+              "Vor wem sollte ich mich fürchten?"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "107"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, zeuge mich",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Vater, zeuge mich",
+                  "Dein Kind nach Deinem Bilde",
+                  "Und schaffe Selbst in mir",
+                  "Die neue Kreatur;",
+                  "Laß mich doch gütig sein,",
+                  "Auch heilig weis und milde",
+                  "Durch Deiner Gnaden Kraft,",
+                  "Wie Du bist von Natur."
+                ],
+                "rechts": [
+                  "Mein Weg zum Vaterland,",
+                  "Ach öffne mir die Pforte,",
+                  "Die mich ins Liebereich",
+                  "Im Glauben überbringt;",
+                  "Du weißt ja, daß Dein Knecht",
+                  "An einem wüsten Orte",
+                  "Schon lang genug gewohnt",
+                  "Und nun nach Freiheit ringt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 15, 31—33.",
+            "buch": "lukas",
+            "kapitel": 13,
+            "verse": "31-33"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer Mir nachfolget, wandelt nicht in der Finsternis,",
+              "Sondern wird das Licht des Lebens schauen,",
+              "spricht der HErr."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, zeuge mich",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Hoherpriester, hör",
+                  "Nicht auf, für mich zu beten:",
+                  "Ach rufe doch mit mir",
+                  "Den Vater täglich an;",
+                  "Laß Deinen heilgen Geist",
+                  "Mit Seufzen mich vertreten,",
+                  "Wenn ich in hartem Kampf",
+                  "Selbst nicht mehr beten kann."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "94"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 10, 12—16.",
+            "buch": "5_mose",
+            "kapitel": 10,
+            "verse": "12-16"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "88"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 9, 14—24.",
+            "buch": "roemers",
+            "kapitel": 9,
+            "verse": "14-24"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mein Vater, zeuge mich",
+            "strophen": [
+              {
+                "links": [
+                  "Mein Hirte, weide mich",
+                  "Auf immer grünen Auen",
+                  "Und lagre mich im Durst",
+                  "Ans frische Wasser hin.",
+                  "Hol meine Seel herum;",
+                  "Wollt ich aufs Eitle schauen,",
+                  "So bringe bald zurecht",
+                  "Den ausgeschweiften Sinn."
+                ],
+                "rechts": [
+                  "Mein Ein und Alles, laß",
+                  "Mit Dir mich eins hier werden,",
+                  "So wird mir alles nichts,",
+                  "Du aber Alles sein.",
+                  "Und nimmet Deine Güte",
+                  "Mich endlich von der Erden,",
+                  "So geh ich friedensvoll",
+                  "In Deine Freude ein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Ich bins, Der Ich von Mir Selber zeuge;",
+              "Und von Mir zeuget Der Mich gesandt hat: der Vater."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O Gott, Du erbarmst Dich lieber Derer, die auf Dich trauen, als daß Du ihnen zürnest: so verleihe uns denn, daß wir die begangenen Sünden aufrichtig beklagen und mit Deinem Troste begnadet werden; durch . .",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1060 @@
+{
+  "id": "oculi",
+  "titel": "Oculi",
+  "kirchenzeit": "passionszeit",
+  "reihe": 3,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Sonntag Oculi",
+      "wochentag": "sonntag",
+      "seiten": [
+        554,
+        559
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Meine Augen sehen stets zu dem HErrn,",
+              "Denn Er wird meinen Fuß aus dem Netze ziehen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "25",
+              "2"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O Durchbrecher",
+            "melodie": "120/121",
+            "strophen": [
+              {
+                "links": [
+                  "O Durchbrecher aller Bande,",
+                  "Der Du immer bei uns bist,",
+                  "Bei dem Schaden Spott und Schande",
+                  "Lauter Lust und Himmel ist:",
+                  "Uebe ferner Deine Gerichte",
+                  "Wider unsern Adamssinn,",
+                  "Bis uns Dein so treu Gesichte",
+                  "Führet aus dem Kerker hin."
+                ],
+                "rechts": [
+                  "Schau doch aber unsre Ketten,",
+                  "Da wir mit der Kreatur",
+                  "Seufzen ringen schreien beten",
+                  "Um Erlösung von Natur,",
+                  "Von dem Dienst der Eitelkeiten,",
+                  "Der uns noch so harte drückt,",
+                  "Ungeacht der Geist in Zeiten",
+                  "Sich auf etwas Bessres schickt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 14—28.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "14-28"
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "So hörte, so bewahrte Maria, Gottes Mutter. An sie wohl dachte der HErr, als Er gegenüber der Seligpreisung des Weibes die Hörenden und die Bewahrenden selig pries. Daß ihr Leib den HErrn getragen, daß Er ihre Brüste gesogen, war eine Seligkeit, die Maria mit keinem Weibe teilen konnte. Aber ein seliges Beispiel der Nachahmung, ein Vorbild auf dem Weg zum ewigen Leben war sie im Hören und Bewahren. Darin sollte das lobpreisende Weib Marias Nachfolgerin werden, darin sollen ihr alle Weiber, alle Seelen nachfolgen. Das will der HErr; und wenn das geschieht, dann ist der Zweck der Wunder erreicht, dann wird Beelzebub samt allen Teufeln überwunden, dann mindert sich das Elend, dann mehrt sich das Glück, dann naht sich das ewige Leben, dann wird man selig! Darum helfe uns zu diesem Hören und Bewahren vor allem andern der gnädige und barmherzige HErr! Amen.",
+            "quelle": "Löhe"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn ein starker Gewappneter seinen Palast bewahrt,",
+              "So bleibt das Seine mit Frieden."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott, himmlischer Vater, wir bitten Dich, weil der böse Geist allezeit als ein brüllender Löwe um uns hergehet und suchet, ob er uns fressen und verschlingen könne: Du wollest uns um Deines lieben Sohns willen mit den lieben heiligen Engeln wider alle seine List und Gewalt beschirmen, durch Deinen Geist bußfertige Herzen verleihen, daß wir in Mäßigkeit und Nüchternheit Dir dienen mögen; durch Jesum. .",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Durchbrecher",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach, erheb die matten Kräfte,",
+                  "Sich einmal zu reißen los",
+                  "Und durch alle Weltgeschäfte",
+                  "Durchgebrochen stehen bloß.",
+                  "Weg mit Menschenfurcht und Zagen!",
+                  "Weich, Vernunftbedenklichkeit!",
+                  "Fort mit Scheu vor Schmach und Plagen!",
+                  "Weg des Fleisches Zärtlichkeit!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "spruch",
+            "zeilen": [
+              "Heile Du mich, HErr, so werde ich heil; hilf Du mir, so ist mir geholfen;",
+              "Denn Du bist mein Ruhm."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist mit mir, darum fürchte ich mich nicht;",
+              "Was können mir Menschen tun?"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 129-176"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 26, 1—15.",
+            "buch": "jeremia",
+            "kapitel": 26,
+            "verse": "1-15"
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr Gott himmlischer Vater, Der Du Deinen Sohn, unsern HErrn Jesum Christum, in die Welt gesandt hast, daß Er des Teufels Tyrannei wehren und uns armen Menschen wider solchen argen Feind soll schützen: wir bitten Dich, Du wollest uns vor Sicherheit behüten und in aller Anfechtung durch Deinen heiligen Geist nach Deinem Worte zu wandeln gnädiglich erhalten, daß wir bis ans Ende vor solchem Feind befreit bleiben und endlich selig werden; durch Denselben . .",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wer nicht mit Mir sammelt, der zerstreuet;",
+              "Und wer nicht mit Mir ist, der ist wider Mich."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Epheser 5, 1—9.",
+            "buch": "epheser",
+            "kapitel": 5,
+            "verse": "1-9"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Durchbrecher",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Herrscher, herrsche! Sieger, siege!",
+                  "König, brauch Dein Regiment!",
+                  "Führe Deines Reiches Kriege!",
+                  "Mach der Sklaverei ein End!",
+                  "Laß doch aus der Grub die Seelen",
+                  "Durch des neuen Bundes Blut;",
+                  "Laß uns länger nicht so quälen,",
+                  "Denn Du meinst's mit uns ja gut."
+                ],
+                "rechts": [
+                  "Haben wir uns selbst gefangen",
+                  "In Lust und Gefälligkeit,",
+                  "Ach, so laß uns nicht stets hangen",
+                  "In dem Tod der Eitelkeit.",
+                  "Denn die Last treibt uns zu rufen,",
+                  "Alle schreien wir Dich an:",
+                  "Zeig doch nur die ersten Stufen",
+                  "Der gebrochnen Freiheitsbahn!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Selig sind die das Wort Gottes",
+              "Hören und bewahren."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "O allmächtiger ewiger Gott, wir bitten Dich: Du wollest das Seufzen Deines Volkes gnädiglich ansehen und die rechte Hand Deiner Majestät zu unserm Schutz und Schirm ausstrecken; durch unsern HErrn. .",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Oculi",
+      "wochentag": "montag",
+      "seiten": [
+        559,
+        562
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Wende Dich zu mir und sei mir gnädig,",
+              "Denn ich bin einsam und elend."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "21"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, ewges Licht",
+            "strophen": [
+              {
+                "links": [
+                  "HErr Jesu, ewges Licht,",
+                  "Das uns von Gott anbricht,",
+                  "Pflanz doch in unsre Herzen",
+                  "Recht helle Glaubenskerzen,",
+                  "Ja nimm uns gänzlich ein,",
+                  "Du heilger Gnadenschein."
+                ],
+                "rechts": [
+                  "Von Dir kommt lauter Kraft,",
+                  "Die Gutes wirkt und schafft;",
+                  "Denn Du bist Gottes Spiegel,",
+                  "Sein heilig Bild und Siegel,",
+                  "Sein Hauchen voller Gnad",
+                  "Und Sein geheimer Rat."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 9, 51—56.",
+            "buch": "lukas",
+            "kapitel": 9,
+            "verse": "51-56"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, ewges Licht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib Dich in unsern Sinn,",
+                  "Nimm unsre Herzen hin,",
+                  "Füll sie mit Deiner Liebe",
+                  "Und Deines Geistes Triebe,",
+                  "Daß wir wahrhaftig Dein,",
+                  "Der Weisheit, Kinder sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "27"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 2, 11—15.",
+            "buch": "2_mose",
+            "kapitel": 2,
+            "verse": "11-15"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 1, 13—16.",
+            "buch": "1_petrus",
+            "kapitel": 1,
+            "verse": "13-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr Jesu, ewges Licht",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Verneure Du uns ganz",
+                  "Durch Deines Lichtes Glanz,",
+                  "Daß wir im Lichte wandeln",
+                  "Und allzeit tun und handeln",
+                  "Was Lichtes Kindern ziemt",
+                  "Und Deinen Namen rühmt."
+                ],
+                "rechts": [
+                  "Tränk uns mit Deinem Wein,",
+                  "Dein Wasser wasch uns rein",
+                  "Salb uns mit Deinem Oele,",
+                  "Heil uns an Leib und Seele;",
+                  "Bring uns ins Licht zur Ruh,",
+                  "Du ewge Weisheit Du."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Deine Barmherzigkeit, HErr, stehe uns bei, auf daß wir vor den Gefahren der Sünde bewahrt und durch Deine starke Hand errettet werden.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Oculi",
+      "wochentag": "dienstag",
+      "seiten": [
+        562,
+        565
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Nach Dir, HErr, verlanget mich; Mein Gott, ich hoffe auf Dich;",
+              "Laß mich nicht zu Schanden werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "39"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Sieh: hier bin ich",
+            "melodie": "159",
+            "strophen": [
+              {
+                "links": [
+                  "Sieh: hier bin ich,",
+                  "Ehrenkönig,",
+                  "Lege mich vor Deinen Thron;",
+                  "Schwache Thränen,",
+                  "Kindlich Sehnen",
+                  "Bring ich Dir, Du Menschensohn.",
+                  "Laß Dich finden,",
+                  "Laß Dich finden",
+                  "Von mir, der ich Asch und Thon."
+                ],
+                "rechts": [
+                  "Sieh doch auf mich,",
+                  "HErr, ich bitt Dich,",
+                  "Lenke mich nach Deinem Sinn;",
+                  "Dich alleine",
+                  "Ich nur meine,",
+                  "Dein erkaufter Erb ich bin.",
+                  "Laß Dich finden,",
+                  "Laß Dich finden,",
+                  "Gib Dich mir und nimm mich hin."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 22, 65—71.",
+            "buch": "lukas",
+            "kapitel": 22,
+            "verse": "65-71"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wo Zween unter euch eins werden auf Erden, warum es ist, daß sie bitten wollen:",
+              "Das soll ihnen widerfahren von Meinem Vater im Himmel."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Sieh: hier bin ich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Himmelssonne,",
+                  "Seelenwonne,",
+                  "Unbeflecktes Gotteslamm:",
+                  "In der Höhle",
+                  "Meine Seele",
+                  "Suchet Dich, o Bräutigam.",
+                  "Laß Dich finden,",
+                  "Laß Dich finden",
+                  "Starker Held aus Davids Stamm."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "40"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Nehemia 9, 30—34.",
+            "buch": "nehemia",
+            "kapitel": 9,
+            "verse": "30-34"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 8, 8—12.",
+            "buch": "hebraeer",
+            "kapitel": 8,
+            "verse": "8-12"
+          },
+          {
+            "typ": "lied",
+            "titel": "Sieh: hier bin ich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Hör: wie kläglich,",
+                  "Wie beweglich",
+                  "Dir die treue Seele singt;",
+                  "Wie demütig",
+                  "Und wehmütig",
+                  "Deines Kindes Stimme klingt.",
+                  "Laß Dich finden,",
+                  "Laß Dich finden,",
+                  "Denn mein Herze zu Dir dringt."
+                ],
+                "rechts": [
+                  "Dieser Zeiten",
+                  "Eitelkeiten",
+                  "Reichtum Wollust Ehr und Freud",
+                  "Sind nur Schmerzen",
+                  "Meinem Herzen,",
+                  "Welches sucht die Ewigkeit.",
+                  "Laß Dich finden,",
+                  "Laß Dich finden,",
+                  "Großer Gott, ich bin bereit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wo Zween oder Drei versammelt sind in Meinem Namen,",
+              "Da bin Ich mitten unter ihnen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Schirme uns, o HErr, mit Deinem allmächtigen Schutze, und behüte uns allezeit vor der Ungerechtigkeit.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Oculi",
+      "wochentag": "mittwoch",
+      "seiten": [
+        565,
+        568
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der HErr ist mit mir, darum fürchte ich mich nicht:",
+              "Was können mir Menschen tun?"
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "101"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Also hat Gott",
+            "melodie": "42",
+            "strophen": [
+              {
+                "links": [
+                  "Also hat Gott die Welt geliebt —",
+                  "Das merke wer es höret! —",
+                  "Die Welt, die Gott so hoch betrübt,",
+                  "Hat Gott so hoch geehret,",
+                  "Daß Er Sein'n Eingebornen Sohn,",
+                  "Den eignen Schatz, die eigne Kron,",
+                  "Das eigne Herz und Leben",
+                  "Mit Willen hingegeben."
+                ],
+                "rechts": [
+                  "Gott hat uns Seinen Sohn verehrt,",
+                  "Daß aller Menschen Wesen,",
+                  "So mit dem ewgen Fluch beschwert,",
+                  "Durch Diesen soll genesen.",
+                  "Wen die Verdammnis hat umschränkt,",
+                  "Der soll durch Den, Den Gott geschenkt,",
+                  "Erlösung Trost und Gaben",
+                  "Des ewgen Lebens haben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 17, 1—10.",
+            "buch": "johannes",
+            "kapitel": 17,
+            "verse": "1-10"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Also hat Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "So fahre hin, du tolle Schar,",
+                  "Ich bleibe bei dem Sohne;",
+                  "Dem geb ich mich, Des bin ich gar,",
+                  "Und Er ist meine Krone.",
+                  "Hab ich den Sohn, so hab ich gnug,",
+                  "Sein Kreuz und Leiden ist mein Schmuck,",
+                  "Sein Angst ist meine Freude,",
+                  "Sein Sterben meine Weide."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "56"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 5, 12—17.",
+            "buch": "jeremia",
+            "kapitel": 5,
+            "verse": "12-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "129"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 6, 17—19.",
+            "buch": "1_timotheus",
+            "kapitel": 6,
+            "verse": "17-19"
+          },
+          {
+            "typ": "lied",
+            "titel": "Also hat Gott",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich freue mich, so oft und viel",
+                  "Ich dieses Sohns gedenke:",
+                  "Dies ist mein Lied und Saitenspiel,",
+                  "Wenn ich mich heimlich kränke,",
+                  "Wenn meine Sünd und Missetat",
+                  "Will größer sein als Gottes Gnad,",
+                  "Und wenn mir meinen Glauben",
+                  "Mein eigen Herz will rauben."
+                ],
+                "rechts": [
+                  "Ich bin's gewiß und sterbe drauf",
+                  "Nach meines Gottes Willen;",
+                  "Mein Kreuz und ganzer Lebenslauf",
+                  "Wird sich noch fröhlich stillen.",
+                  "Hier hab ich Gott und Gottes Sohn;",
+                  "Und dort, bei Gottes Stuhl und Thron,",
+                  "Da wird fürwahr mein Leben",
+                  "In ewgen Freuden schweben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Wir bitten Dich, allmächtiger Gott, gib uns, die wir Deinen gnädigen Schutz suchen, daß wir, von allem Bösen befreit, Dir ohne Furcht dienen mögen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Oculi",
+      "wochentag": "donnerstag",
+      "seiten": [
+        568,
+        571
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "69"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "An Jesum denken",
+            "melodie": "64",
+            "strophen": [
+              {
+                "links": [
+                  "An Jesum denken oft und viel",
+                  "Bringt Freud und Wonn ohn Maß und Ziel;",
+                  "Recht aber honigsüßer Art",
+                  "Ist Seiner Gnaden Gegenwart."
+                ],
+                "rechts": [
+                  "O Jesu, Herzensfreud und Wonn,",
+                  "O Lebensbrunn, o wahre Sonn,",
+                  "Ohn Dich ist alle Freud unwert",
+                  "Und was man auf der Welt begehrt."
+                ]
+              },
+              {
+                "links": [
+                  "Nichts Liebers meine Zunge singt,",
+                  "Nichts Reiners meinen Ohren klingt,",
+                  "Nichts Süßers meinem Herzen ist",
+                  "Als mein herzliebster Jesus Christ."
+                ],
+                "rechts": [
+                  "O Jesu, Deine Lieb ist süß;",
+                  "Wenn ich sie tief ins Herze schließ,",
+                  "Erquicket sie mich ohne Zahl",
+                  "Viel tausend tausend tausendmal."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 15, 1—9.",
+            "buch": "matthaeus",
+            "kapitel": 15,
+            "verse": "1-9"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "An Jesum denken",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ach liebt und lobet doch mit mir",
+                  "Den, Der uns liebet für und für,",
+                  "Mit Lieb belohnet Lieb allzeit",
+                  "Und hört nicht auf in Ewigkeit."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "76"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "4. Mose 20, 2—13.",
+            "buch": "4_mose",
+            "kapitel": 20,
+            "verse": "2-13"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "70"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Pauli an die Römer 4, 1—8.",
+            "buch": "roemers",
+            "kapitel": 4,
+            "verse": "1-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "An Jesum denken",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mein Jesulein liegt mir im Sinn,",
+                  "Ich geh und steh und wo ich bin;",
+                  "Wie froh und selig werd ich sein,",
+                  "Wenn Er wird sein und bleiben mein."
+                ],
+                "rechts": [
+                  "An Dir mein Herz hat seine Lust,",
+                  "Vollkommen ist die Lieb und just;",
+                  "Mein Ruhm ist all auf Dich gestellt,",
+                  "O Jesu, Heiland aller Welt."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Alle, die Kranke hatten, brachten sie zu Jesu;",
+              "Und sie wurden heil."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Himmlische Gnade — so bitten wir, HErr — mache reich Dein Volk, auf daß es stets Deine Gebote halte.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Oculi",
+      "wochentag": "freitag",
+      "seiten": [
+        571,
+        574
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Ich bin das Licht der Welt: wer Mir nachfolgt, der wird nicht wandeln in Finsternis,",
+              "Sondern wird das Licht des Lebens haben, spricht der HErr."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "143"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, mein Leben",
+            "melodie": "95",
+            "strophen": [
+              {
+                "links": [
+                  "Christe, mein Leben, mein Hoffen, mein Glauben, mein Wallen",
+                  "Und das was Christen kann schmecken und einzig gefallen:",
+                  "Richte den Sinn,",
+                  "Treuer Weltheiland, dahin,",
+                  "Ruhm Dir zu bringen vor Allen."
+                ]
+              },
+              {
+                "links": [
+                  "Einzig Geliebter, Du Wonne, Dich will ich erheben;",
+                  "Ich will mich gänzlich Dir schenken und völlig hingeben;",
+                  "Nimmst Du mich hin,",
+                  "Ist es mein großer Gewinn,",
+                  "Keinen wird kränken mein Leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 8, 1—11.",
+            "buch": "johannes",
+            "kapitel": 8,
+            "verse": "1-11"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wer des Wassers trinken wird, das Ich ihm gebe,",
+              "Den wird nicht dürsten ewiglich."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Christe, mein Leben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Herzog des Lebens, Du wollest mich Selber regieren",
+                  "So, daß mein Leben ich selig und heilig mag führen;",
+                  "Gib Du den Geist,",
+                  "Reiche was göttlich nur heißt,",
+                  "Anders die Seele zu zieren."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "82"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 45, 15—21.",
+            "buch": "jesaja",
+            "kapitel": 45,
+            "verse": "15-21"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "140"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an Timotheus 1, 3—11.",
+            "buch": "1_timotheus",
+            "kapitel": 1,
+            "verse": "3-11"
+          },
+          {
+            "typ": "lied",
+            "titel": "Christe, mein Leben",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Zentnerschwer sind mir die Bürden, wo Du nicht willst tragen;",
+                  "Alles was irdisch ist, trachtet die Christen zu plagen.",
+                  "Laß es denn sein:",
+                  "Lebt man nur Christo gemein,",
+                  "Der wirds wohl können verjagen."
+                ]
+              },
+              {
+                "links": [
+                  "Nun nun, so will ich auch immer und ewiglich hassen",
+                  "Bürden, die Christum das Kleinod nicht in sich einfassen.",
+                  "Er soll mir sein",
+                  "Reichtum und Alles allein:",
+                  "Gott, Gott, wer wollte Dich lassen!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Gib — wir bitten Dich, allmächtiger Gott — daß wir, die wir auf Deinen Schutz bauen, alle Widerwärtigkeiten durch Deinen Beistand überwinden.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Oculi",
+      "wochentag": "sonnabend",
+      "seiten": [
+        574,
+        577
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "106"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Eins Christen Herz",
+            "strophen": [
+              {
+                "links": [
+                  "Eins Christen Herz sehnt sich nach hohen Dingen,",
+                  "Ein irdisch Herz nach dem was irdisch heißt.",
+                  "Hält Gott die Seel, kann sie kein Weltgeist zwingen,",
+                  "Weil Gottes Kraft sie stärkt und zu sich reißt.",
+                  "Gott ist getreu: wenn man sich zu Ihm wendet,",
+                  "Fängt Er wohl an, Er mittelt, Er vollendet."
+                ]
+              },
+              {
+                "links": [
+                  "Ach, öffne mir die Tiefe meiner Sünden,",
+                  "Laß mich auch sehn die Tiefe Deiner Gnad;",
+                  "Laß keine Ruh mich suchen oder finden",
+                  "Als nur bei Dem, Der solche für mich hat;",
+                  "Der da gerufen: Ich will euch erquicken,",
+                  "Wenn euch die Sünd und ihre Last recht drücken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 9, 30—34.",
+            "buch": "markus",
+            "kapitel": 9,
+            "verse": "30-34"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Eins Christen Herz",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O teures Lamm, das dort Johannes sahe,",
+                  "Wie es von Anfang her erwürget ist:",
+                  "Nimm weg von mir die Sünd und sei mir nahe,",
+                  "Daß ich Dich seh und schmecke, wer Du bist.",
+                  "Laß mich durch Dich, o Lamm, recht überwinden",
+                  "Mein größtes Kreuz: Die Greuel meiner Sünden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "104"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 58, 1—5.",
+            "buch": "jesaja",
+            "kapitel": 58,
+            "verse": "1-5"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 7, 1—4.",
+            "buch": "hebraeer",
+            "kapitel": 7,
+            "verse": "1-4"
+          },
+          {
+            "typ": "lied",
+            "titel": "Eins Christen Herz",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Gib mir ein reines Herz, damit ich sehe",
+                  "Was kein natürlich Aug gesehen hat;",
+                  "Gib Deine Lieb ins Herz, daß ich verstehe",
+                  "Was nie ein Mensch erfahren in der Tat;",
+                  "Laß mich doch vom verborgnen Manna essen",
+                  "Und Dein, o Jesu, ewig nicht vergessen."
+                ]
+              },
+              {
+                "links": [
+                  "So soll Dein Lob denn von mir stets erklingen,",
+                  "So lang ich noch in dieser Schwachheit bin:",
+                  "Dort aber werd ich Dir ein neu Lied singen;",
+                  "Inzwischen nimm dies Lallen von mir hin,",
+                  "Bis ich dort werde mit den Seraphinen",
+                  "In Deinem Tempel Tag und Nacht Dir dienen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Reich Deinen Gläubigen vom Himmel herab Deine rettende Hand, o HErr, damit sie Dich von ganzem Herzen suchen und das, um was sie ernstlich bitten, erlangen mögen; durch. .",
+            "amen": ""
+          }
+        ]
+      }
+    }
+  ]
+}

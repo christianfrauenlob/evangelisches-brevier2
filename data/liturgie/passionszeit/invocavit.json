@@ -1,0 +1,1297 @@
+{
+  "id": "invocavit",
+  "titel": "Invocavit",
+  "kirchenzeit": "passionszeit",
+  "reihe": 1,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Sonntag Invocavit",
+      "wochentag": "sonntag",
+      "seiten": [
+        509,
+        514
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "einladung",
+            "zeilen": [
+              "Nicht sollt euch verdrießen, frühe aufzustehen am Morgen,",
+              "Denn der HErr hat verheißen die Krone des Lebens Denen, die da wachen."
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Er rufet Mich an, so will Ich ihn erhören:",
+              "Ich will ihn herausreißen und zu Ehren bringen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "91",
+              "10"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf, ihr Christen, Christi Glieder",
+            "strophen": [
+              {
+                "links": [
+                  "Auf, ihr Christen, Christi Glieder,",
+                  "Die ihr noch bangt an dem Haupt,",
+                  "Auf wacht auf, ermannt euch wieder,",
+                  "Eh ihr werdet hingeraubt.",
+                  "Satan dräut",
+                  "In den Streit",
+                  "Christo und der Christenheit."
+                ],
+                "rechts": [
+                  "Nur auf Christi Blut gewaget",
+                  "Mit Gebet und Wachsamkeit:",
+                  "Dieses macht unverzaget",
+                  "Und recht tapfre Kriegesleut.",
+                  "Christi Blut",
+                  "Gibt uns Mut",
+                  "Wider alle Teufelsbrut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 4, 1-11.",
+            "buch": "matthaeus",
+            "kapitel": 4,
+            "verse": "1-11"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Mit Fasten und Weinen sollen beten die Priester und sprechen: Schone, HErr, schone Deines Volkes und gib dein Erbe nicht dem Verderben."
+              },
+              {
+                "art": "text",
+                "inhalt": "Zwischen Vorhof und Altar sollen weinen die Priester und sprechen: Schone . . Verderben."
+              }
+            ]
+          },
+          {
+            "typ": "vaeterstimme",
+            "text": "In solcher Gefahr stehen alle Christen. Denn das ist ja gut auszurechnen, weil der Teufel des HErrn Christi Selbst nicht verschont, sondern so trefflich sich wider Ihn gesetzt hat, wird er unser viel weniger schonen, da er weiß, daß wir viel schwächer und unerfahrener sind. Derhalben mögen wir uns auf solche Gefahr schicken und am HErrn Christo hier lernen, wie wir solchem Feind und seinem Wort widerstehen und uns von ihm abschließen müssen. Das geschieht aber allein durch den Glauben an Gott und Sein Wort. Wer den Harnisch hat und recht braucht, der wird vor dem Teufel wohl bleiben. Wer ihn aber nicht recht braucht, dem ist es weder zu raten noch zu helfen wider die giftigen Pfeile.",
+            "quelle": "Martin Luther"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Jesus ward vom Geist in die Wüste geführt,",
+              "Auf daß Er von dem Teufel versucht würde."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Allmächtiger Gott, himmlischer Vater, Du weißt, wie wir armen schwachen Menschen auf vielerlei Weise von dem Satan angefochten werden und wider ihn gar nichts vermögen: Verleihe uns aus der Höhe Kraft, und gib uns Deinen heiligen Geist, daß wir ihm rechten Widerstand tun, ihn durch Dein Wort von uns treiben, den Sieg über ihn davontragen und mit allen Auserwählten triumphieren; um Jesu Christi ..",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Laudismus de S. Cruce",
+            "strophen": [
+              {
+                "links": [
+                  "Recordare sanctae crucis,",
+                  "Qui perfectam viam ducis,",
+                  "Delectare jugitur;",
+                  "Sanctae crucis recordare,",
+                  "Et in ipsa meditare",
+                  "Insatiabiliter."
+                ],
+                "rechts": [
+                  "Woll des heiligen Kreuzes denken —",
+                  "Nicht in Freud und Lust sich lenken",
+                  "Achte für das höchste Gut!",
+                  "Denken woll des heiligen Kreuzes,",
+                  "Seines unerschöpften Reizes",
+                  "Sei bewußt Dein Sinn und Mut!"
+                ]
+              },
+              {
+                "links": [
+                  "Cum quiescis aut laboras,",
+                  "Quando rides, quando ploras,",
+                  "Doles sive gaudeas,",
+                  "Quando vadis, quando venis,",
+                  "In solatiis, in poenis,",
+                  "Crucem corde tenens."
+                ],
+                "rechts": [
+                  "Ob du ruhest oder wachest,",
+                  "Ob du weinest oder lachest,",
+                  "Seis in Freude, seis in Pein,",
+                  "Magst du kommen, magst du gehen,",
+                  "Seis in Wonnen, seis in Wehen,",
+                  "Halt das Kreuz im Herzen fein!"
+                ]
+              },
+              {
+                "links": [
+                  "Crux est arbor decorata,",
+                  "Christi sanguine sacrata,",
+                  "Cunctis plena fructibus;",
+                  "Quibus animae cruuntur,",
+                  "Cum supernis nutriuntur",
+                  "Cibis in coelestibus."
+                ],
+                "rechts": [
+                  "Christi Kreuz ich hochbegnadet,",
+                  "Holz, in heilgem Blut gebadet,",
+                  "Ueberreich an guter Frucht;",
+                  "Die den Geist allhier aufgeben,",
+                  "Speiset dort im ewgen Leben",
+                  "Seine süße Himmelsfrucht."
+                ]
+              },
+              {
+                "links": [
+                  "Crucifixe, fac me fortem,",
+                  "Ut libenter tuam mortem",
+                  "Plangam donec vixero;",
+                  "Tecum volo vulnerari,",
+                  "Te libenter amplexari",
+                  "In cruce desidero."
+                ],
+                "rechts": [
+                  "Christ am Kreuz! O gib mir Kräfte,",
+                  "Daß je sei mein liebstes Geschäfte,",
+                  "Stets zu denken Deinen Schmerz.",
+                  "Mit Dir will ich Wunden tragen,",
+                  "Dich, mit Dir ans Kreuz geschlagen,",
+                  "Zu umarmen sehnt mein Herz."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Schaffe in mir Gott, ein reines Herz,",
+              "Und gib mir einen neuen gewissen Geist."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 55-80"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 22, 1-14.",
+            "buch": "1_mose",
+            "kapitel": 22,
+            "verse": "1-14"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Die Pforten des Paradieses öffnet uns die Fastenzeit; laßt sie uns mit Bitten und Flehen beginnen, damit wir am Tage der Auferstehung uns des HErrn rühmen können."
+              },
+              {
+                "art": "text",
+                "inhalt": "In allen Dingen wollen wir uns als die Diener Gottes beweisen in großer Geduld; damit wir . . können."
+              }
+            ]
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Der Mensch lebt nicht vom Brot allein,",
+              "Sondern von einem jeglichen Wort Gottes."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "110",
+              "111"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 6, 1-10.",
+            "buch": "2_korinther",
+            "kapitel": 6,
+            "verse": "1-10"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Sehet: jetzt ist die angenehme Zeit, jetzt ist der Tag des Heils. Beweisen wir uns als die Diener Gottes in großer Geduld und Fasten; durch die Waffen der Gerechtigkeit in der Kraft Gottes."
+              },
+              {
+                "art": "text",
+                "inhalt": "In allen Dingen wollen wir uns als die Diener Gottes beweisen in großer Geduld und Fasten. Durch . . Gottes."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Auf, ihr Christen.",
+            "strophen": [
+              {
+                "links": [
+                  "Drum auf, laßt uns überwinden",
+                  "In dem Blute Jesu Christ",
+                  "Und an unsre Stirne binden",
+                  "Sein Wort, so mir ein Zeugnis ist,",
+                  "Das uns deckt",
+                  "Und erweckt",
+                  "Und nach Gottes Liebe schmeckt."
+                ],
+                "rechts": [
+                  "Unser Leben sei verborgen",
+                  "Mit Christo in Gott allein,",
+                  "Auf daß wir an jenem Morgen",
+                  "Mit Ihm offenbar auch sein;",
+                  "Da das Leid",
+                  "Dieser Zeit",
+                  "Werden wird zu lauter Freud."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Siehe: jetzt ist die angenehme Zeit;",
+              "Jetzt ist der Tag des Heils."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "HErr, wir bitten: erhöre gnädiglich unser Gebet und strecke die starke Hand Deiner Majestät aus wider alles so sich wider uns setzet; durch unsern HErrn ..",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Invocavit",
+      "wochentag": "montag",
+      "seiten": [
+        515,
+        517
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "18"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Mir nach! spricht Christus unser Held",
+            "melodie": "100",
+            "strophen": [
+              {
+                "links": [
+                  "Mir nach! spricht Christus unser Held,",
+                  "Mir nach, ihr Christen alle;",
+                  "Verleugnet euch, verlaßt die Welt,",
+                  "Folgt meinem Ruf und Schalle;",
+                  "Nehmt euer Kreuz und Ungemach",
+                  "Auf euch, folgt meinem Wandel nach."
+                ],
+                "rechts": [
+                  "Ich bin das Licht, Ich leucht euch für",
+                  "Mit heiligem Tugendleben;",
+                  "Wer zu Mir kommt und folget Mir,",
+                  "Darf nicht im Finstern schweben;",
+                  "Ich bin der Weg, Ich weise wohl",
+                  "Wie man wahrhaftig wandeln soll."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 16, 21-26.",
+            "buch": "matthaeus",
+            "kapitel": 16,
+            "verse": "21-26"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Kommt her, ihr Gesegneten Meines Vaters;",
+              "Ererbet das Reich, das euch bereitet ist von Anbeginn der Welt."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Mir nach! spricht Christus.",
+            "strophen": [
+              {
+                "links": [
+                  "Fällts euch zu schwer: Ich geh voran,",
+                  "Ich sieh euch an der Seite,",
+                  "Ich kämpfe Selbst, Ich brech die Bahn,",
+                  "Bin Alles in dem Streite,",
+                  "Ein böser Knecht, der still darf stehn,",
+                  "Wenn er den Feldherrn an sieht gehn."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "24"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 52, 13-15.",
+            "buch": "jesaja",
+            "kapitel": 52,
+            "verse": "13-15"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "121"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 4, 15-16.",
+            "buch": "hebraeer",
+            "kapitel": 4,
+            "verse": "15-16"
+          },
+          {
+            "typ": "lied",
+            "titel": "Mir nach! spricht Christus.",
+            "strophen": [
+              {
+                "links": [
+                  "Wer seine Seel zu finden meint,",
+                  "Wird sie ohn Mich verlieren;",
+                  "Wer sie um Mich verlieren scheint,",
+                  "Wird sie nach Hause führen;",
+                  "Wer nicht sein Kreuz nimmt und folgt Mir,",
+                  "Ist Mein nicht wert und Meiner Zier."
+                ],
+                "rechts": [
+                  "So laßt uns denn dem lieben HErrn",
+                  "Mit unserm Kreuz nachgeben,",
+                  "Und wohlgemut getrost und gern",
+                  "In allem Leiden stehen;",
+                  "Wer nicht gekämpft, trägt auch die Kron",
+                  "Des ewgen Lebens nicht davon."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Was ihr getan habt Einem unter diesen Meinen geringsten Brüdern,",
+              "Das habt ihr Mir getan."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Löse — wir bitten Dich HErr — die Ketten unsrer Sünden, und wende in Gnaden die Strafen ab, die wir dafür verdient haben.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Invocavit",
+      "wochentag": "dienstag",
+      "seiten": [
+        517,
+        520
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "57"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ringe recht, wenn Gottes Gnade",
+            "melodie": "154",
+            "strophen": [
+              {
+                "links": [
+                  "Ringe recht, wenn Gottes Gnade",
+                  "Dich nun ziehet und bekehrt,",
+                  "Daß dein Geist sich recht entlade",
+                  "Von der Last, die ihn beschwert.",
+                  "Kämpfe bis aufs Blut und Leben,",
+                  "Dring hinein in Gottes Reich,",
+                  "Will der Satan widerstreben,",
+                  "Werde weder matt noch weich."
+                ],
+                "rechts": [
+                  "Ringe mit Gebet und Schreien,",
+                  "Halte damit feurig an;",
+                  "Laß dich keine Zeit gereuen,",
+                  "Wärs auch Tag und Nacht getan.",
+                  "Halt ja deine Krone feste,",
+                  "Halte männlich was du hast,",
+                  "Recht beharren ist das Beste,",
+                  "Rückfall ist ein böser Gast."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 22, 39-46.",
+            "buch": "lukas",
+            "kapitel": 22,
+            "verse": "39-46"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Laßt uns wieder gut machen, was wir in Unwissenheit gesündigt haben, damit wir nicht unverhofft durch den Tag des Todes überrascht werden und dann keine Zeit zur Buße mehr haben."
+              },
+              {
+                "art": "text",
+                "inhalt": "Merk auf, o HErr, und erbarme Dich, denn an Dir haben wir gesündigt."
+              },
+              {
+                "art": "text",
+                "inhalt": "Hilf uns, Gott unser Heil, und erlöse uns, um der Ehre Deines Namens willen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Merk auf . . gesündigt."
+              }
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ringe recht.",
+            "strophen": [
+              {
+                "links": [
+                  "Denkt bei jedem Augenblicke,",
+                  "Ob's vielleicht die letzte sei;",
+                  "Bringt im Kampfen ins Gefechte,",
+                  "Holt stets neues Oel herbei."
+                ],
+                "rechts": [
+                  "Liegt nicht alle Welt im Bösen?",
+                  "Steht nicht Sodom in der Glut?",
+                  "Seele, wer soll dich erlösen!",
+                  "Eilen eilen ist hier gut."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "44"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Buch Mose 1, 6-17.",
+            "buch": "2_mose",
+            "kapitel": 1,
+            "verse": "6-17"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "125"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 7, 23-28.",
+            "buch": "hebraeer",
+            "kapitel": 7,
+            "verse": "23-28"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Der Gottlose verlasse seinen Weg, und der Uebeltäter sein Wesen, und bekehre sich zum HErrn, und Er wird Sich seiner erbarmen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Denn Er ist gnädig und barmherzig und vergibt gern die Bosheit, der HErr unser Gott."
+              },
+              {
+                "art": "text",
+                "inhalt": "Der HErr hat kein Wohlgefallen am Tode des Gottlosen, sondern daß er sich bekehre und lebe."
+              },
+              {
+                "art": "text",
+                "inhalt": "Denn Er . . Gott."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ringe recht.",
+            "strophen": [
+              {
+                "links": [
+                  "Lauf der Welt doch aus den Händen,",
+                  "Dring ins stille Chor ein;",
+                  "Eile, daß du mögst vollenden,",
+                  "Mache dich von Allem rein."
+                ],
+                "rechts": [
+                  "Laß dir nichts am Herzen kleben,",
+                  "Fleuch vor dem verborgnen Bann;",
+                  "Such in Gott geheim zu leben,",
+                  "Daß dich nichts befleden kann."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es stehet geschrieben:",
+              "Mein Haus soll ein Bethaus sein für alle Völker."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Laß aufsteigen zu Dir, o HErr, unser Gebet, und treib alle Bosheit von Deiner Gemeine fort.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Quatember-Mittwoch nach Invocavit",
+      "wochentag": "mittwoch",
+      "seiten": [
+        520,
+        523
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gekommen sind nun die Tage der Buße",
+              "Zur Vergebung der Sünden, und zum Heil unsrer Seelen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum sollt ich mich denn grämen?",
+            "melodie": "153",
+            "strophen": [
+              {
+                "links": [
+                  "Warum sollt ich mich denn grämen?",
+                  "Hab ich doch",
+                  "Christum noch,",
+                  "Wer will mir Den nehmen!",
+                  "Wer will mir den Himmel rauben,",
+                  "Den mir schon",
+                  "Gottes Sohn",
+                  "Beigelegt im Glauben?"
+                ],
+                "rechts": [
+                  "Schickt Er mir ein Kreuz zu tragen,",
+                  "Dringt herein",
+                  "Angst und Pein:",
+                  "Sollt ich drum verzagen?",
+                  "Der es schickt, Der wird es wenden,",
+                  "Er weiß wohl,",
+                  "Wie Er soll",
+                  "All mein Unglück enden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 20, 9-19.",
+            "buch": "lukas",
+            "kapitel": 20,
+            "verse": "9-19"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HErrn eurem Gott! Denn Er ist gnädig und barmherzig."
+              },
+              {
+                "art": "text",
+                "inhalt": "Der Gottlose lasse von seinem Wege und der Uebeltäter seine Gedanken und bekehre sich zum HErrn, so wird Er sich sein erbarmen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Denn Er . . barmherzig."
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Es wird ihm kein Zeichen gegeben werden,",
+              "Denn das Zeichen des Propheten Jonas."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Warum sollt ich.",
+            "strophen": [
+              {
+                "links": [
+                  "Unverzagt und ohne Grauen",
+                  "Soll ein Christ.",
+                  "Wo er ist,",
+                  "Stets sich lassen schauen:",
+                  "Wollt ihn auch der Tod aufreiben:",
+                  "Soll der Mut",
+                  "Dennoch gut",
+                  "Und sein stille bleiben."
+                ],
+                "rechts": [
+                  "Kann uns doch kein Tod nicht töten,",
+                  "Sondern reißt",
+                  "Unsern Geist",
+                  "Aus viel tausend Nöten:",
+                  "Schleußt das Tor der bittern Leiden,",
+                  "Und macht Bahn,",
+                  "Da man kann",
+                  "Gehn zur Himmelsfreuden."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 2, 17-19.",
+            "buch": "jeremia",
+            "kapitel": 2,
+            "verse": "17-19"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 5, 7-9.",
+            "buch": "hebraeer",
+            "kapitel": 5,
+            "verse": "7-9"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Brich dem Hungrigen dein Brot, und die, so im Elend sind, führe ins Haus. Alsdann wird dein Licht hervorbrechen wie die Morgenröte, und deine Gerechtigkeit wird vor dir hergehen."
+              },
+              {
+                "art": "text",
+                "inhalt": "Alsdann . . bergeben."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Warum sollt ich.",
+            "strophen": [
+              {
+                "links": [
+                  "Was sind dieses Lebens Güter?",
+                  "Eine Hand",
+                  "Voller Sand,",
+                  "Kummer der Gemüter,",
+                  "Dort dort sind die edlen Gaben,",
+                  "Da mein Hirt",
+                  "Christus wird",
+                  "Mich ohn Ende laben."
+                ],
+                "rechts": [
+                  "HErr mein Hirt, Brunn aller Freuden,",
+                  "Du bist mein,",
+                  "Ich bin Dein:",
+                  "Niemand kann uns scheiden,",
+                  "Ich bin Dein, weil Du Dein Leben",
+                  "Und Dein Blut",
+                  "Mir zu gut",
+                  "In den Tod gegeben."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Erleuchte unsern Geist — so bitten wir, HErr — mit dem Lichte Deiner Klarheit, damit wir sehen können, was wir zu tun haben, und was recht ist, auch zu vollenden vermögen.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Invocavit",
+      "wochentag": "donnerstag",
+      "seiten": [
+        524,
+        526
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "66"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O, der alles hätt verloren.",
+            "strophen": [
+              {
+                "links": [
+                  "O der alles hätt verloren,",
+                  "Auch sich selbst, der allezeit",
+                  "Nur das Ein hätt auserkoren,",
+                  "So Herz Geist und Seel erfreut!"
+                ],
+                "rechts": [
+                  "O wer doch gar wär ertrunken",
+                  "In der Gottheit Ungrundsee!",
+                  "Damit wär er ganz entsunken",
+                  "Allem Kummer Angst und Weh."
+                ]
+              },
+              {
+                "links": [
+                  "O der alles hätt vergessen,",
+                  "Der nichts wüßt als Gott allein,",
+                  "Dessen Güte unermessen",
+                  "Macht das Herz still ruhig rein."
+                ],
+                "rechts": [
+                  "O der alles könnte lassen,",
+                  "Daß er, frei von eiteln Glanz,",
+                  "Wandern möcht die Friedensstraßen",
+                  "Durch dies Thränen-Jammertal."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 25-28.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "25-28"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Untröstlich wär ich, wenn ich nicht wüßte, daß Du, o HErr, barmherzig bist. Du hast gesagt: Ich will den Tod des Sünders nicht, sondern daß er sich bekehre und lebe. Der Du das kananäische Weib und den Zöllner zur Buße gerufen hast."
+              },
+              {
+                "art": "text",
+                "inhalt": "So groß mein Seelenschmerz war, so groß ist jetzt Freude und Trost in meinem Herzen. Der Du . . gerufen hast."
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Erbarm Dich meiner,",
+              "Du Sohn Davids!"
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O Der Alles.",
+            "strophen": [
+              {
+                "links": [
+                  "O wär unser Herz entnommen",
+                  "Dem, was lockt durch eiteln Glanz,",
+                  "Und hält ab, zu Gott zu kommen,",
+                  "In dem alle Gut ist ganz."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "74"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 3, 22-23.",
+            "buch": "jeremia",
+            "kapitel": 3,
+            "verse": "22-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "137"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 13, 38-43.",
+            "buch": "apostelgeschichte",
+            "kapitel": 13,
+            "verse": "38-43"
+          },
+          {
+            "typ": "lied",
+            "titel": "O Der Alles.",
+            "strophen": [
+              {
+                "links": [
+                  "O daß wir Gott möchten finden",
+                  "In uns durch die Liebe Licht",
+                  "Und uns ewig Ihm verbinden!",
+                  "Außer Ihm ist eitel Nicht."
+                ],
+                "rechts": [
+                  "O wär unser Aug der Seelen",
+                  "Stetig nur auf Gott gewendt,",
+                  "So hätt auch das gefährlich Quälen",
+                  "Im Gewissen ganz ein Ende."
+                ]
+              },
+              {
+                "links": [
+                  "O Du Abgrund aller Güte,",
+                  "Zeuch durchs Kreuz in Dich hinein,",
+                  "Heiß Seel Herz Sinn und Gemüte,",
+                  "Ewig mit Dir eins zu sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Gib, o HErr, allem christlichen Volk die Erkenntnis dessen, was sie bekennen, und die rechte Liebe zu dem himmlischen Gut, das ihnen so oft zuteil wird.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Quatember-Freitag nach Invocavit",
+      "wochentag": "freitag",
+      "seiten": [
+        527,
+        530
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Wohl dem, der sich mit Fleiß bemühet",
+            "melodie": "159/160",
+            "strophen": [
+              {
+                "links": [
+                  "Wohl dem, der sich mit Fleiß bemühet,",
+                  "Daß er ein Streiter Christi sei;",
+                  "Der recht mit Lasterseile ziehet,",
+                  "Von Hochmut Neid und Wollust frei;",
+                  "Der stets die arge Welt bekämpft",
+                  "Und seinen eignen Willen dämpft."
+                ],
+                "rechts": [
+                  "Was hilfts, daß Christus hier empfangen",
+                  "Und unser Fleisch teilhaftig ward,",
+                  "Wenn wir nicht auch dazu gelangen,",
+                  "Daß Gott Sich in uns offenbart!",
+                  "So soll Er sich in dich kehren ein,",
+                  "So mußt du erst Maria sein."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 17, 19-23.",
+            "buch": "matthaeus",
+            "kapitel": 17,
+            "verse": "19-23"
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Wohl dem, der sich mit Fleiß.",
+            "strophen": [
+              {
+                "links": [
+                  "Was hilft uns Christi Tod und Sterben,",
+                  "Wenn wir uns selbst nicht sterben ab?",
+                  "Du liebst dein Leben zum Verderben,",
+                  "Führst du die Lust nicht in sein Grab.",
+                  "Es bleibt die Christi Tod und Bild,",
+                  "Wenn du der Welt nicht sterben willst."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Klagelieder 2, 15-17.",
+            "buch": "klagelieder",
+            "kapitel": 2,
+            "verse": "15-17"
+          },
+          {
+            "typ": "rubrik",
+            "inhalt": "Antwort"
+          },
+          {
+            "typ": "lied",
+            "titel": "Aufer a nobis, Domine. (Straßburg 1559)",
+            "strophen": [
+              {
+                "links": [
+                  "Nimm von uns, HErr Gott, all unser Sünd und Missetat,",
+                  "auf daß wir mit rechtem Glauben dich und reinem Herzen",
+                  "in Deinem Dienst funden werden.",
+                  "Erbarme Dich! Erbarme Dich!",
+                  "Erbarme Dich Deins Völkleins Christe,",
+                  "das Du am Kreuz erlöst hast",
+                  "mit Deinem teuern Blut, wollst doch nicht ewiglich über uns zürnen.",
+                  "Erhör uns! Erhör uns! Erhör uns unser Bitt,",
+                  "Gott, Vater der Barmherzigkeit!",
+                  "Hilf uns Du, und sei uns gnädig.",
+                  "Erhör uns! Erhör uns! Erhör uns unser Bitt,",
+                  "Heiliger Geist, Du einiger Tröster,",
+                  "erleucht uns, und sei uns gnädig!",
+                  "Als wahr ich leb, spricht Gott der HErre,",
+                  "ich will nicht den Tod des Sünders,",
+                  "sondern daß er sich bekehre und lebe."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "gebet",
+            "text": "Sei gnädig, HErr, Deinem Volke; und wie Du es Dir ergeben machst, so stärke es nun voll Erbarmen durch Deinen gnädigen Beistand.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Johannis 5, 6-8.",
+            "buch": "1_johannes",
+            "kapitel": 5,
+            "verse": "6-8"
+          },
+          {
+            "typ": "lied",
+            "titel": "Wohl dem, der sich mit Fleiß.",
+            "strophen": [
+              {
+                "links": [
+                  "Wohlan; so lebe ich und leide,",
+                  "Wie Jesus dir ein Vorbild war;",
+                  "Auch, daß dich Seine Unschuld kleide,",
+                  "So bleibst du in der Streiter Schar.",
+                  "Wer Jesum liebt, tracht nur allein",
+                  "Ein Weltbestreiter stets zu sein."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "gebet",
+            "text": "Erhöre uns, barmherziger Gott, und zeige unserm Geiste das Licht Deiner Gnaden.",
+            "amen": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Quatember-Sonnabend nach Invocavit",
+      "wochentag": "sonnabend",
+      "seiten": [
+        530,
+        532
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Errette mich von den Blutschulden, Gott, mein Gott;",
+              "Daß meine Zunge Deine Gerechtigkeit rühme."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "6",
+              "32",
+              "58"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Fünf Brünnlein sind",
+            "melodie": "1",
+            "strophen": [
+              {
+                "links": [
+                  "Fünf Brünnlein sind,",
+                  "Daraus mir rinnt",
+                  "Fried Heil Trost Freud und Leben;",
+                  "In Angst und Not",
+                  "Bis in den Tod",
+                  "Mir solche Labsal geben."
+                ],
+                "rechts": [
+                  "Die Quell Du bist,",
+                  "HErr Jesu Christ;",
+                  "Die Brünnlein Deine Wunden,",
+                  "Daraus ich mich",
+                  "Lab inniglich",
+                  "In heißen Kreuzesstunden."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 26, 38-41.",
+            "buch": "matthaeus",
+            "kapitel": 26,
+            "verse": "38-41"
+          },
+          {
+            "typ": "gebet",
+            "text": "Die Litanei.",
+            "amen": ""
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Fünf Brünnlein sind.",
+            "strophen": [
+              {
+                "links": [
+                  "Laß mir stets sein",
+                  "Das Leiden Dein",
+                  "Ein Regel Riegel Spiegel,",
+                  "Daß ich nach Dir",
+                  "Mein Fleisch regier,",
+                  "Und laß ihm nicht den Zügel."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "5. Buch Mose 11, 26-32.",
+            "buch": "5_mose",
+            "kapitel": 11,
+            "verse": "26-32"
+          },
+          {
+            "typ": "gebet",
+            "text": "Schaue — wir bitten Dich, HErr — in Gnaden herab auf Dein Volk, und wende gütig von ihm ab die Geißeln Deines Zornes.",
+            "amen": ""
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "102",
+              "130",
+              "145"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Apostelgeschichte 26, 29-32.",
+            "buch": "apostelgeschichte",
+            "kapitel": 26,
+            "verse": "29-32"
+          },
+          {
+            "typ": "antwort",
+            "absätze": [
+              {
+                "art": "text",
+                "inhalt": "Ich wäre verdorben, wenn ich nicht Deine Barmherzigkeit kennte. HErr, Du hast gesagt: Ich will nicht den Tod des Sünders, sondern daß er sich bekehre und lebe. Der Du das kananäische Weib und den Zöllner zur Buße berufen hast."
+              },
+              {
+                "art": "text",
+                "inhalt": "Nach der Menge der Schmerzen in meiner Seele haben Deine Tröstungen mich aufgerichtet. Der Du . . bergeben."
+              }
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Fünf Brünnlein sind.",
+            "strophen": [
+              {
+                "links": [
+                  "O Gotteslamm,",
+                  "O Liebesflamm,",
+                  "Nimm hin die Sünd,",
+                  "Das Herz entzünd,",
+                  "Daß mich von Dir nichts scheide."
+                ],
+                "rechts": [
+                  "So werde ich",
+                  "Recht seliglich,",
+                  "Den Lebenslauf vollbringen,",
+                  "Und fröhlich hier,",
+                  "O Gott, mit Dir",
+                  "Das rechte „Vollbracht\" singen."
+                ]
+              }
+            ],
+            "fortsetzung": true
+          }
+        ]
+      }
+    }
+  ]
+}

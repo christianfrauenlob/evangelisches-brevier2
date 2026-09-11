@@ -1,0 +1,1106 @@
+{
+  "id": "estomihi",
+  "titel": "Estomihi",
+  "kirchenzeit": "vorfastenzeit",
+  "reihe": 3,
+  "band": 1,
+  "tage": [
+    {
+      "id": "sonntag",
+      "titel": "Sonntag Estomihi (Quinquagesima)",
+      "wochentag": "sonntag",
+      "seiten": [
+        485,
+        489
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Sei mir ein starker Fels und eine Burg,",
+              "Daß Du mir helfest."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "31",
+              "118"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, stärke mich",
+            "melodie": "70",
+            "strophen": [
+              {
+                "links": [
+                  "HErr, stärke mich, Dein Leiden zu bedenken,",
+                  "Mich in das Meer der Liebe zu versenken,",
+                  "Die Dich bewog, von aller Schuld der Bösen",
+                  "Uns zu erlösen."
+                ],
+                "rechts": [
+                  "Welch wunderbar hochheiliges Geschäfte!",
+                  "Sinn ich ihm nach, so zagen meine Kräfte;",
+                  "Mein Herz erbebt: ich seh und ich empfind:",
+                  "Den Fluch der Sünde."
+                ]
+              },
+              {
+                "links": [
+                  "Vereint mit Gott, ein Mensch gleich uns auf Erden",
+                  "Und bis zum Tod am Kreuz gehorsam werden,",
+                  "An unsrer Statt gemartert und zerschlagen",
+                  "Die Sünde tragen."
+                ],
+                "rechts": [
+                  "Gott ist gerecht, ein Rächer alles Bösen;",
+                  "Gott ist die Lieb und läßt die Welt erlösen;",
+                  "Des kann mein Geist mit Schrecken und Entzücken",
+                  "Am Kreuz erblicken."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 18, 31—45.",
+            "buch": "lukas",
+            "kapitel": 18,
+            "verse": "31-45"
+          },
+          {
+            "typ": "vaeterstimme",
+            "quelle": "Löhe",
+            "text": "Nun denn, so höret mich der HErr Selbst, von Dem ich rede, und erhöret mein Schreien für euch und für mich! Selig sind Beide, die von der Erhörung an immer mehr dem bitten Tag entgegen geben, die betend immer näher zu Ihm kommen, HErr, erst das Kreuz im Licht, dann Licht im Kreuz, die Welt im Lichte des Kreuzes, des Himmels Licht das Kreuz, in des Kreuzes Licht den Himmel sehen. — Du Sohn David, erhöre mich, erbarme Dich meiner und aller Blinden! Laß uns sehen! Dein Kreuz zieht not in der Nacht des Mittags vom Karfreitag; laß es uns sehen im Lichte des Abends, da die Sonne tief sinkt in Untergang, die Sichte der Vollendung und des Wortes: 'Es ist vollbracht!' Sprich zu uns, wie zum Blinden von Jericho: 'Sei sehend!' Daß unsre Schuppen von den Augen fallen, daß wir einfältig schauen Dich und Deine Leidensschönheit, und durch solche Erkenntnis selig werden! Amen."
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Da der HErr vorüberging, rief ein Blinder Ihm zu:",
+              "Erbarme Dich meiner, Du Sohn Davids."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Gott, himmlischer Vater, Der Du den blinden Menschen durch Deinen Sohn Christum Jesum gnädiglich die Augen geöffnet und das Licht hast sehen lassen: wir armen Sünder bitten Dich, Du wollest durch Dein Wort unsre blinden Herzen erleuchten, daß wir durch Christum Deinen Sohn, Der für unsre Sünden bezahlt hat, recht erkennen lernen und in aller Not und Anfechtung allein auf Deine gnädige Hilfe und Barmherzigkeit sehen, dieselbige durch ein gläubiges Gebet suchen und also Trost und Rettung wider den Teufel, Sünde und Tod finden; durch . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "HErr, stärke mich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "O HErr mein Heil, an Dessen Blut ich glaube,",
+                  "Ich liege hier vor Dir gebückt im Staube,",
+                  "Verliere mich, mit dankendem Gemüte,",
+                  "In Deine Güte."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Du bist mein Gott, und ich danke Dir;",
+              "Mein Gott, ich will Dich preisen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "119, 1-32"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 8, 4—9.",
+            "buch": "jeremia",
+            "kapitel": 8,
+            "verse": "4-9"
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr Gott, himmlischer Vater, Der Du das Leiden Deines Sohnes uns hast verkündigt: gib uns die Augen, daß wir solches recht ansehen und betrachten, auch mit Ihm und um Seinetwillen leiden, auf daß wir durch Sein Verdienst selig werden; um Jesu Christi . ."
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Lobet Ihn, alle Seine Engel:",
+              "Lobet Ihn, all Sein Heer."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "114",
+              "115"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 13.",
+            "buch": "1_korinther",
+            "kapitel": 13,
+            "verse": "1-13"
+          },
+          {
+            "typ": "lied",
+            "titel": "HErr, stärke mich",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Seh ich Dein Kreuz den Klugen dieser Erden",
+                  "Ein Aergernis und eine Torheit werden,",
+                  "So seis doch mir, trotz alles frechen Spottes,",
+                  "Die Weisheit Gottes."
+                ],
+                "rechts": [
+                  "Gott, eile nicht, sie rächend zu zerschmettern,",
+                  "Erbarme Dich, wenn einer von den Spöttern",
+                  "Sich spät bekehrt und Dich, Den er geschmähet,",
+                  "Um Gnade fleht."
+                ]
+              },
+              {
+                "links": [
+                  "Wenn endlich, HErr, mich meine Sünden kränken,",
+                  "So laß Dein Kreuz mir wieder Ruhe schenken;",
+                  "Dein Kreuz, dies sei, wenn ich den Tod einst leide,",
+                  "Mir Fried und Freude."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Was willst du, daß Ich dir tun soll?",
+              "HErr, daß ich sehend werde!"
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "HErr, wir bitten Dich: Du wollest unsre Bitte erhören, und welche Du von den Banden der Sünde erlöset hast, die wollest Du auch vor aller Widerwärtigkeit bewahren: durch . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "montag",
+      "titel": "Montag nach Estomihi",
+      "wochentag": "montag",
+      "seiten": [
+        489,
+        492
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gott sei mir gnädig nach Deiner Güte,",
+              "Und tilge meine Sünden nach Deiner großen Barmherzigkeit."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "14"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun freut euch, lieben Christen gmein",
+            "melodie": "112",
+            "strophen": [
+              {
+                "links": [
+                  "Nun freut euch, lieben Christen gmein,",
+                  "Und laßt uns fröhlich springen,",
+                  "Daß wir getrost und all in ein",
+                  "Mit Lust und Liebe singen,",
+                  "Was Gott an uns gewendet hat,",
+                  "Und Seine süße Wundertat:",
+                  "Gar teur hat Er's erworben."
+                ],
+                "rechts": [
+                  "Er sprach zu Seinem lieben Sohn:",
+                  "Die Zeit ist hie zu 'rbarmen,",
+                  "Fahr hin, meins Herzens werte Kron,",
+                  "Und sei das Heil dem Armen,",
+                  "Und hilf ihm aus der Sündennot,",
+                  "Erwürg für ihn den bittern Tod,",
+                  "Und laß ihn mit Dir leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 10, 35—45.",
+            "buch": "markus",
+            "kapitel": 10,
+            "verse": "35-45"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Nun freut euch, lieben Christen gmein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Der Sohn dem Vater gehorsam ward:",
+                  "Er kam zu mir auf Erden",
+                  "Von einer Jungfrau rein und zart,",
+                  "Er sollt mein Bruder werden,",
+                  "Gar heimlich führt er Sein Gewalt,",
+                  "Er ging in meiner armen Gestalt,",
+                  "Den Teufel wollt Er fangen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch Mose 50, 15—22.",
+            "buch": "1_mose",
+            "kapitel": 50,
+            "verse": "15-22"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "120"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 1, 10—20.",
+            "buch": "1_korinther",
+            "kapitel": 1,
+            "verse": "10-20"
+          },
+          {
+            "typ": "lied",
+            "titel": "Nun freut euch, lieben Christen gmein",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Er sprach zu mir: Halt dich an Mich,",
+                  "Es soll dir jetzt gelingen,",
+                  "Ich geb Mich Selber ganz für dich,",
+                  "Da will Ich für dich ringen,",
+                  "Denn Ich bin dein, und du bist Mein,",
+                  "Und wo Ich bleib, da sollst du sein,",
+                  "Uns soll der Feind nicht scheiden."
+                ],
+                "rechts": [
+                  "Gen Himmel zu dem Vater Mein,",
+                  "Fahr Ich von diesem Leben,",
+                  "Da will Ich sein dein Meister sein,",
+                  "Den Geist will Ich dir geben,",
+                  "Der dich in Trübnis trösten soll",
+                  "Und lehren Mich erkennen wohl",
+                  "Und in der Wahrheit leiten."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Erbarme Dich mein.",
+              "Du Sohn Davids."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dienstag",
+      "titel": "Dienstag nach Estomihi",
+      "wochentag": "dienstag",
+      "seiten": [
+        492,
+        495
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "HErr, auf Dich traue ich,",
+              "Laß mich nimmermehr zu Schanden werden."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "55"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Ein Lämmlein geht und trägt die Schuld",
+            "melodie": "12",
+            "strophen": [
+              {
+                "links": [
+                  "Ein Lämmlein geht und trägt die Schuld",
+                  "Der Welt und ihrer Kinder;",
+                  "Es geht und trägt in Geduld",
+                  "Die Sünden aller Sünder;",
+                  "Es geht dahin, wird matt und krank,",
+                  "Ergibt sich auf die Würgebank,",
+                  "Verzeiht sich aller Freuden;",
+                  "Es nimmt an Schmach Hohn und Spott,",
+                  "Angst Wunden Striemen Kreuz und Tod",
+                  "Und spricht: Ich wills gern leiden."
+                ],
+                "rechts": [
+                  "Das Lämmlein ist der große Freund",
+                  "Und Heiland meiner Seelen;",
+                  "Den, den hat Gott zum Sündenfeind",
+                  "Zur Sühne wollen wählen.",
+                  "\"Geh hin, mein Kind, und nimm dich an",
+                  "Der Kinder, die Ich ausgesetzt",
+                  "Zur Straf und Zornesflamme;",
+                  "Die Straf ist schwer, der Zorn ist groß:",
+                  "Du kannst und sollst sie machen los",
+                  "Durch Sterben und durch Bluten.\""
+                ]
+              },
+              {
+                "links": [
+                  "\"Ja, Vater, ja von Herzensgrund,",
+                  "Leg auf, Ich will Dirs tragen,",
+                  "Mein Wollen hängt an Deinem Mund,",
+                  "Mein Wirken ist Dein Sagen.\" —",
+                  "O Wunderlieb, o Liebesmacht,",
+                  "Du kannst, was Mir kein Mensch abzwingen,",
+                  "Gott Seinen Sohn zum Fluche machen!",
+                  "O Liebe, Liebe, du bist stark!",
+                  "Du streckst Ihn in Grab und Sarg,",
+                  "Vor Dem die Felsen springen!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Johannis 11, 47—57.",
+            "buch": "johannes",
+            "kapitel": 11,
+            "verse": "47-57"
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Ein Lämmlein geht und trägt die Schuld",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Mein Lebtage will ich Dich",
+                  "Aus meinem Sinn nicht lassen,",
+                  "Dich will ich stets, gleich wie Du mich,",
+                  "Mit Liebesarmen fassen,",
+                  "Du sollst sein meines Herzens Licht;",
+                  "Und wenn mein Herz in Stücken bricht,",
+                  "Sollst Du mein Herze bleiben,",
+                  "Ich will mich Dir, mein höchster Ruhm,",
+                  "Hiermit zu Deinem Eigentum",
+                  "Beständiglich verschreiben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "12"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Nahum 2, 1—14.",
+            "buch": "nahum",
+            "kapitel": 2,
+            "verse": "1-14"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "16"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Pauli an die Korinther 1, 21—31.",
+            "buch": "1_korinther",
+            "kapitel": 1,
+            "verse": "21-31"
+          },
+          {
+            "typ": "lied",
+            "titel": "Ein Lämmlein geht und trägt die Schuld",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ich will von Deiner Lieblichkeit",
+                  "Bei Nacht und Tage singen,",
+                  "Mich selbst auch Dir zu aller Zeit",
+                  "Zum Freudenopfer bringen,",
+                  "Mein Lob des Lebens soll sich Dir",
+                  "In Deinem Namen für und für",
+                  "In Dankbarkeit erzeigen,"
+                ],
+                "rechts": [
+                  "Das soll und will ich mir zu Nutz",
+                  "In allen Zeiten machen:",
+                  "Im Streite soll es sein mein Schutz,",
+                  "In Traurigkeit mein Lachen,",
+                  "In Fröhlichkeit mein Saitenspiel,",
+                  "Und wenn mir nichts mehr schmecken will,",
+                  "Soll mich dies Manna speisen;",
+                  "Im Durst soll's sein mein Wasserquell;",
+                  "In Einsamkeit mein Sprachgesell",
+                  "In Haus und auch auf Reisen."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mittwoch",
+      "titel": "Mittwoch nach Estomihi (Aschermittwoch)",
+      "wochentag": "mittwoch",
+      "seiten": [
+        495,
+        499
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Gekommen sind nun die Tage der Buße zur Vergebung der Sünden,",
+              "Und zum Heil unsrer Seelen."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine Passion",
+            "melodie": "26",
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, Deine Passion",
+                  "Will ich jetzt bedenken;",
+                  "Wollest mir vom Himmelsthron",
+                  "Geist und Andacht schenken.",
+                  "In dem Bild jetzund erschein,",
+                  "Jesu, meinem Herzen,",
+                  "Wie Du, unser Heil zu sein,",
+                  "Littest alle Schmerzen."
+                ],
+                "rechts": [
+                  "Meine Seele jeden mach",
+                  "Deine Angst und Bande,",
+                  "Deine Speichel Schläg und Schmach,",
+                  "Deine Kreuzesschande,",
+                  "Deine Geißel Dornenkron,",
+                  "Speer- und Nägelwunden,",
+                  "Deinen Tod, o Gottessohn,",
+                  "Und den Leib voll Schrunden."
+                ]
+              },
+              {
+                "links": [
+                  "Doch so laß mich nicht allein",
+                  "Deine Marter sehen;",
+                  "Laß mich auch die Ursach sein",
+                  "Und die Frucht verstehen.",
+                  "Ach, die Ursach war auch ich,",
+                  "Ich und meine Sünde,",
+                  "Diese hat gemartert Dich,",
+                  "Nicht das Heidengesinde."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Marci 10, 28—34.",
+            "buch": "markus",
+            "kapitel": 10,
+            "verse": "28-34"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn ihr fastet, sollt ihr nicht sauer sehen",
+              "Wie die Heuchler."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Gewähre, o HErr, Deinen Gläubigen, daß sie die ehrwürdige Fastenzeit mit geziemender Frömmigkeit beginnen und mit geruhiger und stiller Hingabe durchleben; durch . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine Passion",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Jesu, lehr bedenken mich",
+                  "Dies mit Fleiß und Reue;",
+                  "Hilf, daß ich mit Sünde Dich",
+                  "Martre nicht aufs Neue.",
+                  "Sollt ich dazu haben Lust",
+                  "Und nicht wollen meiden",
+                  "Was Gott Selber büßen mußt",
+                  "Mit so großem Leiden?"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "54"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Buch der Könige 2, 1—4.",
+            "buch": "1_koenige",
+            "kapitel": 2,
+            "verse": "1-4"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "leitwort",
+            "zeilen": [
+              "Lasset uns in diesen Tagen uns beweisen als die Diener Gottes",
+              "In großer Geduld, in Wachen, in Fasten und ungefärbter Liebe."
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "61"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "1. Brief S. Petri 4, 1—7.",
+            "buch": "1_petrus",
+            "kapitel": 4,
+            "verse": "1-7"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesu, Deine Passion",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Wenn mir meine Sünde sich",
+                  "Machen heiß die Hölle,",
+                  "Jesu, mein Gewissen still,",
+                  "Dich ins Mittel stelle;",
+                  "Dich und Deine Passion",
+                  "Laß mich gläubig fassen,",
+                  "Liebet mich Sein lieber Sohn?",
+                  "Wie kann Gott mich hassen?"
+                ],
+                "rechts": [
+                  "Gib auch, Jesu, daß ich gern",
+                  "Dir das Kreuz nachtrage,",
+                  "Daß ich Demut von Dir lern",
+                  "Und Geduld in Plage,",
+                  "Daß ich Dir geb lieb um Lieb;",
+                  "Indes lag dies Lallen —",
+                  "Bessern Dank ich dorten geb —",
+                  "Jesu, Dir gefallen."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Sammelt euch Schätze im Himmel,",
+              "Die weder Motten noch Rost fressen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Schaue gnädig herab, o HErr, auf uns, die wir vor Deiner Majestät uns beugen, und laß Alle, die Du erquickt hast durch die göttliche Gabe, allezeit von Deiner himmlischen Gnade sich nähren; durch . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "donnerstag",
+      "titel": "Donnerstag nach Estomihi",
+      "wochentag": "donnerstag",
+      "seiten": [
+        499,
+        502
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "62"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesus Christus Gottes Lamm",
+            "melodie": "91",
+            "strophen": [
+              {
+                "links": [
+                  "Jesus Christus Gottes Lamm",
+                  "Ist für unsre Schuld gestorben,",
+                  "Hat bezahlt am Kreuzesstamm",
+                  "Und die Freiheit uns erworben;",
+                  "Wer der Sünde wohl bereut",
+                  "Wird durch Christi Tod erfreuet."
+                ],
+                "rechts": [
+                  "Gott, Der Selbst die Liebe ist,",
+                  "Preiset Seiner Liebe Wunder,",
+                  "Da Sein Sohn HErr Jesus Christ",
+                  "Stark für alle Feind und Sünder;",
+                  "Sind wir durch Christ Gerechte,",
+                  "Trifft der Zorn nicht mehr die Knechte."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 20, 17—19.",
+            "buch": "matthaeus",
+            "kapitel": 20,
+            "verse": "17-19"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wahrlich, Ich sage dir:",
+              "Ich will kommen, und ihn gesund machen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "O Gott, unsre Sünden haben Dich gekränkt, aber durch Buße läßt Du Dich wieder versöhnen: so schaue denn gnädig herab auf das Gebet Deines bußfertigen Volkes, und wende von uns Deine Zornesrute, die unsre Sünden verdienen; durch . ."
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Jesus Christus Gottes Lamm",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Ja, so wir versöhnet sind",
+                  "Weil der Sohn Sich hingegeben:",
+                  "So wird Er versöhnte Kind",
+                  "Noch vielmehr uns durch Sein Leben",
+                  "Selig machen, die Er Brüder",
+                  "Heißet und Seines Leibes Glieder."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "73"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Prediger 7, 2—9.",
+            "buch": "prediger",
+            "kapitel": 7,
+            "verse": "2-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "150"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief S. Jakobi 3, 13—18.",
+            "buch": "jakobus",
+            "kapitel": 3,
+            "verse": "13-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Jesus Christus Gottes Lamm",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Aber nicht alleine dies,",
+                  "Sondern weil wir sind im Sohne,",
+                  "Welcher Selbst den Sündenbiß",
+                  "Heilet, daß Er in uns wohne,",
+                  "Ei, so rühmen auch wir Sünder,",
+                  "Daß wir nun sind Gottes Kinder,"
+                ],
+                "rechts": [
+                  "Hochgelobet, sagen wir,",
+                  "Vater in dem Himmel oben!",
+                  "Siehe: wie die Sünd allhier",
+                  "Noch in uns will immer toben,",
+                  "Laß den HErrn den Geist uns geben,",
+                  "Daß wir in Dir ewig leben."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "HErr, ich bin nicht wert, daß Du unter mein Dach eingehest,",
+              "Sondern sprich nur ein Wort, so wird mein Knecht gesund."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Verschone, o HErr, verschone Dein Volk, damit es durch verdiente Heimsuchungen gezüchtiget, durch Dein Erbarmen wieder aufatme; durch . ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "freitag",
+      "titel": "Freitag nach Estomihi",
+      "wochentag": "freitag",
+      "seiten": [
+        502,
+        506
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "85"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "Marter Gottes, wer kann dein vergessen",
+            "melodie": "67",
+            "strophen": [
+              {
+                "links": [
+                  "Marter Gottes, wer kann dein vergessen,",
+                  "Der in dir sein Wohlseil findt?",
+                  "Unser Herz wünscht sich unterdessen",
+                  "Stets noch mehr von Dank entzündt;",
+                  "Unsre Seele soll davor nähren,",
+                  "Unsre Ohren nie was Liebers hören;",
+                  "Alle Tage kommt Er mir",
+                  "Schöner in dem Bilde für."
+                ],
+                "rechts": [
+                  "Tausend Dank, Du unser treues Herze!",
+                  "Leib und Geist bet drüber an,",
+                  "Daß Du unter Martern Angst und Schmerze",
+                  "Hast genug für uns getan.",
+                  "Laß Dich Jedes um so heißer lieben,",
+                  "Als es noch im Glauben sich muß üben,",
+                  "Bis es einst als Deine Braut",
+                  "Dich ins Angesichte schaut."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Matthäi 21, 42—46.",
+            "buch": "matthaeus",
+            "kapitel": 21,
+            "verse": "42-46"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn du Almosen gibst,",
+              "So laß Deine Linke nicht wissen was die Rechte tut."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "Marter Gottes, wer kann dein vergessen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Meine kranke und bedürftige Seele",
+                  "Eilt auf Deine Wunden zu;",
+                  "Denn da findt sie Trost, Labsal, Fried und Ruh,",
+                  "Laß mich nur die Kreuzeslust anweben",
+                  "Und Dein Marterbild stets vor mir stehen",
+                  "So geht mir bis in mein Grab",
+                  "Nichts an Seligkeiten ab."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "22"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jeremia 8, 18—23.",
+            "buch": "jeremia",
+            "kapitel": 8,
+            "verse": "18-23"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "86"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Brief an die Hebräer 2, 9—18.",
+            "buch": "hebraeer",
+            "kapitel": 2,
+            "verse": "9-18"
+          },
+          {
+            "typ": "lied",
+            "titel": "Marter Gottes, wer kann dein vergessen",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Die wir uns allhier beisammen finden",
+                  "Schlagen unsre Hände ein,",
+                  "Uns auf Deine Marter zu verbinden,",
+                  "Dir auf ewig treu zu sein,",
+                  "Und zum Zeichen, daß dies Lobgetöne",
+                  "Deinem Herzen angenehm und schöne:",
+                  "Sage Amen, und zugleich:",
+                  "Friede Friede sei mit euch!"
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Wenn Du betest, gehe in Dein Kämmerlein und schleuß die Thür zu;",
+              "Und bete zu Deinem Vater im Verborgenen."
+            ]
+          },
+          {
+            "typ": "gebet",
+            "amen": "",
+            "text": "Schütze Dein Volk, o HErr, und reinige es gnädiglich von allen Sünden; denn keine Widerwärtigkeit kann uns schaden, wenn die Sünde nicht mehr über uns herrscht."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sonnabend",
+      "titel": "Sonnabend nach Estomihi",
+      "wochentag": "sonnabend",
+      "seiten": [
+        506,
+        508
+      ],
+      "stunden": {
+        "morgen": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "51"
+            ]
+          },
+          {
+            "typ": "lied",
+            "titel": "O (ach) wir armen Sünder",
+            "strophen": [
+              {
+                "links": [
+                  "O wir armen Sünder, unsre Missetat,",
+                  "Darin wir empfangen und geboren sind,",
+                  "Hat gebracht uns Alle in solche große Not,",
+                  "Daß wir unterworfen sind dem ewgen Tod.",
+                  "Kyrie eleison, Christe eleison, Kyrie eleison."
+                ],
+                "rechts": [
+                  "Aus dem Tod wir konnten durch unsr eigen Werk",
+                  "Nimmer werden gerettet: die Sünde war zu hart,",
+                  "Daß wir würden erlöset, so konnts nicht sein",
+                  "Denn Gotts Sohn mußt leiden des Todes bittre Pein.",
+                  "Kyrie eleison, Christe eleison, Kyrie eleison."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Evangelium S. Lucae 11, 29—33.",
+            "buch": "lukas",
+            "kapitel": 11,
+            "verse": "29-33"
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Auf Mich schauen sie Tag für Tag,",
+              "Und wollen wissen Meine Wege."
+            ]
+          }
+        ],
+        "mittag": [
+          {
+            "typ": "lied",
+            "titel": "O (ach) wir armen Sünder",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Solche große Gnade und väterlich Gunst",
+                  "Hat uns Gott erzeigt lauter gar umsunst",
+                  "In Christo Seinem Sohne, Der sich geben hat",
+                  "In den Tod des Kreuzes zu unsrer Seligkeit.",
+                  "Kyrie eleison, Christe eleison, Kyrie eleison."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "psalm",
+            "nummern": [
+              "108"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "Jesaia 50, 4—9.",
+            "buch": "jesaja",
+            "kapitel": 50,
+            "verse": "4-9"
+          }
+        ],
+        "abend": [
+          {
+            "typ": "psalm",
+            "nummern": [
+              "103"
+            ]
+          },
+          {
+            "typ": "lesung",
+            "anzeige_ref": "2. Brief S. Pauli an die Korinther 13, 2—4.",
+            "buch": "2_korinther",
+            "kapitel": 13,
+            "verse": "2-4"
+          },
+          {
+            "typ": "lied",
+            "titel": "O (ach) wir armen Sünder",
+            "fortsetzung": true,
+            "strophen": [
+              {
+                "links": [
+                  "Des sollen wir uns trösten wider Sünd und Tod",
+                  "Und ja nicht verzagen vor der Höllenglut,",
+                  "Denn wir sind gerettet aus aller Fährlichkeit",
+                  "Durch Christum unsern HErren, bereitet zur Ewigkeit.",
+                  "Kyrie eleison, Christe eleison, Kyrie eleison."
+                ],
+                "rechts": [
+                  "Darum wolln wir loben und danken allzeit",
+                  "Dem Vater und dem Sohne und dem heiligen Geist",
+                  "Und bitten, daß Er wolle behüten uns vor Not,",
+                  "Und daß wir stets bleiben bei Seinem heiligen Wort.",
+                  "Kyrie eleison, Christe eleison, Kyrie eleison."
+                ]
+              }
+            ]
+          },
+          {
+            "typ": "leitwort_lobgesang",
+            "zeilen": [
+              "Du wirst anrufen, und der HErr wird dich erhören allzeit;",
+              "Du wirst rufen, und Er wird antworten: Siehe, hie bin Ich."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
