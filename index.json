@@ -272,6 +272,146 @@
       "datum": "01-12"
     },
     {
+      "id": "epiphanias_1",
+      "titel": "1. Sonntag nach Epiphanias",
+      "datei": "epiphanias_1.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "epiphanias_2",
+      "titel": "2. Sonntag nach Epiphanias",
+      "datei": "epiphanias_2.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "epiphanias_3",
+      "titel": "3. Sonntag nach Epiphanias",
+      "datei": "epiphanias_3.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "epiphanias_4",
+      "titel": "4. Sonntag nach Epiphanias",
+      "datei": "epiphanias_4.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "epiphanias_5",
+      "titel": "5. Sonntag nach Epiphanias",
+      "datei": "epiphanias_5.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "epiphanias_6",
+      "titel": "6. Sonntag nach Epiphanias",
+      "datei": "epiphanias_6.json",
+      "pfad": "liturgie/epiphanias/",
+      "band": 1,
+      "kirchenzeit": "epiphanias",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "septuagesimae",
+      "titel": "Septuagesimä",
+      "datei": "septuagesimae.json",
+      "pfad": "liturgie/vorfastenzeit/",
+      "band": 1,
+      "kirchenzeit": "vorfastenzeit",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "sexagesimae",
+      "titel": "Sexagesimä",
+      "datei": "sexagesimae.json",
+      "pfad": "liturgie/vorfastenzeit/",
+      "band": 1,
+      "kirchenzeit": "vorfastenzeit",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "estomihi",
+      "titel": "Estomihi",
+      "datei": "estomihi.json",
+      "pfad": "liturgie/vorfastenzeit/",
+      "band": 1,
+      "kirchenzeit": "vorfastenzeit",
+      "reihe": 3,
+      "status": "fertig"
+    },
+    {
+      "id": "invocavit",
+      "titel": "Invocavit",
+      "datei": "invocavit.json",
+      "pfad": "liturgie/passionszeit/",
+      "band": 1,
+      "kirchenzeit": "passionszeit",
+      "reihe": 1,
+      "status": "fertig"
+    },
+    {
+      "id": "reminiscere",
+      "titel": "Reminiscere",
+      "datei": "reminiscere.json",
+      "pfad": "liturgie/passionszeit/",
+      "band": 1,
+      "kirchenzeit": "passionszeit",
+      "reihe": 2,
+      "status": "fertig"
+    },
+    {
+      "id": "oculi",
+      "titel": "Oculi",
+      "datei": "oculi.json",
+      "pfad": "liturgie/passionszeit/",
+      "band": 1,
+      "kirchenzeit": "passionszeit",
+      "reihe": 3,
+      "status": "fertig"
+    },
+    {
+      "id": "laetare",
+      "titel": "Lätare",
+      "datei": "laetare.json",
+      "pfad": "liturgie/passionszeit/",
+      "band": 1,
+      "kirchenzeit": "passionszeit",
+      "reihe": 4,
+      "status": "fertig"
+    },
+    {
+      "id": "judica",
+      "titel": "Judica",
+      "datei": "judica.json",
+      "pfad": "liturgie/passionszeit/",
+      "band": 1,
+      "kirchenzeit": "passionszeit",
+      "reihe": 5,
+      "status": "fertig"
+    },
+    {
       "id": "karwoche",
       "titel": "Karwoche",
       "datei": "karwoche.json",
@@ -803,6 +943,94 @@
       "reihe": 15,
       "status": "fertig",
       "datum": "11-02"
+    },
+    {
+      "id": "andreas",
+      "titel": "S. Andreas-Tag (30. November)",
+      "datei": "andreas.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 16,
+      "datum": "11-30",
+      "status": "fertig"
+    },
+    {
+      "id": "thomas",
+      "titel": "S. Thomas-Tag (31. Dezember)",
+      "datei": "thomas.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 17,
+      "datum": "12-31",
+      "status": "fertig"
+    },
+    {
+      "id": "pauli_bekehrung",
+      "titel": "S. Pauli Bekehrung (25. Januar)",
+      "datei": "pauli_bekehrung.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 18,
+      "datum": "01-25",
+      "status": "fertig"
+    },
+    {
+      "id": "mariae_lichtmess",
+      "titel": "Mariä Reinigung-Lichtmeß (2. Februar)",
+      "datei": "mariae_lichtmess.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 19,
+      "datum": "02-02",
+      "status": "fertig"
+    },
+    {
+      "id": "matthias",
+      "titel": "S. Matthias-Tag (24. Februar)",
+      "datei": "matthias.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 20,
+      "datum": "02-24",
+      "status": "fertig"
+    },
+    {
+      "id": "mariae_verkuendigung",
+      "titel": "Mariä Verkündigung (25. März)",
+      "datei": "mariae_verkuendigung.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 21,
+      "datum": "03-25",
+      "status": "fertig"
+    },
+    {
+      "id": "markus",
+      "titel": "S. Markus-Tag (25. April)",
+      "datei": "markus.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 22,
+      "datum": "04-25",
+      "status": "fertig"
+    },
+    {
+      "id": "philippus_und_jakobus",
+      "titel": "S. Philippus- und S. Jakobus-Tag (1. Mai)",
+      "datei": "philippus_und_jakobus.json",
+      "pfad": "liturgie/feste/",
+      "band": 1,
+      "kirchenzeit": "feste",
+      "reihe": 23,
+      "datum": "05-01",
+      "status": "fertig"
     }
   ]
 }
